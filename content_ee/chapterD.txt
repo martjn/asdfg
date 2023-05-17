@@ -1,0 +1,1112 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-5.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-5-flip.gif">
+</div>
+D. BIOLOOGILINE INIMENE
+DA. INIMESE VÄLIMUS. PSÜÜHILISTE KVALITEETIDE ENNUSTAMINE FÜÜSILISTE JÄRGI
+
+163. Kasv, jõud, tüsedus
+Kuda pitkus, nõnna tarkos. EV 8828:1
+Pikkus põle tarkus. EV 8829:5
+Mida pitkem mees, seda pitkem meel. EV 8797:4
+Pisike mees, pisike meel. EV 8886:1
+Mida pisem keha, seda suurem süda. EV 8880:1
+Pisike mees piimahabe, suur mees suitsuhabe, vana mees vaiguhabe. EV 8885:2
+Kamel ei lähä iial nõelasilmast läbi. EV 2824:1
+Lühike lükkab selle ajaga, kui suur alles koogutab. EV 6164:2
+Seni lühike võtab marja maast kui pitk kummardab. EV 6177:25
+Enne saab madal marja maast ku kõrge tähe taevast. EV 6254:25
+Mis see pitk siin pilvest võtab, maapõuest peavad kõik saama. EV 8801:1
+Seeni pikk pirru võtab, kui lühike lümitab. EV 8826:6
+Suur sääb, pisikene pistab. EV 10948:3
+Mis saab veiksest väsida või munakuorest kuluda. EV 14454:1
+Kuda kogu, nõnda aru. EV 4200:2
+Kuda see kogu, nõnna see arv. EV 4201:1
+Kus kogu, seal väge. EV 4202:17
+Kon mäke, sääl väke. EV 7068:20
+Koh härgä, sääl sarvõ. EV 1848:2
+Kel on rinda, sel on rammu. EV 9772:1
+Kel om kere, sel om kõmu. EV 3593:2
+Kus konti, seal münti. EV 4321:5
+Kus koira, seal konti. EV 4140:2
+Mehe kont maksab raha. EV 6628:1
+Kuda lind, nõnda jõud. EV 5902:1
+Tubli oo tuulta vastu, paks oo paha ilma vastu. EV 12081:2
+Seniks kui paks köhnäks lähteb, on juba köhn vetru väljä viskand. EV 8293:1
+Nahkjas mees ja pajukarva õlut on kõige kangemad, neid äi tea millaskid uskuda. EV 7188:8
+164. Käed ja jalad, sõrmed ja varbad
+Kus härga, seal sõrga. EV 1854:190
+Kus jalga, sääl sõrga. EV 2404:1
+Kus konti, sääl sõrga. EV 4322:1
+Kel kätt, sel jalga. EV 4968:1
+Suure inimesele lääb süld sukka ja küünar kinnast. EV 10943:1
+Jalg om jalale veli, käsi käele röövel. EV 2395:7
+Jalg jala tuetab, käsi kätt kovendab. EV 2393:2
+Parem käsi seletab, vasak käsi valetab. EV 8404:1
+Parema käägä oda vasta, pahema kääga anna välja. EV 5001:2
+Higine käsi on helde, kuiv käsi kitsi. EV 1232:1
+Külm käsi, sue süä. EV 5111:2
+Sõrmi murku-ui': Jummal jakk ja ikk. EV 11174:1
+Sõrmeküüned sõlmivad, varbaküüned vastavad. EV 11176:8
+Vaesel sõrmed vastavad, õnnetumal õitsevad, kehval kestavad. EV 13113:5
+Rikka hammad õitsevad, kehva küüned õitsevad. EV 9713:2
+165. Nägu, silmad
+Mõttid võib otsa eest lugeda. EV 7039:1
+Juba nägu tunnistab meest. EV 7669:2
+Nägu ei teuta meest, vaid tegu. EV 7676:1
+Ära vaata mehe nägu, vaata ta tegu. EV 6696:3
+Ega nina otsast või meest tunda. EV 7441:1
+Silmad on hinge peegel. EV 10460:3
+Silm on südame peegel. EV 10482:8
+Silm on südame aken. EV 10481:2
+Silmist võib südant tunda. EV 10470:3
+Silm paha, süda paha. EV 10484:1
+Hall silm hale silm, must silm mure silm, leet silm tige silm. EV 811:2
+Parem pahandab, vassak vabandab. EV 8405:4
+Külap kulm silma hoiab. EV 4522:2
+166. Juuksed, habe, kulmud. Hambad. Pea
+Laisal lai lagipaik. EV 5325:2
+Kel lai lauk peas on, sel on lahke ja hea elu; kel kitsas lauk, sel kibe ja vaevaline elu. EV 5294:1
+Kelle piire kesk lagipeas, see on laisk; kellel otsa ees, see on ori; kellel kõrva ääres, on kõrk; kellel kuklaaukus, on kuri. EV 8775:1
+Kel pehme juus, sel pehme süda; kel kare juus, sel kare süda. EV 8516:2
+Juuksed on tigedal tümad, kadedal karmid. EV 2686:1
+Kaher pea, koera mõte. EV 2913:1
+Piksepilv must, kurja kulm kortsun. EV 8830:1
+Habe mehe au. EV 739:135
+Parrataim kasvab ilma kastamata ja tahumata. EV 8412:1
+Harvad hambad, kerge pia; tihedad hambad, raske piaga. EV 815:1
+Heldel harva' hamba', kitsil pakso'. EV 1204:1
+Suur pea, palju mõistust. EV 8479:1
+Pea suuri rikka'alla, jalad suured vaevatsella. EV 8472:17
+DB. MAGAMINE, UNI. UNENÄGU
+
+167.
+Üü pikk, perrä and. EV 14813:1
+Haik on hakkaja haigus. EV 766:1
+Haik ajab haiku taga. EV 765:2
+Uni ajab aegadasa. EV 12897:3
+Ega uni umma jätä-äi'. EV 12891:1
+Kange om hummal, hummalest kangemb om uni. EV 1587:1
+Uni om hullub kui tõbi. EV 12902:1
+Uni tuleb hulkudes, magamine marssides. EV 12907:2
+Istuvalle tuleb suikumine. EV 2272:1
+Väsimus teeb pehmet aset. EV 14505:3
+Kiä väsünü um, tuu maka är, ku küüts küle all, päss pää all um. EV 14499:1
+Väsind inimene magab ka puuhalu pääl. EV 14500:1
+Küll uni padja pessap. EV 12895:1
+Kui voodid ei ole, aitab ka muru. EV 14275:1
+Vuet piä au sies ku süömälauda: puol eluaiga lähteb sul vuodes. EV 14276:1
+Uni on magusam kui mesi. EV 12904:10
+Hää uni enam kui sant kõhutäis. EV 1047:1
+Uni and süvvä'. EV 12898:1
+Uni vaesõ mehe pruukost. EV 12908:1
+Magajal päts päitsen. EV 6302:3
+Tõrkuja jägu süüakse ära, magaja jägu panna peaotsi, külaskäija jägu jääta järele. EV 12312:130
+Magajalle piaalust. EV 6301:5
+Uni saab omale, töö saab teisele. EV 12906:5
+Suikujal suured silmad, magajal madalad silmad. EV 10646:1
+Magaja ihu om ilus, saisja kiha om sirge. EV 6294:1
+Pääväne magamine võtab korsod njao piält. EV 9309:1
+Koiduuni on magus. EV 4251:4
+Saab esimene uindus mööda läinud, küll siis inimene valvab. EV 12849:1
+Unekott ei saa iial täis. EV 12884:4
+Mida enam makat, seda enam tahat. EV 6320:2
+Uni om surma veli. EV 12905:3
+Mis magahaja tiid?. EV 6307:1
+Silm kindi, perse lahti. EV 10472:2
+Unenäul üks jalg all ja seegi läheb katki. EV 12885:10
+Usu unenägu, peksa tuult ehk taota varju. EV 12886:4
+DC. TOIT JA SÖÖMINE
+
+DCA. Toidu vajalikkus ja tähtsus. Austus toidu vastu, käitumine söögi juures
+
+168. Toidu tähtsus. Söömata ei saa elada
+Toit on enam kui meie. EV 12026:1
+Leib on vanem kui meie. EV 5703:15
+Leib, suul, tuli, vesi ― kõkõ vanõmba'. EV 5701:2
+Leeväkene, soolakõnõ, maailma kinnipidäjä. EV 5680:1
+Leib ja suul one peremiis majan. EV 5687:1
+Leib on peremees. EV 5695:5
+Ei kanna sa leeväkotti, leeväkott kand sinnu. EV 5730:1
+Väike leiväröömukõne ― inimese rõõmukõne. EV 5740:1
+Ega leväpalake paha-i tee. EV 5736:1
+Õgas leib lauda murra-ai. EV 5717:1
+Leiva suutäis kõhu täiteks, rahakopik tarbe tasuda. EV 5709:1
+Sööda suud nii kaua, kui ta sööb. EV 11332:8
+Suu särel, suu säünjämelgi. EV 10925:1
+Öö kooles, ega kõtt ei koole. EV 14801:7
+169. Austus toidu vastu, lauakombeid. Söögiks peab aega olema. Sööjal pikk käsi
+Pallõ paa-alust, kumarda kooguasõnd. EV 8264:1
+Kes toitu mõnitab, näeb viimaks nälja. EV 12022:1
+Ära narri toitu, toit tasub teinekord seda tagasi. EV 7400:1
+Laps ei tohi leevale häbi teha, leib teeb teenekord lapsele häbi. EV 5492:1
+Maha visat leväraas ikeb seitse aastat taga. EV 5739:1
+Leivaraasu otsi nii kaua, kui ahjuots märg. EV 5738:1
+Kui kolm kõrt õlgi päälae kohal on, sis piab ilma mütsitä süümä. EV 4292:1
+Seistes süüa seitse pattu, küliti süüa kümme pattu, põliti süüa põhjatu patt. EV 10268:4
+Õgas laud süü-üi süüki, ku esi süü-üi. EV 5587:1
+Ega söömal kubjast ole. EV 11228:20
+Vääl tööle, ei ruoale. EV 12569:1
+Söömapüha peab ikka olema. EV 11316:1
+Söömaaega on sõjaski. EV 11312:3
+Rahu rooga on sõjaski. EV 9519:1
+Sööjal pikk käsi, lööjal lühike. EV 11207:130
+Süld on süömäkätt, puol süldä on lüömäkätt. EV 11409:7
+Sööjal om käsi kuvvest jakat. EV 11206:2
+Suutäis jaotakse pooleks, aga silku mitte pooleks. EV 10963:1
+170. Küll toit sööjaid leiab
+Laud kogub latsi, kurn rõõvid. EV 5586:3
+Küll leib latsi löüd. EV 5678:5
+Küll leib saab sööja, sai saab sõtkuja. EV 5679:10
+Ega värski leib ei lää hallehe. EV 14494:1
+Kas keedet pada söömäldä jääse. EV 8186:1
+Kus söömist nätas, sääl söömist tetas. EV 11321:1
+171. Söögist sõltub tööjõud: söönu jaksab teha, nälginu mitte; kes tubli sööma, see tubli tööle (ja vastupidi)
+Kui kõht täis, siis on hea tööd teha. EV 4781:2
+Kui silku-leiba kõht on täis, / vaat kudas tüö siis leikab kääs. EV 10436:1
+Küllap leib tööd teeb. EV 5677:1
+Töö kardab leiba söönd mehi. EV 12512:1
+Kes hästi sööb, selle peale on lootus. EV 1884:1
+Kui Mats sööb, siis ka Mats teeb. EV 6447:1
+Kes sööb, see teeb. Kes mees sööb, see mees ka teeb. EV 11239:10
+Kes palju sööb, see palju teeb. EV 8335:4
+Kes süöb, sie jaksab. EV 11241:1
+Kes sööb, see lööb. Kes mees sööb, see mees lööb. EV 11237:25
+Kui suu süvvä, sis käe ka lüvvä. EV 10862:1
+Kuidas söök, nenda löök. EV 11218:2
+Söönu tsirk jõud kavvedahe linnada. EV 11287:2
+Söönd hobune jookseb ikka enam. EV 11282:1
+Kui körti, nii sõitu. EV 5021:1
+Kuda söök, nõnda sörk; kuda jook, nõnda joosk. EV 11217:1
+Kes süüb, sii vääb kua. EV 11242:4
+Kiä här'ä süü, tuu mäe tege. EV 1847:1
+Kes härg sööb, see härg veab. EV 1844:15
+Kes karu sööma, see karu tegema; kes kana sööma, see kana tegema. EV 3310:1
+Kes ruttu sööb, see ruttu teeb. EV 9896:10
+Süöjäst tuntakse tüömiest. EV 11212:1
+Kest ei olõ süüjät, tuust ei olõ ka tegijät. EV 11204:3
+Hiljake sööma, pussake tegema. EV 1267:2
+Ku kõtt tühi, sõs ei edene tüü. EV 4786:1
+Tühi kõht ei seisa püsti. EV 12636:5
+Tühi kott ei seisa püsti. EV 12667:190
+Tühjad püksid ei seisa püsti. EV 12695:1
+Keskpaik tühi, töö raske. EV 3621:1
+Ei nälgenud lammas villa kasvata. EV 7716:1
+Taar söök, taar jook, taar töö ka. EV 11459:1
+Kui leib on luku takka, siis töö aja takka. EV 5672:1
+Süüjale pandas ette, vidäjäle taadõ. EV 11213:3
+172. Söönu hea sööta
+Parem söönu sööta kui koolu kosutada. EV 11260:75
+Söönud siga hea sööta. EV 11285:3
+Parem üks söönu kui öhessa nälginud. EV 14919:1
+Täis kott on parem täita kui tühi. EV 12354:1
+DCB. Nälg; tühi ja täis kõht
+
+173. Nälg tuleb ootamatult. Pikk peenike ja lühike jäme nälg
+Ega nälg väratit ei otsi, astub ussest ja aknast sissi. EV 7683:3
+Parem pikk ja peenike nälg kui lühike ja jäme nälg. EV 8803:165
+Parem lühike jämme nälg kui pikk peenike nälg. EV 6173:6
+Parem pisike pingutus kui suur nälg. EV 8882:1
+Pikk nälg elätäb, kogu tühi kuoletab. EV 8818:1
+174. Kõht ei lase end narrida. Nälg on kibe ja ebameeldiv, mõjub meeleolule ja välimusele
+Ega süömine tõrkuda lase. EV 11318:2
+Narri kõhtu üks kord, kõht narrib sind üheksa kord. EV 7395:1
+Ega kõht pole koeraks narrida. EV 4771:15
+Kõtt olõ-õi lätläsest pettä. EV 4802:1
+Ega nälga nõkkuta. EV 7681:1
+Mis nüüd keekott kergelgu, ega nälg naline mees ole. EV 3521:3
+Täis kott ja kõht on rasked kanda, aga tühjad veel raskemad. EV 12353:2
+Kes ei ole nälgä nännü, sii ei mõesta elu. EV 7690:1
+Leivanälg on suur, seda suurem veel veenälg. EV 5735:3
+Nälg on õhakast terävämb. EV 7702:1
+Nälg paneb mehe kepsu lüümä. EV 7704:1
+Leib pole küll suur asi, aga paneb ka küllalt kepsu lööma, kui teda ei ole. EV 5698:2
+Pini om söönü vihhas, ineminõ om näläne vihhas. EV 11286:25
+Näljane täi kibedamine hammustab. EV 7723:15
+Tulõ-õi tühä kõtuga piir õi naar. EV 12657:1
+Kui keskpaik kõva, siis otsad laulvad. EV 3622:4
+Kõht täis, meel hea; mis vaja, see varna otsas. EV 4796:10
+Tunnukse ikka, mis vee veeretud, ei tunta saia söödud. EV 12208:18
+Nällatse kutsiku om ikki kublan. EV 7732:1
+175. Nälg on kuri kubjas: sunnib tööle, kuritegudele, ohtudesse, alandustesse jne. (täis kõht teeb laisaks)
+Igaüks peab oma kõhtu orjama. EV 4776:2
+Kõht oo kuri nõuandja. EV 4794:1
+Kõht on kõige kurjem kubjas. EV 4793:20
+Kubjas on keskel. EV 4449:1
+Nälg on kõige suurem peremees. EV 7701:1
+Kõht on isand, küll see sunnib takka. EV 4791:1
+Külap kõht ajab taga. EV 4803:1
+Tühi kõht ajab tööd tegema. EV 12669:1
+Küll nälg õpetab tööle. EV 7693:1
+Kel nälg, sel näpud. EV 7688:18
+Kellel nälg, sellel jalg. EV 7687:6
+Näläne tsiga tsung õdagu kah. EV 7733:1
+Nälläne susi murrab sutt kah. EV 7729:1
+Nälg ei jäta nuga tuppe. EV 7698:1
+Nälg ajab hundi külase. EV 7695:50
+Nälg ajab lapsed vargile. EV 7696:75
+Nälg ajab hiire oksa, varblase lati vahele. EV 7694:1
+Nällägä võetse tulest kah tükk vällä. EV 7713:1
+Nälg teeb nõiaks ja tühi aeg teeb arvajaks. EV 7709:2
+Nälg naerab noore naese, tühi kõht tüdriku. EV 7700:5
+Nälg õppab sandilegi paadri selgeks. EV 7710:1
+Tühi kõht ei lase häbeneda. EV 12671:1
+Ku süvvä tahat, olõ-õi' siidipõllõ, kuldsõrmust hallõ. EV 11248:1
+Nällane koer jooseb koorikse järgi, aga söönu heidab pikali. EV 7728:1
+Nälgind hundid ulvavad, söönud siad magavad. EV 7717:1
+Täis kõht kõige pehmem pääpadi. EV 12356:1
+176. Nälg teeb toidu magusaks, sunnib kõike sööma, teeb aplaks ja täitmatuks
+Nälg pand kõige nahka, põud pand kõige põske. EV 7703:1
+Nälläge süvväs, põvvage palas, kehvusege korjates kik kokku. EV 7714:3
+Ku' juvva tahat, om vesi ka mesi. EV 2409:1
+Tühi köht on vaese mehe leivakörvane. EV 12678:1
+Tühi kõht on kõige parem leivakõrvane. EV 12673:40
+Tühi kõht on kõige parem kokk. EV 12672:40
+Mida tühjem kõht, seda magusam leib. EV 12648:3
+Tühi kõht teeb leivale saia magu. EV 12674:7
+Nälg keedab magust leent. EV 7699:4
+Söö siis, kui leival saia magu on. EV 11291:4
+Kui kõht tühi, siis maitseb söök kõige parem. EV 4783:3
+Nälg rua suolab. EV 7706:8
+Näljatsel maitseb roog. EV 7726:1
+Isunu sööp jahtunugi ära. EV 2281:5
+Ku kõtt tühi, siss om rapanse-leväl ka mesi sehen. EV 4784:1
+Nälg süü nädsa leevä, tühi kõtt jürä kale kooriku. EV 7708:1
+Nälgäne süöb varestki. EV 7722:1
+Nälgäne süöb jänestki. EV 7721:3
+Küläp perse põrsa sööma paneb. EV 8693:4
+Ega tühi kõht lõhki ei lähe. EV 12635:1
+Ei nälja perast kedagi ole veel aia taha visatud. EV 7685:1
+Nällane sööb silmadega. EV 7730:1
+Tühi kõtt ei jätä putru lavva pääle. EV 12675:1
+Näljasel ei ole põhja all. EV 7725:1
+Anna nällätsele penile veidi vai pallu, aga konagi ta täis ei saa. EV 7719:1
+Nälgind koer ei lähe enne ära, kui lake otsas on. EV 7718:1
+DCC. Söögi maitse ja toiteväärtus. Hea ja kehv söök. Kokkuhoid söögiga
+
+177. Suu tunneb maitset, ihkab paremat. Maius. Hea söök saab rutem otsa
+Suu on kõege esimene mõõt. EV 10909:1
+Suu tunnep hää rua, perse hää hobese. EV 10930:5
+Suu tund soolatse asja, kaal karvatse pala. EV 10929:1
+Hanil om küll luine vassar, küll siski ära tund, mis kivi, mis terä. EV 823:4
+Kelle suu sie seinapragu on. EV 10892:10
+Suu ei ole sarvest. EV 10891:10
+Suu tahab hiad, perse paremat. EV 10927:1
+Hää süüja suust, makus mak'ja meelest. EV 1041:1
+Magus maitseb igal mehel. EV 6329:1
+Maias inimene tahab hiad parema piale. EV 6345:1
+Edevale hea, maiale magus. EV 499:25
+Maiale on kõik magusad, sealihad ja kanamunad. EV 6343:1
+Maias maitseb kõik ja käritu katsub. EV 6347:15
+Ega maialt magusa täü. EV 6341:1
+Midä paremb pala, sedä suuremb suutäis. EV 8400:3
+Peni igä piirakul, kassi igä karaskil. EV 8556:1
+Liha toob ligidale, kapsad viivad kaugele. EV 5814:6
+Osa süüakse nii kui mäge. EV 8115:4
+Leivätä ei saa läbi, aga saia piab ka saama. EV 5711:1
+178. Toitude hinnanguid ja võrdlusi maitse, tugevuse, jagususe jm poolest
+Värske soe sai olla nagu noor naine. EV 14498:1
+Värske kala, hea kala. EV 14497:1
+Kala om kullah, aga pää om mullah. EV 3045:1
+Sia pia ja siia pia, hane pia ja hauvi pia. EV 10370:3
+Havi pea sees on rohkem varandust kui vaese mehe aidas. EV 872:4
+Kala om üts kallis asi, ossa ei massa ommetegi. EV 3046:1
+Liha lõpes lõegaten, kala lõpes kakaten, a muna ― üte süüt, tõist saat. EV 5810:1
+Lihal oo kont ja kalal oo okk, aga tuhvel üks selge toiduke. EV 5809:1
+Kartohvel on kallis toit ― küll putrajes, küll patrajes, küll kalujega keitajes. EV 3275:2
+Kartul on küll kallis asi, aga leeva vasta tühi asi. EV 3279:1
+Paremb kuiv leeväkandsäk ku paar pudõrat. EV 4469:2
+Kasukanikas kasvatab, rammukanikas teeb paksuks, jõukanikas annab jõudu. EV 3431:2
+Aganane leib ei seisa kaua kõhtus. EV 151:1
+Kus ossi, sääl tussi. EV 8118:1
+Kapsasupp ja loomaliha, see teeb kergeks mehe keha. EV 3218:8
+Hapud kaapsad, haneliha ― see ajab silmad pungi piha. EV 833:3
+Kalasupp ja kalaliha / tegeväd kindlaks mihe kihä. EV 3082:1
+Või-leib kaitseb karja, liha ja leib veab sõnnikut. EV 14298:1
+Herneleemega saab heinamaale, tanguleemega tahatuppa, uppeleemega ukse alla. EV 1226:2
+Puder om puhas vaskajuuk, ua, herne mehe süük. EV 9006:3
+Tanguputru on ülä aia hüppädä. EV 9009:2
+Hapurokaga saab ahu peale, läätsileemega lääve lattu. EV 838:1
+Kördiga ei saa kaugemale kui üle aja hüpata, pudruga saab ommeti teise perese. EV 5022:20
+Kiisliga saab kindad kätte, kördiga saab köie rekke, pudruga pool sülda puid koju. EV 3704:20
+Kiisliga saad üle aia hüpata. EV 3705:13
+Kaerakile kõhutäis pidanud aga nii kaua vastu, et vaata kord üle katuse, kui juba kõht tühi. EV 2896:2
+Kartulepudruga ei saa kaugemal ku üle kiviaia. EV 3286:1
+Kops koera roog, maks maia mehe roog. EV 4379:1
+Upin õks ullisüük, mari mag'ahussüük. EV 12801:1
+Kohvi kosutab, tie lahutab. EV 4249:1
+Kes sea hännast enne süüa saand on. EV 10338:1
+179. Küps ja toores
+Liha toores lihutab, kala toores kautab. EV 5815:35
+Küpse toit kõlbab igaühele. EV 12024:1
+Kõht ei salli kõva rooga. EV 4790:1
+Susi uvvelt süü ja kavvehe kargas. EV 10842:10
+180. Paks parem kui vedel, rasvane parem kui vesine. Parem veidigi väge toidus kui üsna ilma
+Mis hakkab kulbi külge, see hakkab kondi külge. EV 4525:1
+Hea tahe suutäis on enam kui vesine kõhutäis. EV 11476:1
+Innep sõrmõotsakõnõ rasva seeh ku käsi künnärpääni vii seeh. EV 11177:2
+Parõmp pala pakso kui maotäüs vedelat. EV 8300:1
+Ega paksu paguje menna. EV 8276:1
+Mida paksemb pala, sedä jämeb julk. EV 8279:1
+Paks maksab raha. EV 8285:7
+Paks ikka parem kui paljas vesi. EV 8282:2
+Meda paksemb, seda paremb. EV 8278:2
+Paks param pöhjas. EV 8289:1
+On piimasupp, oura põhjast; on lihasupp, kurni päält. EV 8759:1
+Lihaleent liipa pealt, kalaleent kaapa põhjast. EV 5823:13
+Mida suurem kala, seda paksem leem. EV 3067:1
+Otav kala, laih liim. EV 7759:35
+Parep silk supin ku ilma rasvate. EV 10433:1
+Parem sääse kints kapsas kui üsna ilma lihata. EV 11198:1
+Parem täi kapsastes, kui ei rasva raasukest. EV 12344:3
+Ega vesi verd anna. EV 13951:2
+Küll saa villand vedilät, / üle huulte hudilat. EV 14207:1
+181. Toidud, millega leiba ei sööda. Toidud, mis leiba raiskavad
+Kartul one puul leibä. EV 3280:1
+Kartulil om leib puuh. EV 3278:1
+Oal ja hernel on leib põues. EV 12796:45
+Hernes on leiva abi ja uba tema tugi. EV 1228:1
+Pupu puhun päpp. EV 9062:1
+Pudrul leib puun. EV 9011:3
+Kes tangupudruga leiba sööb, see saadetakse Siberisse. EV 11580:18
+Leib om leeme all. EV 5691:1
+Maias, kes sööb liha leivägä. EV 6346:1
+Kapsas on leiva katk. EV 3205:3
+Kapsasupp oli leiva küüdimees. EV 3219:1
+Kört on leiva küüdimees. EV 5023:1
+Piimasupp on leiva liumägi. EV 8760:1
+182. Silk, leib, sool ― tõhus igapäevatoit
+Parem silk-leib kohu sees / kui kuldtukat pihu sees. EV 10438:1
+Silk-leib sirutab, kali-leib kasvatab, võileib võibutab. EV 10443:5
+Piimaga kasvata vasikaid, silgu-leivaga mehi. EV 8757:1
+Silkusöönd mehed olla tugevad. EV 10444:1
+Kes silku sööb, see vilku lööb. EV 10432:5
+Silk on talupoja südamekinnitaja. EV 10435:1
+Leib, silk ja hapu taar on talomehe igapäevane toit. EV 5700:2
+Silk-leib ja raavivesi ― nied on saarlase toit. EV 10440:1
+Silgust-leivast ega härjäkünnist mies ei tüdine. EV 10439:1
+Kui leib ja silk om majah, sis nälgä õi olõ. EV 5668:2
+Kui leib ja taar majas, siis ei ole nälga. EV 5669:1
+Kui sool ja leib käes, siis ei sure inimene nälga. EV 10608:1
+Sool ja leib teeb põsed punaseks. EV 10612:1
+183. Sool kui maitseaine ja isupeletaja. Hapu
+Parem suutäis soolast kui maotäis magedat. EV 10962:240
+Ega suul süänd riku-ui. EV 10606:3
+Ega soolane sülitama aja. EV 10617:1
+Suul süäme mürk, leib ihu hark. EV 10616:1
+Tii soolast, sii massab söömast. EV 10622:2
+Kui põle soolast kõrvas mette, siis äga tuhli silm jääb vesiseks. EV 10620:1
+Kõva sool ruvva jakk, nätsk leib leiva jakk. EV 10609:1
+Keeda soolane ruvvake, küdsa nätsk leivake, ei siis pere pal'lu söö. EV 10618:1
+Sakkele ei saa suula panna ega vedelale leemi panna. EV 10032:1
+Sool kehva suppi maoks. EV 10614:1
+Sool ja sabata silk on vaeselapse võileib. EV 10613:7
+Mida hapum, seda parem. EV 836:1
+184. Liigne maius ja raiskamine, aga ka ülemäärane koonerdamine söögiga toovad kahju
+Paremb pala hoiõtas iks perrä. EV 8295:1
+Edimält süü mõrro, tuori kae makust. EV 11229:1
+Söö sööki, ära söö söögi hääd. EV 11292:5
+Mis maias otsib, seda maias leiab. EV 6349:1
+Mag'aus rahakoti lag'aus. EV 6334:1
+Kes tahab puhast leiba süüa, / sel pea tuleb maja müüa. EV 9019:1
+Ära harine maiust ajama: üks naene sööb ära üheksa lehma koore. EV 6356:1
+Maias iks mao palutas. EV 6344:11
+Majas mago saat santma. EV 6348:1
+Ei maial ole osa ega näljatsel leent. EV 6342:2
+Ahi ahne, pott nõid. EV 162:1
+Leib süü ar' hammõ säläst. EV 5702:1
+Puhas leib ajab kõhu lõhki. EV 9021:1
+Sebik sööb vana leivä ärä. EV 10301:1
+Leib olõ-õi' minnij, kiisla olõ-õi' ima. EV 5689:1
+Leiba hammusta ühe hambaga ja liha ühe hambaga. EV 5681:1
+Paks pada palotas pudro. EV 8288:1
+Peen pikkele ulatub, paks paigale jääb. EV 8504:6
+Lagja vatsk, tühi kõtt. EV 13901:2
+Piiragu petvä arh, a vatsa jätvä vaesõst. EV 8773:1
+Pudrol laga mago, vadsal suurõ' silmä'. EV 9007:1
+Vatsk maja laotus, pudõr perre piätüs. EV 13903:1
+Nätse nihutes, karask kahantes. EV 7744:1
+Karask om talu kadu, puder talu kasu. EV 3224:4
+Vatsk aja vargillõ, karask aja kargama. EV 13902:6
+Sake saat santma, vetel veda viirde. EV 10033:25
+Sakkõpudõr laota-ai latsi, vettel külh. EV 10035:3
+Nätsk leib ja toores pird ― maja häöng mõlemba. EV 7745:1
+Kes ka kala silmad ära sööb, see jäeb elu sees näljatseks. EV 3058:1
+Kala nina ja saba ei sööda mitte, sellepärast et kala ennemuiste olla öölnud: "Jäta mu tatine nina ja sitane saba ikka söömata". EV 3044:2
+Kala ütelnud: "Jumal hoidku mind üleliia vaese või rikka kätte sattumast: rikas nülib naha seljast, vaene silmad peast". EV 3055:22
+185. Kõhutäie suhtelisus. Mõõdupidamisest söömisel. Liigse apluse kahjulikkus
+Kui putru, nii kõttu. EV 9003:1
+Kui putru puus, sis nahka vinnüs. EV 9004:3
+Söök läheb söögi peale, löök ei lähe löögi peale. EV 11224:65
+Kirik pole kunagi nii täüs, et papp sise ei mahu. EV 3829:2
+Ei nälg nuolejes lähe. EV 7684:5
+Kes süües kõhtu täis ei saa, ei saa lakkudes ammugi. EV 11235:3
+Õgas kiäki kattõ kõttu süü-üi. EV 3025:1
+Egas kõtt mõista-ai kõnõlda'. EV 4774:1
+Ega kõtul miilt ei olõ, ku hindäl miilt ei olõ. EV 4773:3
+Söö ja mõista meelt. EV 11269:2
+Sööge' ja perä jätke' pinele. EV 11265:1
+Silmadesse mahub enamb kui suhu. EV 10456:1
+Enamb jumalavillal jakku kui ahnel kõttu. EV 2668:3
+Kes liiast sööb ja liiast joob, see omal vatsal vaeva teeb. EV 11236:2
+Ahne söömine teeb kõtul valu, kasin ihu magab rahuge. EV 189:2
+Parem hüva rooga üle jätta kui vatsa revestada. EV 1131:45
+Parem vatsa rebestada kui hüva rooga üle jätta. EV 13900:40
+186. Mida on, seda süüakse. Kui pole paremat, aitab halvemgi; saab läbi söömatagi. Osav keetja tuleb toime vähesegagi. Vesi jm. "toidujätkud" ja surrogaadid
+Maamees keedab meri vett ja järv kala, rannamees ― meri kala ja järv vett. EV 6219:1
+Mida katel keidab, sene suu sööb. EV 3444:2
+Mis kaoh, tuu katlah; mis lehma nisah, tuu laua pääl. EV 2903:2
+Mis lehmä nisast tsilkahas, tuu keele pääle lipsahas. EV 5644:1
+Koer sööb paljugi, elab vähemaga ka. EV 4107:5
+Süüakse suured söömad, elatakse piskuga ka. EV 11293:7
+Kui ei saa suuri, siis peab sööma peeni. EV 10937:1
+Puhk pudruga, kamps karaskiga. EV 9027:1
+Ku kapsta innõ umma süvvä, muud ei olõ, sis um puul nälgä, a ku kapstit ka inäb olõ-õi, sis um jo otsani nälg. EV 3216:1
+Must puder pool nälga. EV 6954:1
+Süü sõs ka, ku ei ole. EV 11302:1
+Susi sillõ söömätägi. EV 10834:2
+Kui kirves veel alles, saab ikki süüa: kirves patta ja vars paja alla. EV 3878:1
+Hää pernane kiit rattapulgast ka pudru. EV 8657:3
+Hää perenaene tege kasukahõlmast õhtusöögi. EV 8656:1
+Kui leib otsas, siis tee podisid. EV 5673:5
+Kui rootsi vangi ei ole, siis siruta silku, kui silku ei ole, siis söö silgu silmavett. EV 9805:1
+Kui Punik ei lüpsa, siis Mustik lüpsab ikka. EV 9061:2
+Aganas on leiva jätku, humalad on ölle jätku, vesi pitka piima jätku, tuhk on tubaka jätku. EV 146:165
+Kaev toidab peret. EV 2900:1
+Kakuleib hapu leba abimees. EV 3031:1
+Leib on vaese mehe sai. EV 5697:1
+Kardul oo vaese leeva jätk. EV 3274:1
+Tahad, et pere vähem sööks, siis tee silda alla. EV 8592:2
+187. Solgist ja kõlbmatust toidust. Võõrkehad söögis
+Veega võib jänu aeada, kiviga ei või mitte isu aeada. EV 13973:4
+Keed ei sünni keeduksesse. EV 3617:1
+Kõik ei kõlba süvvä, mis silmäge näed. EV 11251:1
+Inemene om hullõmb eläjät, tä süü kõik ar. EV 2155:2
+Kõik om hää, mis kõttu täidap. EV 1113:1
+Kõik sünnib süüa, mis suus ei karju. EV 11427:3
+Toit kõik, mis süä võtt. EV 12025:2
+Tuu olõ-õi vagõl, mia esi ar' süüt, tuu om suur, mis hindä ar' süü. EV 13215:1
+Mes keele peal kepe, see leeme peal lepe. EV 3536:1
+Leisik liiva ja nael karvu sööb iga inimene aastas ära. EV 5726:6
+Kui karv suus, siis ökatis südames. EV 3330:1
+Ega süsi süänd muuda. EV 11434:1
+Hiir olla enne ütelnud inimesele: "Mind ennast sa küll ei söö, aga mu sitta pead sa küll sööma". EV 1238:7
+Solgisurma põle keegi surnud. EV 10601:12
+DCD. Leiva- jm söögitegemisõpetusi
+
+188.
+Pere leivad piened leivad, talu leivad targad leivad, nied tahvad suurta sõtkujaida. EV 8587:1
+Kasta leiba nii kaua, kui ahi märjaks läheb. EV 5656:8
+Nii kaua leib kasteti, kuni leib hakkas vastu kõnelema. EV 5713:2
+Leib om käsken ennast mõhke kastjast siluda ja lubanu ahju pannes esi ennast siluda. EV 5690:1
+Leib om ütelnu: "Ärge pange miu mitte kate puu vahele, kui ärä olen kastetu". EV 5692:1
+Leib reekind, et tahab kastmist saada, kui ahjust välja võetakse. EV 5699:13
+Hea pernaine võtab leiba ahjust välja ja paneb kolm korda vett peale, aga kuri perenaine lööb põmmu pihta. EV 8654:4
+Sooja leivale ei tohi alla põrutada, muidu põrutad Jumalalle vastu südant. EV 10596:1
+Kui nenäõtsa leib ei põletand, sis õli leib küps. EV 7455:1
+Leib ütelnud, kui tema kaapepätsik ahjust välja võetakse, ei tohi seda nuaga lõigata, sest siis läheb päris leib ahjus pragusid täis. EV 5705:1
+Leib ütelnud: "See on patt, kui teravaks ihutud noaga esmalt mind lõigatakse; ikka peab enne noaga puud lõikama, siis alles mind". EV 5706:1
+Leib kõnelnud muiste: "Ei ma sääl majas pikalt püsi, kus mind lauda vastu lõigatakse ehk mulle küünarnukk pääle pandakse". EV 5688:1
+Küünarnukkaga ei tohtind leivä piale vajotada, sest leib on enne meid õld. EV 5204:1
+Ahi olevat vanast ütelnu: "Kui leivad välja võtad, siis viska tükk puid minu suu jahutuseks". EV 165:2
+Pada ollava ütelnu: kui laisk tüdrik temäle mudu ei viisivä pudru ehk supi keetmise järgi vett sisse valada, siss sülgagugi temäle sisse, mudu aava ta sine vällä. EV 8194:2
+Ku pada peräst söögi kiitmist tühjäs jäets, sis juuskvat üte üüge ütese tareläve läbi. EV 8189:1
+Kapsad-kaalid keeva vette, oad-herned külma vette. EV 3202:6
+Kapsas tahab kareldi keeta, uba-herne haudumisi. EV 3206:2
+Kook tahab koort, sepik tahab selget, kakk tahab kaunist, pudru tahab puhast. EV 4328:1
+Vatsk tahab valget, puder puhast. EV 13904:2
+Supp tahab suurust. EV 10701:1
+DCE. Humoristlikke definitsioone, paradokse, õpetusi jms toitude ja nende söömise ning toime kohta
+
+189.
+Ritk riide ruug. EV 9785:1
+Mari on mao loputis. EV 6418:1
+Siin on ühe jalaga oina oss. EV 10256:1
+Siin on metshärja liha. EV 10255:1
+Karask on rõõsa ristipoeg. EV 3225:1
+Jahukört on Lihvlandi kohvi. EV 2377:1
+Lest on Käina meeste kõhupaik. EV 5778:1
+Kiisk om üts perseägel. EV 3709:1
+Sõbõr, kisu' kiiska süvvä, ar' purikat putku-ui: ku' süüd, sis silm naard, ku' situt, sis perseh ikk. EV 11048:1
+Lutsu maksad ja maualused, kiissel ja kartulipudru ― vat sie on kõige parem roog. EV 6092:1
+Karu käppad ja põdra mokkad, savermu saba ja lattika naba üeldasse kõige magusamad lihatoidud õlema. EV 3298:1
+Siasaba saab süötäjälle. EV 10243:1
+Kes tseakärsa sööp, see peap maranid kaivma. EV 10238:1
+Kes kõrva sööb, see kõrtsi läheb. EV 4894:1
+Ku kurki süüt, nakkat jurki tahtma. EV 4680:2
+Süü' errä, peestä' perrä. EV 11294:1
+Kolm kord aastas olla või hull: suvel sulab, on vedel, talvel kõva, ei saa kätte, kolmas kord teda ei olegi. EV 14296:6
+Vesi palju jõudu annab, / vesi suuri laevu kannab. EV 13984:1
+DCF. Söögikorrad. Söömauni
+
+190. Söögikorrad. Õhtune kõhutäis, söömata magamaminek
+Paremb hommugu varra iväte kui kik päe ilma olla. EV 1452:1
+Süümaig, konas süvväs, lõuna, konas peetäs, õtak tule iks omal ajal. EV 11313:8
+Õlekubu antakse õhtuks, lõngakera lõunaks. EV 14628:5
+Õhtul võetas kõtt hõlma. EV 14530:11
+Õhta läheb kõht õlile. EV 14526:25
+Õhtune kõhutäis jäeb omale. EV 14540:8
+Üö magab maksullagi. EV 14811:2
+Ennem jäta aasta palk kui õhtune kõhutäis. EV 8:25
+Surm vahib päitsis, kui õhtu söömata magama lähed. EV 11305:5
+Ku' kõtt tühi, sis tulõ-õi uni. EV 4785:1
+Kes söömalda, tuu unelda. EV 11240:2
+Söömata magama, löömata ülesse. EV 11279:10
+Parem söömata magama minna kui murega üles tõusta. EV 11259:1
+191. Söögikordade arvu, toidu tugevuse kalendaarne muutumine
+Lõoke toob lõunaleiva. EV 6123:1
+Maarjapäev toob keskhommiku ja rukkivihk viib keskhommiku. EV 6242:15
+Maarjapäevast mees lihavaagnale ja härg heinasõimele. EV 6240:1
+Kui on lõpnud lõikuse, siis on lõpnud lõuneleib. EV 6134:1
+Kui edimene rukkihakk püsti, on lõunetund kadunud. EV 9836:1
+Kui kured sügisel ära lähevad, siis nemad võtavad ühe söömaaja talurahva käest kaasa. EV 4570:11
+Rukkivihk viib pruukostileba, linakolge lõunaune. EV 9848:1
+192. Söömauni
+Kes leiva piale ei leba, sest leivameest ei saa. EV 5663:8
+Ei sie ole leivämies, kes seitse tundi leivä pääle lebab. EV 5734:2
+Pääle pudru puul tunne puhata, pääle kapstede ja kartolite kats tunne puhata. EV 9013:1
+DCG. Söömine ja seedimisprotsess
+
+193.
+Süü kulda vai mulda, sitmine üttemuudu. EV 4508:1
+Jäta söömine maha, siis sittumine kaob iseenesest ära. EV 11319:6
+Sitalõ lätt kuningaske jalkse. EV 10553:1
+Ei viel kakkuna alga, kui aukuna hüüdab. EV 2947:1
+Kes sööb, see pihkab. EV 11238:1
+Täüs koht peeresteleb, tühi koht röüstäjeleb. EV 12360:1
+Sööja ei tea suud, ega magaja perset. EV 11205:4
+Sööja suud ega magaja perset ei tohi naerda. EV 11210:1
+Ära kae süüja suud ega magaja und. EV 11215:1
+Peeretamine on tohtri käsk. EV 8506:1
+Terve mies, kes tagant köheb. EV 11972:2
+Rüüs om rinna pehmütüs, piir perse puhastus. EV 9969:1
+Tulejat ei saa keelda. EV 12120:12
+Mis kusi sii, mis ilma peeratamada. EV 4691:5
+Enam ruumi laias ilmas kui kitsas kehas. EV 5293:2
+Vasikas läheb kõige enne ikka oma ema nina alla. EV 13878:20
+Kõva pier on pere naer, salasitt on nie ja vanne. EV 8505:7
+DD. AEVASTUS, SÜLG
+
+194.
+Hommikune aivas on tervise aivas, õhtane aivas on haiguse aivas. EV 1458:1
+Kaks aevast tõestab, üks valestab. EV 2964:1
+Sülgä üts kõrd, um sülg, sülgä kolm kõrd, um kuld. EV 11413:1
+Tatt on tasku vägi. EV 11710:1
+DE. VIIN JA TUBAKAS
+
+DEA. Joomine, viin ja õlu. Kõrts
+
+195. Viina toime on tugev; viin võtab võimuse, läheb magusaks, muutub vajaduseks, võimatu loobuda
+Vesi jääb veeks, vili jääb väeks. EV 13980:2
+Viin teeb seda, mis kali ei teagi. EV 14124:3
+Viin on mihest vägevämb. EV 14114:3
+Viin ott voimukse. EV 14116:1
+Esmalt võtab mees pitsi, pärast pits mehe. EV 6490:1
+Topka tahtub toise, toine tahtub kolmane, kolmas ottab mihe. EV 12048:1
+Joodikol lätt viin magusas. EV 2430:1
+Kui sa viina jood, siss paneb kurat suhkurt sisse, et ta magusamase lähäb. EV 14091:1
+Tsiga armastap pori, joodik armastap viina. EV 10397:1
+Nigu pinil kivilaudu lakmist um rassõ maha jättä, nii joodikul viina. EV 8551:1
+Ennemb jätab siga sita söömise kui mees viina joomise. EV 10344:3
+Joodik on viina järele hullem kui kits kuse järele. EV 2427:1
+Kõrtsi on tee kõige lühem. EV 4873:6
+Joodik kõrtsist mööda ei lää, hooletu ilmaski tööga kõrda ei saa. EV 2420:1
+Nelläaastast varsa, katekümneaastast last ja marujoodikut ei saa kiäki inämp arsti. EV 7422:1
+196. Joobnu näoilme ja kõnnak
+Purjus pial on neli silma. EV 9064:1
+Juujal laia silmä. EV 2456:1
+Juujal lai ilm. EV 2457:1
+Joobnut tuntse jalust. EV 2413:1
+Joonud inimesel ja heenakoormal peab ruumi andma. EV 2470:2
+Joonud mees ja sündin vasikas on ühed. EV 2471:1
+Ei ole mees alati laua peal, vaid vahest ka laua all. EV 6485:1
+197. Joomine ja söömine: viinanälg suurem kui leivanälg; viin tõstab söögiisu jne.
+Jooginälg om iks suuremp kui sööginälg. EV 2454:1
+Enne võib olla seitse päeva söömata kui ühe päeva joomata. EV 10270:1
+Viin peab olema, leib võib olla majas. EV 14118:6
+Kus on ohraiva, seal ei mahu rukkiiva. EV 7770:2
+Sööja sööb, jooja joob. EV 11211:1
+Kes mees sööb, see mees ka joob. EV 6508:2
+Naps on sööma oherdi. EV 7376:1
+198. Viina toime emotsioonidele, mõistusele, kõnele. In vino veritas
+Inimene ostab omale küll viina, aga ta ostab uue meele ka. EV 2125:1
+Tuju tõuseb topsi tõttu. EV 12114:1
+Joodikul meri põlvini. EV 2439:2
+Viin tege kirgmä. EV 14121:1
+Konn ei laula kua, kui vett ei ole. EV 4306:3
+Joonud meeste jutt ja kära / kuuluks Hiiumaale ära. EV 2472:1
+Söönü pini kõva haukma, juubnu miis kõva kõnõlama. EV 11288:2
+Midä inämbä viina juu, tu kurembast lätt. EV 14093:1
+Viin paneb taplema, viin lepitab jälle. EV 14117:3
+Ku viina om, sõs om sõpro. EV 14122:3
+Viinal um velitsit, ollõl um umatsit. EV 14098:3
+Tunnõ-õi viinapää viletsust, ollõpää ohtu. EV 14136:1
+Kui viina mu sees, / siis olen ma mees. EV 14092:3
+Kes juobund, sie tark ― kaks kasu kerraga. EV 2416:1
+Sis olt tark, ku' ostõt pää om otsah. EV 11615:1
+Viin võtab mehe meele. EV 14129:8
+Joobnud mehe aru nagu vana kasukanäru. EV 2415:1
+Kõrtsi nõu ja sauna soe ei ulata kaugele. EV 4872:1
+Joobnu jutt ehk lapse laul. EV 2412:3
+Mene nüüd joobnuga vaidlema ehk vasikaga võidu jooksma. EV 2414:2
+Tark pea mõtleb, joobnud pea ütleb. EV 11652:8
+Jooda meest, küll mees näitab oma taba. EV 2487:1
+Purjust pääst tulõp inemise peris loomus nähtavale. EV 9065:1
+199. Viin ja kõrtsiskäik raiskavad aega, kõrtsist raske lahkuda
+Viin ütleb: "Viida aega!", õlu ütleb: "Õle viil!". EV 14130:1
+Kõrdsih kulus aig rutto. EV 4871:1
+Kõrtsitund on lühikene. EV 4890:1
+Kõrdzipingi' lämmä. EV 4887:1
+Kõrdsipingi' pehmekese'. EV 4888:1
+Kõrtsipink on pigine. EV 4889:13
+Joodik om kõrdsipingi peesütäjä. EV 2425:2
+200. Viin laostab vara ja tervise, paneb vastutama, hukutab hinge, viib hauda, põrgu jne. Kõrts kui kuradi tempel
+Täämpä mõõdame sõglaga raha, aga hommen ei ole raha, millega sõgla võis osta. EV 12405:4
+Mees körtses rikas, kodu vaene. EV 6575:1
+Ku puut' küläh, sis lätt külä rikkast, a ku kõrts küläh, sis jääb külä vaesõst. EV 8965:1
+Joodik on kõrtsimehe kasu ja ristiinimese risu. EV 2426:1
+Kõrtsivõlga ei jõua ükski joodik ära maksa. EV 4891:1
+Kes viina himustas, / tuu võlga armastas. EV 14089:1
+Joodikul pole raha, kõrtsis käijal kopikida. EV 2445:1
+Joodiku tassul pole põhja all. EV 2447:1
+Viin ei taha villatsit saapit ega karvatsit kamaskit, viin taha pahipallaste jalgoga olõmist. EV 14101:1
+Juujal tare nulgalda, juuja latse kübäräldä. EV 2458:1
+Lind toob nokaga ja toidab oma pere, aga mees toob koormaga ja ei toida oma peret. EV 5933:1
+Tori juu ja tüüd tii õi, si Jummal anna õi. EV 2483:1
+Jõvva õi mii käe tüü nii tetä, kui mii üts lõõr võõ är lõssenda. EV 4965:1
+Kurk kulutab rohkem kui käed teenivad. EV 4682:7
+Pane kurk juoma ehk tuli poltama. EV 4683:2
+Joomine saadab laia välja peale. EV 2486:1
+Joomine pillab inimest. EV 2485:1
+Viin toob viletsuse majasse. EV 14125:1
+Viina vits lööb valusasti. EV 14100:2
+Joodikul juhtub jodagi. EV 2437:1
+Mis joonu pää teeb, seda tark pää vastab. EV 2482:11
+Kui okselasu nina ees, siis kibe kurgus. EV 7793:1
+Suust läheb tõbi sisse. EV 10920:4
+Viin tõukab hauda. EV 14126:1
+Enap surep viinasurma kui viisurma. EV 10705:1
+Viinaklaasi upub enam inimesi ära kui merde. EV 14132:20
+Viin ja pairas mõlõmba' / om so hinge hukkaja'. EV 14102:1
+Joodikul ja hooral olevad siga au tundmise söönud ja hunt sea söönud. EV 2435:1
+Hoora nutt ja varga vanne, joonud inimese jumalapalumine, neid ep panda tähele end. EV 1524:16
+Viinaputel om põrgohe minna pass. EV 14135:1
+Viin on kuradi käeraha. EV 14109:1
+Kõrts on kuradi peapadi. EV 4877:1
+Kõrts on kuradi kabel. EV 4876:1
+Kus Jumal kirku tege, sinna tege kurat kõrtsi kõrva. EV 2641:15
+Kõrts on üks püis. EV 4878:1
+201. Joodiku naine ja joodik naine. Ära anna lapsele viina
+Jumal hoidku joodiku eest. EV 2569:2
+Katkeja kangas, karjus laps ja joodik mees ― nende eest peab paluma, et nende küüsi äi satu. EV 3160:1
+Katkejast kangast ja nutusest lapsest saab lahti, aga joodikust mehest saa mette. EV 3161:1
+Juodik mies ond sama raskõ nao liiv vanadõ jalgõlõ. EV 2452:1
+Parem tuasittur kui kõrtsilakkur. EV 12019:2
+Joodikul on viis meelt, aga joodiku naisel piab kümme meelt olema. EV 2444:1
+Baaba juu-õi nii juubunus kui puizi. EV 8158:1
+Hull on meeste joomine, veel hullem naeste joomine. EV 1566:2
+Ku miis joodik om, toda ei panda tähele, a ku naane joosõ, sõs tiid kõik ilm. EV 6549:1
+Kui mees joob, põleb pool maja; kui naine joob, terve maja. EV 6531:8
+Ku perremiis ütsindä joosõ, püsüs talo, a ku ka pernaane juuma nakas, sõs tulõ majast vällä minnä. EV 8610:1
+Kui naene joob ja katus läbi jookseb, see on kõige pahem lugu. EV 7205:1
+Viin olle naisterahvast üle nagu petrool konnast. EV 14104:1
+Joonud naine kut üks va äge oleks olavad. EV 2473:1
+Kõige sitem on vädada õlekoormad, äge ja joonud naist. EV 13906:1
+Lage soo ― lagund regi, joobnud naene ― nutja laps. EV 5275:3
+Joodikul om lakõ latse, tuimal emal laisa latse. EV 2440:1
+Ennemb vala viin kiviprau vahele, kui seda lapsele annad. EV 14086:1
+Laste jagu / permandu ragu. EV 5535:2
+Ära harjuta siga kamri ega last kõrtsis käima. EV 10409:1
+202. On joomisest hullemaid pahesid: laiskus, kurjus, vanadus jne.
+Juodikuga saab eläda, aga laisaga ei saa. EV 2453:1
+Joodikõl nälg, laisal viil suurõmb nälg. EV 2449:1
+Õllehullu jõuab ikka talitseda, taarihullu ei jõua keegi talitseda. EV 14638:6
+Hea on see õllehull, veel param taarihull. EV 959:3
+Õllehull harva, kaljahull alati hull. EV 14636:3
+Juuja ar maka pääst, durak kunagi. EV 2455:1
+Parem mehe juures viinahais kui mullahais. EV 6687:1
+Põld joodikot perremiist ei põlõ, põld põlg meistret perremiist. EV 9154:3
+Huur külähn, külä hukahn, joodik majahn, maja joonehn. EV 1532:1
+203. Joodikul on õnne; Jumal hoiab joodikut, annab talle; joodiku raha ei lõpe
+Joodiku õnn ei kau ta kohegi, susigi and joodikule andes. EV 2448:7
+Joodik ja kass ― kumbki ei saa mahasadamisega haigõt. EV 2418:1
+Joodikol oma pehme kondi, maha satah ei saa haigõt. EV 2423:1
+Joodikud kukuvad pehmeste. EV 2431:1
+Joodik kukub padja pääle. EV 2419:4
+Jumal hoiab joodikut. EV 2564:5
+Juodikku Jumal juhatab. EV 2451:1
+Joodikot õnnistas Jummal. EV 2428:5
+Joodik om Jumalal armas. EV 2424:5
+Jumal juobundu avitab. EV 2573:2
+Joodikule jumal annab. EV 2433:45
+Joodikule antakse kulbiga. EV 2432:11
+Jumal viskas joodikule kahvliga jakku pääle. EV 2596:2
+Joodikule om Jummal koti põhja uskun. EV 2434:1
+Joodikul om Jummal rikas. EV 2441:3
+Joodiku raha ja koera kusi ei saa iialgi otsa. EV 2446:8
+Jootket tuul toit ja vesi elatas. EV 2450:1
+204. Joo, aga pea piiri. Kuidas mees, nii mõõt. Viin ei kipu ise kallale
+Võta pits ja pea aru. EV 8913:30
+Pista pitsi ja pea piiri. EV 8907:1
+Juu viin, joogu-ui miilt. EV 2479:12
+Võta üts, om söa kinni, võta kats, om kõttki täis. EV 14926:1
+Kaks ajab janu. EV 2965:1
+Üks ohuks, teine rohuks, kolmas-neljas hingevõtja. EV 15002:12
+Joo viina, kuni viin viha on; läheb ta magusaks, siis ära enam joo. EV 2476:3
+Umah suuh vaja mõõdi olla'. EV 8028:1
+Suu on südame mõõt. EV 10912:105
+Kuidas mees, nõnda mõõt. EV 6525:3
+Mees ja pits, naine ja kaks. EV 6567:6
+Täis mees, täis mõõt. EV 12357:3
+Ega viin mehe peale ei kipu, kui mees viina peale ei kipu. EV 14085:10
+Ei õlu hakka hõlma, ei kali karga kaala. EV 14639:1
+205. Ära keeldu joomast: see ei tee kahju, on loomulik ja õigustatud
+Joomine on Jumalast loodud. EV 2484:2
+Kes põlgab jumalavilja ära. EV 9173:3
+Jumala-annõt massa-ai' suust vällä aia'. EV 2666:1
+Ega jumalavili kahju ei tee. EV 2667:1
+Märg ep anna mette meest naera, mees naerab märga. EV 7084:1
+Mees joob ja mees toob. EV 6568:1
+206. Viina "positiivseid" toimeid ja funktsioone: kaotab mured, virgutab, on rohuks, peaparanduseks, külakostiks, pidujoogiks, pistiseks. Kõrtsiskäik toob head. Joomakombeid
+Juu viina, sõs ei olõ sul piina. EV 2478:1
+Suul süäme kinnitus ja viin vaesõ rõõmustus. EV 14127:14
+Viin rõõmustab, leib kinnitab. EV 14120:1
+Putel om ihu tervüs ja süäme rõõmustus. EV 8999:1
+Viin raha katk, / aga siiski tervise jätk. EV 14119:1
+Kui ei ole surmatõbi, siis saab ikka viinast abi. EV 10772:30
+Viin on küll hea silmarohi, aga ei jaksa üle nina saada. EV 14110:1
+Kut sa tunned köhu ohtu, / siis sa otsi viinast rohtu, et surm soost vöitu äi saa. EV 4789:1
+Viin om külmarohi. EV 14111:1
+Viin om kõturohi. EV 14105:2
+Viina miestä virguta, olut anda voima. EV 14099:7
+Tapp on noorile häbiks, vanale abiks. EV 11591:1
+Kes koer kisub, selle karvadega suitsetakse. EV 4051:11
+Viin on meesterahva külakaker. EV 14112:1
+Viin on metsavahi nõid. EV 14113:1
+Viinaga tuleb, viinaga läheb. EV 14095:2
+Õlut jooma ― õndsaks saama, taari jooma ― taeva saama. EV 14647:4
+Hukka läävä une magaje, raisku läävä raha lugeje, kõrda läävä kõrtsin käije. EV 1536:8
+Kes kodun, om plendsi, kes kõrdsin, om piiga. EV 3966:1
+Müödapäivä müllüd käüväd. EV 7108:4
+Mis peus, see suus. EV 8742:35
+207. Õlu. Õlle ja viina võrdlusi. Õlle ja kalja valmistamine
+Too om ütskõik, kas tõmba pulk ollevaadi eest vai viinavaadi eest. EV 9037:1
+Viinatops paremb kui kesvatera. EV 14137:1
+Viin om vanarahva taar'. EV 14106:1
+Viin olevat vana pagan, olu nuur. EV 14103:1
+Õlut hullu, taar tarka, viin aga päris põrguline. EV 14646:2
+Õllehull on hullem kui viinahull. EV 14637:1
+Hukas on head humalad, kahju neista linnaksist. EV 1585:3
+Kõrrest saab kõtutäüs, pääst päätäüs. EV 4868:1
+Enne toomapääva võib õlut aganatestki teha, piale toomapääva ei saa viljastki. EV 12031:1
+Ölle tegemiseks on vaja kadakad ja kümme kivi, / humalad ja öllevili. EV 14644:2
+Hull võib olla õlle tegija, aga tark olgu linnase tegija. EV 1579:7
+Õlu peab nii rammus olema, et kass võib poegadega peal istuda. EV 14645:1
+Kakk leivaks, kannikas kaljaks. EV 2946:1
+DEB. Suitsetamine, piip, tubakas
+
+208.
+Ema nisa lõpeb, isa nisa hakkab. EV 616:2
+Mehel piip suus, näust palju laiem. EV 6634:3
+Mees piibuta kui naine tanuta. EV 6599:1
+Ilma piibuta miis om ku ilma hannata pini. EV 8762:1
+Piibuta mees või soolata supp põle midagi. EV 8764:1
+Piip tubakad julged küsida tõese kääst, aga tükki leiba ei julge. EV 8768:1
+Leib võib majas olla, suits peab majas olema. EV 5704:3
+Piibunälg on hullem kui joomajänu. EV 8750:1
+Ehk on leiki leivastagi, suuremb tusk veel tubakast. EV 5722:2
+Piipu pandas põue, aga naene peab peran jooksma. EV 8769:1
+Piip om ligem kui naisekene: om naine kord, kui kõrval ist(ut), a piip om kõigest suun ja puhun. EV 8766:1
+Natuke ilma naeseta ennem kui tunni tubakata. EV 7318:1
+Mingu kas või naine kaevu, aga piip peab põlema pandama. EV 7220:2
+Olgo hobo meren, tobo piip peab palama. EV 1404:2
+Piip teeb pikad mõtted. EV 8767:1
+Piibo pigi, paha vägi. EV 8763:1
+Sau lätt õks sälä taadõ. EV 10211:1
+Inimene tõmbab laialehte ja kor'gast, lammas süüb ubalehte ja kõrgast. EV 2134:1
+DF. HAIGUS JA TERVIS
+
+209. Tervis on suur rikkus, kallim kui raha ja toidus
+Tervis on inimisele kõige kallimb varandus. EV 11979:6
+Tervis on vaese inimese rikkus. EV 11981:2
+Olgu kuhi kulda vai mägi hõbedat, kui tervist ei ole, ei massa kõik midagi. EV 4455:1
+Vaene om tuu, kel tervüst ei ole. EV 13073:2
+Kel tervüs um, tuu või varra saia, aga varaga tervüst inämb ei saa. EV 11974:1
+Mis tuust varandusõstki hääd, ku pää valutas. EV 13684:1
+Mure tuleb muidugi, aga tervist ei saa ostagi. EV 6922:1
+Ärä ikku leiba, ike hambit. EV 5718:2
+210. Haigus käib mööda inimesi, tuleb ootamatult, ei sõltu meie tahtest
+Haigus käib ikka mööda inimesi, ega ta mööda kive-kända või käia. EV 759:10
+Ega haigus kibi-kännu katsuda põle. EV 756:1
+Külm kande pidi, haigus inimeste pidi. EV 5106:1
+Ega tõbi puid paloda-ai'. EV 12266:3
+Külap tõbi nääb igase paika. EV 12270:1
+Tõbi ei hüüa tulles. EV 12273:4
+Haigus ei küsi aega, viletsus ei vaata pääva. EV 757:1
+Äi ole meite oma meelevaldas olla terve või haige. EV 6475:1
+211. Tõbi taandub visalt; lihtsam tervist hoida kui haigust ravida
+Haigus hobustega tuleb, aga härgadega läheb. EV 758:35
+Ei tõbi nenda usinaste küllest ära lähe, kui ta külge tuleb. EV 12268:5
+Kui tõbi tuleb ükskord perese, küll ta kordab keik ära. EV 12269:1
+Kerge on haigest jääda, katsu tervest saada. EV 3599:2
+Kergem on haiguse eest hoida kui haigust arstida. EV 763:1
+Parem häda kaugel kui rohi ligi. EV 1797:1
+Tervis pole maast võtta. EV 11982:2
+Hoia tervis nooruses ja au vanaduses. EV 11973:1
+Kis tervist kaitseb, see kaua maitseb. EV 11975:1
+212. Tervis ja välimus, toitumus, söögiisu, töövõime, käitumine jne.
+Nägu om tõisel näta, tervis hendal tiida. EV 7678:12
+Kurti tuntakse kõrvadest. EV 4684:1
+Süüjal täht suu pääl, põdejal põski pääl. EV 11214:3
+Ei tobi karva kaunista. EV 12267:2
+Õgas tõbi pääle panõ-õi, tõbi võtt õks maalõ. EV 12279:1
+Haige kahaneb, haigus kasvab. EV 745:1
+Hing saab sisse, kui kont on olemas. EV 1281:1
+Küll luu liha löüd. EV 6096:16
+Tõbi söödab, aga ei kosuta. EV 12276:28
+Haigele pakutakse, tervele antakse. EV 748:1
+Kõva tõbine nõuvab kõvat toitu. EV 12281:1
+Üks pääv söömata ja üks öö magamata ― ei see tee tervele inimesele veel midagi. EV 9306:3
+Terve jalg lääb teole, haige jalg lääb ahju pääle. EV 11968:3
+Ku tervüs käeh, sõs ei näe nälgä. EV 11977:1
+Tervel perse koort täis. EV 11971:1
+Kuda teris, nenda tants. EV 11976:3
+Söönud hingab, tõbine oigab. EV 11284:30
+Olet haige, sis ohi', tõbine, sis tehi'. EV 754:2
+Kes tõbist tiid, ku ta ei ohi. EV 12280:3
+213. Haigus ja laiskus, teesklus. Terve ei usu tõbist. Tõbist ära naera
+Parem see, kes tuppa situb, kui see, kes parsil magab. EV 12074:1
+Kellel one aega, see one haige; kes ei viitsi, sel one viga. EV 115:2
+Viitsimisest tuleb viga, jalatõstmisest tõbi. EV 14158:1
+Mõni haigus on laiskuse haigus. EV 764:1
+Kes ise ei õle haige õld, sie ei usu tõise hädä. EV 752:1
+Terve ei taipa tõbist ega tõbine tervet. EV 11967:1
+Vanna võit naarda, a hädälist naargu-ui, vanast lätt egäüts. EV 13521:11
+214. Haiguste, valude, traumade spetsiifikast, kergusest ja raskusest
+Ütsä nädäli peräst kaose üütõbe. EV 14854:1
+Sarlad rikuvad kõrvad, lietrid silmanägemist. EV 10203:1
+Vellatse veha ja paklase palanu ei parana. EV 14204:1
+Sügelised olgu hundi sügada. EV 11369:1
+Hambavalu olgu kivi, kändude katsu. EV 813:1
+Hambavalu ja kõrvavalu on kõige hullemad. EV 812:1
+Mis sitt silmavalu vai pask pallatõbi; kae, hambahaigus ja varbavalu ― nii võtva mihel meele pääst. EV 10548:25
+Tuu om hädä, mis haltas. EV 1799:5
+Haigus on kerbu suurune, aga härja raskune. EV 760:1
+215. Haiguste seos kalendriga
+Kui on murdu meetsadel, siis ka murdu inimestel. EV 6906:1
+Kui uuel aastal mets vangis, siis sellel aastal on rahvas tõbine. EV 7749:10
+Kui tõnisepäeval sajab, tuleb tõbine aasta. EV 12288:3
+Tõnisepäev on tõbepäev. EV 12303:2
+Tiiskusõh koolõssõ', kas leht sügüse lätt puust vai leht keväjä tulõ puuhtõ. EV 12004:1
+
+216. Haigus ja abi. Maarohte jm. ravivahendeid. Skepsis tohtri, apteegi, haigla suhtes
+Terve aitku tõbist meest. EV 11966:1
+Valu otsib arsti. EV 13310:1
+Kadajemarja olevet ütsme haiguse vastu. EV 2837:6
+Sõnajalg aitab kaheksat seltsi taba vastu. EV 11145:1
+Sibulas teeb sihest terveks, kaseoks teeb otsa kergeks. EV 10323:22
+Kibe on kõhu rohi. EV 3685:4
+Kusi on kuningamehe rohi. EV 4690:5
+Saun on vaese mehe tohter. EV 10224:5
+Vaese tohter on Jumal, aga rikka jumal on tohter. EV 13126:1
+Arsti käsi, Jumala abi. EV 392:5
+Tervist apteegist on ju raske tuua: paljukese sealt saab. EV 11983:1
+Kohtuleib ja apteegirohi on mõlemad kallis toit. EV 4215:1
+Kohtuga õigust ja tohtriga tervist saama on ikka üks vaene asi. EV 4239:1
+Kohtu uksed on laiad sisse minna, aga kitsad välja tulla. EV 4243:60
+217. Haigus ja surm; haigus on surma saadik; haiguse vastu on rohtu, surma vastu mitte
+Haigus on surma käsk. EV 761:16
+Tõbest ei ole elueale jakku. EV 12272:1
+Haigus tühjalt tuleb, aga koormaga läheb. EV 762:1
+Ke Jumal haige loonud, see Jumal haige võtab. EV 2622:1
+Ega tõbi kooleta-ai, kui surma ole-ei. EV 12265:5
+Kui surmass ei õle, valu vassa ike on rosto. EV 10728:1
+Siis saab ikka abi, kui põle surmatõbi. EV 20:2
+Surma vastu ei ole rohtu. EV 10744:45
+Kui sul on häda, ehk saad läbi, kui surmatõbi, ehk saad abi. EV 1786:6
+Kui on surmast luadud, siis ei aita ükski rohi. EV 10727:4
+Küll siis surm süüd leiab, kui taud tappa tahab. EV 10730:1
+
+DG. SURM
+
+218. Elu ja surma vahekordi: meeldivus / kardetavus, ühtekuuluvus, vastavus jne.
+Surmast ei ole koledamat ja Siberist ei ole pikemat teed. EV 10742:1
+Liiva jumal pole ilmas tänu saanud. EV 5844:1
+Kunas no om ar' koolda', keväjä hüä' ilma', sügüse hüä' söök. EV 4337:1
+Suitsunud seinte vahel ikki soem kui valge laudade vahel. EV 10660:1
+Ku' olõ-õsi elävä' kalmõ', sinnä õlõ-õsi pal´lo minejit. EV 557:1
+Surm on eluga ilus, elu ilma surmata kole. EV 10763:1
+Kes surma pelgas, tuu kõrralda elas. EV 10725:1
+Enne surma ei sure keegi. EV 10722:1
+Ninda kaua piab elama, kui surm tuleb. EV 562:2
+Surma ja elu tee liigub ikka. EV 10738:1
+Kuidas elu, nenda surm. EV 585:3
+Kus puu kukub, senna ta jääb. EV 9091:1
+Ku õnnõ siih ilmah hüä, tuuh ilmah hot' tamm kasugu' läbi rinna. EV 1995:1
+Paremb lühike surm kui pikk piinamine. EV 6171:1
+219. Inimene on surelik; surm on möödapääsmatu, tuleb kunagi ikka; surma eest ei saa pageda
+Muld pärib kõik. EV 6880:1
+Inimene on ikka surelik. EV 2118:1
+Surmalaps on inime. EV 10770:2
+Surm ei lähe heinaküüni. EV 10747:1
+Ega keegi ilmasambaks jää. EV 2018:15
+Ega koolu kott tühjäs ei jää. EV 4340:1
+Kõik saavad kord kaks kätt risti pääle. EV 4817:1
+Kes iki sündünu om, sii iki sures kah. EV 11424:1
+Ühekorra piab ikke surema. EV 15102:1
+Küll surm ka omal ajal tuleb. EV 10731:1
+Ei või kahte surma surra. EV 2955:5
+Ega inimene kahte eluaega ei ela . EV 2089:2
+Kõgõst saat ilman üle, kääpäst üle ei saa. EV 4813:1
+Surm, sitahädä ja kruunukäsk ― neile ei saa vastu hakkada. EV 10766:14
+Surma võlg tahab maksmist saada. EV 10745:2
+Üle surma ei ole kedagi. EV 10769:1
+Koolu käsi künnüs kõigilõ. EV 4342:1
+Surma sirp on terav. EV 10741:1
+Surma ette ei või ükski kätta panna. EV 10736:1
+Surma eest ei joose keegi. EV 10735:4
+Sud'tõt surma iist saa-ai ar saisada'. EV 10733:1
+220. Surm ei tule hõlpsasti, põhjuseta; surmal palju põhjusi
+Ei surma nimetund. EV 10717:1
+Ega hing hä'ätä lähä. EV 1276:1
+Ega muidu surm ei tule, ku haigust ei ole. EV 10713:1
+Surm ei tule kärtsuten, tuleb haigusege. EV 10754:1
+Kuus viga, seitsmes surm. EV 4751:2
+Ei ole heng kodapoolitses välja ajada. EV 1278:3
+Lää-äi toss lämmäst persest vällä. EV 12055:3
+Üheksakümmend üheksa surma on maailmas. EV 14857:1
+221. Surm võib tulla igal hetkel, ei teata ette, ei küsi luba
+Inimse elu ripub kui juuksekarva otsas. EV 2153:2
+Inimene on kui külmaõlad. EV 2122:1
+Sündümise paika tiiät, kuulmise paika ei tiiä. EV 11432:4
+Sedä ei tää kennigi, kun surm om, kas tii pääl või rii pääl või veskikojan koti otsan. EV 11720:1
+Nina otsa näed, aga ea otsa ei näe. EV 7448:100
+Täämbä elät, hommen koolet. EV 12403:4
+Täna tallad sina mulla peal, ehk homme tallab muld sinu peal. EV 12396:1
+Täna helmes, homme mullas. EV 12380:1
+Täna kuld, homme muld. EV 12385:50
+Öö ees, surm selja taga. EV 14799:65
+Meelekene mere takah, surmakõnõ sälä takah. EV 6461:6
+Ei surm pole mägede taga. EV 10719:1
+Surm on meil jala all iga päev. EV 10765:1
+Surm on ikka suu ääres. EV 10764:2
+Igalühel on surm põues. EV 10724:3
+Särk on ligi ihu, surm veel ligemal. EV 11193:70
+Surm on alati sulaseks. EV 10762:1
+Surm tuleb kutsumata. EV 10767:6
+Surm ei too sõna ette. EV 10751:14
+Ega surm ei koputa. EV 10714:1
+Ei surm küsi kellegi kääst luba. EV 10718:1
+Surmaga ei saa lepingud teha. EV 10737:1
+222. Surma ootuspärasusi ja paradokse: tõbise ja terve, vana ja noore surm; surm ei taha pakutut
+Vanal kohus koolda, hallil tarvis hauda minna. EV 13433:3
+Vanal on üks jalg hauas, teine jalg haua ääre peal. EV 13429:2
+Vana elo ku lill, mis ratta rüüpeh: hummogu lätt ratas, lüü maha. EV 13388:1
+Mis vanal muud taarist kut kirgukellad ning roudlasn. EV 13361:4
+Vanal on kolm peigmiest: Tuone-Tuomas, Mulla-Madis, Kalmu-Kaarle tulevad kõsja vanadele. EV 13438:1
+Kidur puu kukub ikka ükskord. EV 3694:5
+Toorest puud raiuda, mädand langeb isegi. EV 12046:1
+Vana piab surema, noor võib surra. EV 13476:12
+Vanal mehel seisab surm silma ees, noorel mehel käib surm selja taga. EV 13434:10
+Vanale saava ka noore pihaaia pääl järge. EV 13427:1
+Parem hällist anda kui sängist. EV 1810:8
+Kui ei ole hällist võetu, sis võtku sängist. EV 1809:3
+Kuri om noorõlt är koolda', vaiv om vanalt tüüd tetä'. EV 4632:1
+Surm ei küsi, kas sa noor ehk vana. EV 10746:1
+Vasika nahk viiakse turu peale nii kui härja nahk. EV 13876:10
+Ega vana saa nuore iest mennä. EV 13320:1
+Ega vanadus võta, haigus võtab. EV 13539:1
+Viletsal visa hing, õnnetu kaua elab. EV 14175:55
+Vanal on sitkem hing kui kassil. EV 13439:1
+Vana vares on visa hingega. EV 13503:1
+Ega kidsiseja puu niipea ei lange. EV 3693:5
+Ega surm sinna ei tule, kus teda oodetakse. EV 10716:1
+Igaüks täidab oma haua. EV 868:3
+Kes vägisi surmale võib kaubelda. EV 14437:1
+Ei surm võta pakutud last. EV 10720:10
+Jumal ei võta pakutud leiba. EV 2563:1
+Surm ei taha halva, surm tahab hääd. EV 10752:1
+Surm iks nopp nobeit, kääp käbeit, vana esiki viäp perrä. EV 10756:1
+Mis inimesele armas, see on ka Jumalale armas. EV 2170:1
+223. Raske elavat suretada
+Sel olgu pikk kott jahu, kes elävä kuoletab. EV 4427:1
+Elusad suretada ehk kooljad kosutada on võimata. EV 598:1
+Parem elusat suretada kui kooljat kosutada. EV 600:1
+Kige pikembe tunni üteldes olevet sureje haige sängi man ja kohtutare usse taka. EV 8791:1
+224. Surnu matmine. Matjaid vähem kui pärijaid. Pärandus
+Kus surm, seal muld. EV 10729:40
+Muld määtas, liiv leotas. EV 6875:3
+Maar'amaa vasta võtt, panõ hot midä kuuljalõ üteh hauda. EV 6223:1
+Hame saab haua kajujalle, kindad kirstu tegijale. EV 814:1
+Küll hais matab. EV 769:4
+Kus surija sureb, sinna vara jäeb. EV 10711:1
+Küll kamsa kasijad on, oleks nenda koolja koristajad ollad. EV 3101:1
+Kõik on riista riidlejad, ei ole koolja koristajat. EV 9632:1
+Küllap pärijaid on, oleks surijaid olemas. EV 9321:30
+Eks sii peri, kes pera ei tea; eks sii korja, kes kommet ei tea. EV 9322:1
+Küll see sööb, kes lõunat magab. EV 11252:12
+Palumata pärijad, varumata vara. EV 8379:1
+Igav on elava persest õnne uodata. EV 1917:1
+Surnu pära ja naise vara ei kesta kaua. EV 10780:11
+Härra and ja amme palk ja surnu pärandus sööb teist vara nagu rooste rauda. EV 1875:12
+225. Suhtumine surnusse: leinamine, respekt; mälestus surnust; surnu vähendab kulusid
+Halõsta elävält, ikku-ui kuulnult. EV 774:1
+Ei saa surra surne kaasa ega kadoda kadone kaasa. EV 10704:2
+Mis sa veel koolust kuulutad vai mädanust mäletad. EV 4343:2
+Surma jäljed on lühikesed. EV 10739:1
+Kuri um kuulja pääle võlssi. EV 4640:4
+Surnu suu pääle ei kästa kohut mõista: patutse oleme keik. EV 10782:2
+Ega elus head öelda; kui hauas oled, siis öeldakse. EV 568:1
+Õel elades, kahju kadudes. EV 14514:7
+Hüä kuer kuolles, paha eläjes. EV 1060:1
+Nime ei mädane hauapõhja ka. EV 7438:2
+Mees sureb, sõna jäeb. EV 6609:2
+Sureb mees, sureb kõht. EV 10709:1
+Matuse üteldas rõõmupäivä, ristiketse kurbusepäivä. EV 6453:1
+226. Surnu ei tule tagasi; surnuga ei saa enam kohtuda (elavaga saab)
+Surmast ei ole ükski veel tagasi tulnud. EV 10743:4
+Väsinu oodets järgi, lõppenul ei saa midägi tetä. EV 14502:6
+Sõast om mees loota, aga mitte kalmust. EV 11067:5
+Tuleb mees meretagune, ei touse turvaalune. EV 6691:35
+Kes kooleb, sii kodu lääb; kes eläb, sii ette putub. EV 4333:30
+Näge inimest eläväst ilmast, ei kuoleva kustagi. EV 7666:1
+Inimene saab ikka inimesega kokku, aga kalm äi saa änam kalmuga. EV 2130:1
+Mees saab mehega kogu, aga mätas äi saa mättaga kogu. EV 6603:1
+Mees saab mehega kokku, mägi ei saa mäega kokku. EV 6604:55
+227. Surm lõpetab kõik maised tööd, võlad, mured, rõõmud jne., annab rahu ja puhkust
+Siis on kõik lõppend, kui kaks kätt rinna peal. EV 6135:1
+See on küll teinud, kes haudas on. EV 11781:1
+Üts tüü jääs peramätses, mitu tüüd poolikus. EV 15079:3
+Ei töö enne lõpe, kui kaks kätt rinde peale saab. EV 12427:14
+Niikaua inimene korjab ja orjab, kui kaks kätt rinna peal. EV 2172:1
+Enna põle aega, kui kaks kätt rinna peal. EV 111:1
+Ega enne rahu ole, kui kaks kätt rinnal. EV 9508:4
+Rahu on surnuaial kahe kivi vahel. EV 9518:1
+Küll siis puhata saab, kui kuue laua vahel ollakse. EV 9029:1
+Haudas aega puhata. EV 865:3
+Muldas aega aegutada. EV 6874:1
+Maa põues ei ole ühtegi vaeva. EV 6210:1
+Otsah kõik valu ja vaiv, ku kats kätt rinna pääl. EV 8143:1
+Hädä lõpeb havvan. EV 1769:1
+Ka kõege mustem mure kaob valge liiva all. EV 6934:1
+Maapind katab kõik kõverused kinni. EV 6221:3
+Surm lepitab kõik. EV 10759:2
+Surm kustutab kõik võlad. EV 10758:1
+Külap muld teeb tasa. EV 6872:2
+Küll labidas maksab. EV 5253:20
+Mis lämmi käsi on annud, seda külm käsi enam ei võta. EV 6146:1
+Anna suoja käega. EV 307:1
+Soe suu sööb, külm perse tasub. EV 10591:2
+Söö, seni kui omad silmad lahti on. EV 11290:8
+See on küll söönud, kes surnud on. EV 11262:3
+Kästakse ikka ennem surma laulda, mette pärast surma. EV 5011:1
+Kessi hauda õlut and vai maa ala mammakest. EV 869:1
+228. Surm võrdsustab kõik; rikkust ei vii hauda kaasa; rikkal kibe surm
+See surm on keigil üks sarnane. EV 10734:1
+Ega keegi siit ilmast rohkemb ligi saa võtta kui kuus kirstulauda. EV 1950:1
+Õgas kellegi kattõ hamõht hauda sälgä panda-ai. EV 3024:3
+Õgas hauda saa-ai midägi üteh võtta. EV 870:2
+Ei rikas rahaga panta, kuning kulda ei maeta. EV 9638:3
+Kus jääb rikka rikkus, sinna jääb vaese vaesus. EV 9650:5
+Mida rikkam mees, seda kibedam surm. EV 9659:1
+Kõigõ rikkamb om sis kõigõ vaesõmb, kuna ta kõigõ maha piät jätmä. EV 9654:1

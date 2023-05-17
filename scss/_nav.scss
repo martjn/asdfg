@@ -1,0 +1,182 @@
+@import 'config';
+
+.active{
+    border-bottom: 2px solid $secondary-color;
+    transition: 0.2s;
+    &:hover, &:focus, &:active{
+        background-color: $primary-color;
+    }
+    /* Navbar active page custom */
+    a{
+        font-weight: bolder;
+        transition: 0.2s;
+        color: $secondary-color;
+        &:hover, &:focus, &:active{
+            color: $secondary-color;
+        }
+    }
+}
+
+nav{
+    background-color: $primary-color;
+    /* Inactive navbar items */
+    li:not(.active){
+        transition: 0.2s !important;
+        a {
+            color: $secondary-color;
+            &:hover, &:focus{
+                color: $light-gray !important;
+                transform: rotate(0deg);
+                &:focus::after, &:active::after{
+                    animation: rotateUpDown 0.2s alternate forwards;
+                }
+            }
+        }
+    }
+    li{
+        transition: 0.2s !important;
+        a {
+            color: $secondary-color;
+            &:hover, &:focus{
+                color: $light-gray !important;
+                transform: rotate(0deg);
+                &:focus::after, &:active::after{
+                    animation: rotateUpDown 0.2s alternate forwards;
+                }
+            }
+        }
+    }
+    /* navbar dropdown-menu after-icon custom*/
+    li.nav-item.dropdown a::after {
+        align-items: center;
+        vertical-align: middle;
+        font-size: 2rem;
+    }
+
+    /* Logo */
+    img {
+        transition: 0.2s;
+        &:hover{
+            filter: opacity(0.5);
+        }
+    }
+    /* Burger-menu */
+    button{
+        background-color: rgba($color: white, $alpha: 0) !important;
+        color: white !important;
+        border: none !important;
+        float: right;
+        &:focus{
+            box-shadow: none !important;
+        }
+    }
+
+    /* Drop-down menu items */
+    .dropdown-menu{
+        background-color: $secondary-color;
+        border-radius: 0;
+        border: none;
+        box-shadow: 0 0rem 0.25rem 0.25rem rgba(0,0,0,0.15);
+        li a{
+            color: $primary-color;
+        }
+    }
+
+}
+
+#idAccessibilityMenuToggleDesktop, #idAccessibilityMenuToggleMobile{
+    margin-top: 0;
+    &:hover{
+        background-color: beige !important;
+        color: $primary-color !important;
+    }
+}
+.modal-backdrop{
+    --bs-backdrop-zindex: 1019;
+}
+.modal-content{
+    border-radius: 0px;
+    .modal-header{
+        border-radius: 0px;
+        background-color: $tertiary-color;
+        color: $secondary-color;
+        .btn-close{
+            filter:brightness(100%) invert(1);
+        }
+        button, .btn-close{
+            background-color: $primary-color !important;
+            color: $secondary-color !important;
+        }
+        .active{
+            background-color: $secondary-color !important;
+            color: $primary-color !important;
+        }
+        #modal-appearance-settings-btn{
+            border-radius: 5px 0px 0px 0px;
+        }
+        #modal-speech-settings-btn{
+            border-radius: 0px 5px 0px 0px;
+        }
+    }
+
+    .modal-footer{
+        border-radius: 0;
+    }
+
+    form, button{
+        font-size: 1.25rem;
+    }
+    button:hover{
+        filter: invert(1);
+    }
+    .modal-body{
+        span, i{
+            display: flex;
+            justify-content: center;
+        }
+    }
+}
+
+.form-range {
+    background-color: rgba(112, 112, 112, 0.1);
+    border-radius: 0.25rem;
+}
+.copyright-text{
+    text-align: left !important;
+}
+
+
+
+@media screen and (max-width: 991px) {
+    .navbar-brand a img{
+        width: 90% !important;
+    }
+    /* navbar dropdown-menu after-icon custom*/
+    li.nav-item.dropdown a::after {
+        align-items: center;
+        vertical-align: middle;
+        font-size: 2rem;
+        float: right;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .navbar-brand a img{
+        width: 75% !important;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 3160px){
+    #idAccessibilityMenuToggleDesktop{
+        display: block;
+    }
+    #idAccessibilityMenuToggleMobile{
+        display: none;
+    }
+}
+@media screen and (max-width: 991px){
+    #idAccessibilityMenuToggleDesktop{
+        display: none;
+    }
+    #idAccessibilityMenuToggleMobile{
+        display: block;
+    }
+}

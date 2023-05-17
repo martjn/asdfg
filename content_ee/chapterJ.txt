@@ -1,0 +1,128 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-11.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-11-flip.gif">
+</div>
+
+J. MÕISTMATA MÕISTUKÕNESID
+988.
+Kus aida, sääl auku. EV 38:1
+Ega allas vasarat jo vari-i. EV 238:1
+Paremb haug hannan ku haugas pään. EV 873:1
+Head kuked ei lähe kunagi rasva. EV 901:1
+Kas hiirel ime nätä, et kassil kaits poiga. EV 1242:5
+Hoia ennast ikka seespool nurgas, pärast visatakse väljapoole nurga. EV 1423:1
+Huigu peale ei või tuba ehitada. EV 1534:1
+Inimese nahk on ikka napp. EV 2147:1
+Kus istud, sinna jääb hunnik. EV 2275:1
+Janust hoost tuleb pitkamisi joota. EV 2410:1
+Julgeja hädale, julgeja õnnele. EV 2502:1
+Kaadub regi katsumadu. EV 2819:1
+Kaos pää, kaos hää. EV 2880:1
+Mis kaevus on, see on kaelas. EV 2904:1
+Ega kana muido ei mune, kui korvi ala ei pane. EV 3103:1
+Kassil om õgapäiv maaselits. EV 3360:2
+Kui kass külla lääb, pane näpits sappa. EV 3396:1
+Ko kavvõbahe käkit, sis lähebäst lövvät. EV 3474:1
+Mis keelest, sii häälest. EV 3537:1
+Kes kellud kõlistab, see kõla kuuleb. EV 3574:1
+Tuu kikas ei kiri konagi õigel aal, kel jala om ärä külmanu. EV 3771:1
+Killehiit kitetäs, torrehiit tõugatas. EV 3775:1
+Mis kirjas, see karjas. EV 3819:3
+Jäta kirves varna otsa, oota, kui sa vanaks saad. EV 3874:1
+Kirves iks hüüli jäle' taso. EV 3875:1
+Koolulõ õks kukrohe, haigilõ hambihe. EV 3974:1
+Ega koera jalad muidu ei kulu, kui saba ei kergita. EV 4009:1
+Ega koer muidu hända tõsta, kui ta tige. EV 4015:1
+Kes kuera lüöb, see kolki saab. EV 4055:1
+Koer peab jäljed. EV 4099:1
+Koir, kea lihaga ravitas, teisele ei saa kontige. EV 4114:1
+Mõni koer haugub suil valmis ja talvel aina üriseb. EV 4169:1
+Koit ei ole aitas ega eha lautas. EV 4256:1
+Kus konn saadud, seal konn söödud. EV 4317:1
+Mida konnem, seda rotem. EV 4319:1
+Kondi ümbert liha hää, põõsa ümber rohi hää. EV 4320:8
+Tao kotti nii kaua, kui jahutolm väl'la tuleb. EV 4428:1
+Kukkur ikki kullane, selge taevas sinine. EV 4480:2
+Kulund hiirt põle keegi näind, aga kulund hiireaukusi on küll. EV 4526:1
+Kuri läheb karja, hakkab härja turja. EV 4621:2
+Kõbjas ei kasva iialgi mäda puu küljes. EV 4766:1
+Kõhna vaska om ikki vaklan. EV 4768:1
+Kuhu sa kõnnid, sinna lähed; kuhu astud, sääl oled. EV 4827:1
+Käü üle jala, ära talla pääle; kui pääle tallad, siis tänni nakka. EV 4926:1
+Kenel kärr taga, sie vahtigu oma eluga ige ede. EV 4962:1
+Liim kiib õhtani, santi uutab hommukuni. EV 5626:1
+Lek maass moakeele, laku perset saksakeele. EV 5741:1
+Vigaks siis lenda, kui suured suled seljas. EV 5747:1
+Liha ei kasva kondita ega puu oksteta. EV 5805:14
+Üks lind lennab keik maailma läbi, üks keel, ühed suled. EV 5956:1
+Mida rohkemb lüüa, seda tihkembas läheb. EV 6155:1
+Madal maa, suured lained. EV 6257:1
+Mies, kes mäda murrab. EV 6647:1
+Iga metsaline püüab saaki. EV 6794:1
+Muda mua mõsk, vägi väe kasvatas. EV 6859:1
+Mõsk löüd rõivit, lämmi vesi länikit. EV 7034:8
+Mõet ei või suurem olla kui kott. EV 7056:1
+Märg puu ei pöle ilmaski heaste. EV 7086:2
+Noore uhkus ei toeta, rikka rikkus ei avita. EV 7510:1
+Ka nüri oherti uuristab auku. EV 7754:1
+Oma küsib, võõras tääb. EV 7918:1
+Oma leivaga on raske kerjata. EV 7929:1
+Oma minna, võeras tulla. EV 7939:1
+Umma oodat, a võõrast ka võtat vasta. EV 8051:3
+Ega palava pääle üksi puhuta. EV 8301:1
+Parem pailu paha ku veidike veha. EV 8369:1
+Pank hot' palanu', rahatropi mano lastanus. EV 8385:1
+Kon pauku, sääl rõuku. EV 8440:1
+Kus pauk, seal hunnik. EV 8441:1
+Peeter helistab, Mats kolistab. EV 8508:1
+Kui peni jalga sirutab, / sis kits handa virutab. EV 8546:1
+Pisuke kott talub suurt kotti. EV 8895:1
+Ära puutu potis, potil on pudevad kõrvad. EV 8988:2
+Pull kaitseb ikki karja säält poolt, kost karja pull temast üle om. EV 9040:1
+Puu satas ika sinnä, kohe tahetas laske. EV 9109:1
+Ära puud murra ega tõist jätä. EV 9113:1
+Enne põld, pärast põllulised. EV 9140:1
+Kes rebast uundõ tiid; ku pini perrä lätt, siis vällä ots. EV 9578:1
+See rätt ei kölba kaela, mis jalas olnud. EV 9931:1
+Teie räägite palju joomast, aga ei ükski räägi janust. EV 9947:2
+Kes saksa tahab, see saapad saab. EV 10050:1
+Sant suutäis on uus. EV 10192:1
+Säläga nõstab, rindu võtt. EV 10286:1
+Ega prillis siga enam röögi. EV 10326:1
+Küll siga saarna leiab. EV 10348:2
+Siidi poodist otsit, sitsi poodist leiat. EV 10414:1
+Kuda suitseb, nõnda maitseb. EV 10659:3
+Kus sunt, seal käsi. EV 10697:1
+Suu läbi üäldu, sõõna läbi luadu. EV 10908:1
+Suust tuleb, südame läheb, alla kopsu kinnitab. EV 10924:1
+Sõnni nahk orrõhn hirn. EV 11148:1
+Sööjal sünnib mitu viga, tegijal ei midagi. EV 11208:1
+Süüt sa pudru puhmalda', juut sa taari tahtmalda'. EV 11303:1
+Mis süda himustab, seda saba peab saama. EV 11343:1
+Mis süda vihkab, seda silm ei ihka. EV 11346:2
+Kuivalõ taarilõ kulus vesi pääle. EV 11456:1
+Kui ting taskun, sis tädi turun. EV 11932:3
+Mida tigedam koer, seda kõveram saba. EV 11991:1
+Ära mine tuhka mööda, mine laia lauda mööda. EV 12097:1
+Parem tuisata kui raisata. EV 12112:1
+Mis tuul merel, see tuul metsal. EV 12236:1
+Tuul juusk alt rahva kõtu. EV 12247:1
+Täht paistab ikka selge ilmaga. EV 12341:1
+Tühi kõtt törpjal, täis leeme lõmpjal. EV 12676:2
+Tasa vagu, kõvera jälje. EV 13216:1
+Vana mees ja vana naine, valge vasika nahk müüa. EV 13448:1
+Ega kõik varesed ajateivast katki ei rõhu. EV 13801:1
+Kuhu varna lööd, senna oma kuue riputad. EV 13850:1
+Kuida vesi veeretab, nonda jää külmetab. EV 13959:1
+Kui vesi kaevust otsas, hakkab kaljaastja haisema. EV 13961:1
+Vesi, mis veereb, pori, mis haiseb. EV 13982:1
+Virk mustale, must virgale. EV 14240:1
+Virn virnaga, varn varnaga. EV 14247:1
+Võeras lehmake, oma kelluke. EV 14379:1
+Väätimal pole varju, armutumal pole abi. EV 14431:1
+Vägeva veega ei tee tema lainet mitte. EV 14432:1
+Kelle väits, selle leib. EV 14482:1
+Ära õmble kotti siidiga. EV 14650:3
+Õndsa õnn läheb ees, kadeda kari tuleb taga. EV 14737:1
+Üheksa hunti, ühed jäljed. EV 14837:1
+Ühtegi üleliia. EV 14946:1

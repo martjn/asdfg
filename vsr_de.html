@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html lang="ee">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="application/javascript">
+  <meta charset="UTF-8">
+  <title>Sprichwörterbuch</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/b83cf0fab3.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./css/main.css">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container">
+        <!-- Logo -->
+        <div class="navbar-brand d-flex align-items-center">
+            <a href="https://www.kirmus.ee/">
+              <img class="img-fluid w-50 d-inline-block" src="./svg/EKM-logo-light-navbar.svg" alt="Eesti Kirjandusmuuseum">
+            </a>
+          <!-- Button trigger modal -->
+          <button id="idAccessibilityMenuToggleMobile" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal">
+            <i class="fa-solid fa-gear fs-4"></i>
+          </button>
+          <!-- Burger menu -->
+          <button class="navbar-toggler mt-0" type="button" data-bs-toggle="collapse" data-bs-target="#idNavToggle"
+          aria-controls="idNavToggle" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="fa-solid fa-bars fa-xl"></span>
+          </button>
+
+        </div>
+
+        <div class="collapse navbar-collapse justify-content-end" id="idNavToggle">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html">Avaleht</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./konekaanud.html">Kõnekäänud</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="idNavbarDropdown1" role="button"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                Eesti vanasõnad
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item border-bottom" href="./vanasonad_ee.html">Eesti</a></li>
+                <li><a class="dropdown-item" href="./vanasonad_de.html">Eesti+Saksa</a></li>
+              </ul>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="./vanasonaraamat.html">Vanasõnaraamat</a>
+            </li>
+          </ul>
+        </div>
+        <!-- Button trigger modal -->
+        <button id="idAccessibilityMenuToggleDesktop" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal">
+          <i class="fa-solid fa-gear fs-4"></i>
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="ModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header border-0 fs-4">
+                <span>Ligipääsetavus</span>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-header py-0">
+                <div class="btn-group me-2" role="group">
+                  <button type="button" class="btn btn-primary mt-0 active" id="modal-appearance-settings-btn"><i class="fa-solid fa-paintbrush"></i> Teksti suurus, reavahe, värv</button>
+                  <button type="button" class="btn btn-primary mt-0" id="modal-speech-settings-btn"><i class="fa-solid fa-volume-high"></i> Kõne</button>
+                </div>
+                
+              </div>
+              <!-- Accessibility options -->
+              <div id="modal-appearance-options" class="modal-body p-5 d-none">
+                <!-- Text size -->
+                <span class="fw-bolder fs-2">Teksti suurus</span>
+                <form id="idAccessibilityTextSize">
+                  <div class="form-range">
+                    <input class="form-range" type="range" min="-2" max="2" step="1" value="0" id="textSizeRange">
+                  </div>
+                  <div class="form-text ms-auto">
+                    <span id="textSizeValue"></span>
+                    <i class="fa-solid fa-text-height fs-2"></i>
+                  </div>
+                  <hr>
+                </form>
+                <!-- Line height -->
+                <form id="idAccessibilityLineHeight">
+                  <span class="fw-bolder fs-2">Reavahe</span>
+                  <div class="form-range">
+                    <input class="form-range" type="range" min="0.6" max="1.4" step="0.2" value="1" id="lineHeightRange">
+                  </div>
+                  <div class="form-text ms-auto text-center d-flex flex-column justify-content-center align-items-center">
+                    <span id="lineHeightValue"></span>
+                    <i class="fa-solid fa-arrows-left-right-to-line d-flex flex-column flex-wrap fa-rotate-90 fs-2"></i>
+                  </div>
+                  <hr>
+                </form>
+                <!-- Contrast -->
+                <form id="idAccessibilityContrast">
+                  <i class="fa-solid fa-circle-half-stroke fs-2"></i>
+                  <span class="fw-bolder fs-2">Kontrastsus</span>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="flexRadioContrast" id="flexRadioContrast1" value="1">
+                    <label class="form-check-label" for="flexRadioContrast">
+                      Kõrge kontrastsus (must taust, kollane tekst)
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="flexRadioContrast" id="flexRadioContrast2" value="0" checked>
+                    <label class="form-check-label" for="flexRadioContrast">
+                      Originaal
+                    </label>
+                  </div>
+                </form>
+
+              </div>
+              <!-- Accessibility options -->
+              <div id="modal-speech-options" class="modal-body px-5">
+                <!-- Voice type -->
+                <span class="fw-bolder fs-2 mb-3">Vali hääl</span>
+                <form id="id-speech-form" type="checked">
+                  <div>
+                    <input type="radio" class="btn-check" name="options" id="option-speech-0" autocomplete="off" value="0" checked>
+                    <label id="label-speech-0" class="btn btn-secondary" for="option-speech-0">Peeter</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="1" class="btn-check" name="options" id="option-speech-1" autocomplete="off">
+                    <label id="label-speech-1" class="btn btn-secondary" for="option-speech-1">Tõnu</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="2" class="btn-check" name="options" id="option-speech-2" autocomplete="off">
+                    <label id="label-speech-2" class="btn btn-secondary" for="option-speech-2">Indrek</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="3" class="btn-check" name="options" id="option-speech-3" autocomplete="off">
+                    <label id="label-speech-3" class="btn btn-secondary" for="option-speech-3">Külli</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="4" class="btn-check" name="options" id="option-speech-4" autocomplete="off">
+                    <label id="label-speech-4" class="btn btn-secondary" for="option-speech-4">Liivika</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="5" class="btn-check" name="options" id="option-speech-5" autocomplete="off">
+                    <label id="label-speech-5" class="btn btn-secondary" for="option-speech-5">Tambet</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="6" class="btn-check" name="options" id="option-speech-6" autocomplete="off">
+                    <label id="label-speech-6" class="btn btn-secondary" for="option-speech-6">Liisi</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="7" class="btn-check" name="options" id="option-speech-7" autocomplete="off">
+                    <label id="label-speech-7" class="btn btn-secondary" for="option-speech-7">Riina</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="8" class="btn-check" name="options" id="option-speech-8" autocomplete="off">
+                    <label id="label-speech-8" class="btn btn-secondary" for="option-speech-8">Lee</label>
+                  </div>
+                </form>
+                <span class="mt-2" id="selected-voice-span"></span>
+                <div class="text-center align-middle d-flex justify-content-center align-items-center">
+                  <button id="speech-test-button" type="button" class="btn btn-secondary bg-dark">Testi&nbsp;&nbsp;<i class="fa-solid fa-volume-high"></i></button>
+                  <div class="loader-test fs2"></div>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary bg-dark" data-bs-dismiss="modal">Sulge</button>
+                <button id="idAccessibilityDefault" type="button" class="btn btn-primary bg-dark">Taasta algseaded</button>
+              </div>
+            </div>
+          </div>
+        </div>
+    </nav>
+
+    <section>
+      <div class="container">
+        <!-- Bookmark area -->
+        <div class="bookmark-container mt-2">
+          <a href="https://www.folklore.ee/">
+            Eesti folkloristide andmebaas
+          </a>
+          <span class="separator"> / </span>
+          <a href="https://www.folklore.ee/ebaas/">
+            Andmebaasid
+          </a>
+          <span class="separator"> / </span>
+          <a href="./index.html">
+            Eesti ütlused
+          </a>
+          <span class="separator"> / </span>
+          <a href="./vanasonaraamat.html">
+            Vanasõnaraamat
+          </a>
+          <span class="separator"> / </span>
+          <a href="./vsr_de.html">
+            Vanasõnaraamat [Saksa]
+          </a>
+        </div>
+        <!-- Back button area -->
+        <div id="backBtnArea" class="mt-sm-4">
+          <a href="../" class="back-button">
+            <i class="fa-solid fa-chevron-left"></i> Tagasi
+          </a>
+        </div>
+
+      </div>
+      <div class="container">
+        <div class="row">
+          <div id="toc-col-toggler" class="col-lg-2">
+            <button id="toc-button">
+              <span class="float-start">INHALT &nbsp;</span>
+              <i class="fa fa-chevron-circle-down float-end fs-5" aria-hidden="true"></i>
+            </button>
+            <nav id="toc">
+              <a href="#chapter-0" id="toc-button-0"><h1>Titelseite</h1></a>
+              <a href="#chapter-1" id="toc-button-1"><h1>Vorrede</h1></a>
+              <details href="#chapter-2" id="toc-button-2">
+                <summary>
+                <h1>A. NATUR</h1>
+                </summary>
+                <a href="#chapter-2-0">
+                  <h2>AA. NICHTKALENDARISCHE SPRICHWÖRTER</h2>
+                </a>
+                <a href="#chapter-2-1">
+                  <h2>AB. DER JAHRESKREIS IN DER NATUR</h2>
+                </a>
+              </details>
+              <details href="#chapter-3" id="toc-button-3">
+                <summary>
+                <h1>B. LEBENSUNTERHALT UND ARBEITEN</h1>
+                </summary>
+                <a href="#chapter-3-0">
+                  <h2>BA. LANDWIRTSCHAFT</h2>
+                </a>
+                <a href="#chapter-3-1">
+                  <h2>BB. DIE HEUERNTE</h2>
+                </a>
+                <a href="#chapter-3-2">
+                  <h2>BC. VIEHZUCHT, HAUSTIERE</h2>
+                </a>
+                <a href="#chapter-3-3">
+                  <h2>BD. FISCHFANG UND SEEFAHRT</h2>
+                </a>
+                <a href="#chapter-3-4">
+                  <h2>BE. JAGD, JAGDMANN</h2>
+                </a>
+                <a href="#chapter-3-5">
+                  <h2>BF. DIENST UND AMTSPERSONEN</h2>
+                </a>
+                <a href="#chapter-3-6">
+                  <h2>BG. VERSCHIEDENE BERUFE IM VERGLEICH ZUEINANDER. DAS BEVORZUGEN DER FELDARBEIT. NEUN BERUFE, DER ZEHNTE IST DER HUNGER</h2>
+                </a>
+              </details>
+              <details id="toc-button-4">
+                <summary>
+                <h1>C. FAHRTEN UND LÄNGERES UNTERWEGSSEIN..</h1>
+                </summary>
+                <a href="#chapter-4-0">
+                  <h2>CA. REISEN, FAHRTEN, BEFÖRDERUNGEN</h2>
+                </a>
+                <a href="#chapter-4-1">
+                  <h2>CB. WALD UND BAUARBEITEN. GEBÄUDE. HEIZUNG, BELEUCHTUNG</h2>
+                </a>
+                <a href="#chapter-4-2">
+                  <h2>CC. GEGENSTÄNDE, WERKZEUGE, GEFÄßE</h2>
+                </a>
+                <a href="#chapter-4-3">
+                  <h2>CD. KLEIDUNGSSTÜCKE UND DEREN HERSTELLUNG</h2>
+                </a>
+                <a href="#chapter-4-4">
+                  <h2>CE. DAS SAUBERHALTEN, DAS UNGEZIEFER</h2>
+                </a>
+              </details>
+              <details id="toc-button-5">
+                <summary>
+                <h1>D. DER BIOLOGISCHE MENSCH</h1>
+                </summary>
+                <a href="#chapter-5-0">
+                  <h2>DA. DAS AUSSEHEN DES MENSCHEN. DAS VORHERSAGEN DER PSYCHISCHEN QUALITÄTEN AUFGRUND DER PHYSISCHEN</h2>
+                </a>
+                <a href="#chapter-5-1">
+                  <h2>DB. DAS SCHLAFEN, DER SCHLAF. DER TRAUM</h2>
+                </a>
+                <a href="#chapter-5-2">
+                  <h2>DC. NAHRUNG UND ESSEN</h2>
+                </a>
+                <a href="#chapter-5-3">
+                  <h2>DD. DAS NIESEN, DIE SPUCKE</h2>
+                </a>
+                <a href="#chapter-5-4">
+                  <h2>DE. BRANNTWEIN UND TABAK</h2>
+                </a>
+                <a href="#chapter-5-5">
+                  <h2>DF. KRANKHEIT UND GESUNDHEIT</h2>
+                </a>
+                <a href="#chapter-5-6">
+                  <h2>DG. TOD</h2>
+                </a>
+              </details>
+              <details id="toc-button-6">
+                <summary>
+                <h1>E. ALTER UND GESCHLECHTER..</h1>
+                </summary>
+                <a href="#chapter-6-0">
+                  <h2>EA. JUGEND UND ALTER</h2>
+                </a>
+                <a href="#chapter-6-1">
+                  <h2>EB. DAS KIND. KINDER UND ELTERN</h2>
+                </a>
+                <a href="#chapter-6-2">
+                  <h2>EC. JUNGE UND MÄDCHEN. DIE LIEBE, DAS VERFÜHREN, UNEHELICHE KINDER</h2>
+                </a>
+                <a href="#chapter-6-3">
+                  <h2>ED. VERHEIRATUNG</h2>
+                </a>
+                <a href="#chapter-6-4">
+                  <h2>EE. HEIRAT. MANN UND FRAU</h2>
+                </a>
+                <a href="#chapter-6-5">
+                  <h2>EF. EHEBRUCH. SCHEIDUNG</h2>
+                </a>
+                <a href="#chapter-6-6">
+                  <h2>EG. DER TOD DER EHEGATTIN. EINE ZWEITE FRAU. EIN WITWER (EINE WITWE)</h2>
+                </a>
+                <a href="#chapter-6-7">
+                  <h2>EH. STIEFKINDER UND STIEFMUTTER</h2>
+                </a>
+                <a href="#chapter-6-8">
+                  <h2>EI. VERWANDTE, ANGEHÖRIGE</h2>
+                </a>
+                <a href="#chapter-6-9">
+                  <h2>EJ. ZUHAUSE UND DORF</h2>
+                </a>
+                <a href="#chapter-6-10">
+                  <h2>EK. UMSIEDLUNG. DER LANDSTREICHER. DER HEIMATLOSE</h2>
+                </a>
+              </details>
+              <details id="toc-button-7">
+                <summary>
+                <h1>F. ARBEITEN, ERHALTEN, SAMMELN, ABGEBEN</h1>
+                </summary>
+                <a href="#chapter-7-0">
+                  <h2>FA. ARBEIT UND BESCHÄFTIGUNG</h2>
+                </a>
+                <a href="#chapter-7-1">
+                  <h2>FB. BEKOMMEN, SAMMELN, VERGEUDEN, WOLLEN</h2>
+                </a>
+              </details>
+              <details id="toc-button-8">
+                <summary>
+                <h1>G. KLASSEN- UND EIGENTUMSVERHÄLTNISSE..</h1>
+                </summary>
+                <a href="#chapter-8-0">
+                  <h2>GA. DAS GEBEN UND DIE HILFE. GESCHENK. ANLEIHEN, SCHULDEN</h2>
+                </a>
+                <a href="#chapter-8-1">
+                  <h2>GB. DER BETTLER, DAS BETTELN</h2>
+                </a>
+                <a href="#chapter-8-2">
+                  <h2>GC. REICH UND ARM. GELD</h2>
+                </a>
+                <a href="#chapter-8-3">
+                  <h2>GD. SOZIALE ASPEKTE DES BAUERNLEBENS. FAMILIENANGEHÖRIGE UND ANGESTELLTE. BESITZLOSER MITEINWOHNER, KÄTNER, LANDLOSER KLEINBAUER</h2>
+                </a>
+                <a href="#chapter-8-4">
+                  <h2>GE. GUTSHOF. GUTSHERR UND BAUER. GUTSLEUTE</h2>
+                </a>
+                <a href="#chapter-8-5">
+                  <h2>GF. KIRCHE UND PASTOR</h2>
+                </a>
+                <a href="#chapter-8-6">
+                  <h2>GG. SCHULE, AUSBILDUNG, BUCH, PAPIER, SCHRIFT</h2>
+                </a>
+                <a href="#chapter-8-7">
+                  <h2>GH. DER GEMEINDEVORSTEHER</h2>
+                </a>
+                <a href="#chapter-8-8">
+                  <h2>GI. GERICHT, RICHTER, GERICHTSSITZUNG</h2>
+                </a>
+                <a href="#chapter-8-9">
+                  <h2>GJ. STADT, STADTBEWOHNER, STADTBESUCH</h2>
+                </a>
+                <a href="#chapter-8-10">
+                  <h2>GK. WARE, PREIS. KAUF UND VERKAUF. TAUSCH</h2>
+                </a>
+                <a href="#chapter-8-11">
+                  <h2>GL. KÖNIG, KAISER. REGIERUNG, STAAT</h2>
+                </a>
+                <a href="#chapter-8-12">
+                  <h2>GM. KRIEG. MILITÄRDIENST, SOLDAT</h2>
+                </a>
+                <a href="#chapter-8-13">
+                  <h2>GN. VERSCHIEDENARTIGES ÜBER UNGLEICHE SOZIALE VERHÄLTNISSE. HALTUNGEN, HANDLUNGEN UND EREIGNISSE IM ZUSAMMENHANG MIT MACHT, FÜHRUNG UND POSITION</h2>
+                </a>
+                <a href="#chapter-8-14">
+                  <h2>GO. SUHTUMINE ENDA JA TEISE OMASSE. KASU / ISESEISVUS</h2>
+                </a>
+                <a href="#chapter-8-15">
+                  <h2>GP. DIEBSTAHL, SCHELMENSTREICH, BETRUG. VERBRECHEN, UNGERECHTLICHKEIT, SCHULD, VERANTWORTUNG, STRAFE</h2>
+                </a>
+                <a href="#chapter-8-16">
+                  <h2>GQ. BETRÜGLICHKEIT / SCHLAUHEIT, GESCHICKTHEIT</h2>
+                </a>
+              </details>
+              <details id="toc-button-9">
+                <summary>
+                <h1>H. ZWISCHENMENSCHLICHE BEZIEHUNGEN IM ALLGEMEINEN..</h1>
+                </summary>
+                <a href="#chapter-9-0">
+                  <h2>HA. SCHANDE UND EHRE (EHRLICHKEIT, VEREHRUNG), REPUTATION, "NAME", PIETÄT</h2>
+                </a>
+                <a href="#chapter-9-1">
+                  <h2>HB. UNSCHULD, "REINES HERZ", RECHT, GERECHTIGKEIT. LÜGEN, LÜGE UND WAHRHEIT</h2>
+                </a>
+                <a href="#chapter-9-2">
+                  <h2>HC. VERSPRECHEN UND DAS VERSPRECHEN HALTEN, WORTHALTEN UND WORTBRÜCHIGKEIT</h2>
+                </a>
+                <a href="#chapter-9-3">
+                  <h2>HD. VERTRAG, "GESCHÄFT", KOMPROMIß</h2>
+                </a>
+                <a href="#chapter-9-4">
+                  <h2>HE. DIE VERÄNDERLICHKEIT / UNVERÄNDERLICHKEIT DES MENSCHEN. DIE ENTSPRECHUNG / VERSCHIEDENARTIGKEIT DES ÄUßEREN (AUSSEHEN, VERHALTEN) UND DES INNEREN (NATUR, SINNESART). VORTÄUSCHUNG, HEUCHELEI</h2>
+                </a>
+                <a href="#chapter-9-5">
+                  <h2>HF. MENSCHENKENNTNIS. MIßVERTRAUEN UND VERTRAUEN. GEHEIMNIS, MITWISSER</h2>
+                </a>
+                <a href="#chapter-9-6">
+                  <h2>HG. SPRECHEN / SCHWEIGEN. MIT BEWERTUNG VERBUNDENE SPRECHAKTE</h2>
+                </a>
+                <a href="#chapter-9-7">
+                  <h2>HH. JAMMERN, MURREN, KLAGEN, SORGEN. PESSIMISMUS UND OPTIMISMUS. LACHEN, WITZ; EITELKEIT, LEICHTSINNIGKEIT</h2>
+                </a>
+                <a href="#chapter-9-8">
+                  <h2>HI. FREUND UND FEIND. FREUNDSCHAFT UND FEINDSCHAFT</h2>
+                </a>
+                <a href="#chapter-9-9">
+                  <h2>HJ. KONFLIKT, STREIT, RAUFEREI</h2>
+                </a>
+                <a href="#chapter-9-10">
+                  <h2>HK. GÜTE UND BOSHEIT. GEGENSEITIGKEIT DER WOHLTATEN UND DER SCHLECHTEN TATEN.</h2>
+                </a>
+                <a href="#chapter-9-11">
+                  <h2>HL. SELBST UND DER ANDERE, DIE WELT</h2>
+                </a>
+                <a href="#chapter-9-12">
+                  <h2>HM. EINZELPERSON UND KOLLEKTIV. UMGEBUNG, MILIEU, MITGLIEDER, IHR EINFLUß</h2>
+                </a>
+                <a href="#chapter-9-13">
+                  <h2>HN. BESUCHE, FESTE, BELUSTIGUNGEN, GEDENKTAGE, BRÄUCHE, RITEN</h2>
+                </a>
+                <a href="#chapter-9-14">
+                  <h2>HO. Sprichwort</h2>
+                </a>
+                <a href="#chapter-9-15">
+                  <h2>HP. KLUGHEIT UND DUMMHEIT</h2>
+                </a>
+                <a href="#chapter-9-16">
+                  <h2>HQ. SINN, ERKENNTNIS, ERFAHRUNG</h2>
+                </a>
+              </details>
+              <details id="toc-button-10">
+                <summary>
+                  <h1>I. ABSTRAKTE KATEGORIEN UND VERHÄLTNISSE</h1>
+                </summary>
+                <a href="#chapter-10-0">
+                  <h2>IA. ZEITVERBUNDENE KATEGORIEN</h2>
+                </a>
+                <a href="#chapter-10-1">
+                  <h2>IB. GUT UND SCHLECHT IM LEBEN, NOT, SORGE UND FREUDE, UNGLÜCK UND GLÜCK, IHRE ABWECHSLUNG. ZUFALL, SCHICKSAL</h2>
+                </a>
+                <a href="#chapter-10-2">
+                  <h2>IC. GOTT, TEUFEL, GLAUBE</h2>
+                </a>
+                <a href="#chapter-10-3">
+                  <h2>ID. BEGIERDE, VERSUCHUNG, SÜNDE, IRRTUM</h2>
+                </a>
+                <a href="#chapter-10-4">
+                  <h2>IE. REUE, VERGÜTUNG</h2>
+                </a>
+                <a href="#chapter-10-5">
+                  <h2>IF. NICHTVERGÜTBARKEIT, NICHTÄNDERBARKEIT, UNVERMEIDLICHKEIT</h2>
+                </a>
+                <a href="#chapter-10-6">
+                  <h2>IG. DAS UNMÖGLICHE</h2>
+                </a>
+                <a href="#chapter-10-7">
+                  <h2>IH. WO..., DORT: DAS GEMEINSAME AUFTRETEN DER GEGENPOLE, DES TEILS UND DES GANZEN</h2>
+                </a>
+                <a href="#chapter-10-8">
+                  <h2>II. GRUND UND FOLGE. GROß UND KLEIN. MAß. ZU VIEL / MAßVOLL</h2>
+                </a>
+                <a href="#chapter-10-9">
+                  <h2>IJ. ZAHLEN, "ABSOLUT", AUFZÄHLUNGEN, EINORDNUNGEN</h2>
+                </a>
+                <a href="#chapter-10-10">
+                  <h2>IK. SPALTUNG</h2>
+                </a>
+                <a href="#chapter-10-11">
+                  <h2>IL. VERSCHIEDENHEIT / ENTSPRECHUNG, ZUSAMMENPASSUNG</h2>
+                </a>
+                <a href="#chapter-10-12">
+                  <h2>IM. WERT</h2>
+                </a>
+                <a href="#chapter-10-13">
+                  <h2>IN. UNTERMAßIG, "NICHTKLASSENGEHÖRIG"</h2>
+                </a>
+                <a href="#chapter-10-14">
+                  <h2>IO. VERSPOTTUNG DER SIPPE, SPRÜCHE ÜBER DIE BEWOHNER UNTERSCHIEDLICHER ESTNISCHER GEBIETE UND ÜBER ANDERE VÖLKER</h2>
+                </a>
+                <a href="#chapter-10-15">
+                  <h2>IP. VERSPOTTUNG DES WORTES ("WÄRE ES", WÄRE ES NICHT", "MAN MÜßTE", "MAN MUßTE", "ABER", "DOCH", "SELBST")</h2>
+                </a>
+              </details>
+              <details id="toc-button-11">
+                <summary>
+                  <h1>J. UNVERSTÄNDLICHE GLEICHNISSE</h1>
+                </summary>
+                <a href="#chapter-11-0-0">
+                  <h2>JA. UNVERSTÄNDLICHE GLEICHNISSE</h2>
+                </a>
+              </details>
+              <a id="toc-button-12"><h1>ÜBER DAS INHALTLICHE SYSTEM DES "SPRICHWÖRTERBUCHES"</h1></a>
+            </nav>
+          </div>
+          <div id="chapters" class="col-lg-10">
+            <div id="chapter-0">
+              <img id="img-0" class="img-fluid w-100" src=".img/SPRWBUCH.gif">
+              <h1>Verfasser: Arvo Krikmann, Lia Jaanisoo, Maimu Laan und Ingrid Sarv.</h1>
+            </div>
+            <!-- Saateks -->
+            <div id="chapter-1">
+              <img class="img-fluid w-100" src="./img/page-1.gif">
+              <h1>Vorrede</h1>
+              <ul>
+                <li>
+                  <p>
+                    Die vorliegende Arbeit ist eine e-Version vom "Vanasõnaraamat" ("Sprichwörterbuch"), das 1984 erschien. In der e-Version haben folgende Änderungen stattgefunden:
+                    <ul>
+                      <li>
+                        Sprichwörter von fragwürdiger Authenzität hat man beiseite gelassen;
+                      </li>
+                      <li>        
+                        Von jedem Sprichwort gibt es eine Variante; zusätzliche Varianten und Abkürzungen der Kirchspiele und andere Bezeichnungen des Ursprungortes hat man beiseite gelassen;
+                      </li>
+                      <li>
+                        Einigermaßen hat man den Aufsatz über die allgemeine Problematik der semantischen Sprichwortgliederung und das inhaltliche System geändert und redigiert.
+                      </li>
+                    </ul>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Die inhaltliche Gliederung der Sprichwörter und der obengenannte Übersichtsartikel wurden von Arvo Krikmann verfaßt, er bereitete auch die vorliegende e-Version vor. Die Sprichwörtertexte übersetzten in die deutsche Sprache Lia Jaanisoo, Maimu Laan und Rita Tasa, die Übersetzungen der Sprichwörtertexte redigierte Ingrid Sarv. Die Überschriften der Inhaltsgruppen des Buches, die Vorrede und den Aufsatz "Über das inhaltliche System des "Sprichwörterbuches"" übersetzte Reet Hiiemäe. Mit freundlichem Verlaub von Harri Kõiva hat man die Kapitel-Vignetten des im Jahre 1984 gedruckten Buches benutzt.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Im detailierten Inhaltsverzeichnis kann man alle Überschriften der Ober- und Mittelklassen, die mit Großbuchstaben anfangen, klicken. So bekommt man auch einen besseren Überblick über die Unterabteilungen des Systems. Bei den numerierten Gruppen der unteren Stufe kann man nur die Gruppennummern klicken. Die vom detailierten Inhaltsverzeichnis gewählten Stellen öffnen sich im rechten Rahmen.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Jedem zitierten Sprichworttext folgt die Abkürzung EV und danach zwei mit einem Kolon getrennte Zahlen ― die erste Zahl zeigt die Stelle des Sprichworttyps in der Ausgabe "Eesti vanasõnad" (1980-1988), die zweite ― die Anzahl der authentischen Varianten des Sprichwortes.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Alle Bemerkungen über Fehler und grundsätzliche Mängel, ebenso sonstige Kommentare, Fragen usw. schicken Sie bitte an den Autor:
+                    <a href="mailto:kriku@haldjas.folklore.ee">kriku@haldjas.folklore.ee</a>
+                  </p>
+                </li>
+              </ul>
+            </div>
+            <div id="chapter-2">
+
+            </div>
+            <div id="chapter-3">
+
+            </div>
+            <div id="chapter-4">
+
+            </div>
+            <div id="chapter-5">
+
+            </div>
+            <div id="chapter-6">
+
+            </div>
+            <div id="chapter-7">
+
+            </div>
+            <div id="chapter-8">
+
+            </div>
+            <div id="chapter-9">
+
+            </div>
+            <div id="chapter-10">
+
+            </div>
+            <div id="chapter-11">
+
+            </div>
+            <div id="chapter-12">
+              
+            </div>
+            <!-- Pagination-->
+            <div class="pagination d-flex mb-5">
+
+              <button class="me-2 pe-3 float-start" id="prev-button-bottom">
+                <i class="fa-solid fa-chevron-up fa-rotate-270 my-auto"></i>
+                <span id="page-button-text-prev">Vorherige</span>
+              </button>
+
+              <button class="ms-2 ps-3 float-end" id="next-button-bottom"><span id="page-button-text-next">Nächste</span><i class="fa-solid fa-chevron-up fa-rotate-90"></i></button>
+            </div>
+          </div>
+
+  
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Mobile view navigation buttons -->
+    <div class="bot-btn">
+      <button id="bot-back-btn">
+        <a href="./index.html"><i class="fa-solid fa-turn-up fa-rotate-270"></i></a>
+      </button>
+      <button id="bot-scroll-up-btn" onclick="scrollToTop()">
+        <i class="fa-solid fa-arrow-up"></i>
+      </button>
+    </div>
+
+</body>
+<script src="./app.js" crossorigin="anonymous"></script>
+<script src="./accessibility_options.js" crossorigin="anonymous"></script>
+<script src="./speech.js" crossorigin="anonymous"></script>
+<script src="./vsr_de.js" crossorigin="anonymous"></script>
+</html>

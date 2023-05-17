@@ -1,0 +1,599 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-2.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-2-flip.gif">
+</div>
+
+A. LOODUS
+AA. MITTEKALENDAARSED VANASÕNAD
+
+1. Öö ja päev. Valgus ja pimedus. Kuu ja tähed
+Üül 9 jakko, päival 8 jakko. EV 14812:1
+Ööl üheksa poega, päeval mitu mõtet. EV 14803:140
+Ööl on üheksa ilma. EV 14802:1
+Öö ep ole kellegi sõber. EV 14800:2
+Ega pimejäl piitsa ole. EV 8856:6
+Ega pime peale tule. EV 8858:11
+Kuu on taevalamp. EV 4725:1
+Kuu on poissmeeste päike. EV 4724:3
+Kuu on vabanikkude päike ja päike on puumaameiste päike. EV 4726:1
+Õdav õtsiti meres, Siulik serviti lõunas. EV 14508:1
+Kui koit hakkab, siis koidutäht näitab. EV 4260:1
+Mis sa ööse ei nää, seda võid sa pääva näha. EV 14796:1
+2. Vesi, tuli, kivi, maa
+Vesi on vanem kui tuli. EV 13983:1
+Vesi lövväp egäkõrd tiid. EV 13981:1
+Viikene üle üü 12 vuuri är mõsk hinnäst. EV 13986:1
+Ilmas pole kolme asja: kivil juurt, linnul piima, veel oksa. EV 3929:45
+Kivil pole hända taga. EV 3936:6
+Kivi ja kand om mõtsa peremiis. EV 3934:1
+Küll maa pöürjämmi kandab. EV 6198:1
+3. Mets, puud, taimed
+Kes metsas käib, see hoidku silmad lahti. EV 6759:1
+Ega mets tühi ole. EV 6756:2
+Parem om mõtsa veeren kui röä veeren. EV 6793:1
+Mõts um vaese mehe ait. EV 6791:1
+Mets vaese mehe kasukas. EV 6785:35
+Metsa perse on emane. EV 6776:25
+Metsal ei ole taba ees. EV 6773:1
+Mets ei kasva ju nagu kanepiaid mitte. EV 6780:1
+Mets klaasib ise ennast. EV 6783:1
+Puu on vanem kui inimene. EV 9107:2
+Tamm kavab kasukas seljas, pea paljas. EV 11576:1
+Sarapuu süda sattikse. EV 10202:2
+Kuus kuri kopitama, pettäi pea pehmahöis. EV 4763:1
+Kus kuusele kehv ja männile hea, seal lehisel paras. EV 4756:1
+Kadakad on karjavitsad, ohakad on orjavitsad, nõgesed on nõmmemarjad. EV 2840:3
+Uhaka ja orjavitsa kasuse halva maa pääl kah. EV 7776:1
+[4–8] Metsloomad ja -linnud
+
+4. Hunt ja karu
+Hunt ütleb: "Kassi kannab kaksi kuuda, koera kannab kolmi kuuda, mina neitsi neli kuuda". EV 1650:1
+Hunt üle aja minnes on suurem kui hobune. EV 1648:2
+Soel om edeots tamminõ, peräots savinõ. EV 10809:2
+Hundile one udu ono, vihim veli ja kaste kaalalõikaja. EV 1608:5
+Hunti toidavad ta jalad. EV 1620:1
+Hunt koera ono. EV 1627:1
+Susi pelgäs pässäotsasuurut pinni inäb ku verstatulbapittut miist. EV 10833:1
+Hunt olla vanast üelnud: "Hobuse jalg põle muud kui takukoonal, hobuse hambad on tulised tangid, härja sarved tulised orad". EV 1631:3
+Hot't kannulõgi pangõ küpär' päähä, sis ma' pelga' inäbä ku viit kabõhist. EV 4931:1
+Hunt ütelnu vanaste: "Ma kardan põlvekõrgust poisikest enam kui mõrsjatüdrukut". EV 1649:2
+Hundil on ühe mehe jõud, aga üheksa mehe aru, karul on üheksa mehe jõud, aga ühe mehe aru. EV 1610:90
+Hunt sööb, karu kaitseb. EV 1639:1
+Karust saab mängimees, hundist ei saa iial. EV 3303:1
+Karu kasukas ei karda külma. EV 3297:1
+Karu kardab kõige enam oma kellukesi. EV 3296:3
+Karu elab vanast rasvast. EV 3292:1
+Karu üelnud: "Mussik, muasik sitt mamm, pihlik mehe mamm". EV 3307:2
+"Silk-leib mehe toit, pihl-pohl minu toit," nii olevat öelnud karu. EV 10441:1
+"Muud marja, musta marja, sitke marja, sitta marja, pihlapuu marja, priisket marja, taad saa tsäuka tsälguta," kahr laulis nii. EV 6419:1
+Karu olema rääkinud, kiitnud punamarju: "Punamarjad ― poska marjad, sinimarjad ― sita marjad". EV 3301:1
+Karu üteld, et kui tema metsas magab, siis meesterahvas mängigu lehtpilli ja naisterahvas laulgu, siis tema kuuleb ja teab eest ära minna, aga kui inimene järsku peale tuleb, siis ma koha ta maha murran. EV 3308:5
+Karu teeb kaheksa mehe arve. EV 3305:1
+Parem ikk karu küüs kui jänekse jalg. EV 3313:1
+5. Rebane, mäger, jänes, siil
+Rebasel on üheksa linnu ja üheksa teiste elajate keelt suus. EV 9589:1
+Rebane olevat raibe, jänes tema järgmine. EV 9584:1
+Kähri om rebäse tüümiis. EV 4923:1
+Jänes ütteld hundile: "Oleks mul so suurdus ja julgus, ma võtaksin kõikide kõrid maha, aga ma ei julge muidu hammustada, kui mo kallale tullakse". EV 2758:1
+Jänes pake tuult kah. EV 2752:1
+Jänes teeb ühe ööga rohkem jälgi, kui varsaga hobune üle suve. EV 2754:10
+10421
+6. Linnud (kägu, ööbik, kuldnokk, lõoke, vares, harakas, kaaren, pasknäär, öökull, varblane)
+Hommiku hoolekägu, lõuna leinakägu, õhtu õnnekägu. EV 1438:140
+Kukulind on õnnetooja-õnneviija. EV 4484:1
+Ööbik laulab öölaulu, kuldnokk laulab koidulaulu, lõoke laulab lõunalaulu. EV 14816:1
+Vares paneb pilvest märki. EV 13824:1
+Vares paneb ka kaks viirga. EV 13823:1
+Vares-kaaren sõnume kuulutajad, harakas toob mõisa käsku. EV 13820:8
+Kaarnal on kaheksa poega, varesel viis verist väntsa. EV 2827:1
+Pasknääril on üheksa keelt suus. EV 8416:1
+Kes ei salli öökulli, see sallib rotta ja hiiresid. EV 14820:1
+Varblane kardab metsa ja konn kardab jõehauda. EV 13797:1
+Linnu pääs oleva vähem mõistust ku mehe p-ses. EV 5945:2
+7. Kahepaiksed ja roomajad (konn, madu, sisalik, vaskuss)
+Kärnkonn on kiitand, et mõni on tugev maa peal, mõni meres, aga tema käib mõlemates. EV 4961:1
+Konn võtab veeviha, uss võtab maaviha. EV 4313:2
+Madu om kuri konna nuhklema. EV 6290:3
+Kes nõelussi ära materdab, saab üheksa pattu andeks, kes materdamata jätab, seisab üheksa öödpäeva jumala viha all. EV 7619:125
+Kes siugu näge ja ära ei tapa, sellega om siug üheksa päiva vihane. EV 10578:1
+Nõeluss lubanud seitsme aasta pärast kätte tasuda, kui keegi temale häda teinud. EV 7620:1
+Ussi arvatakse kuradi teendriks ja sisalikku tema alamaks. EV 12967:4
+Sisalik öeldakse olevat ussi vennapoeg. EV 10517:4
+Sisalik on usside arst. EV 10514:2
+Kui sisalikku näed, siis ei ole uss ka enam kaugel. EV 10512:5
+Sisaliku hammustamine olevat sama mis usssilgi. EV 10515:1
+Sisaliku üheksa nõelamist kokku on sama mürgised kui ussi üks nõelamine. EV 10516:13
+Sisaligu salumine piab ütessä kõrda valusamb olema kui uiso oma. EV 10513:1
+Vaskuss oli pidan ütlema, et kui tal silmad oleks, siis ta paneks ühe ööga üheksa pere uksed kinni. EV 13883:40
+Vaskuss rääkin ükskord: oleks temal silmad pääs olema, siis kerigukellad lööksid ega pääv. EV 13884:25
+Vaskuss sööks kõik inimesed ära, kui ta nägija oleks. EV 13885:6
+Sest on jumal hüäste teht, et ei ole vaskussil silmi pähä luond. EV 13882:2
+
+8. Putukad (rohutirts, mesilane, vaablane, ämblik jne.)
+Loomakiil on öelnd, et "Kui ma looma pistan esimise korra, siis tõstab saba, teise korra, siis läheb paigast ära, kolmanda korra, siis paneb tuhatnelja minema". EV 6035:1
+Heinatirt salvab ning parandab. EV 1197:1
+Mesilane tööjõud, sitasõnn teejõud. EV 6750:1
+Kui vaablane üheksa kord on pist, siis on vana hussi varune. EV 12998:2
+Kui ämblikku hommiku nääb, siis tähendas hoolt, lõuna ajal leina ja õhta õnne. EV 14781:5
+Hall ämblik õnneämblik, must ämblik mureämblik. EV 14780:7
+9. Ilmastik (mitte-ended): soe ja külm, tuul, udu, kaste, vihm, vikerkaar
+Mis veri ihu sees, / on soojus õhu sees. EV 13938:2
+Parem vaik pakane kui sula tuul. EV 13227:1
+Vaga ilm ei aja puru silma. EV 13195:1
+Tuul on seltsimees. EV 12250:2
+Tuul on teise inimese abi. EV 12251:2
+Tuul toob sõnumid. EV 12254:1
+Tuul' toos's', vihm viput', tuulõst' kõik' hädä. EV 12255:1
+Udutsega käive hundi, kastega karjakoera. EV 12807:1
+Ega inime pääva ja vihma kääs ei sula. EV 2091:1
+Ega vihm ep löö konti katki. EV 14042:1
+Vihma aigu satas selgest taivastki, põvva aigu ei tulõ pilvestki. EV 14051:1
+Vihm üteln: "Kiviraale ma sua vahe vahele, aga põllupeenrale ega heinamaa-raale ma-p sua vahet vahele mitte". EV 14062:1
+Ammukaar joob udu, aga vikerkaar joob vett. EV 285:1
+[10–12] Ilmastik (lähiended)
+
+10. Külma- ja soojaendeid
+Ku agu hõrõtas, sis saa hummõn halla. EV 159:1
+Ku hummokonõ ago veretäs, sis näütäs külme; ku õdakonõ ago veretäs, sis näütäs lämmint. EV 1461:1
+Keris põleb, külma tuleb. EV 3613:1
+11. Saju ja kuiva, hea ja kurja ilma, udu endeid (taevakehade, taeva ja pilvede, saju algusaja, tuulesuuna, loomade ja lindude jm. järgi)
+Kui rihä sällüle ja koodi kummalõ, sis saava saotsõ ilma. EV 9607:1
+Külm kuu on küljeli, soe kuu on seljali, kuri kuu on kummuli, hea kuu on otseti, paha kuu on püsti. EV 5110:30
+Kuu kupitseb kuiva, päev sapitseb sadu. EV 4721:15
+Kui päiv perrä kaes, sis saa sato. EV 9264:1
+Lihab pää pardast läbi, saab hoome natukse. EV 9270:1
+Kui vihmatsel päeväl päiv aenuld kõrras vällä tulep, nii et ratsanik saap hobese sälgä istu, mitte kavvembas, sis tulep järgmine päiv kuju ilm. EV 14064:1
+Täna haub, homme saub. EV 12379:7
+Mustad pilved muidu käivad, savikarva sadavad. EV 6942:7
+Hildarusku hüvä päivä, aamurusku päivä paska. EV 1247:1
+Eha punab, hea ilm; koit punab, kuri ilm. EV 514:2
+Hommikune külaline läheb ruttu ära, õhtune jääb öömajale. EV 1459:11
+Kargaja tuul toob kurja ilma. EV 3231:1
+Vesikaare tuul toob vihma. EV 13994:2
+Küll tuleb iast ümmärgüsi. EV 1895:1
+Idatuul ei jäta ikkemata. EV 1896:1
+Loodetuul on taevaluud. EV 6019:23
+Lõunatuul sajab, põhjatuul kõvib. EV 6139:1
+Länne taat selitab. EV 6150:1
+Põhjatuul tuu põuda, lõunatuul tuu vihma. EV 9133:1
+Põhjatuul taivaluud. EV 9132:1
+Põhi sajab, lõuna ajab. EV 9126:1
+Põhi pakub, lõuna lakub. EV 9124:1
+Ega enne ilmal ei jää, ku loode lobinat ei tee. EV 1948:1
+Külm tuul ei tuu sadu. EV 5125:1
+Tuul vingub, vihma tuleb. EV 12257:1
+Vaikib õhtuks tuulekene, / tuleb ilus ilmakene. EV 13224:3
+Langeb udu, tuleb kuiva; tõuseb udu, tuleb vihma. EV 12805:1
+Jänes teeb jäljed hea ilma alla. EV 2753:1
+Vares vara saduja vaakub, ehtu hiljä häidä ilmu. EV 13825:7
+Kui vares hoomigu vara ühe sana laulab, siis tuleb paha ilma, kui kolm sana, siis üä ilma. EV 13810:1
+Kui vares soiub, siis tuleb vihma. EV 13813:2
+Kui hanid vihtlevad, tuleb vihma. EV 827:5
+Kui kured kisendavad, tuleb kurja ilma. EV 4567:4
+Kui konn seitsmenda seinapalgi peale hüppab, siis tuleb halv ilm. EV 4316:1
+Piip viriseb, vihma tuleb. EV 8771:4
+Ei udu ida mädäne. EV 12804:4
+12. Tuule käitumise (tugevuse, kestuse vm.) endeid
+Pohituul paneb püksid jalga. EV 9128:5
+Länstuul läheb mehega magama. EV 6148:5
+Idatuul läheb ööseks naise juurde. EV 1898:7
+Idatuul rambib üöseks. EV 1899:1
+Kui metsa tõstab ja merd loedab, tuleb tuult. EV 6763:1
+Reedine torm pühapäeva ei näe. EV 9595:1
+AB. AASTARING LOODUSES
+
+ABA. Talveharjast südasuveni
+
+[13–14] Ilmastik
+
+13. Kevade areng normaaalses suunas: ilma soojenemine, lume sulamine, päeva pikenemine jms.
+Paavlipäävast pragu merese, tõnisepäävast tõuk härja selga. EV 8183:1
+Tennüspäiv nägi tsiga päävä taivahe är. EV 12293:12
+Tinuspääval loedas talv poolõs. EV 12294:35
+Tõnisepäev on talve hari. EV 12302:14
+Tõnisepäeval murtakse talve selg katki. EV 12296:55
+Küündlepäiv juusk külmäl üts silm vett. EV 5229:40
+Küünlapäeval läheb külma süda lõhki. EV 5234:50
+Küündlapäeval lüüakse külmal üks sarv peast ära. EV 5228:1
+Küündlepäävä võit jo kasuga ar müvvä, tsigand müü kasuga ar, no olõ-õi inäp vaija. EV 5232:2
+Kündlepäävä käänd tii tõõsõ küle. EV 5226:1
+Küünlapäev on juba talve külje pääl. EV 5237:2
+Kündlepääv ommõ edimäne keväjä praasknik. EV 5227:2
+Lumi küünlaks, vihm jüriks. EV 6076:1
+Piitre pist lämmä ora lumõ sisse. EV 8509:2
+Madisepäev hakkavad kõrred lund vihkama. EV 6279:90
+Matsepäest jäeb müts kannu otsa. EV 6287:1
+Madisepäevast hakkab uus lumi vana sööma. EV 6278:7
+Enne vana lumi maast ära ei lähe, kui teine tuleb jäele: teine viib teise ära. EV 13325:3
+Kui madiksepääval katuksed lumest puhtad, siis teeb jüripäävaks maa paljaks. EV 6266:1
+Matsupäev murrab talve võimuse. EV 6289:1
+Vana Matjus halliparda kutsub lapsed seinä ääre, avateleb aia ääre. EV 13446:2
+Poornapäävä saa jo häräle juvva' kaartõ alt. EV 8983:1
+Märts määtäs lummõ ja saat minemä. EV 7089:1
+Kevadine lumi kaub kiirest ära. EV 3669:3
+Tuul süü lumme. EV 12253:1
+Maarjapäeval saab vareksevetta. EV 6239:1
+Maarjapäiväl piävät viiotsa joba kokku saama. EV 6244:3
+Pärast maarjapäeva ei lõhu külm enam kanamuna ära. EV 6249:10
+Maarjapäeväs lääb päe hange ja om sääl öhessa ööd-päevä, säält lääb ta vette ja om sääl jälle öhessa ööd-päevä, siis tuleb viist vällä ja hakkab maad kuivatama. EV 6243:15
+Paastumaarjapäeval visatakse esimene kuum kivi vette, karjalaskmisepäeval teine ja jüripäeval kolmas. EV 8175:50
+Veest võetavat esimine külm kivi jüripäeval, teine urbani- ja kolmas jaanipäeval. EV 13975:1
+Keväjäne Jüri om vihatsõ talve vainlanõ. EV 3683:1
+Enne jürit annab külma, pärast jürit sooja ilma. EV 2772:1
+Agu annap aole käe jüripäevä ööse, teretävä tõenetõist. EV 156:2
+Kui enne jüripäeva müristab, tuleb soe kevad, kui peale mihklipäeva müristab, tuleb soe sügis. EV 2805:4
+14. Talve vastuhakk kevadele (külmapüsid, tagasilöögid, "vastamised"); kevadilma tujukus; talvejätku ning külma kevade ja suve ended
+Kui näärikuul sula teeb, on küünlakuu külm. EV 7746:3
+Mis jaanuarikuu tegemata jätab, seda teeb veebruarikuu ära. EV 2364:1
+Ku talve üks silm ära nutab, siis tuleb veel kõva külm vahepääl; ku talve teine silm ka nutma hakkab, siis tuleb kevadi. EV 11554:1
+Kui küünalpäeval talve seljaluu murdmata jääb, siis tuleb külm kevade, kui aga murtud saab, siis tuleb soe kevade. EV 5219:1
+Kui küünlapääva ajal saab härg räästa alt juua, siis maarjapääva ajal ei saa kukkki. EV 5222:190
+Paastumaarjapäev oli kord ütelnud: "Kui küünlapäev härja nina peale kuseb, siis ma'p kuse kuke nina pealegi". EV 8177:1
+Kui ei külmä küünlällä, siis maksab matjuksellä. EV 5092:1
+Küll on külm küünlapäe, valusam viil vaslapäe, tuuletsep viil tuhapäe. EV 5098:1
+Küll on külm küünlakuu, veel valjum vastlakuu. EV 5097:13
+Küünlakuise sula vastab vastlakuu ära. EV 5206:2
+Kui küünlakuus sula, siis paastukuus külm, aga küünlakuus külm, siis paastukuus sula. EV 5210:4
+Soe küünlakuu, külm kevade. EV 10590:3
+Paastukuu ütelnud küünlakuule: "Oleks mina sinust olema, ma võtaks kõik põnnpead põrandale, naese käed leevaastja ja koera küüsed künnisele, aga ma ei saa, mu teine silm jookseb vett. EV 8170:20
+Pervõi audakei om häräsarvõ püürdja. EV 466:2
+Madisepäev ajab uluaugud lund täis. EV 6274:1
+Madisepäeva tuisk on pugeja. EV 6282:1
+Kui madisepäeval tuiskab, siis on veel üheksa tuisku ees. EV 6271:2
+Madisepäeval on pool lund taevas. EV 6277:17
+Kui madisepäeval lund sajab, siis on pool selle talist lund alles taevas. EV 6270:4
+Kui madiksepääv veel üle õlekõrre lund sajab, siis on pool lund veel taevas. EV 6268:13
+Kui tuhkapääval nii palju lund sadanud, et õlekõrre ära katnud, siis öölnud vanarahvas: kevade poole sajab veel nii palju, et õlevihu ära katab. EV 12099:1
+Ku poornah tuiskas üle riijalasõ, sõs kapstmaar'apäävä üle katusõhar'a. EV 8981:24
+Kui maarjapäeval lumi katusel, siis jüripäev hanged aia ääres. EV 6230:45
+Siis on korralik talv, kui kevadise maarjapäeva ees on üheksa ööd-päeva külma ja järel üheksa ööd-päeva külma. EV 4393:1
+Kui öhessa ööd enne ja öhessa ööd pääle vana maarjapäeva ühtejärgi öökülm on, sis tuleja soe kevadi. EV 14830:1
+Kui maarjapäeval kolm ööd külmad on, siis tuleb külm kevade. EV 6229:3
+Kui paastumaarjapäeva öösel külmab, külmab veel 40 ööd. EV 8174:185
+Kudas ilm maaarjapäe öösi, nõnda on veel nelikümmend ööd ja päeva. EV 6224:1
+Kui enne paastumaarjapäeva külm on, siis on pärast soe; on enne soe, siis on pärast külm. EV 8171:1
+Kui enne puasumuarjapäävä vesi üle tii juakseb, siis piäle muarjapäävä vassab jälle ärä. EV 8172:5
+Kui enne maarjapäeva jõed jooksevad, siis pääle maarjapäeva külmavad kinni. EV 6225:4
+Kui lumehang enne paastumaarjapäeva kaks nädalad koera kannab, siis kannab lumehang pääle paastumaarjapäeva kaks nädalad härga. EV 6067:1
+Üheksa üüd-pääva enne maarjad koera-kassi hang, üheksa üüd-pääva pärast maarjad hobuse-härja hang. EV 14848:6
+Kui lumi inne kapstmaarja katte nädalit ei lää, sõs lätt pääle kapstmaarjapääva kats nädalit. EV 6071:5
+Kui lumi inne kapstmaarjapäivä kats nädälit ei lää, sis lätt pääle kats kiidsen ja viidsen. EV 6072:4
+Kui ülestõusmesepühal nii soe on, et võib kuueväel käia, siis piab nelipühi nii külm olema, et käi kasukaga. EV 15129:1
+Peläku ei talve, peläku talve poiga. EV 11556:7
+Kevadisel pääval kümme värralast. EV 3680:1
+Mart maadlõs, aprel' nakkas jo paistma. EV 6437:1
+Mida aprill ehitab, seda mai lahutab. EV 335:1
+Kui enne jüripäeva müristab, tuleb külm kevade. EV 2804:6
+Kui esimest korda põhjas müristab, siis ööldakse külm, ja kui lõunas, siis soe sui tuleva. EV 7112:2
+Kui jüripäeval jäetist veel leida on, siis on ka jaanipäeval. EV 2811:1
+Käiakse enne jüripäeva särgiga, käiakse peale jaani kasukaga. EV 2818:1
+[15–16] Mets, puud, taimed
+
+15. Kevade-endeid metsavari järgi
+Ku mõts ennast vara ära puhastab, okse maha aab, sis tuleb varane keväde. EV 6769:1
+Lumi läheb kahe kuu pärast peale esimest metsa vari langemist. EV 6078:2
+Kui mets kolmat korda okast rabab, siis kuu aega hiljem läheb lumi maast ära. EV 6764:1
+Kui küünlakuus kuuseoksad pudenevad, hakkab lumi paastukuus sulama. EV 5208:3
+Kui küünlakuus on kuuseokkas lume pial, siis on paastukuus vee pial. EV 5209:6
+Kui kevadel sula ilmaga kuuseohakad lume peal on, siis ei olevat reeteel enam pikka pera. EV 3660:1
+Kui kuuskede nõelad lumele kukuvad, sis on sula tulemas ja kevad kah. EV 4755:1
+16. Mets ja taimed kevadel (mitmesugust)
+Ega puud vangi jää. EV 9075:1
+Mida külmem talv, seda magusam mahl. EV 5129:1
+Maarjast ige maa magusaks lähteb. EV 6222:1
+Jüri jürab metsa koore vallale. EV 2779:2
+Kui esimine kord müristab, siis lüöb pajukuore lahti. EV 7111:2
+[17–20] Loomad ja linnud
+
+17. Talveune keskpunkt ja lõpp
+Kõik matakad pöörvad madisepäeval teise külje peale ennast. EV 6446:10
+Matsepäeval pöörab uss teise külje. EV 6288:25
+Madisepääval peavad kärpsed, ussid ja muud veiked elukad hinge tõusma. EV 6284:45
+Madisepääval peavad kõik talveund magajad loomad ülesse ärkama. EV 6283:4
+Karu läheb mihklipäeval pessa, küünlapäeval käänab teise külje, maarjapäeval tuleb enne päeva välja. EV 3300:100
+18. Lindude pesaehitamine, munemine, pojad, häälitsemine jne.
+Kui vares enne küünlapäeva pesa teeb, läheb lumi enne maarjapäeva ära. EV 13808:1
+Kaaren viiva esimese rau küünlapääva hommiku pessa. EV 2826:4
+Vares viib maarjapäeva hommikul esimese pesapalgi kohale. EV 13830:26
+Maarjapäeval muneb vares esimese muna. EV 6238:35
+Maarjapää hommiku muneda ronk esimese muna pesasse. EV 6245:4
+Maarjapäeva hommikul pidand kaarna pesas leiduma üks kuldmuna. EV 6236:1
+Varest öeldakse maarjapäeval juba omi lapsi ristivat. EV 13826:3
+Suurel reedil ristida ronk oma lapsi. EV 10956:16
+Sipelgatest üteldi, et kui nemad kevadel juba pesa pääl suruvad, siis peab kaarn ehk ronk oma poegade kasvatamisega ka valmis olema. EV 10506:1
+Kui vares kolm korda vaagub, siis tuleb kevad. EV 13811:11
+Puastumuarjapäeval on kiivel esimene muna pesas. EV 8178:1
+Metshane teeb pastumaerebe humigu esimese muna. EV 6804:1
+Kui enne maarjapäivä muna pesäs, siis soe, varane kevad. EV 6226:1
+Kui teder hange pääl ukerdas, sis kuu perast kulu pääl. EV 11726:4
+Jüripäeval muneb teder esimese muna. EV 2793:2
+Tedre lauluaeg peab olema kaks nädalad enne ja kaks pääle jüripäeva. EV 11727:1
+.
+19. Rändlindude saabumine ja sellega seonduvad ended
+Sorokasvetah käänd nellikümmend nelli tsirku suu suvõ poolõ. EV 10630:8
+Käädri kutsub seitsekümmend seitse paari kevadelindusid siiapoole. EV 5016:2
+Kui kuldnokad tulevad vanakuu põhjas välja, siis teise kuu vanas põhjas läheb talve ära. EV 4511:1
+Musträästas on seda ka siis ütelnud, et "Niipea kui mätas lahti, siis ma olen paradiisis". EV 6967:1
+Lõoke on ütlend: "Enne mina mitte ei loula, kui mätas pole lahti". EV 6122:1
+Lui lõuke kevadi juba lume alt kolm liivatera kätte saab, pidada ära elama. EV 6116:1
+Nõnda palju sadab viil piäle lõevukese lund, kui palju lõevuke tullen muast löis. EV 10026:2
+Kui lõuke küündlakuul laulma hakkab, tuleb külm kevade; tuleb ta paastukuul nähtavale, siis saab soe kevade. EV 6117:4
+Ku' lõivokõnõ tulõ varra vällä, maartakuuh, saa viil lõivõ talv. EV 6119:1
+Tuleb lõoke keväde vanakuu otsa sehen vällä ― lühike lämmi keväde, noorekuu sehen ― külm pikäline keväde. EV 6127:17
+Vastla vanalkuul hakkavad lõuke laulma. EV 13887:4
+Madisepäeval lõigatakse lõukese keel lahti, et see pea laulma hakkaks. EV 6276:3
+Matsebest leogese sitt hanges. EV 6286:2
+Kuu seisab kure sitt, kaks kuud lõo sitt hange peal. EV 4728:1
+Mis kurel muud kuuluta ku' keväjät. EV 4582:1
+Kapsamaarjapäeval on kurg kuhjapesas, haug ojasuus ja siga läheb pälve peale. EV 2812:3
+Hani viiva halla, luiga viiva lume, kure viiva kurja ilma. EV 824:8
+Kui metshaned ja luiged kevadel jälle tagasi lendavad, siis tuleb külma ja lund jälle maha. EV 6803:1
+Kured tulevad, kuju maa. EV 4576:1
+Linavästrik tuleb kure tiiva all kevade soojalt maalt siia. EV 5874:14
+Västerikku vääri-sääri, sie potkib kirsa suosta. EV 14506:1
+Linalinnu jalg tallab merejää puruks. EV 5866:13
+Västrik väina nõtkutaja. EV 14507:1
+Esimene vilu pääsukese vilu ja teine saarepunga vilu. EV 14208:2
+Ku toomelehed hiirekõrva suurutse om, hakab kiriküüt laulma. EV 12039:3
+Ööpik tulevat siis välja, kui ta ennast toomingalehtedesse ära peita saab. EV 14819:1
+Kui kukulind kuusemetsas hüüab, siis tuleb vilu kevade; kui kasemetsas, siis soe kevade. EV 4482:1
+Jüripääva homiku tuleb kägu välla kukkuma. EV 2801:12
+Kiivit toob kindatäie, koovit koormatäie sooja. EV 3766:2
+Lõoke toob lõunasooja, pääsuke toob päevasooja, ööbik toob öösooja. EV 6124:80
+Kiriküüt laulvet jaaniüül katetõisku keele pääl. EV 3847:1
+20. Loomad talvesüdamest kevadeni (mitmesugust)
+Tõnisepäeval sünnib esimene hülgepoeg merre. EV 12297:1
+Soe kõne: "Kündlekuuh om ilm kui kuld, tii kui laud, kästä-äi kärsäkid, lähetätä-äi lülläkid". EV 10807:1
+Kui paarm tuleb kaera tegema, siis kesa kündma ei tule. EV 8409:1
+Näed valget liblikat kevadel esiti, siis on vaenuline elu; näed kirju ― kirju elu; näed musta ― murelik elu; näed kollast ― kõige parem elu. EV 5795:35
+ABB. Südasuvest talveharjani
+
+[21–23] Ilmastik
+
+21. Suve kaldumine sügise poole: päeva lühenemine, vihmasajud, vee jahenemine, kaste ja hall
+Suvisel pööripäeval [....] öö esmalt läheb vaid kukesamm pikemaks. EV 11004:2
+Päävakäänäk, pääval käändäs mustõb puul pääle. EV 9307:1
+Jaan viskab esimese jahe kivi vette, Jaak teise ja Mihkel kolmanda. EV 2332:115
+Jaan viskab kuuma kivi merre, Jaak jahe ja Mihkel külma. EV 2333:1
+Pärtlipäevast vissatakse külm kivi merese ja soe kivi kajuse. EV 9344:2
+Piitrepääväst nakkas jo' suvi handa tagasi kiskma. EV 8513:1
+Piitripääväl tuleb sadu, kas palju või vähä, aga ike sadab. EV 8512:2
+Kui karusekuu tuleb kuivaga sisse, siis lähäb vihmaga vällä; tuleb vihmaga sisse, lähäb kuivaga vällä. EV 3320:2
+Kui seitsmevennapäeval sajab, siis sajab seitse nädalat. EV 10281:230
+Maretapäe on vesine päe. EV 6409:1
+Karusepäävast läheb koll põesasse. EV 3326:12
+Karusepäevast läheb metsapõesas pimedaks. EV 3322:6
+Jaagabipäevast saadik on veel pool suve. EV 2303:1
+Jakapääväst küünüs suvi jo' sügüsehe. EV 2308:1
+Jaagobipäevast jääb kaste künka ääre, halle aja ääre. EV 2304:5
+Kui peale jaagupipäeva üks tilk sajab, tuleb maast üheksa juure. EV 2314:1
+Ann kusõs. EV 325:6
+Olevipäevast tulevad tähed taeva. EV 7832:2
+Olevipäävast sündida lumepilved taevase. EV 7834:1
+Laurits võtab pealt, Pärt pistab pea põhja. EV 5610:1
+Laurits toob esimesi halge. EV 5607:4
+Laurits ja Pärt näitavad teineteisele hammast. EV 5604:1
+Kui enne lauritspäiva ja pärtlispäiva vahel külma ei tule, sis ei tule enne mihklipäiva. EV 5613:2
+Kui enne laaritsapäävä ijätäb, peräss laaritsapäävä enam ei ijätä. EV 5612:2
+Pärtlipäev on esimene sügisepäev. EV 9345:1
+22. Talve saabumine, lume ja sula, sooja ja külma vaheldumine (eriti mardi- ja kadripäeva paiku). Talve tuleku ja püsimajäämise ended
+Jumala ilma ja lapse perset ei või uskuda. EV 2533:22
+Sügisesel ööl on üheksa poega. EV 11403:110
+Sügüsine üö soitab ühiksmä hobuse seljas. EV 11407:1
+Mihklipäev vihkab suve ja meelitab talve. EV 6830:1
+Kui mihklis tuul lõunast, ei ole enne jõulu reeteed oodata, kui aga hommikust või põhjast, tuleb varsti lund. EV 6805:2
+Mis Mihkel unustab, seda Mart mäletab. EV 6811:1
+Kui hani mardipäeva ajal jää peale astub, astub ta jõulu ajal sopa sisse. EV 830:7
+Kui Märt sulatab, siis Kadri külmetab, kui aga Märt külmetab, siis Kadri sulatab. EV 6431:3
+Kui mart must ja märg, siis kadri kõva ja külmetanud. EV 6426:1
+Kui Märt käib mudas, Kadri kahutuse pääl. EV 6427:2
+Kui Mart kapsib kasukaga, siis Kadri ripsib riidega. EV 6425:7
+Kadri istub Mardi süles. EV 2869:4
+Kadri karvane, Märt sile. EV 2870:1
+Mart tinutab, Kadri sulatab. EV 6442:2
+Mart teeb sillad soode peale, madalema maade peale. EV 6441:1
+Märt määndab, Kadri kaandab, Simun tei silda soie pääle, Niklus needab, Toomas tore miis sõidab üle. EV 6439:150
+Kadri hakkab kusele, aga andres pistab pulga ette. EV 2868:100
+Mis kadrid lahti sulatavad, seda tinutab Andres kinni. EV 2875:1
+Kui kadrinapääva sula, siis olla andreksepääval jälle külma. EV 2878:1
+Pärtliraju ja kadrisula ei jäänud ühelgi aastal tulemata, jõulu- ja küünlasula oota aga iga aasta asjata. EV 9332:1
+Kadri sõel lume sees. EV 2872:1
+Juri tege silla, mikul naklas. EV 2773:4
+Nigula habe on purikas. EV 7423:1
+Rage äi jää mette talve põhaks. EV 9507:1
+Ei talve ühega tule ega kahega lähä. EV 11541:2
+Ütese talvõ om üte talvõ sisen. EV 14850:2
+Niimitu päeva esimene lumi maas, niimitu talvet teeb. EV 9275:1
+Ega talv taeva jää. EV 11538:55
+Ega vihm taeva jää. EV 14043:8
+Põhi kinnitab talvet. EV 9123:5
+Ega külma ei külveta. EV 5091:1
+23. Ilm aastavahetuse ümbruses; öömaksimum ja päeva pikenemine. Ilmaended talve piires või talvehakust kevadeni
+Paljuks seda hilissügisest päeva: ainult kaks hämarat otsa ja vaks valgemat aega nende vahel. EV 1258:2
+Lutsapää öö on nii pitk, et kotkas kukub puust maha. EV 6104:17
+Toomapäeval ikka tuiskab. EV 12034:18
+Kui toomapäev tuiskab, siis tuiskab talve läbi. EV 12033:1
+Tuumapäiv lätt pääväl üts tolm maaha, päiv nakas selgembäst minemä. EV 12036:1
+Jõulu viimase pühal saab juba pääva tunda. EV 2730:1
+Keskmisel jõulupühal läheb päev kukesammu pikemaks. EV 3619:20
+Viimasel jõulupühal pidi juba päev nii pikk olema, et kapsasupp kees korralikult ära. EV 14082:1
+Taga jõulut talv tuleb. EV 2736:2
+Jõulukuu ütles: "Ma olen küll külm, aga üks jalg lonkab"; näärikuu ütles: "Ma olen kõige külmem"; küünlakuu ütles: "Ma oleksin veel külmem, aga üks silm jookseb vett". EV 2737:1
+Eha kollendab ― külma tuleb; mets sinab ― sula tuleb; taevas mustab põhja poolt ― ilm läheb sulale. EV 513:1
+Ehtu rusku, talve jatku. EV 14519:2
+Hiline talve, hiline kevade. EV 1254:4
+Kui hani jõulu ajal pori peal, siis jüripäeval jää peal. EV 829:2
+Külmad, jõulud, soojad lihavõtted; rohelised jõulud, valged lihavõtted. EV 5100:20
+24. Mets ja taimed
+Jaan jakkas pajukoore, Piitre pitsit perägi. EV 2324:8
+Lauritsapäävast hakka mets änam põlema, siis võib tuld metsa teha. EV 5619:1
+Mustikad toovad musta öö. EV 6962:3
+Rukkimaarja toob marju, pärt pähklid peale ka. EV 9840:1
+Enne ja peräst pärtlepäeva kolm päeva ollev lepp paju poolvelle. EV 9335:1
+Pärtel seened külvab. EV 9331:7
+[25–27] Loomad ja linnud
+
+25. Hunt muutub karjale ohtlikuks; karu jääb talveunne; rottide pesategemine
+Kui rüäpää vällä tule, sis tulevad soepojad ka edimält võsast vällä. EV 9967:1
+Mihklikuu sees antakse huntidele talvemoon kätte. EV 6812:3
+Hundile peab jüripäävast päitsed pähä aetama, et ta sui ei pea murdma, ja mihklipäävast võõtakse jälle peast ära. EV 2800:30
+Mihklipäiv om soe vabaslaskmise päiv. EV 6831:2
+Mihklepäevast saab hundi suu lahti lastud. EV 6822:3
+Mihklipäevas õmmeldasse hundi silmad kinni, et hunt ei näes karja. EV 6826:1
+Karu läheb mihklipäeval pessa, küünlapäeval käänab teise külje, maarjapäeval tuleb enne päeva välja. EV 3300:100
+Kui karu otsib vara pesa, tuleb vara külm. EV 3312:1
+Karu imeb ikka talvel käppä. EV 3294:1
+Kui rotid teevad pesa nabra otsa, tuleb sügav talv, kui nabra põhja, siis madal. EV 9807:4
+26. Käol odraokas kurgus. Rändlindude lahkumine
+Kägu jääb siis kukkumast ära, kui heinasaatu nääb. EV 4920:4
+Kui odraohak välja tuleb, siis kägu ei kuku enam. EV 7771:2
+Käole läheb pärast jaanipäeva kesvapääohakas kurku. EV 7768:30
+Kägu muudab end jaanipäevast saadik raudkulliks. EV 4921:6
+Mitu päeva pääle jaanipäeva kägu kukkub, niimitu nädalat on pääle mihklipäeva sooja. EV 9273:1
+Peetri-paavlipäeval jääb kägu vait. EV 8511:2
+Lõoke laulab pääle jaani leinalaulu. EV 6121:1
+Pärt perib pääsukesed. EV 9333:1
+Pärtlipäeval lähvad pääsukesed järve. EV 9343:2
+Pärtlipäeva aegas pääsuksed lähevad ää. EV 9341:8
+Linavästrik minevat soojale maale kure tiival. EV 5873:3
+Kured lähvad ― kurjad ilmad, haned lähvad ― hall taga, luiged lähvad ― lumi taga. EV 4574:225
+Lumi luike tiiva all. EV 6077:15
+Kured toovad minnes öökülmad, haned päevakülmad, luiged toovad lund. EV 4575:1
+Kui luiged madalalt lendavad, siis tuleb madal talv, kui luiged kõrgelt lendavad, siis tuleb sügav talv. EV 6061:35
+27. Usside ja konnade suusulgemine; parmude, kärbeste, sääskede kadumine
+Rukkilõiku ajal on konnal suu kinni. EV 9838:8
+Ussimaarjapäevast pidi uss mätast hammustama. EV 12972:1
+Ussimaarjapäeval kaovad ussid, kärbsed, putukad, ussi suu sulutakse. EV 12971:35
+Kui enne jaanipääva ühe paarmu tapetakse, tuleb üheksa ise juure, kui pärast jaanipääva tapetakse, kaub üheksa ise ära. EV 2357:40
+Maretapäest saadik kaduvad parmud ää. EV 6410:5
+Parm jääja maretapäävast saadik pümeks. EV 8410:2
+Parm pask juanipääväni, siäsk miis mihklipääväni. EV 8411:70
+Pääle rukkimaarjapäeva hakkada kärblased ennast pooma. EV 9841:1
+Kui sitik pääle marti lendab, ei tulla enne jõulu lume. EV 10525:1
+ABC. Suvi ja talv
+
+28. Suve ja talve vastandusi: suvi leebe, talv karm jms.; metsloomad suvel ja talvel
+Sadaes suved tulevad, talved leugu vääristäies. EV 10028:3
+Talvel kulli küüne, suvel soe hamba. EV 11564:1
+Suvi silmist kaija, talv hambist tunda. EV 10995:1
+Suvel on suured silmad, talvel on pikad hambad. EV 10990:2
+Suvõl umma selge silmä, helle kõrva. EV 11001:1
+Tsirkki om suuri vasta suvvõ, kinä vasta keväjat. EV 12069:2
+Suvi tulõ suurustõn, talv tulõ tapõldõn. EV 10998:3
+Talv tuleb tantsides, suvi tuleb suikudes. EV 11567:2
+Sui on sooja ― naene laiska, talve külma ― mees punane. EV 10984:4
+Suvi on vaise ja laisa perält. EV 10994:1
+See armastap suvve, kellel kasukat ei ole. EV 10978:1
+Tali tule, tapp latse, suvi and latsele suud. EV 11558:1
+Jänes ütlevät, et temäl olevat talvine üükortel paremp kui suvine söödämaa. EV 2757:1
+Susi om suvel suus, talvel tare takan. EV 10830:1
+29. Suve-endeid talve järgi ja vastupidi. Jõul ja jaan kui "aastanabad"
+Kuidas tali, nõnda suvi. EV 11547:4
+Sui käib talve järele. EV 10983:5
+Ku hää tali, sis hää sui kah. EV 11546:2
+Kui pole talvet talve ajal, siis pole suid sui ajal. EV 11549:3
+Külm tali, soe suvi. EV 5121:10
+Talvine sula näitäs suvel põuda. EV 11572:1
+Küünlakuu külm toob sooja sui. EV 5212:4
+Üheksa tuisku pärast madiksepääva, siis on soe suvi. EV 14845:1
+Mida sügavam tali, seda soem sui. EV 11363:1
+Kui madal tali, tuleb vilu sui. EV 6255:1
+Kui on talv paljas, siis on suvi kuiv. EV 11548:1
+Kuhjas tee ― vihmane sui; lohus tee ― kuib sui. EV 4454:1
+Kui talvel vähe tuisku, siis suvel vähe vihma. EV 11553:1
+Soe ja kuiv juuli ― külm ja selge jaanuar; vilu ja vihmane juuli ― soe ja sajune jaanuar. EV 10589:1
+Ei tule suvi talveta, ei talv ilma suveta. EV 10968:1
+Sügise selge, kevade kange, sui soe, talve külm. EV 11387:1
+Sui teeb talvele aset. EV 10985:1
+Jõul ja Jaan on kohastikku. EV 2724:4
+Mida külmem jõulu, seda palavam jaan. EV 5127:1
+Kui jaan palav, siis jõul külm. EV 2341:1
+30. Suve ja talve tuleku seos tuulesuundadega
+Ei kaguta suve ega talve saa. EV 2910:1
+Talv tule lõunest ja suvi põhjast. EV 11568:1
+Idast tuleb igine sui, põhjast põline tali. EV 1892:2
+Idast tuleb hää ilm, idast tuleb paha ilm, idast tuleb maailma ots. EV 1893:5
+ABD. Kevad ja sügis
+
+31. Kevad ja sügis kui üleminekuaastaajad. Suve / talve piiridaatumeid. Suvesüdame piiridaatumeid
+Sügisel on suve silmad, aga talve hambad. EV 11380:5
+Sui ja talve taplevad ikka. EV 10980:3
+Madis jääd teeb, Madis jääd lahutab. EV 6263:3
+Mihklipäev on esimene talvepüha, paastumaarjapäev esimene suipüha. EV 6828:2
+Jüri om suvetooja, Mihkli talvetooja. EV 2782:3
+Jüri alustas, Jakap lõpõtas. EV 2775:1
+Jüri ao läütäs, Jakob ao kistutas. EV 2777:8
+Jüri jakkas, Jakob kaksas. EV 2778:5
+32. Kevade ja sügise vastandusi (ka lähi-ilmaennetes)
+Sügüs tulõ, süä suur, kevväi tulõ, kiistka küleh. EV 11394:1
+Kevväi tule kullaga, süküs sitaga. EV 3647:1
+Sügüsene agu and ao pudru puhku, keväjäne anna-ai aigu putru kiitägi. EV 11405:1
+Vintske iä om sügise, kerge iä om keväde. EV 14213:1
+Sügisest ööd ja kevadist päeva ei saea mitte. EV 11404:1
+Kevade ruskab taevas külma, sügise suoja. EV 3644:2
+Sügisene udu tähendab sooja, kevadine udu külma. EV 11402:25
+[33–34] Ilmaendeid sügisest kevadesse ja vastupidi
+
+33. Kevade-endeid sügise järgi
+Kui mihklipäevaks puulehed maas, siis jüripäevaks rohi maas. EV 6813:45
+Kui mihklipäeval on puud veel lehtes, siis on nad jüripäeval jälle lehtes. EV 6815:1
+Kui hinged reega lähvad, siis viivad põhu tulu ära, kui vankrega, siis tuleb soe tali. EV 1283:7
+Kui hani enne mardipäeva üle jõe läheb, siis on maarjapäeval jõgi kinni. EV 828:1
+Kui mardipäeval jõed kinni, siis ka maarjapäeval. EV 6389:6
+Kui mardipäeval kännul kübar pääs on, siis ka maarjapäeval. EV 6390:1
+Kui mardipäev mättad lumest paljad on, siis peavad mättad ka maarjapäeval lume alt väljas olema. EV 6394:1
+Kui märt must, siis ka lihavõte must; kui märt valge, siis lihavõte ka valge. EV 6429:10
+Kui mardipäeval lumi katuste pääl, siis lihadepühade aeg kah. EV 6395:18
+Kui märtipäävä järv vallalõ, sis jüripäävä kah. EV 6396:1
+Kui mardipäeval tee tolmab, siis jüripäeval ka piab tolmama. EV 6392:1
+Kui kadrinapäevaks enne valged põhjasõel maha läks, siis olid maarjapäevaks vied lahti. EV 2877:1
+Kui lumi tuleb sügisel lehtede peale, siis tuleb ta ka kevadel lehtede peale. EV 6073:2
+Hiline sügise, varane kevade. EV 1253:2
+34. Sügise-endeid kevade järgi
+Mitu ööd sooja ehk külma enne maarjapäeva, niimitu nädalat sooja ehk külma enne mihklipäeva. EV 14797:1
+Kui pääsukesed enne jüripäeva tulevad, lähevad nad enne mihklipäeva. EV 9353:2
+Kui jüripäeval hanged aia ääres, siis mihklipäeval lehed puus. EV 2809:2
+Kui enne jüripäeva müristab, siis tuleb enne mihklipäeva lumi maha. EV 2803:1
+Kui vesi keväjä ei uha niidupervi, sis uht sügüse. EV 13962:4
+Ku' pikk kevväi, lühkene süküs. EV 8792:1
+ABE. Kuutsükkel, noor- ja vanakuu. Kuu ja aastaajad. Viiereedene kuu. Nädalapäevad
+
+35.
+Uus kuu, uued ilmad. EV 12989:3
+Kuu muut ilma. EV 4723:1
+Om noorekuu otsa külmä, sis vanakuu otsa saava lämmä. EV 7566:1
+Ku kuu luvvas saistõh, sis saava' sadõjatsõ' ilma'. EV 4720:1
+Vanakuu tuulõ puhkva satto, noorõkuu tuulõ põuda. EV 13556:1
+Noorkuu kosutab, vana kautab. EV 7563:6
+Nuurkuu kasvatas kalõstõ, vanakuu määtäs pehmehe. EV 7565:1
+Mis noor mees teeb, see vana mees rikub. EV 7488:1
+Noorekuuga ei saa suvve, vanaga talve. EV 7557:8
+Küündlakuu käib katuseharja kaudu, oolekuu käib aiavitsa alust kaudu. EV 5211:1
+Ooleba kuu keib nii madalasti, et siga nääb teda ka. EV 7836:1
+Oolekuu ― mädakuu. EV 8064:1
+Viieriedene kuu on ikka paha kuu. EV 14071:3
+Reede Jummal rikas, eespa õige. EV 9593:3
+ABF. Mitmesuguseid seoseid ja suhteid rahvakalendris
+
+36. Tähtpäevade ja kalendripühakute spetsiifikast ja "sugulusest"
+Pärast pööripäeva jäeda päike kolm päeva pesasse. EV 9358:1
+Pööripäeva tuul teeb pesa. EV 9359:1
+Jüripäävast saab johukuhugi. EV 2802:1
+Joulust mies johugi saab. EV 2723:5
+Tõnisepäeva peetakse tõbede pärast, madisepäeva madude pärast. EV 12298:1
+Mart on üle maa ja Kadri üle karja. EV 6440:6
+Mikul om meehte jummal, Paas's poissa puusli. EV 6834:1
+Miitrosk olõ-õi tsortsi. EV 6833:1
+Mardipäiv ja mihklipäiv on vennaksed ja katripäiv on neie õde. EV 6397:1
+Kadri olla Mardi naine, aga Lutsi olla sõsar. EV 2871:1
+Mihklipäev arvati vanapagana heinategemise päev olevat. EV 6825:1
+Toomapäeväl pandvat must Toomas edimädse tütre mihele, tõnnispäeväl tõse, küindlepäeväl kolmanda. EV 12035:7
+37. Kalendaarseid seoseid tähtpäevade vahel. Aastaringne ajaarvamine
+Jaan õhta, Maarja hommiku. EV 2337:1
+Mart õhta, Katri hommiku. EV 6445:1
+Jouluaat ja hiivanuut on ühel nädäläpäiväl. EV 2716:1
+Madisepäev, mihklipäev ja mardipäev on alati ühe päeva peal. EV 6280:1
+Lihaheite kõndvet ja otsvet noort kuud ja tõisipest päeva taga. EV 5820:1
+Vastlapäev ajab pühad kargama. EV 13890:1
+Kui joulul Seul koidu otsaks maha lähäb, siis saab maarjapäiväks ehasse. EV 2732:1
+Küünlapäevast seitse sikku, kaheksa karja, kümme kündi, üksteistkümmend jüripäeva; jüripäevast üheksa jaani, jaanist neli jaagupi, jaaguppäevast kuus mihklipäeva, mihklipäevast kuus marti, mardist kaks katri, kadrist neli jõulu, jõulust kuus küündlapäeva. EV 5235:145

@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="ee">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="application/javascript">
+  <meta charset="UTF-8">
+  <title>Vanasõnaraamat</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/b83cf0fab3.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./css/main.css">
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container">
+        <!-- Logo -->
+        <div class="navbar-brand d-flex align-items-center">
+            <a href="https://www.kirmus.ee/">
+              <img class="img-fluid w-50 d-inline-block" src="./svg/EKM-logo-light-navbar.svg" alt="Eesti Kirjandusmuuseum">
+            </a>
+          <!-- Button trigger modal -->
+          <button id="idAccessibilityMenuToggleMobile" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal">
+            <i class="fa-solid fa-gear fs-4"></i>
+          </button>
+          <!-- Burger menu -->
+          <button class="navbar-toggler mt-0" type="button" data-bs-toggle="collapse" data-bs-target="#idNavToggle"
+          aria-controls="idNavToggle" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="fa-solid fa-bars fa-xl"></span>
+          </button>
+
+        </div>
+
+        <div class="collapse navbar-collapse justify-content-end" id="idNavToggle">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./index.html">Avaleht</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./konekaanud.html">Kõnekäänud</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="idNavbarDropdown1" role="button"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                Eesti vanasõnad
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item border-bottom" href="./vanasonad_ee.html">Eesti</a></li>
+                <li><a class="dropdown-item" href="./vanasonad_de.html">Eesti+Saksa</a></li>
+              </ul>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="./vanasonaraamat.html">Vanasõnaraamat</a>
+            </li>
+          </ul>
+        </div>
+        <!-- Button trigger modal -->
+        <button id="idAccessibilityMenuToggleDesktop" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal">
+          <i class="fa-solid fa-gear fs-4"></i>
+        </button>
+        <!-- Modal -->
+        <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="ModalLabel" aria-hidden="true">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header border-0 fs-4">
+                <span>Ligipääsetavus</span>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+              </div>
+              <div class="modal-header py-0">
+                <div class="btn-group me-2" role="group">
+                  <button type="button" class="btn btn-primary mt-0 active" id="modal-appearance-settings-btn"><i class="fa-solid fa-paintbrush"></i> Teksti suurus, reavahe, värv</button>
+                  <button type="button" class="btn btn-primary mt-0" id="modal-speech-settings-btn"><i class="fa-solid fa-volume-high"></i> Kõne</button>
+                </div>
+                
+              </div>
+              <!-- Accessibility options -->
+              <div id="modal-appearance-options" class="modal-body p-5 d-none">
+                <!-- Text size -->
+                <span class="fw-bolder fs-2">Teksti suurus</span>
+                <form id="idAccessibilityTextSize">
+                  <div class="form-range">
+                    <input class="form-range" type="range" min="-2" max="2" step="1" value="0" id="textSizeRange">
+                  </div>
+                  <div class="form-text ms-auto">
+                    <span id="textSizeValue"></span>
+                    <i class="fa-solid fa-text-height fs-2"></i>
+                  </div>
+                  <hr>
+                </form>
+                <!-- Line height -->
+                <form id="idAccessibilityLineHeight">
+                  <span class="fw-bolder fs-2">Reavahe</span>
+                  <div class="form-range">
+                    <input class="form-range" type="range" min="0.6" max="1.4" step="0.2" value="1" id="lineHeightRange">
+                  </div>
+                  <div class="form-text ms-auto text-center d-flex flex-column justify-content-center align-items-center">
+                    <span id="lineHeightValue"></span>
+                    <i class="fa-solid fa-arrows-left-right-to-line d-flex flex-column flex-wrap fa-rotate-90 fs-2"></i>
+                  </div>
+                  <hr>
+                </form>
+                <!-- Contrast -->
+                <form id="idAccessibilityContrast">
+                  <i class="fa-solid fa-circle-half-stroke fs-2"></i>
+                  <span class="fw-bolder fs-2">Kontrastsus</span>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="flexRadioContrast" id="flexRadioContrast1" value="1">
+                    <label class="form-check-label" for="flexRadioContrast">
+                      Kõrge kontrastsus (must taust, kollane tekst)
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="flexRadioContrast" id="flexRadioContrast2" value="0" checked>
+                    <label class="form-check-label" for="flexRadioContrast">
+                      Originaal
+                    </label>
+                  </div>
+                </form>
+
+              </div>
+              <!-- Accessibility options -->
+              <div id="modal-speech-options" class="modal-body px-5">
+                <!-- Voice type -->
+                <span class="fw-bolder fs-2 mb-3">Vali hääl</span>
+                <form id="id-speech-form" type="checked">
+                  <div>
+                    <input type="radio" class="btn-check" name="options" id="option-speech-0" autocomplete="off" value="0" checked>
+                    <label id="label-speech-0" class="btn btn-secondary" for="option-speech-0">Peeter</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="1" class="btn-check" name="options" id="option-speech-1" autocomplete="off">
+                    <label id="label-speech-1" class="btn btn-secondary" for="option-speech-1">Tõnu</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="2" class="btn-check" name="options" id="option-speech-2" autocomplete="off">
+                    <label id="label-speech-2" class="btn btn-secondary" for="option-speech-2">Indrek</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="3" class="btn-check" name="options" id="option-speech-3" autocomplete="off">
+                    <label id="label-speech-3" class="btn btn-secondary" for="option-speech-3">Külli</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="4" class="btn-check" name="options" id="option-speech-4" autocomplete="off">
+                    <label id="label-speech-4" class="btn btn-secondary" for="option-speech-4">Liivika</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="5" class="btn-check" name="options" id="option-speech-5" autocomplete="off">
+                    <label id="label-speech-5" class="btn btn-secondary" for="option-speech-5">Tambet</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="6" class="btn-check" name="options" id="option-speech-6" autocomplete="off">
+                    <label id="label-speech-6" class="btn btn-secondary" for="option-speech-6">Liisi</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="7" class="btn-check" name="options" id="option-speech-7" autocomplete="off">
+                    <label id="label-speech-7" class="btn btn-secondary" for="option-speech-7">Riina</label>
+                  </div>
+                  <div>
+                    <input type="radio" value="8" class="btn-check" name="options" id="option-speech-8" autocomplete="off">
+                    <label id="label-speech-8" class="btn btn-secondary" for="option-speech-8">Lee</label>
+                  </div>
+                </form>
+                <span class="mt-2" id="selected-voice-span"></span>
+                <div class="text-center align-middle d-flex justify-content-center align-items-center">
+                  <button id="speech-test-button" type="button" class="btn btn-secondary bg-dark">Testi&nbsp;&nbsp;<i class="fa-solid fa-volume-high"></i></button>
+                  <div class="loader-test fs2"></div>
+                </div>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary bg-dark" data-bs-dismiss="modal">Sulge</button>
+                <button id="idAccessibilityDefault" type="button" class="btn btn-primary bg-dark">Taasta algseaded</button>
+              </div>
+            </div>
+          </div>
+        </div>
+    </nav>
+
+    <section>
+      <div class="container">
+        <!-- Bookmark area -->
+        <div class="bookmark-container mt-2">
+          <a href="https://www.folklore.ee/">
+            Eesti folkloristide andmebaas
+          </a>
+          <span class="separator"> / </span>
+          <a href="https://www.folklore.ee/ebaas/">
+            Andmebaasid
+          </a>
+          <span class="separator"> / </span>
+          <a href="./index.html">
+            Eesti ütlused
+          </a>
+          <span class="separator"> / </span>
+          <a href="./vanasonaraamat.html">
+            Vanasõnaraamat
+          </a>
+          <span class="separator"> / </span>
+          <a href="./vsr_ee.html">
+            Vanasõnaraamat [Eesti]
+          </a>
+        </div>
+        <!-- Back button area -->
+        <div id="backBtnArea" class="mt-sm-4">
+          <a href="./vanasonaraamat.html" class="back-button">
+            <i class="fa-solid fa-chevron-left"></i> Tagasi
+          </a>
+        </div>
+
+      </div>
+      <div class="container">
+        <div class="row">
+          <div id="toc-col-toggler" class="col-lg-2">
+            <button id="toc-button">
+              <span class="float-start">SISUKORD</span>
+              <i class="fa fa-chevron-circle-down float-end" aria-hidden="true"></i>
+            </button>
+            <nav id="toc">
+              <a href="#chapter-0" id="toc-button-0"><h1>ESILEHT</h1></a>
+              <a href="#chapter-1" id="toc-button-1"><h1>SAATEKS</h1></a>
+              <details href="#chapter-2" id="toc-button-2">
+                <summary>
+                <h1>A. LOODUS</h1>
+                </summary>
+                <a href="#chapter-2-0">
+                  <h2>AA. MITTEKALENDAARSED VANASÕNAD</h2>
+                </a>
+                <a href="#chapter-2-1">
+                  <h2>AB - AASTARING LOODUSES</h2>
+                </a>
+              </details>
+              <details href="#chapter-3" id="toc-button-3">
+                <summary>
+                <h1>B. ELATUSALAD JA AMETID</h1>
+                </summary>
+                <a href="#chapter-3-0">
+                  <h2>BA - MAAVILJELUS</h2>
+                </a>
+                <a href="#chapter-3-1">
+                  <h2>BB - HEINATEGU</h2>
+                </a>
+                <a href="#chapter-3-2">
+                  <h2>BC - LOOMAKASVATUS, KODULOOMAD</h2>
+                </a>
+                <a href="#chapter-3-3">
+                  <h2>BD - KALAPÜÜK JA MERESÕIT</h2>
+                </a>
+                <a href="#chapter-3-4">
+                  <h2>BE - KÜTTIMINE, JAHIMEES</h2>
+                </a>
+                <a href="#chapter-3-5">
+                  <h2>BF - AMETID JA AMETIMEHED</h2>
+                </a>
+                <a href="#chapter-3-6">
+                  <h2>BG - ERI ELUKUTSETE KÕRVUTUSI. PÕLLUTÖÖ EELISTAMINE. ÜHEKSA AMETIT - KÜMNES NÄLG</h2>
+                </a>
+              </details>
+              <details id="toc-button-4">
+                <summary>
+                <h1>C. SÕIDUD JA KÄIGUD..</h1>
+                </summary>
+                <a href="#chapter-4-0">
+                  <h2>CA. TEEKOND, SÕIDUD, VEOD</h2>
+                </a>
+                <a href="#chapter-4-1">
+                  <h2>CB. METSA- JA EHITUSTÖÖD. HOONED. KÜTE, VALGUSTUS</h2>
+                </a>
+                <a href="#chapter-4-2">
+                  <h2>CC. ASJAD, RIISTAD, ANUMAD</h2>
+                </a>
+                <a href="#chapter-4-3">
+                  <h2>CD. KEHAKATTED JA NENDE VALMISTAMINE</h2>
+                </a>
+                <a href="#chapter-4-4">
+                  <h2>CE. PUHTUSEPIDAMINE, SÖÖDIKUD</h2>
+                </a>
+              </details>
+              <details id="toc-button-5">
+                <summary>
+                <h1>D. BIOLOOGILINE INIMENE</h1>
+                </summary>
+                <a href="#chapter-5-0">
+                  <h2>DA. INIMESE VÄLIMUS. PSÜÜHILISTE KVALITEETIDE ENNUSTAMINE FÜÜSILISTE JÄRGI</h2>
+                </a>
+                <a href="#chapter-5-1">
+                  <h2>DB. MAGAMINE, UNI. UNENÄGU</h2>
+                </a>
+                <a href="#chapter-5-2">
+                  <h2>DC. TOIT JA SÖÖMINE</h2>
+                </a>
+                <a href="#chapter-5-3">
+                  <h2>DD. AEVASTUS, SÜLG</h2>
+                </a>
+                <a href="#chapter-5-4">
+                  <h2>DE. VIIN JA TUBAKAS</h2>
+                </a>
+                <a href="#chapter-5-5">
+                  <h2>DF. HAIGUS JA TERVIS</h2>
+                </a>
+                <a href="#chapter-5-6">
+                  <h2>DG. SURM</h2>
+                </a>
+              </details>
+              <details id="toc-button-6">
+                <summary>
+                <h1>E. EAD JA SOOD...</h1>
+                </summary>
+                <a href="#chapter-6-0">
+                  <h2>EA. NOORUS JA VANADUS</h2>
+                </a>
+                <a href="#chapter-6-1">
+                  <h2>EB. LAPS. LAPSED JA VANEMAD</h2>
+                </a>
+                <a href="#chapter-6-2">
+                  <h2>EC. POISS JA TÜDRUK. ARMASTUS, RIKUTUS, VALLASLAPS</h2>
+                </a>
+                <a href="#chapter-6-3">
+                  <h2>ED. NAISEVÕTT JA MEHELEMINEK</h2>
+                </a>
+                <a href="#chapter-6-4">
+                  <h2>EE. ABIELU. MEES JA NAINE</h2>
+                </a>
+                <a href="#chapter-6-5">
+                  <h2>EF. ABIELURIKKUMINE. LAHKUMINEK</h2>
+                </a>
+                <a href="#chapter-6-6">
+                  <h2>EG. ABIKAASA SURM. TEINE NAINE. LESK</h2>
+                </a>
+                <a href="#chapter-6-7">
+                  <h2>EH. VAESLAPS JA VÕÕRASEMA</h2>
+                </a>
+                <a href="#chapter-6-8">
+                  <h2>EI. SUGULASED, OMAKSED</h2>
+                </a>
+                <a href="#chapter-6-9">
+                  <h2>EJ. KODU JA KÜLA</h2>
+                </a>
+                <a href="#chapter-6-10">
+                  <h2>EK. KOLIMINE. HULKUR. KODUTU</h2>
+                </a>
+              </details>
+              <details id="toc-button-7">
+                <summary>
+                <h1>F. TEGEMINE, SAAMINE, KOGUMINE, KULUTAMINE</h1>
+                </summary>
+                <a href="#chapter-7-0">
+                  <h2>FA. TÖÖ JA TEGUTSEMINE</h2>
+                </a>
+                <a href="#chapter-7-1">
+                  <h2>FB. SAAMINE, KOGUMINE, KULUTAMINE, TAHTMINED</h2>
+                </a>
+              </details>
+              <details id="toc-button-8">
+                <summary>
+                <h1>G. OMANDI- JA KLASSISUHTED..</h1>
+                </summary>
+                <a href="#chapter-8-0">
+                  <h2>GA. ANDMINE JA ABI. KINK. LAEN, VÕLG</h2>
+                </a>
+                <a href="#chapter-8-1">
+                  <h2>GB. SANT, KERJAMINE</h2>
+                </a>
+                <a href="#chapter-8-2">
+                  <h2>GC. RIKAS JA VAENE. RAHA</h2>
+                </a>
+                <a href="#chapter-8-3">
+                  <h2>GD. TALUELU SOTSIAALSEID ASPEKTE. PERERAHVAS JA PALGALISED. KODAPOOLINE, SAUNIK, VABADIK</h2>
+                </a>
+                <a href="#chapter-8-4">
+                  <h2>GE. MÕIS. SAKS JA TALUMEES. MÕISAMEHED</h2>
+                </a>
+                <a href="#chapter-8-5">
+                  <h2>GF. KIRIK JA PASTOR</h2>
+                </a>
+                <a href="#chapter-8-6">
+                  <h2>GG. KOOL, HARIDUS. RAAMAT, PABER, KIRI</h2>
+                </a>
+                <a href="#chapter-8-7">
+                  <h2>GH. KOHUS, KOHTUNIK, KOHTUSKÄIK</h2>
+                </a>
+                <a href="#chapter-8-8">
+                  <h2>GI. KOHUS, KOHTUNIK, KOHTUSKÄIK</h2>
+                </a>
+                <a href="#chapter-8-9">
+                  <h2>GJ. LINN, LINLANE, LINNASKÄIK</h2>
+                </a>
+                <a href="#chapter-8-10">
+                  <h2>GK. KAUP, HIND. OST JA MÜÜK. VAHETAMINE</h2>
+                </a>
+                <a href="#chapter-8-11">
+                  <h2>GL. KUNINGAS, KEISER. VALITSUS, RIIK</h2>
+                </a>
+                <a href="#chapter-8-12">
+                  <h2>GM. SÕDA. KROONUTEENISTUS, SOLDAT</h2>
+                </a>
+                <a href="#chapter-8-13">
+                  <h2>GN. MITMESUGUST SOTSIAALSELT EBAVÕRDSETE SUHETEST. VÕIMU, JUHTIMISE JA POSITSIOONIGA SEOTUD HOIAKUID, TEGEVUSI JA SÜNDMUSI</h2>
+                </a>
+                <a href="#chapter-8-14">
+                  <h2>GO. SUHTUMINE ENDA JA TEISE OMASSE. KASU / ISESEISVUS</h2>
+                </a>
+                <a href="#chapter-8-15">
+                  <h2>GP. VARGUS, KELMUS, PETTUS. KURITEGU, ÜLEKOHUS, SÜÜ, VASTUTUS, KARISTUS</h2>
+                </a>
+                <a href="#chapter-8-16">
+                  <h2>GQ. PETETAVUS / KAVALUS, OSAVUS</h2>
+                </a>
+              </details>
+              <details id="toc-button-9">
+                <summary>
+                <h1>H. INIMSUHTED ÜLDISEMALT..</h1>
+                </summary>
+                <a href="#chapter-9-0">
+                  <h2>HA. HÄBI JA AU..</h2>
+                </a>
+                <a href="#chapter-9-1">
+                  <h2>HB. SÜÜTUS, "PUHAS SÜDA", ÕIGUS, ÕIGLUS. VALETAMINE, VALE JA TÕDE</h2>
+                </a>
+                <a href="#chapter-9-2">
+                  <h2>HC. LUBAMINE JA TÄITMINE, SÕNAPIDAMINE JA -MURDMINE</h2>
+                </a>
+                <a href="#chapter-9-3">
+                  <h2>HD. KOKKULEPE, "KAUP". KOMPROMISS</h2>
+                </a>
+                <a href="#chapter-9-4">
+                  <h2>HE. INIMESE MUUTLIKKUS / MUUTUMATUS. VÄLISE (NÄHTUMUSE, KÄITUMISE) JA SISEMISE (OLEMUSE, MEELELAADI) VASTAVUS / ERINEVUS. TEESKLUS, SALALIKKUS</h2>
+                </a>
+                <a href="#chapter-9-5">
+                  <h2>HF. INIMESETUNDMINE. UMBUSK JA USALDUS. SALADUS, KAASTEADJAD</h2>
+                </a>
+                <a href="#chapter-9-6">
+                  <h2>HG. RÄÄKIMINE / VAIKIMINE. HINNANGUGA SEOTUD KÕNEAKTE</h2>
+                </a>
+                <a href="#chapter-9-7">
+                  <h2>HH. VIRISEMINE, NURISEMINE, HÄDALDAMINE, MURETSEMINE. PESSIMISM JA OPTIMISM. NAER, NALI; EDEVUS, KERGLUS</h2>
+                </a>
+                <a href="#chapter-9-8">
+                  <h2>HI. SÕBER JA VAENLANE. SÕPRUS JA VIHAVAEN</h2>
+                </a>
+                <a href="#chapter-9-9">
+                  <h2>HJ. KONFLIKT, TÜLI, KAKLUS</h2>
+                </a>
+                <a href="#chapter-9-10">
+                  <h2>HK. HEADUS JA KURJUS. HEA- JA PAHATEGUDE VASTASTIKKUS. KÄTTEMAKS, TÄNAMATUS</h2>
+                </a>
+                <a href="#chapter-9-11">
+                  <h2>HL. ISE JA TEINE, ILM</h2>
+                </a>
+                <a href="#chapter-9-12">
+                  <h2>HM. ÜKS JA HULK, KOLLEKTIIV. ÜMBRUS, MILJÖÖ, KAASLASED, NENDE MÕJU</h2>
+                </a>
+                <a href="#chapter-9-13">
+                  <h2>HN. KÜLASKÄIGUD, PEOD, LÕBUSTUSED, TÄHTPÄREVAD, KOMBED, TAIAD</h2>
+                </a>
+                <a href="#chapter-9-14">
+                  <h2>HO. VANASÕNA</h2>
+                </a>
+                <a href="#chapter-9-15">
+                  <h2>HP. TARKUS JA RUMALUS</h2>
+                </a>
+                <a href="#chapter-9-16">
+                  <h2>HQ. MEELED, TUNNETUS, KOGEMUS</h2>
+                </a>
+              </details>
+              <details id="toc-button-10">
+                <summary>
+                  <h1>I. ABSTRAKTSEMAID KATEGOORIAID JA VAHEKORDI</h1>
+                </summary>
+                <a href="#chapter-10-0">
+                  <h2>IA. AJAGA SEOTUD KATEGOORIAID</h2>
+                </a>
+                <a href="#chapter-10-1">
+                  <h2>IB. HALB JA HEA ELUS, HÄDA, MURE JA RÕÕM, ÕNNETUS JA ÕNN, NENDE VAHELDUVUS. JUHUS, SAATUS</h2>
+                </a>
+                <a href="#chapter-10-2">
+                  <h2>IC. JUMAL, KURAT, USK</h2>
+                </a>
+                <a href="#chapter-10-3">
+                  <h2>ID. HIMU, KIUSATUS, PATT, EKSITUS</h2>
+                </a>
+                <a href="#chapter-10-4">
+                  <h2>IE. KAHETSUS, HÜVITAMINE</h2>
+                </a>
+                <a href="#chapter-10-5">
+                  <h2>IF. HEASTAMATUS, PÖÖRDUMATUS, PARATAMATUS</h2>
+                </a>
+                <a href="#chapter-10-6">
+                  <h2>IG. VÕIMATU</h2>
+                </a>
+                <a href="#chapter-10-7">
+                  <h2>IH. KUS. . . , SEAL: VASTANDITE, OSA JA TERVIKU VM KOOSESINEMINE</h2>
+                </a>
+                <a href="#chapter-10-8">
+                  <h2>II. PÕHJUS JA TAGAJÄRG. SUUR JA VÄIKE. MÕÕT. LIIGA / PARAS</h2>
+                </a>
+                <a href="#chapter-10-9">
+                  <h2>IJ. ARVUD, "ABSOLUUDID", LOENDID, LIIGITELUD</h2>
+                </a>
+                <a href="#chapter-10-10">
+                  <h2>IK. KAHESTATUS</h2>
+                </a>
+                <a href="#chapter-10-11">
+                  <h2>IL. ERINEVUS / VASTAVUS, SOBIVUS</h2>
+                </a>
+                <a href="#chapter-10-12">
+                  <h2>IM. VÄÄRTUS</h2>
+                </a>
+                <a href="#chapter-10-13">
+                  <h2>IN. ALAMÕÕDULINE, "KLASSIVÄLINE"</h2>
+                </a>
+                <a href="#chapter-10-14">
+                  <h2>IO. HÕIMUPILGET, ÜTLUSI EESTI ERI PIIRKONDADE ASUKATE JA TEISTE RAHVASTE KOHTA</h2>
+                </a>
+                <a href="#chapter-10-15">
+                  <h2>IP. SÕNAMÕNITUSI ("OLEKS", "POLEKS", "PEAKS", "PIDI", "AGA", "EKS", "ISE")</h2>
+                </a>
+              </details>
+              <details id="toc-button-11">
+                <summary>
+                  <h1>J. MÕISTMATA MÕISTUKÕNESID</h1>
+                </summary>
+                <a href="#chapter-11-0-0">
+                  <h2>JA. MÕISTMATA MÕISTUKÕNESID</h2>
+                </a>
+              </details>
+              <a id="toc-button-12"><h1>"VANASÕNARAAMATU" SISULISEST SÜSTEEMIST</h1></a>
+            </nav>
+          </div>
+          <div id="chapters" class="col-lg-10">
+            <div id="chapter-0">
+              <img id="img-0" class="img-fluid w-100" src="./img/page-0-0.gif">
+              <h1>Koostajad: Anne Hussar, Arvo Krikmann, Ingrid Sarv</h1>
+            </div>
+            <!-- Saateks -->
+            <div id="chapter-1">
+              <img class="img-fluid w-100" src="./img/page-1.gif">
+              <h1>Saateks</h1>
+              <ul>
+                <li>
+                  <p>
+                    Siinne on e-versioon 1984. a. ilmunud "Vanasõnaraamatust", mille koostasid Anne Hussar, Arvo Krikmann ja Ingrid Sarv. E-versioonis on tehtud järgmised muutused:
+                    <ul>
+                      <li>
+                        Küsitava folkloorsusega vanasõnatüübid on välja jäetud; 
+                      </li>
+                      <li>
+                        Iga vanasõnatüüp on esindatud üheainsa tekstiga, lisavariandid ja
+                        kihelkonnalühendid vm. päritolutähised on välja jäetud; 
+                      </li>
+                      <li>
+                        Mõnevõrra on muudetud ja redigeeritud kirjutist ""Vanasõnaraamatu" sisulisest süsteemist".
+                      </li>
+                    </ul>
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Harri Kõiva lahkel loal on kasutatud illustratsioonideks 1984. a. raamatu peatüki-vinjette.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Iga tsiteeritud vanasõnateksti järel on lühend EV ja selle järel kaks kooloniga eraldatud arvu ―
+                    esimene arv näitab vanasõnatüübi asukohta väljaandes "Eesti vanasõnad" (1980–1988), teine selle vanasõna rahvaehtsate üleskirjutuste arvu.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Kõik märkused avastatud näpukate ja põhimõttelisemate puuduste kohta, samuti muud
+                    kommentaarid, küsimused jne. palume saata autorile aadressil: 
+                    <a href="mailto:kriku@haldjas.folklore.ee">kriku@haldjas.folklore.ee</a>
+                  </p>
+                </li>
+              </ul>
+            </div>
+            <div id="chapter-2">
+
+            </div>
+            <div id="chapter-3">
+
+            </div>
+            <div id="chapter-4">
+
+            </div>
+            <div id="chapter-5">
+
+            </div>
+            <div id="chapter-6">
+
+            </div>
+            <div id="chapter-7">
+
+            </div>
+            <div id="chapter-8">
+
+            </div>
+            <div id="chapter-9">
+
+            </div>
+            <div id="chapter-10">
+
+            </div>
+            <div id="chapter-11">
+
+            </div>
+            <div id="chapter-12">
+              
+            </div>
+            <!-- Pagination-->
+            <div class="pagination d-flex mb-5">
+
+              <button class="me-2 pe-3 float-start" id="prev-button-bottom">
+                <i class="fa-solid fa-chevron-up fa-rotate-270 my-auto"></i>
+                <span id="page-button-text-prev">Eelmine</span>
+              </button>
+
+              <button class="ms-2 ps-3 float-end" id="next-button-bottom"><span id="page-button-text-next">Järgmine</span><i class="fa-solid fa-chevron-up fa-rotate-90"></i></button>
+            </div>
+          </div>
+
+  
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Mobile view navigation buttons -->
+    <div class="bot-btn">
+      <button id="bot-back-btn">
+        <a href="./vanasonaraamat.html"><i class="fa-solid fa-turn-up fa-rotate-270"></i></a>
+      </button>
+      <button id="bot-scroll-up-btn" onclick="scrollToTop()">
+        <i class="fa-solid fa-arrow-up"></i>
+      </button>
+    </div>
+
+</body>
+<script src="./app.js" crossorigin="anonymous"></script>
+<script src="./accessibility_options.js" crossorigin="anonymous"></script>
+<script src="./speech.js" crossorigin="anonymous"></script>
+<script src="./vsr_ee.js" crossorigin="anonymous"></script>
+</html>

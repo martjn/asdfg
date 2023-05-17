@@ -1,0 +1,1155 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-3.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-3-flip.gif">
+</div>
+B. ELATUSALAD JA AMETID
+BA. MAAVILJELUS
+
+BAA. Hea / halva aasta ja viljasaagi endeid sügise-, talve- ja kevademärkide (ilma, lindude) järgi
+
+38. Rikkaliku viljasaagi, hea aasta jms. endeid
+Kui seetse talvet tieb, siis tuleb hiä suvi. EV 10272:3
+Kui känd seitse kübarat kannab, siis tuleb viljarikas aasta. EV 4935:5
+Mida külmem tali, seda suurem lõikus. EV 5128:1
+Mida paksem lumi talvel, seda pitkem vili suvel. EV 8280:4
+Mida kõrgemad lumehanged, seda suuremad viljarõugud. EV 4849:85
+Kui jõuluaiga lumõhangõ omma katuseräästani, sis kasuvat suvel vili rinnuni. EV 2717:1
+Külmä jõulu ja hää aasta omma velitse. EV 5126:3
+Kui jõulu esimese pühä hommokul päiv, aotäht ning kuu kõik kolm ütekõrraga nätä on, sis tulevat tõise aasta hää viljarikas aasta. EV 2733:1
+Näeriöösel mets on vangis, annab Jumal viljavoodu. EV 7751:1
+Kui tõnnispäiväl tsiga taivade päivä näep, sis saap hää suvi. EV 12291:10
+Kui tõnisepäeval nii paljugi päikest paistab, et mees näeb hobuse selga hüpata, siis tuleb kena aeg. EV 12287:320
+Kui tõnisepäev tuiskab, siis põllumees hõiskab. EV 12289:2
+Kui Peeter ahelas, siis tuleb tagaõue ära külida. EV 8507:1
+Kui vastlapäeval nii palju päeva paistab, et hobuse jõuab ette panna, siis on kevade kenad ilmad. EV 13889:7
+Ku lihaheite suve poole kargab, sõs om hää aasta. EV 5819:1
+Vihmased nelipühid, rasvased jõulud. EV 14065:15
+Kui maarjapäevän härg rästä alt juvva saab, tuleb hää villä-aasta. EV 6234:6
+Kui maarjapäevaks veeotsad kokku jooksevad, tuleb hää kevad. EV 6228:2
+Kui maarjapäevaks Pede Peipsisse läheb, tuleb hää suvi. EV 6227:1
+Kui vares maarjapäeval esimise pesa aampalgi paneb, siis on hääd vilja-aastad oodata. EV 13812:1
+Ku künnüpäeväl sant saua mulda saab pistä, tuleb hää aasta. EV 5173:4
+Ku maa enne hal'les lää ku mõts, sis tulevet rikas suvi. EV 6197:1
+Ku kevade pikä jääpulga rästen, siis suvel pika villapää. EV 3662:1
+Mida rohkem halled kevadel maas, seda rohkem vilja sügisel salves. EV 802:1
+Külm ja vilu kevade / toob viljarikka sügise. EV 5105:1
+Kui kurg kevadel hästi hõiskab, siis peremees hõiskab sügisel viljasalve äärel. EV 4571:1
+Kui mai on külm ja kare, / sis täüs om ait ja tare. EV 6340:1
+Külm mai ja märg juuni täidab keldrid ja aidad laeni. EV 5114:2
+39. Kehva viljasaagi, näljaasta jms. endeid
+Ku mõtsal om talvõl rassõ, sis saa rahval ka rassõ aestak. EV 6768:1
+Kui talve ajal puud alati lund täis on, siis ütleb vanarahvas: puud on vaevas ja tuleb vaene aeg. EV 11550:1
+Kui talvel mets on vangis, siis on suvel vili vangis. EV 11551:1
+Kui näriöödel metsad härmas on, siis on tuleva aasta rahvas vangis. EV 7750:1
+Jaanuarikuu sula om nälja ema. EV 2362:1
+Kui küünlabä vihma sajab, tilkuvad põllumehe silmad vett. EV 5214:1
+Kui küünlapäeval nii sula on, et kukk saab katuseräästa alt juua, siis rikuvad kevadel liiad vihmasajud viljapõlde. EV 5218:3
+Küünlapäeva sula ja maretapäeva põud on nälja ema. EV 5236:10
+Kui jüripäeva hommiku vihma sadab, siis rukisaak saab pool vähemb. EV 2808:7
+Varane müristamine, hiline nälg. EV 13700:1
+Kui kevadel on kerge kajuda, siis on raske lõigata sügisel. EV 3658:1
+Ööpik lehtimata metsas, / kerged vihud varda otsas. EV 14818:2
+Kui kevaja vainukägu pal'lu kukk, sis kukvat ta nälgä tõses aastas. EV 3666:1
+Ku kägu hilda kuuk, sis kuuk sõklõid. EV 4917:1
+Ku kesväpää vällän om, sis kuuk kägu nälga. EV 3627:1
+40. Hea ja paha alternatiiv üheskoos
+Hea Pärtäl rajub enne, paha pera. EV 9328:6
+Kui mihklipäeval tuul pöörab, siis viljahinnad ka pööravad. EV 6817:1
+Kui konna villärõuke sisse tükivä, om vili tol aastal otav, omma roti sääl, lätt kallis. EV 4315:1
+Kui mardipäeval sõel selgelt looja läheb, siis tuleb hää vilja-aasta. EV 6391:23
+Sünge jõulupäev tõutab täis viljapäid, selge jõulupäev tühje viljapäid. EV 11433:1
+Ku küündlepäävä kahr ar' käänd tõõsõ küle, sis saa ruttu kevväi ja illos kevväi, ku käänä-äi, sis saa halv kevväi. EV 5223:1
+Kukub kägu kolm päeva enne jüripäeva, siis on hea vilja-aasta, aga kukub kägu kolm päeva pärast jüripäeva, siis on nälja-aasta. EV 4916:1
+Ku jüripäe kased urbas, saava kurba; ku lehtes, saava leiba; ku raagus, saava raha. EV 2817:1
+Kui kägu tuleb vitsa, siis vilja; kui urba, siis ohtu; kui lehte, siis leiba. EV 4915:125
+Tuleb ööpik lehtis metsa, toob ta vilja-aasta, tuleb ta raagus metsa, toob nälja-aasta. EV 14814:2
+Ku halv kevvai, saa hüä suvi; ku kevvai hüä, sis suvi halv. EV 790:1
+41. Vilja külmumise / mittekülmumise prognoose
+Ku sügüse enne päevatõusu ka hobusenaha suurune pilv taevan om, sis ei külme vili põllu pääl ärä. EV 11371:1
+Kui pärtlipäeval räästad tilguvad, siis jaanipäeval võtab külm viljad. EV 9337:1
+Kui mets vana mihklepääval on lehest ära, teisel sügisel jääb vilja külma kätte. EV 6766:1
+Kui Sõel kadripäeval enne päikesetõusu maha lähäb, siis ei võta külm järgmisel sügisel vilja ära. EV 11075:1
+Kui januaarikuul mets okka maha viskab, siis jäeb vebruaari täiskuu päevä kätte; kui vebruaari täiskuu päevä kätte jäeb, siis võtab külm sügise villä ärä. EV 2363:1
+On küündlakuus nõnna paelu sula, et lumi ümmer piitsakiile hakkab, ei võta külm suivilla. EV 5213:1
+Kui maarjapäeva ööl külm kanamuna väljas lõhki lööb, siis tuleb külm kevade. EV 6233:60
+Kui maarjapäeva ööl hobusesitt ära härmatab, ei võta külm vilja sügise ära. EV 6232:2
+Kui jüripääväl katuse piäl lund ei õle, siis külm vilja ei võta. EV 2815:1
+Kui külm kevadel õied ära võtab, siis võtab ta sügisel vilja ära. EV 5093:2
+Kui kevade külm võtab konnakudu, võtab sügise vilja. EV 3655:45
+[42–43] Saagiendeid konkreetsete viljade kohta
+
+42. Teraviljad (rukis, oder, kaer, tatar)
+Kui mihklipäiväl tii tolmas, võta tõse aasta rükki kotiga. EV 6818:1
+Enne jõulud on rukkihärmatus ja pärast jõulud aganahärmatus. EV 2719:1
+Kui küünlapäeval nii palju sula on, et kukk juua saab, siis saab üksi saks õlut, aga kui härg juua saab, siis saab ka talupoeg õlut. EV 5217:25
+Kui küünlapäeva ajal sula on, saab sulane õlut teha, aga kui sula ei ole, siis ei saa ka peremeeski õlut teha. EV 5215:1
+Kui madiksepääv teine teeroobas umbe tuisand ja teine lahti on, siis saab teist vilja üksi ja teist ei saa; kui mõlemad umbes, siis saab mõlemad vilja; kui mõlemad lahti, siis ei saa kumbagi. EV 6267:5
+Kui kured laulvad jää peal, siis mehed laulvad sügisel õlle peal. EV 4569:1
+Tilguve enne jüripäevä rästä, saab santki õlut juvva. EV 12011:2
+Kui jüripäeval hommikupoole vihma sajab, siis on rukkisaak poole vähem; kui õhtupoole, siis on odrasaak poole vähem. EV 2810:1
+Jüripäev kui hobõsõsita pääl ka hallõtki om, sõs saa iks hää suvi. EV 2796:15
+Kui jüripäeva hommiku hobuseraua suuruseltki taevas punetab, siis ikka saab tatraid, aga kui mitte puna näha ei ole, ei siis maksa tatraid teha. EV 2807:1
+Lepaurvad ― leivaurvad, kaseurvad ― kesvaurvad, haavaurvad ― kaeraurvad, jämedad ümargused lepaurvad ― näljaurvad. EV 5750:8
+Kuis kevadel lepad urvas, nii sügisel kaerad pääs. EV 3656:1
+Külm kebad ― hea odra-aasta, soe kebad ― hea rukkiaasta. EV 5107:1
+43. Lina
+Kui linavästrik enne jüripäeva jää katki sõkub, siis kasvab sellel aastal hirmus hea lina. EV 5872:1
+Kui edimist hänilist lennäten näed, kasvave lina lemlise, ku mahan näed, kasvave maalise, ku aiateiban näed, kasvave pikä lina. EV 1820:20
+BAB. Vihm ja põud viljakasvuperioodil
+
+44. Vihm on viljale kasulik
+Vili kasus vihmaga, a kaar kasus kastõga. EV 14193:1
+Vihmaga saab vilja, põuaga põhku. EV 14052:1
+Vihm annab tulu manu. EV 14055:1
+Vihm om savimaa sitt. EV 14059:1
+Tilk vihma taevast änam kui tiimer meres. EV 12008:1
+Kui säitsmemagajapäävä müristas ja vihma satas, sis tulõ viil säitse viläterrä üles ja nakkas kasuma. EV 10280:1
+Sadab piitrepäevän huug vihma, on luuta keskmist saaki, sadab kaits huugu, saab hää saak ja kui kolm, sis väege rikas. EV 8514:1
+45. Kevadine lumi, enne-jaanipäevane vihm on kasulik (pärastine on kahjulik)
+Kevadine lumi on kui kord sõnnikut põllule. EV 3670:40
+Esimese mai lumi kaalub Riia linna kulla üles. EV 6070:1
+Kevadine vihm on kullast kallim. EV 3677:1
+Lehekuu vihm valmistab põldu põimamisele. EV 5628:1
+Soe vihm nädal enne jaani / aitab talupoja saani. EV 10594:1
+Jaanipäeva vihm paneb viljale jätku peale. EV 2355:1
+Viienda nädala vihm tuua rukkile poole juurde. EV 14072:2
+Enne jaani vihm om enam väärt kui kuninga kroon. EV 2321:1
+Üks hoog jaaniba-aegset vihma maksab rohkem kui Lehola poolt nurk. EV 14063:1
+Ennejaanipäevane vihm on änäm väärt kui Riia linn. EV 14044:2
+Jaanipäeva ennelõunane vihmariputis kosutab rohkem kud pärastlõunane suur padin. EV 2350:1
+Jakopipäivani satas salve ja pääle jakopipäiva salvest välla. EV 2310:7
+Enne jakopipääva palle vihma, pääle jakopit tule esigi. EV 2302:4
+Kevadel palu vihma, sügisel saab seda ilmagi. EV 3639:1
+Kevadene vihm kosutab, sügisene kautab. EV 3676:4
+Kevadene vesi tark, sügisene loll. EV 3675:1
+46. Põud on viljale kahjulik (kahjulikum kui vihm)
+Põua-aasta ― nälja-aasta. EV 9234:1
+Ega põud ei parande. EV 9230:1
+Piitri põud paab viljä kinni. EV 8510:1
+Ku maretipäeva aeg kuiv on, sis on pull tahke. EV 6407:1
+Kui maretapää kui on, siis tuhli silm jääb vesiseks. EV 6406:1
+Lina oli kord lausunud: "Päike mu paisutab, vihm venitab, põud põletab peris ära". EV 5858:1
+Vihma latse naarava, kuiva latse ikeva. EV 14054:2
+Põud piap vihma jälled ärä tasuma, aga vihm põua jälgi ei jõvva tasuda. EV 9240:1
+Parem vihma vili kui põua sõkal. EV 14048:2
+47. Vihm on kahjulikum kui põud
+Ega põld põuda ei põe. EV 9139:1
+Põua-aastade järele naeratab maa, vihma-aastade järele nutab. EV 9233:1
+Põuaga saat iks midägi, aga vesi võtt kõik ärä. EV 9236:2
+Kuiv aasta on ahtra lehma eest, märg aasta jätab üsna ilma. EV 4458:1
+Kuiv suvi, sõs panõ' ad'älõ salvõhirs pääle, hämm suvi, salvõhirs võta' maalõ. EV 4467:1
+Kuivas põues seisab saialeib, märjas kesvakannikas. EV 4464:1
+Põua põues leivakanikas. EV 9239:1
+Põud tuleb, pull põues; vihm tuleb, vits põues. EV 9241:2
+Parem süüa põuapätsi kui vihmakaraskit. EV 9229:1
+Kuiv aeg toob poole nälga, vesine aeg terve nälja. EV 4459:1
+Suur vihm on kõhnem kui põud. EV 14050:1
+Põua lapsed naeravad, vihma lapsed nutavad. EV 9238:65
+Vihm kautab küll põua jäljed, aga põud ei kauta vihma jälgi. EV 14058:8
+Põua jäljed paranevad, vihma jäljed ei parane. EV 9237:8
+Kui veel enne heinamaarjapäeva vihma tuleb, siis veel põua jälg paraneb. EV 1194:3
+Parem põua põhk kui vihma vili. EV 9232:27
+Vihma vili ja põua sõkal. EV 14057:2
+Parem pääva kuumus kui vihma vilu. EV 9279:1
+48. Vihm ja põud (mitmesugust). Pälk
+Kui Jummal oma peo kinni pitsitas, ei ole kostegi võtta. EV 2637:2
+Mõni vihm kaotab vilja, mõni vihm kosutab vilja. EV 14046:1
+Noorkuu vihm kosutab rohkem kui vanakuu oma. EV 7564:3
+Kui karusepäev kuiv on, siis annab Jumal hea sügise. EV 3323:2
+Augusti vanakuu välk valmistab villä. EV 467:1
+Välk külvab seeni. EV 11469:4
+BAC. Vegetatsioon
+
+49. Valmimisaja prognoose kasvutempo ja kevade arengu järgi; saagiendeid kasvutempo järgi
+Kui õitset ei ole näha, siis terast ei ole loota. EV 14627:1
+Kui lõoke alles pärast maarjapäeva tuleb, siis ei saavat rükkid ka enne jakobpäeva lõigata. EV 6115:1
+Kui enne ristipäeva rüaoras vao ära katab, siis on enne jaakapäeva leib käen. EV 9778:1
+Kaste enne jüripäeva, rukis enne jaakobeid. EV 3414:45
+Kui enne jüripääva müristab, siis piab enne jakobipääva lõikada saama. EV 2806:4
+Ku rüäoras inne jüripäivä neli nädälit är liigahas, saava terävä rüä. EV 9966:1
+Kui oras enne jüripääva liperdab, siis enne jaagupipääva saab leigata. EV 8073:5
+Kui rükkioras enne jüripäeva paigast ära liigub, siis saab enne jaagupipäeva lõigata. EV 9844:18
+Kui rukkioras jüripäe varese ära katab, siis saab ilusa rukki. EV 9843:7
+Kui iva jaani lätt, siis saab enne jakobipäeva leiba. EV 2292:3
+Ku enne jaani saab maasikit, saab enne jaakapäeva uudist leiba. EV 2338:3
+Kui kesväl jaakobes pää vällän ei ole, ei saa asja. EV 3625:4
+Kui jakobipäeval veel iga väljanurga pääl üks odrapää on, siis on see aasta veel lootust odre saada. EV 2312:3
+Kui lina jaanipäevaks sukavarda pitkuseks kasvab, siis kasvab hea pitk lina. EV 5849:2
+Kui lina heinamaarjapäeval konna rindu ulatab, võib veel head lina saada. EV 5848:4
+Tuust linast saa viil asi, kost jakapäävälgi hainaruaga üle võit minnä. EV 5865:2
+Mis pärtlipäevas verese ei saa, see ei valmista enam. EV 9338:1
+[50–52] Vegetatsiooni kestus, etapid, areng. Saagi valmimisaeg: "hädauudne", viimistlus
+
+50. Teraviljad
+Rukkil on kaks nädalat õitsemise aega, kaks nädalat kasvamise aega ja kaks nädalat küpsemise aega. EV 9832:11
+Odre tahetakse kaheteistkümne nädalaga kotist kotti. EV 3624:4
+Rügä olev ütelnu, et tema tõist nooremad ütessa ööd-päeva järgi ootav ja sõs tõisega üten valmis saavad. EV 9960:1
+Ku jo rügä häitses, sõs vii latsõ rükkä, ar enämb ei koolõ. EV 9958:1
+Eerikupäeval tulevad rukkipead välja. EV 503:2
+Piata nelipühid ja ivata jaanipääva ei ole. EV 8475:7
+Jaanipäevast sitt veet, peetripäevast kesä kündä, jaagapäeväst äestada kolla. EV 2352:1
+Jaan tule, kands kandli all, Jakup tule, päts pää otsan. EV 2331:3
+Maret tuleb koogikotiga, Jakob toob kõva kannika. EV 6403:1
+Maret tuleb mageda leivaga, Jaagup hapu leivaga. EV 6404:1
+Jaakob toob suure kaku. EV 6400:15
+Maredebest saab hädaleiba, oolebest rugikakku. EV 6408:1
+Jaagup annab harva leiba. EV 2294:1
+Uutse usseh, jakobpäiv jalal. EV 12975:4
+Jaagup toob suure kaku, Olev kõva kannika. EV 2297:1
+Jaak tuleb, kakk kaenlus, Ool taga, oinas selgas. EV 2316:2
+Jaakobipääval jahuleem, olevipäävas uus leib. EV 2306:1
+Jaagup hädäuudine, Laurits lai leib, Pärtel pere päts. EV 2295:20
+Lauritsapäeval hädaleib, olevipäeval õige leib. EV 5615:2
+Teese kuu öetse odrad valmis olema kui maasikad. EV 11875:1
+Karusepääval murtaks ka rukki juur katki. EV 3324:1
+51. Lina. Uba ja hernes. Õunad. Humalad
+Lina käsnud vaatama tulla juagupipääväl. EV 5854:2
+Kui uba õitseb, ei soovita uppa kitkuma minna: vana vainlanegi ei minevat siis uppa. EV 12794:1
+Paasapäiv annab uakõdrad ja hernekaunad kätte. EV 8168:1
+Paasapäävä läävä' ubinah puhtas. EV 8169:1
+Lauritsapäev annab õunale maitse. EV 5617:22
+Pärtel paneb humalatele viimase viha. EV 9329:10
+52. Kapsas ja kaalikas
+Kapsas enne viitapäeva ei pea suur kasvama. EV 3203:1
+Jakap käänd kapstapäid. EV 2299:5
+Laurits laotab lehti, Pärtel pöörab päid. EV 5605:130
+Mihklipäeva öösel kasvab kapsas veel villase lõnga katki. EV 6827:75
+BAD. Saagi seos umbrohuga, mullastikuga jne.
+
+53.
+Lustjas paneb salvele puu peale, aga kastehein võtab maha. EV 6086:1
+Kastehein kisub peremehel püksid maha, aga kahrukaer ajab peremehele püksid jalga. EV 3418:1
+Savimaa on saiamaa, liivamaa on leivamaa. EV 10234:4
+Kimmäs leib kivi all, kalg kands kannu all. EV 5665:1
+Mägi om villasalv. EV 7075:1
+Kuidas maa, nõnda lina. EV 6192:1
+Ega vili muidu kasva, kui uss juure all ei näri. EV 14182:1
+BAE. Põllu- ja metsasaagi seos. Metsasaagiendeid
+
+54.
+Ku olõ-õi' mõtsah, sis om nurmõ pääl. EV 6771:1
+Kui marjasaak rohke, siis viljasaak veike; on marjasaak veike, siis viljasaak rohke. EV 6423:1
+On palju marju, siis palju vilja. EV 6420:1
+Kui madissepäeväl saeab, siis on paelu marju ja mardikid. EV 6273:18
+Küündlabe laupa loodaje pähked. EV 5224:2
+BAF. Põllu tähtsus
+
+55.
+Põld on teiste tööde ema. EV 9159:1
+Põld on talupoea piimalehm. EV 9158:1
+Põld on Jumala laud. EV 9156:1
+Muld ― põllumehe kuld. EV 6879:2
+Muld om kallimb kui kuld. EV 6876:1
+Maa müüjä häös ärä, maa ostja lätt rikkas. EV 6204:2
+Maa puhun om leib. EV 6209:2
+Hoonenurk võtab leiba, põllunurk annab leiba . EV 1517:20
+Kohenda põllunurka, aga ära kohenda majanurka. EV 9195:2
+Ega nurm toida-ai, põld toit. EV 7600:4
+Põld jäta sööti, heinamaa niida ära, pane kannikas kõrva. EV 9155:1
+BAG. Kuidas põllu eest hoolitsed, nõnda põld sulle tasub
+
+56.
+Kuda sina põllule, nõnna põld sinule. EV 9147:2
+Kuda sa põldu harid, nõnda põld sulle tasub. EV 9146:2
+Põld on kausi sarnane: kudas selle sisse pandakse, nii rüübatakse ka säält seest. EV 9157:1
+Põllumihe sammu, põllumihe rammu. EV 9194:1
+Ega põrsast kotis osteta. EV 9214:110
+Anna põllule, mis põld tahab. EV 9138:1
+Anna põllule, siis annab põld sinule. EV 9137:8
+Mees annab põllule toitu, põld annab mehele. EV 9143:4
+Kus kulda, seal mulda. EV 4503:4
+Kaeva mulda, siis saad kulda. EV 6870:8
+Kosuta põldu, siis annab ta leiba. EV 9145:1
+Põld ei kanna vilja harimata ega oras kasva külvamata. EV 9151:1
+Põld ei lase ennast petta. EV 9152:3
+Maa ei anna magades. EV 6201:1
+Kes mulda ei künnä, sii kõrt ei murra. EV 6871:1
+Kui oled sitke põllu vastu, siis on põld veel sitkem sinu vastu. EV 10530:1
+Kes põllu iist ei hoolitse, selle jätab põld hätta. EV 9144:1
+Narri põldu üks kord, põld narrib sind üheksa korda. EV 7398:175
+Põlle paikad ära, mis sa põllul teed. EV 9179:1
+Mis peremees jätab, see mets võtab. EV 8611:1
+
+BAH. Sõnniku ja tuha tähtsus. Väetamine; kütis. Kuivendus
+.
+57.
+Sõnnik põllumehe tarkus. EV 11155:2
+Sitt on põllumehe jumal. EV 10569:1
+Jumala õnnistus käüp sitarataste takan. EV 2559:1
+Lehmasõnnik on jumalasõnast vägevam. EV 5648:1
+Jumal' um suurõmb kui sitt. EV 2613:1
+Sõnnik on põllumehe kuld. EV 11153:2
+Virtsahaud om põllumehe kullahaud. EV 14248:2
+Sõnnik massab raha. EV 11152:1
+Sitt um pääasi, harimine tsia asi. EV 10571:1
+Suve sitt om talve tagavara. EV 10992:1
+Sitast saab saia. EV 10557:3
+Kus sitakest, seal leivakest. EV 10544:8
+Sitt on leiva ema. EV 10568:3
+Sitt om leib. EV 10566:1
+Kui lautas sõnnikut, siis aitas leiba. EV 5620:2
+Kui laut puhas, siis põld ka puhas. EV 5621:1
+Kui muru rammun, sis põld lahja. EV 6932:1
+Maa nutab, kui ta jääb sõnnikuta. EV 6205:1
+Tuhast tulu toidule, leest lisa leemele. EV 12096:1
+Kes tuhka korjab, sii jahu pillab. EV 12091:1
+Kui põllumees põhku müüb, müüb leiva ka ära. EV 9186:2
+See peremees, kes põhku müüb, sööb ise oma koha ää. EV 8650:1
+Peremees, kes põhku müüb, sandikoti kaela viib. EV 8617:2
+Ega' lõo sita pääl leibä kasu-ui', ku lehmä sitta saa-ai. EV 6114:2
+Lõo situb, lõo leikab. EV 6126:16
+Vanast on vili ütelnu, et ta tammelaastust enne läbi kasvab ku vana pastaldest ja viisraagust. EV 14190:3
+Jaanile ei tohi sõnnikuhaisu ninasse lasta, siis ei kasva hää rukis. EV 2323:1
+Uba oli ütelnud, et tema ei hooligi suurest väetamisest, saavat sellestki, kui naesterahvas tema kasvamise ajal oma kördihännaga kord üle käib. EV 12797:3
+Kaer ütelnud peremehele külviaegas: "Oleks sa mind sinna mua peale külvaks, kus sa odra külvad, ma paneks sulle kalevipüksid kohe jalga" . EV 2893:12
+Kaer olla ütelnud: "Kui peremees seda maad niiviisi hariks, kus ta minu külvab, kui odramaad, siis kasvaksin mina palju parem kui odra". EV 2891:1
+"Küll ma kasvaksin nagu rüga nii pikaks, kui peremees minu põllust ometi sitase vankriga üle käiks," oli kaer vanast kaebanud. EV 3440:1
+Põld rõõmustab koa siis, kui sõnnikuse vankriga üle minnakse. EV 9161:3
+Noorekuu sees sõnnikuse vankriga üle põllu käia, see on niisama hää kui vanakuu sees sõnnikud vidada. EV 7558:2
+Vanakuu suits on enam kui noorekuu tulimuld. EV 13555:1
+Rukkitüü kasvatab odra poja. EV 9847:1
+Õgas ägli ja adra külest saa-ai põllulõ väke. EV 14773:1
+Ei saa sitaga kapstit valgõs tetä. EV 10539:1
+Põld tahab põhjani harida, väli valjuste väetada. EV 9162:1
+Kraav on põllu ema. EV 4433:1
+BAI. Künd ja külv
+
+58. Sööt
+Lase põld puhata, sõs annab põld leibä. EV 9150:1
+Põld ütesä aastaka sais är süödüh, saa sääna ku vahtsõnõ sitäline. EV 9164:1
+Söödimaa seletab tudre. EV 11200:1
+59. Sügiskünd. Eelkünd ja kordus
+Sirbi järel käib atter. EV 10508:2
+Enne maretapäeva kindlasti peab adra mullaseks tegema. EV 6405:1
+Parem sügisene seatõngermaa kui kevadine suur künd. EV 11399:2
+Hiline kesakünd ja varane kordus on kerge sõnnikukorra eest. EV 1250:1
+Kolm päeva enne jakobipäeva peab kesa korratud olema, kas hobuse kael või härja sarv. EV 9260:1
+60. Kevadkünni aeg
+Üts kuu helistase kassiraudo, tõnõ kuu helistase adraraudo. EV 15059:6
+Maad olevat siis paras kündma hakata, kui adraraua jälgi enam ümberpöördud mullal näha pole. EV 6200:1
+Kes kevade märjalt põldo künnab, külvab uhakäid. EV 3634:1
+Rohunina tärkab, künnimees ärkab. EV 9792:1
+Künnipäevaks on virgal maa küntud, aga laisk tõstab veel atra aia pääle. EV 5174:45
+Kui künnipäe ader vakku, sis saab neli kõrda mauku. EV 5172:1
+Sõkl akko, här'ä' vakko. EV 11076:14
+Linapõldu küntakse siis, kui vilu pitk on ― siis on linal pitka kiudu. EV 5869:2
+61. Künd (mitmesugust: künni sügavus, põllupeenra kündmine; künni ja niitmise võrdlusi jm.)
+Künna siis, kui kuust riivatakse, kaob ohakas ja umbrohi. EV 5170:1
+Sügav vagu, kõrge kõrs. EV 11365:1
+Ei tohi sügävest künda, et haukapask süü vil'la ärä. EV 11357:1
+Põllupeenra kündijad ja lapse kaela murdijad teevad ühesuurust pattu. EV 9197:1
+Kes teise põllupeenart künnab, see närib teise südame sooni. EV 9196:1
+Olgu kõver kaar heinamaal ja õige vagu põllu pääl. EV 4907:1
+Niitu niida nulgalde ja kolgalde, aga maad künna pikka vagu. EV 7430:1
+Maa küdjale löö kiviga pähä, niido niitijale anna pala leiba. EV 6202:2
+Kündja poisil vile suus, linnul metsas laul suus. EV 5169:1
+62. Äestamine
+Jaanibes olgu ägle värati ihen. EV 2348:1
+Rükimaa ütelnud vanast: parem olla, kui enne jakubipäeva teda kuusehaluga kõrd üle veetakse, kui pärast äkkega või puruks äestakse. EV 9839:1
+Karusepääval peab korra ümber põllu aama, siis peab äke põllal olema. EV 3325:1
+Karusepäeval põllu kündmine on niisama hea kui põllule koorm sõnnikut. EV 3321:5
+Linamaad äestatakse nii kaua, kuni hobused ära väsivad. EV 5868:2
+Lina ütelnud: "Kui peremees minu nii palju äestab, et minul pea otsas hull on, siis kasvan mina hea; vähese äestuse tagajärjel kasvan vaene". EV 5863:1
+Lina äesta nii kaua, kui maa hiivale läheb. EV 5862:1
+[63–67] Rukkikülv
+
+63. Rukkikülvi aeg (mitmesugust)
+Rukkit küli varem, kui maa ootab seemet; rukkit küli hiljem, kui seeme ootab maad. EV 9834:2
+Varajatse rüä tühjätse, hillatse teratse. EV 13693:1
+Kui esimesed kured lähvad, siis on põllumehel esimene käsk kää rukkid külvata. EV 4566:2
+Lauritsapäeval peab laisal mehel seemerehe üleval olema. EV 5616:3
+.
+64. Pärtlipäeva ümbrus ― parim rukkikülvi aeg
+Laur küsib peremehe käest: "Kas sieme kottis?". EV 5611:7
+Pärdispäev ollev rüätegemise emä. EV 9340:4
+Pärtlipäeval ei külvata, sest Pärtel ütelnud: "Ärge mulle silmadesse pilluge, vaid sügage mu selga"; ta käskinud aga künda ja äästada. EV 9342:3
+Rukis tuleb külvata kolm päeva enne pärtlipäeva või kolm päeva pärast pärtlipäeva. EV 9826:2
+Röä tetäs enne pärtuspäiva ja peran kolm päiva ja sis lubanu lepp kah hennäst adraluitsa vitsas käända. EV 9959:3
+Enne pärtlipääva kolm pääva ja peale pärtlipääva kolm pääva, siis tee nii kõvast rukkid, kas aja või härja sarved maha. EV 9336:2
+Ennem kardab pajupõõsas külma kui varane rukkioras. EV 8266:4
+Peale pärtlipääva viska pool seemet rohkem. EV 9339:2
+Rükkimaarjapäe om ruuna ema päe: siis ei ole käsken hobene enne maarjapäeva kolm päeva ja pärast maarjapäeva kolm päeva ennast adra eest valla võtta. EV 9842:1
+Kui seemnekünni ajal adra väätid katki lähevad, siis on tegu leibu tagasi, nii palju saab vilja vähem. EV 10253:1
+Kui kolm päeva enne pärtlipäeva mees künni juures hobuse ajamise tarvis vitsa lähab otsima, siis selle läbi kolm vakka rukkid vähemaks jääb. EV 9263:1
+65. Rukkiseemendamise sügavus
+Kui kured kõrgelt lähevad, siis peab rukkid adra alla tegema, kui madalalt, siis äkke alla. EV 4568:1
+Kui kurõmarja samblõ seeh omma ehk kasussõ, sis aja rügä sisse sügävähe; kui kurõmarja sambla pääl kasussõ, sis tee rügä ägli alla. EV 4564:3
+Seemet künna nõnda madalast, et ta läbi künni taevast näeb. EV 10252:1
+66. Rukkiorase talvitumine
+Talvõ leib näge pal'lo vaivu, pal'lo viputas vihma ni pal'lo puh tuult. EV 11569:1
+Pääle jõulu jää ei riku enamp orast. EV 2735:1
+Sügüsetsele rüä sõkjallõ andas muru leibä, keväjätsele visatas kiviga kukruhe. EV 11406:3
+Rukis oli ütlenud: "Kes mind talvel tallab, seda tallan mina suvel järele". EV 9824:1
+67. Rukki tähtsus. Rukki ja odra võrdlusi
+Rukis on maja peremees. EV 9825:1
+Parem risuses rukkis kui kesaväljal. EV 9784:2
+Ruki ütles odrale: "Sa oled mu kõrvast kesipüks". EV 9829:1
+Oder on rukki poeg. EV 7766:1
+Rukis kasvatab oma poja ülesse, aga ohr tapab oma poja ära. EV 9823:1
+[68–72] Külviaeg
+
+68. Tuhka ja mutta (külvipinna niiskus ja temperatuur)
+Rügä tuhka, tõug mutta. EV 9961:50
+Rukkid rokka, odrad tuhka. EV 9831:3
+Rukis öelnud: "Minul om pikk teekond ees, mulle peab peremees hää leivakoti kaasa andama"; oder: "Küligu mind või turbaauku, jõuan ma seitsme nädalaga valmis"; kaer: "Küligu kas või koldetuhasse, valmin üheksama nädalaga". EV 9827:1
+Tuhkhauda külvetu kesev kasus hää. EV 12102:2
+Oder ütelnud ennemuiste: "Mind ei pia mitte lietuha ega poriauku tehtama, vaid paraja mua sisse". EV 7767:1
+Lina riäkinud ennemuste: "Mind piab mudaauku linapesasse paraja kuiva mua sisse tehtama". EV 5859:1
+Kui tuhkapäeval olid jäljed lahti, siis teha linad kuivale. EV 12098:1
+Kui pääväga lumi läheb, siis herned ja linad nõgudesse. EV 9267:2
+Kartul riakinud ennemuste: "Mind piab niiske sooja mua sisse maha pandama". EV 3281:1
+Kui madisepäev vihmane on, tulevad kartulid kraavi kaldale teha, on aga ilus ilm, võib kraavi põhja teha. EV 6272:1
+Kapsas ütelnud, et kui teda istutada tuhksesse mulda, siis kasvatab ta pea asemel omale muna alla. EV 3207:1
+Nairis riakind ennemuiste: "Mind kuiva mua kui tuha sisse külitama". EV 7155:1
+Parem tuhka külva kui porri. EV 12093:1
+Siis külva seemet, kui palja perssega mulla pial istu võid. EV 5153:1
+69. Kevadkülviaeg metsa ja taimede järgi: kuidas mets ruttab, nõnda ka põllumees
+Maa räägib ise enda eest kevadel. EV 6211:1
+Kui kevadel maa ette jõuab, siis on varane tõug hea; kui kevadel mets ette jõuab, siis on hiline tõug hea. EV 3657:1
+Kui kevade varane, siis põllumees varane. EV 3664:2
+Mets lehte, kaerad maha. EV 6784:3
+Lehed õhinal puusse, terad õhinal maasse. EV 5649:1
+Kuida mets ruttab, nõnda põllumees ka. EV 6761:55
+Kui mõts lehib, sis olgu põllumiis vahva. EV 6767:1
+Kui mets külvab kasusi, tee odre. EV 6765:1
+Ajab haab kasvusi, olgu põllutöö pooles paikas. EV 729:1
+Kui vares haavalehte ära upub, on paras kaara külida. EV 13809:12
+Ku mõts kinni lüüp, sis lüüp ka põld kinni. EV 6770:1
+Kui külvamise ajal rukiõilmed külvinõude pudenevad, siis on hea odrakülvi aeg. EV 5154:1
+Kesva külva, kui männakasvud ju looka tõmmanud. EV 3623:3
+Oder käskinud ennast, kui rukkipia juba paistab, kahe käega pilduda. EV 7765:4
+Rüähäermäs satas külbivakka, sis panõ külbivakk kaalast arõ. EV 9965:10
+Kui maa õitseb, siis on kõige parem külviaeg. EV 6195:13
+Varane põllumees naerab, aga hiline nutab. EV 13701:1
+Kelle vili viibunu, selle salve sammaldanu. EV 14186:2
+70. Kevadkülviaeg lindude ja loomade järgi
+Ööbik mõtsan, uni varnan. EV 14817:1
+Kui päästlese pesän kaits munna om munetu, sis külvä kate sõrme vahelt; kui viis munna om, sis viska viie vahelt. EV 9352:8
+Kui pihu laul, sis pillu linnu. EV 8748:7
+Kui kuldnokk kooresi pesast välja viskab, on õige aeg suvivilja külvata. EV 4513:1
+Kui kuldnokal ehk mustalräästal pojad pesas, siis pidavat ka põllumehel küli maas olema. EV 4512:1
+Kui püüpoeg juba jõuab oksa lennata kevadel, siis peab külvinõu ka varna panema. EV 9406:2
+Kui valgõ jänes küündlepäävä jo karva alostas ajama maada, sis alostatas jo jüripäävä tõugu tetä. EV 13288:1
+71. Külviaeg (ka juurviljade istutamine, kartulipanek) kuufaaside ja tähtede seisu järgi
+Kui jüripääväs sõgla- ja kooditähed õdagutse aoga maaha nakasõ käümä, sis tuu keväjä piäd varra tõugu tegemä, aga kui tähed viitvä, sis võit tõu tegemisega ka viitä. EV 2816:1
+Mis ülespidi kasvab, see tuleb nooreskuus teha; mis allapoole kasvab, peab vanaskuus maha tegema. EV 15127:10
+Jahvata vanakuuga, külvä noorõkuuga. EV 2380:1
+Ka põllumees ei külvand vanalkuul, et vanakuu külv variseb. EV 9184:1
+Lina külvetäs noorõkuuga hommuku, vanakuuga õdaku, ku ei paista kattõ päivä taivan kõrraga, muidu lätt lina hukka. EV 5855:1
+Kui hernit küliden kuu kandsun, saava kauni, kui maoh, saava maotse. EV 1230:3
+Herne külvetäs tävvel kuul: noorõl kuul naglutõt, vanal kuul vaglutõt. EV 1227:2
+Hernet tee siis, kui kuu kaaris ja päevad paaris. EV 1229:1
+Kartulid kasvatavad noorekuuga alla ja vanaga varssi. EV 3277:1
+Kartul esi ütelnu, et tetäs teda vanan kuun ja täuen kuun. EV 3276:1
+Nooreskuus istutetakse kapsaid, vanaskuus kaale. EV 7561:3
+Kui täiskuu ajal kapsaid teha, siis kasvavad kapsastel kaks pääd otsa. EV 12362:1
+72. Külvi- ja istutamisaegu kalendritähtpäevade järgi
+Kolm pääva enne jüripääva ja kolm pääva pärast jüripääva ― odraküli. EV 9261:1
+Kolm päeva enne ja kolm päeva pärast jaanipäeva võib veel kapsaid istutada. EV 4286:1
+Hobuse annad, setuka saad. EV 1349:1
+73. Külvi ja istutamise tihedus, seemne ja saagi seos
+Paras külv on siis, kui viis tera hobuse jälje sisse mahub. EV 5135:8
+Istuta kapsast, et lammas kahe tallega vahele magama sünnib. EV 3201:14
+Paks seeme kautab, harv seeme kasvatab. EV 8290:2
+Paks külv on põllu ilu, harv külv salve ilu. EV 8284:2
+Suur kardul ― kardule raisk, väike kardul ― maa raisk, keskmine ― kige paremb. EV 3283:1
+Kindatäus külbä', a' pässätäus jätä'. EV 3809:1
+Kes täie pihuga külvab, see täie pihuga leikab. EV 8740:5
+Sõrme otsast külva, sõrme otsast leika. EV 11173:1
+Häda külv kannab häda vilja. EV 1745:1
+Kes külvab, see lõikab; kes ei külva, see ei lõika. EV 5142:4
+Sool ei riku kala, seeme ei riku põldu. EV 10611:1
+Ega seemnega jõvva-ai maad võita. EV 10246:1
+74. Külv ja istutamine (mitmesugust)
+Maad küntakse mitu korda, aga seemet külvatakse üks kord. EV 6199:2
+Mis põual pildas, si nälläl närits. EV 9231:1
+Kanep lubanud kõigist teistest põlluviljadest siis üle hüpata ja sada seltsilist kotiga külvajale kaasa kanda, kui see teda kuakülele ehk aganiku taade külvaks. EV 3156:1
+Kaalikas käskinud endale (istutamise juures) poolteist niksu peale lüüa. EV 2822:1
+Kui kapsas kolm kõrda kastetud on, siis saab kastmisest küll. EV 3215:1
+75. Kevad ― põllutööde kulminatsioon. Kevadine päev ― sügisene nädal
+Päevä lääve pikepes, sammu sakepes. EV 9294:14
+Kevädine päiv toidab aesta. EV 3682:1
+Kevadine päev, sügisene nädal. EV 3673:13
+Kevadine päe on pikem ku jõulune nädäl. EV 3672:1
+Suine tund on enam kui taline nädal. EV 11002:5
+Kevade üks pääv, sügise üheksa pääva. EV 3645:3
+Kui koevaga ühe päävä viibid lõõga, teed vihmaga üheksa päävä. EV 4457:1
+BAJ. Saagikoristus. Rehepeks, lina töötlemine
+
+76. Saagikoristus
+Rukis ise olla ütelnud, et tema mitte aega ei anda ja naesed pidada käed põlle alt välja võtma. EV 9822:1
+Tsirp tsiristäs, vikat viristäs. EV 10511:1
+Sirp sise ja küüned külgi. EV 10510:1
+Sirp rukkisse, konks kartohvlisse. EV 10509:3
+Jakapääväst tsirp rükkä, a' pilak tarrõ. EV 2309:1
+Jakabest on rugileikus, pärdist odraleikus. EV 2307:1
+Esmaspe heidab maha. EV 718:1
+Kes lõikuse ajal und armastab, saab lebast lahti. EV 6111:1
+Põld paneb puhkamaie, ie paneb hingamaie. EV 9160:1
+Ii otsan istutas, poolõn iin puhatas. EV 674:2
+Laka ett laidõtas, ku viirde saias, sõs kitetäs. EV 675:2
+Lagja esi, laisa latse, otsa saa, sis kitetas. EV 5295:1
+Kui servad edasi lähvad, küll keskpaik kerib isegi tagast järele. EV 10316:1
+Rukki ütlend: "Kes mind pöllalt viimpse kut üikse üles nopib, selle salvest ma imaskid äp kau". EV 9835:7
+Kui rukki- või kaerakõrs lõikamisel mõni maha jäeb, siis torkab jõuluöösel persse. EV 9837:1
+Küll põld esiki henda kokko pand. EV 9149:3
+Suu seisub suotagi, viljuka maale lagub. EV 10919:1
+Hainaterä lää-äi maalõ, rüäterä lätt maalõ. EV 1196:1
+Enam on peutäis vilja kui koorm haganaid. EV 14183:1
+Kõva kõrs, jäme tera. EV 4899:1
+Vili, mis selge, tõstab hinda, kerge kaub tuule kätte. EV 14194:1
+Paremp halja mauga kui halla mauga süvvä. EV 801:4
+Nann koopa, naine tuppa. EV 7375:5
+77. Põllumees sügisel tark
+Las Jaan kiitäb kevadet ja Mihkel sügüst. EV 2788:1
+Külvimees pole iialgi tark olnud. EV 5155:2
+Põllumees sügise tark. EV 9192:4
+Sügüse kõik targa', keväjä ei kiäki. EV 11395:1
+Keväjä mõista-õi mehe midä, sügüse umma vana naaseki targa. EV 3650:5
+Sügise om karjapoiss targemb kui keväje kuningas. EV 11382:2
+Eks sügise näe, mis suvi on toond. EV 11370:1
+78. Rehepeks, lina töötlemine
+Kaar lubanu katsiratsi kate kõrre pääl rehitsamise ajal kõlgusasse minnä. EV 2889:3
+Kaar ütelnu vanast, et las tedä vanamiis rehepesmise aig puistates nõnda raputada, et hall pää otsan vabisep, temä siiski istuda kanna otsan ja ei tulla mitte väljä. EV 2890:1
+Linaluu ei karda kedagi, istub viil nooriku nupu pial. EV 5867:4
+Linal om ütesä surma. EV 5856:1
+Lina enne jõulu ei pala. EV 5853:1
+BB. HEINATEGU
+
+BBA. Heinamaa ja põllu, heina ja leiva seoseid ja vastandusi
+
+79.
+Heinamaa on põllu peremees. EV 1190:1
+Heinamaa on põllu ema. . EV 1189:5
+Hein on leiba ema. EV 1177:1
+Heenäkotiga ei liä keski veskile. EV 1185:2
+Hein vihkab vilja. EV 1178:1
+Kui hein hea, siis vili vilets. EV 1180:2
+Enne võib olla valge leib ja must hein kui valge hein ja must leib. EV 13283:5
+BBB. Rohukasv, heinailm, heinasaak
+
+80. Rohukasvu edenemine
+Jüri toosõ jürret mõtsa. EV 2774:8
+Mikul tulõ ruaga. EV 6835:4
+Kiivitas toob kindatäie, koovitas toob koorma heino, kurg toob kuhja maa lagedalt. EV 3765:25
+Tuuleristipääva järele ööldakse: üheksal nädalil rohi hüppab, kaheksal nädalil kargab, seitsmendal nädalil seisab paigal ja kuuendal nädalil kukkuvad kõik kohad täis. EV 12261:1
+Kuues külinädal on rohunädal. EV 4737:8
+Kuuendamal külvinädalal pandakse sool noore rohule sisse, siis ta hakkab looma toetama, niikaua väsitab. EV 4734:1
+Ristipäeval pannakse rohuladvale soola. EV 9780:11
+Jaan kahetab heina kasvu ja upitab umbrohust vilja üle. EV 2326:1
+Heinamaarjapäev ― rohu kasv täis. EV 1193:1
+Rohukasule on kastet vaja. EV 9791:1
+81. Heina väärtus. Varajane hein hea, hiline kõva
+Hein ei ole heinale veli. EV 1175:1
+Enne joani tehtud heinas on nael mett, pärast joani nael vett. EV 2318:6
+Enne jaani tett hein om lehmil rohuks. EV 2320:1
+Enne jaani tett heina süüen lamba ei röögi. EV 2319:1
+Maret külib tuhka heina sisse. EV 6402:3
+Jakob viskab raudnaela heinasse. EV 2300:125
+Jaagup viskab heina sisse liiva. EV 2298:10
+Peräst jakopipäiva võinu viglavart pite haina kuhja pandmisel vesi maha joosta ― haina ei ole siss inämp kuumas lännü. EV 2315:1
+82. Endeid heinasaagi ja -ilma kohta
+Kui talvel mies kõnnib püksikaulusseni lumes, siis suvel kõnnib põlvest saate rohos. EV 11552:1
+Kui tõnnisepää nii pallu homiku pää paistab, et kolm sammu edasi minna suab, siis suama heinaaja hakatusel heina teha, kui õhtupoolel, siis heinaaja lõpetusel. EV 12290:1
+Kui näärikuu sees sääska näed, / siis suvel heintest ilma jääd. EV 7747:4
+Kui küünla päeva nätä, oo heinu teta. EV 5200:1
+Kui küünlapäeval üle tii lummõ uja, saava haan'a kõlksõst ussõ. EV 5220:1
+Mädaneb kevade jäe jõkke ära, siis mädaneb suvel hein aasu ära. EV 7065:1
+Kui seitsmevennapäev mees saab ratsa rissi üle tee, siis saab heina tehä. EV 10282:4
+Kui nädalas kasvõi kakski päeva kuiva peab, siis heinad saavad tehtud. EV 7653:1
+Kui nii palju ilusat ilma on, et mies saab hobuse selga hüpata, siis saab ikka viel heina teha. EV 1992:1
+Ei saa pääle jakkapäävä inämb haina muial kuivada kui rihavarrõ otsah. EV 2301:3
+BBC. Heinategu
+
+83. Niitmine, luiskamine, vikat
+Lüsipuu olgu olena lepaine, siis igab ihnimese põlve. EV 6182:1
+Hea pitk vikati lööb laia kaare. EV 14160:3
+Vikat ots kõik haina vällä, kui niitja vikati hainale õigede manu juhatas. EV 14167:1
+Kuda vikat, nõnda lähker. EV 14161:1
+Kui sina vikatit ei nühi, siis nühib vikat sino. EV 14162:2
+Luiskamine om suurep kunst kui niitmine. EV 6064:1
+Luiska ja niida, luisk aega ei viida. EV 6062:10
+Siis maksvat veel heina teha, kui ühe vikatihoobiga lamba suutäie heina maha lüüa saab. EV 1181:2
+Kui kolm korda vikatiga lüües kella troppi saab, siis sünnib veel niita. EV 4291:1
+Niidutöö pole kiidutöö, luisutöö pole viidutöö. EV 7425:6
+Niitmine teeb niuded haigeks, loovõtmine luud haigeks. EV 7433:1
+84. Heina kuivatamine, loovõtmine
+Heinale on kolm kastet vaja. EV 1173:8
+Kes pilve silmi vaatab, see kuiva tööd ei saa. EV 8853:1
+Seda, mis reha ei riisu, seda loom ei söö. EV 9610:2
+Reha luisk põõsas. EV 9609:2
+Ku rihavars lige, om hein ka lige. EV 9608:1
+Kui rihavars likes saa, ei või enämb haina tetä. EV 9606:4
+85. Saad ja kuhi
+Ega saat nime ei riku. EV 9977:1
+Kes heinasaadu silumata jätvat, sellel jätvat ka lammas poja lakmata. EV 1195:1
+Saad on alles pool heina. EV 9978:3
+Vai ruga ruale veli om. EV 9816:1
+Ruga tii kuhja, kats kaku alt. EV 9815:3
+Kuhi võtab heinu, kuhi annab heinu. EV 4453:6
+Heinakuhi tuleb teha nii terav, et lind saba luhki ajab. EV 1187:1
+Heinakuhi olgu nii terav, et kastetilk kaheks luhki, vihmapiisk viieks luhki läheb. EV 1186:1
+Süld meest, teine hangu, kolmas uppi, siis teeb kolme sülla kõrguse kuhja. EV 11408:5
+86. Heinaaeg ― kiire ja tõsine tööperiood. Heinateokalender (algus, keskpaik, lõpp)
+Hainaaigu pandas uni nagla otsa. EV 1183:1
+Leib hoia hainaajas. EV 5684:13
+Jaan tuleb vikatiga, Maarja rihaga järile. EV 2330:1
+Heinmaarjapäevaks pidi olema pool heina tehtud. EV 1192:2
+Vikat varna, sirp kätte. EV 14168:6
+Kui jakubpäevas rehad ja vikatid varnas, siis on kõik tööd korras. EV 2313:1
+Jakubipääv paneb vikatid varna ja rakendab härjad ikke. EV 2311:1
+Olev paneb viimase kuhjapea peale. EV 7828:1
+Olevipäeval lõpeb heinategu ja algab lõikus. EV 7831:1
+BBD. Heinavedu ja -ost
+
+87.
+Suvel paned kasuga ladu heinde sise hoiule, talvel odad jälle välja. EV 10991:1
+Heinal on suvine soe ka talvel sihes. EV 1174:1
+Kergemb om haina tetä suvõl vikahtiga kui talvel loogaga. EV 1179:1
+BC. LOOMAKASVATUS, KODULOOMAD
+
+BCA. Loomapidamiskalender
+
+88. Talvised loomatoiduvarud
+Kui mihklipäeval saab vanatont heinu kuivatada, siis ei tule loomatoidu puudust. EV 6816:1
+Kui mihklipäeva kuu täus, olgu tävveline sööt elajile. EV 6814:3
+Kui noorelkuul mihklipäev om, sõs ei ollev elaja põhul tulu. EV 7554:3
+Tõnisepäev on inimesele jaaguppä ja loomale jüribä. EV 12300:1
+Tõnisepäevast pidi pool loomatoitu alles olema. EV 12299:125
+Ku poornapäävä tuiskas ja aase lummõ üle tii, sis piät vil eläjilõ üts kuurma süüta rohkõp olõma. EV 8982:11
+Jüripäine karjaheina, ristipäine härjaheina. EV 2797:7
+Jüri küsüs viil kuhja mäe taadõ. EV 2780:1
+Jüri ütles: "Mu kuhi olgu alale". EV 2786:2
+Vana vihku volberille, nippi-näppi eerigulle. EV 13508:8
+Kui saa lõo lõõri, sis saa käo kukku. EV 6118:1
+Lojuse põhu puudus on nälja ema. EV 5995:1
+89. Karjatamine: kevadine "võtmete kätteandmine" loomadele; varajase karjatamise tulukus; mihklipäev ― karjatusperioodi lõpp
+Küündlepäiv tsiga läts kõrva paistma. EV 5230:7
+Madisepäeval antakse kanade võti kätte. EV 6275:100
+Kui madisepäeval kana võtme kätte saab, siis saada ka kõik teised loomad võtme kätte, kui aga kana mitte, siis teised ka mitte. EV 6269:3
+Kui kana ei läha, ega siis muu loom ka ei läha. EV 3143:1
+Käädrepääv tsiamold hiidetäs aia takka, tsiga peät sis jo esi hennäst toitma nakkama. EV 5017:3
+Sigade künd ja naiste külv on kevade keige esimine. EV 10372:1
+Maarjapäeval antakse sigade võti kätte. EV 6237:70
+Kapstmaarjapäävä köödetäs tsialõ ruih sälgä ja saadõtas mõtsa. EV 3195:2
+Kui inne kapstmaar'apäivä kattõ nädälit heidä-äi tsiaruiht vällä, sis heidät pääle kapstmaar'apäivä kats nädälit. EV 3197:10
+Kapstamaarjapävään saa tsia nõna vallale. EV 3194:1
+Emis ol'l ütelnü: "Ku mul uma naha laiune lapp maad pallas om, sis ma toida enda ja uma' põrsa' ärä". EV 659:3
+Ema süda on ikka nõrgem kui isal. EV 623:1
+Kui nii palju juba paljast maad on, et hobune palja maa peal püherdada saab, ei ole tarvis ta käest tööd nõuda, sest ta toidab ennast siis ära. EV 8307:4
+On kevade juba hobuse naha suurune tükk maad paljast, siis hobune änam nälga äi sure. EV 1342:15
+Üte kuu ukõrdasõ tedre, tõõsõ kuu ukõrdasõ karjusõ. EV 15051:4
+Jüripäeval anti kätte loomade võti. EV 2792:4
+Kari aja välja jüri kaste peale. EV 3235:1
+Volbripäävast on hobose kaeravooder metsas. EV 14274:1
+Kui kevaja haavaleht libises, sis saa hobesele mõtsan kõtu täüs. EV 3665:2
+Kui mustapea rohud öitsevad, siis on hobuse kaeramatt väljas. EV 6960:1
+Parem on vitsaraaag veistel kevadel närida kui heinasületäis sügisel. EV 14268:2
+Kevadine muld on magusam kui sügisene ädal. EV 3671:15
+Pääle mihklepäävä es tohi mitte enäm karja julgeste metsa laske, siis ol'li palovasigal metsä õigus. EV 6832:1
+Mihklebä õhtuks toodi sälud metsast ää ja hundi suu kisti lõhki. EV 6821:1
+90. Loomade toitumus ja seisund eri aastaaegadel
+Sügüse mastas liha eest raha, kevaja luie eest. EV 11397:1
+Kebadene loom ja sügisene inimene ― need oo öhötsugused. EV 11400:2
+Küll mätas koorib. EV 7092:1
+Jüri on hobuse naha nülgija. EV 2783:1
+Küll suvi sueb, Jaan tieb jalad alla. EV 10976:40
+Küll tuul sugi, mõtsaladõv lahutas. EV 12232:2
+Suvel oled suureline, küll talvel tagasi annad. EV 10989:1
+91. Lehmade piimaanni muutumine
+Kui kasemahl rammus, siis lehmapiim lahja; kui kasemahl lahja, siis saada lehmapiim rammus olema. EV 3333:7
+Suvõ aig om piimä aig. EV 10999:1
+Suust nüss suvinõ lehm, indä takast talvinõ. EV 10921:1
+Suvõl nüssät, suuhtõ pant, talvõl nüssät, latsõ takah. EV 11000:1
+Jüri annab toobi, Jaan võtab toobi. EV 2776:1
+Viitk võtt veerest, Jaan jaga poolest, Piidre veese perägi ärä. EV 14154:8
+Jaan võtab piima ära. EV 2335:4
+Jaan võtab püti, Jaagup kaks, Laurits lakub põhja. EV 2336:80
+Jaan võtab lehmal ühe nisa, Jaak teise, Mihkel kolmanda ja Märt neljanda nisa. EV 2334:11
+Kui viidi sõnnik, viidi piim. EV 11150:1
+Vikat võtab lehmalt piima, sirbi järel sõõratab. EV 14169:6
+92. Lambapügamine
+Noorelkuul nurme, vanalkuul varju. EV 7560:40
+Lambet pöetas keväjä kesäle, sügüse sulgo. EV 5428:1
+Jüripäev annab lammas kuue, mihklipäev kasuka. EV 2790:2
+Mardi- ja kadrisandi vahel ei niideta lambaid. EV 6399:7
+Kadripäevas es ole lammas ennast pügäde käsken, ütelnu, et temä taht kirikus minna, kasukat-särki selga panna. EV 2876:1
+Luts on lammaste lugeja. EV 6094:1
+93. Loomade tapmine sügisel
+Olipä peab nuga saama veriseks tehtud. EV 7835:1
+Olev tuleb, tapab soku, Laurits lamba ehk kitse. EV 7829:1
+Laurits tuleb, laud seljas, Pärt tuleb, pusa peos. EV 5608:4
+Mihkel tuleb oinaga. EV 6810:1
+Kui tuleb mihklipäev, siis lõpeb oina vaev. EV 6819:5
+Mihklipäev peab veristud saama. EV 6829:1
+Tapa sügise härg ära, neli vakka rukki jääb söömast tagasi. EV 11398:1
+94. Noorloomade sünniaeg
+Varana vasik, hiline tall. EV 13707:16
+Vanakuu härg ja noorekuu lehm on head kasvatada. EV 13554:2
+Kanad noorel kuul, vasikad vanal kuul. EV 3114:1
+95. Mesindustähtpäevi
+Kui kapstmaarjapäiv mehitse jalah toova, siis jüripäiv puistat torost väljä. EV 3199:1
+Heinmaarjapäe esimene, jaaguppäe teene ja lauritsepäe viimane meevõtmene. EV 1191:1
+BCB. Loomade toitmine, hooldamine, kohtlemine
+
+96. Loomad ja loomatoit: mida ja kui palju kellelegi; mis kellelegi kõige tõhusam (meeldivam, kahjulik) jms.
+Suutäis leiba peremehe käest oleja hobusel änam ku sulase käest ooder kaeru. EV 10964:1
+Väsinu hobesele om temä kõrva suurune kikk leibä enämb kui karnits kaaru. EV 14501:16
+Põhk Punu toit. EV 9134:1
+Ennemuina öölnud härg: "Täis mees, täis mõet: kubu õlgi ja toover vett". EV 1826:1
+Seasaba kasvab ikke villasalves. EV 10242:1
+Kellel palju vilja om, see hoidku palju tsiku, kellel palju raha om, see nakaku veskit tegema. EV 14185:2
+Tsiga leevä tsirk. EV 10402:1
+Siga seadjale, lammas lõpetajale. EV 10385:1
+Sool on sia suretaja. EV 10615:1
+Pütt räimi on änam kui setverk vilja sial sööta. EV 9394:1
+Põrsa söök om paremb kui vaska jook. EV 9223:1
+Kui lammas kolm kord sügise orasel saap süvva, sis pandvät jõuluni vasta. EV 5421:1
+Lammas sööb talvel oherdiaugu läbi koorma heinu ära. EV 5432:27
+Kui lammas iga päev nii palju heinu saab, kui ta vill, mis niites saab, siis ta pole veel pisku söömaga olnud. EV 5420:1
+Ädalhein on vilja eest loomale süüa. EV 14771:1
+97. Sööda / hoolda looma hästi (siis on loom sile, veoloom veab, siga lihub, lehm lüpsab, kana muneb, koer haugub, kass püüab hiiri)
+Määne huul [=hool], sääne kuul [=kool, surm]. EV 1479:2
+Ait on elaja ja Jumal inimese nõid. EV 209:1
+Saa-ai hää häälitsemata, ei sille süütmätä. EV 1136:3
+Kammi hobust kotiga ja koti põhjaga, aga mitte kammiga. EV 3100:1
+Sui hobest päält ja sisest. EV 1409:2
+Silita hobust seest, siis ei ole suga tarvis. EV 10430:4
+Hobu ärä aja piitsaga, vaid kaertega. . EV 1364:7
+Ütessä süüki anna-ai tuud hobõsõllõ tagasi, mia üte söögiga võlgu jääs. EV 14851:2
+Kuda söödad, nenda sõidad. EV 11324:15
+Kes hoost söödab, see sõidab. EV 1387:1
+Kuida sa looma toidad, nenda ta veab. EV 6026:1
+Kes hoost hoiab, see sõidab. EV 1386:1
+Hobu meil jookseb ohja tõttu, kargab kaaravaka tõttu. EV 1334:2
+Hobune tahab veu ajal üheksa korda öö jooksul üle vaatamist, siis ei jäe hobuse kael haigeks. EV 1346:4
+Hobu oli mus'te rääkind, et muud ta oma suure ja raske töö palgaks äi taha kut seda, et tal kõht oleks alati täis ja kenad rauad all, mis ta jalgadele äi lase haiget saaja mitte. EV 1347:1
+Hobuse rauatamine om hobuse palga masmine. EV 1353:1
+Kui peremehel heinu on, siis härg adral. EV 8607:1
+Härg ütles peremehele: "Pea mind seitse nädalat emapiimas ja lase mind viis aastat ula jooksta, siis pane mind raudäge ette". EV 1837:1
+Nigu tsika söödät, nii tsiga kasus. EV 10354:1
+Anna põrssale, sis põrssa külest lövvät. EV 9213:1
+Kuidas sa söödad, nenda lüpsad. EV 11325:3
+Lehma sort on salves. EV 5637:1
+Piim olõ-õih lehmäl keele all, piim om keele pääl. EV 8758:1
+Lehm lüpsab suust, kana muneb nokast. EV 5640:165
+Kana lubanu sõs egä päivi üte muna munnõ, ku tal edimädse keväjä haudu lastas ja egä kõrd, ku tiä munõ, mõni terä viljä andas. EV 3126:1
+Kudas koeral süüa antakse, nõnda ta käib karjas. EV 4117:1
+Kuida koer süüa saab, nenda koer haugub. EV 4126:3
+Sööda hästi koera, siis koer haugub kosilasi. EV 11329:1
+Kui Muri ja Tuksi kõtu iist huult kannetas, sis kand Muri ja Tuks kah peremihe varanduse iist huult. EV 6931:1
+Kes kassi ei toida, toidab hiiri. EV 3389:5
+Kes kassi hoit, tuu hoit ka hobõst. EV 3390:11
+Kui kass majas rammus, siis on ka hobune rammus. EV 3397:1
+Rammus kass on hobuste õnn. EV 9548:1
+Kesse kassi kallistab, selle õue õnnistab. EV 3394:1
+[98–102] Loomade kohtlemine ja põli
+
+98. Veoloomade söötmise ja piitsutamise vahekorrast
+Härga piitsuta, hobust hoia. EV 1828:1
+Vanale hobõsele piitsk sõlmõga ja kaaramatt veereni, noorele kaaramatt kuhjaga ja piits sõlmita. EV 13425:1
+Hobõsõlõ anna iks rokka nii maska. EV 1366:1
+Anna piitska, söödä peost. EV 8776:1
+Hopen ei pelga lööki, hopen pelgas sööki. EV 1367:1
+Mida pitkem piits, seda nobem jooks. EV 8798:1
+Mida pitkem piits, seda edusam künd. EV 8779:1
+Mida pikem piits, seda suurem saak. EV 8796:6
+Piits on laisa hobuse kaeravooder. EV 8781:2
+Piitsk annab poole kaara laisale. EV 8780:1
+Ruusk tiib ruuna julgesse. EV 9800:1
+Perro hobõst tapa-ai tüü, tapp ruusk. EV 8702:1
+Mida parem on hobune, seda parem olgu piits. EV 1319:8
+Pane hobune ette, aga pea piits peos. EV 1406:1
+99. Hobuse halva kohtlemise (peksu, ülekoormamise, kihutamise) hukkamõist
+Paremb sööta kui sõita. EV 11326:1
+Ennem võib hobu meest lõhkuda kui mees hobust lõhkuda. EV 1318:1
+Kel pitk piitsk, sel pisuke hobu. EV 8789:1
+Väsünü hobese päält paar kindid ar võtta, om ka kergep. EV 14503:2
+Olgu ige hobuse voit, ei kuorma voit. EV 1405:1
+Hobu on loodud töötegijaks, aga mitte vaevanägijaks. EV 1348:1
+Keeletu peab vedama, mis meeletu peale paneb. EV 3543:25
+Mis keeletu teab, mis meeletu teeb. EV 3545:2
+Kes kieletuma häda teab. EV 3544:1
+Hopõn kunagi vasta ütle-ei, lätt nõna päle satõh. EV 1370:1
+Mis saab hobune teha hullu peremehele ehk naine narsakale mehele. EV 1402:1
+100. Mis hobusele kerge, mis raske; kus tal hea, kus halb
+Hopõn pelgä-äi suuri kuurmit, pelgäs sagõhit. EV 1372:1
+Inimeste koorem on hää vedada. EV 2152:1
+Hopen vida inemba katesa miist kui kats kabõhis. EV 1369:1
+Ennemine veab hobune üheksa, kui üht seljas kannab. EV 1317:8
+Hobene sõit ennemba sõa- kui saeateed. EV 1322:8
+Mees pulmas, hobu põrgus. EV 6600:75
+Hobene lubanu ennembi neli miist kerkude viiä kui üits miis kõrtsi. EV 1321:8
+Igaltpoolt läheb hobune mööda, aga mitte kõrtsist. EV 1377:3
+Kus mehel hea, seal hobusel ka hea. EV 6552:1
+Anna hobune teisele, siis anna nuga kaasa. EV 1308:15
+101. Lamba arvamusi pügamise kohta
+Sigigu silmapesijad ja kadugu tutiniitijad. EV 10410:5
+Lammas pidand ütlema, et "Kui minu jalad niidu ajal villase paelaga siuta, siis ma ikka villa annan, aga kui kõva ja valju paelaga siuta, siis annan karmi villa". EV 5431:1
+Kes niidab lamba pea, elab paar päeva, kes saba, see sada aastat. EV 7431:7
+102. Loomade põli ja eluase: kel kerge, kel raske; kes toas, kes väljas
+Koer peab olema päeva karjas, ööse orjas. EV 4101:1
+Hobune om mehe ori. EV 1340:2
+Salul saba koormaks. EV 11186:1
+Kassil saba koormaks. EV 3362:1
+Koeral peab olema oma korter ja talu söök, kassil aga talu korter ja oma söök. EV 4071:1
+Põrss kasus muan, kanapoig tuan. EV 9225:1
+Koera ase on laua all. EV 4058:1
+BCC. Kasu ja kahju loomapidamises
+
+103. Kust looma omadusi tunda?
+Hobust tuntakse hambast, looma sarvist. EV 1361:2
+Kae hambast, hobusel kiri kaasas. EV 817:1
+Udaras piima peegel. EV 12803:1
+104. Loomade väärtus (jõud, tootlikkus jne.). Keda tulus pidada, keda mitte
+Hopen um maja tugi. EV 1368:1
+Hopõn um peremehe leebäandja. EV 1373:1
+Hopõn um peremehe ravitsaja. EV 1374:2
+Susi söögu see hobene, kes ei kanna katte meesta. EV 10838:1
+Ega hobuse liha laua peale ei panda. EV 1311:1
+Susi sööse-ks hobõsõ liha. EV 10839:6
+Hobune sa hundiliha, ei so kintsu keedeta, ei so külge küpseta. EV 1344:1
+Ilus hobene tege oksjooni. EV 2055:1
+Täkk on alati tugev, mära on ajuti tugev, ruun pole ilmaski tugev. EV 12364:1
+Märahobu ja kaeravili on aeote kesised. EV 7079:1
+Märahobune ja rukkikütis annavad mehele head kasu. EV 7080:1
+Kus härg süöb, sial härg magab. EV 1855:1
+Hobu situs kulda, a sõnn situs sitta. EV 1358:1
+Lehmä piim om makus, a hobõsõ piim om viil magusab. EV 1325:8
+Rahalla saa ja hevusella pääse, mut lehmällä ei saa midä. EV 9460:2
+Suvirüga ja kitsesitt ei elädä talomiist. EV 11005:2
+Siga on ausa mehe leivakõrvane. EV 10382:16
+Üts tsiga süü ütsa hobese künnü-külbü ärä. EV 15073:1
+Parep om kitsi pidäde ku vana sikka vedäde. EV 3921:1
+Ennem saab kana nokast ku lehma suust. EV 3107:1
+Paremb korja munakoorõ sisse kui lehmä nissa. EV 6905:1
+Mesilased panevad sinu siidi ja sammeti, siga sööb silmadki pääst. EV 6751:1
+Vaha om selge raha. EV 13217:1
+Hea koer, ta on ikka maja lukk. EV 4033:1
+Pini kodo kõrv, paja maja silm. EV 8564:2
+Kas koera perssest paestab pää. EV 4040:1
+105. Tulu/kulu-strateegia looma ostes või müües
+Laadalt hobuse ostmine ja metsast jõulukuuse otsimine on raske amet. EV 5252:1
+Hobese hoiat sõkeldega ärä, ent osta sõkeldega ei saa. EV 1324:2
+Hüä hobuse ostad, paremaga soidad. EV 1058:3
+Kes huu ost, see nina nõst; kes raha luge, raipe saa. EV 1388:1
+Sööda hobust nii kaua, kui ta sul käes on, siis suad hia hinna. EV 11328:1
+Paremb vaevan kasvatada kui tükin osta. EV 13181:1
+106. Kui palju loomi pidada, kas üks toidetud loom või mitu kehva? Pole / on looma ― pole / on muret ja kulu
+Ega kari anna-ai piima, lehm and piima. EV 3233:1
+Parem viis viljaga kui kuus näljaga. EV 14142:1
+Parem viis vingumas kui kaks kargamas. EV 14143:1
+Inep õks kat's karvast ko üts ille. EV 2956:1
+Parem üks hää hobune kui üheksa halba. EV 14913:2
+Üits lehm kast vitsa, tõne veere, kolmas katt joba põhja kinni. EV 14953:1
+Kui ei ole sõita, sis ei ole süüta. EV 11088:4
+Kel hobu tallin, sel hool pähän. EV 1378:18
+Kes hobuseta, see hooleta; kes paadita, see paha ilmata. EV 1382:8
+Hää häritä, hooletu hobõsida: ei süütä, ei sõita. EV 1002:7
+107. Tappa või pidada? Hukkumisrisk ja paljunemine
+Igavam on lehm lüpses kui tappes. EV 1915:20
+Vanast ütelnu üts vana emmissiga peremehele, kes tedä tapma hakanu, et "Las mu seitse aastat sigineda, sis ärge enämp väist tuppe pistä". EV 664:1
+Tsiga sitt siginema, lammas pask lagunema. EV 10405:1
+Linaseemnes sigima kanapojas kaduma. EV 5871:1
+Tati igä, vasiga surm. EV 11709:1
+Kari kaitseb karja. EV 3236:3
+Hoidku jummal suve liha ja talve piimä iist. EV 2526:1
+108. Loomast suurem kahju kui inimesest
+Loomakahju on suurem kui inimesekahju. EV 6034:1
+Parem tarenälg kui laudanälg. EV 11593:1
+Enam kahju saab karvjala surmast kui silejala surmast. EV 2942:2
+Eläjä puhkus om halõ'õb ku inemise palvus. EV 533:1
+109. Loomal looma aru; pagemis- ja raevumisoht
+Ega eläjäl miilt pään ei ole. EV 532:1
+Luomal luoma miel. EV 6029:1
+Loomal olgu ikka looma aru ja inimesel inimese aru. EV 6027:1
+Hobust sööda kui venda ja köida kui varast. EV 1362:90
+Söödetud hobune ja määritud vanker tahavad häste hoida. EV 11334:1
+Tassanõ peremiis, ni tassanõ hopõn. EV 11704:1
+Juuda käeh omma härja uhjaharo. EV 2683:2
+Ära usu hobuse jalga. EV 1413:1
+Koeral nuga ja luba omast käest. EV 4016:11
+Ära narri koera, koer salvab. EV 7399:4
+Ega peni hambit ei küsi. EV 8539:17
+BCD. Endeid, uskumusi, keelde ja taigu seoses koduloomadega
+
+110.
+Ku kikas orsilõ minneh istuh kirg, saava hüä ilma, ku saistõh, saava sadohitse. EV 3770:7
+Kui kikas keväje varajane om, olgu peremiis kah varajane. EV 3769:1
+Kui siga enne jüripääva mudas aeleb, tulla külm kevade. EV 10345:8
+Hundi jälin on lammaste õnnistus, aga sia jälin õnnetus. EV 1605:1
+Kui tsiga kapstih käüp, saap veel asi, ent kui kana kapstit putno, om kapsta otsah. EV 10347:1
+Sia jälg sigitab, kana jälg kautab. EV 10367:4
+Pini käpä all kasus vili. EV 8565:6
+Kana on patu korjaja, kass patu tegija. EV 3131:1
+Kol' päivä jovva-ai puhtas mõskõ, ku kass lakahut'. EV 9262:1
+Koera keele otsas rohi, kassi keele otsas tõbi. EV 3352:160
+Hiire keele all on kuld, koera keele all raha. EV 1236:1
+Kuri kukulind, paha pätajalg, kõige õelam oli hobusevarss. EV 4617:20
+Kana kahjuta ei laula. EV 3122:1
+Kana onn on kaunikene. EV 3130:1
+Kes varvasjalga vaheteb, / see karvajalga kaoteb. EV 13864:2
+Lambad peavad muret nägema, kui mustad talled on. EV 5426:1
+Valge kukk om tondil vader, must om murdje, kirju kiskja, punane puulvend. EV 13291:11
+Valge sabaotsaga koer on valelik. EV 13294:2
+Magaja koeral suur pea, jooksja koeral lai selg. EV 6298:2
+Kui sündin vaskal kuus hammast suun om, sis saa tast kuri elläi, säedse säädlik, katesse karjaelläi, ütesse ülihää. EV 11426:6
+Kui lammas pügamise ajal situb, siis sigineb, kui kuseb, siis kahaneb. EV 5422:1
+Päeva nimi pästab, karva nimi kaotab. EV 9288:6
+Ühehaaruline üles otsib, kahehaaruline ära kautab, kolmehaaruline kodu aab. EV 14826:3
+Kie kuera lüöb jalaga, sene jalg kasvab hauvast vällä. EV 4057:11
+Loe luid ja arva hambaid, ära loe teise loomi. EV 6098:2
+Kõrgelt tõstad, kõrge kasvab. EV 4857:1
+Härg, hobene astutasse üle, lehm, lammas lastasse läbi jalge. EV 1829:2
+Mis tuul teind, seda tuli parandab. EV 12238:2
+Häbendage hämärät, pühitsege pimedat, saava siis hää härjä suure sarvega. EV 1698:10
+Kui hämarat peat, saava hää lehma; kui pimedat peat, saava piimalehma. EV 1811:1
+Koidu aegus kõvad härjad, videvikul viksid härjad. EV 4255:1
+Hämärikun härjä suure, videvikun villa pikä. EV 1812:12
+BCE. Mitmesugust (peam koduloomade eripära kohta)
+
+111.
+Hobune on kuri komistama. EV 1341:1
+Jalg on hobuse töötegija. EV 2396:1
+Hobu jookseb, kuni köie mõedab. EV 1331:3
+Pahem puul kannab lakka, aga parem puul kannab piitsälüägid. EV 8243:1
+Häält puult nüssetes lehmä, kuralt puult pandas hobest. EV 1019:1
+Siga sööb sittika vilul. EV 10390:1
+Koit koidab, siga roidab. EV 4257:1
+Siga on nagu saks. EV 10383:1
+Tsiga ei usu kunagi musta pangi. EV 10399:1
+Soe ja tsia käest päse-ei hing ka ar. EV 10806:1
+Siga om hale süämege, see röök, aga lammas om kange süämege, ei lausu mustagi. EV 10381:2
+Kass ei võta õpetust. EV 3350:1
+Kass maksab kinganõela ja koer tubakanaela. EV 3375:4
+BD. KALAPÜÜK JA MERESÕIT
+
+112. Meri. Ilmaendeid meremärkide järgi
+Merde ei jäe muud kui kahe teraga mõek ja kolmekandiline nõel, kõik muud uhub kaldale. EV 6726:1
+Mere ääres ilma ei uodada. EV 6730:1
+Kui meri on lame nagut piimapütt, siis pane äga säärepaelad mütsi sidumiseks tasku. EV 6722:1
+Sammuli kohin toob sadu. EV 10131:2
+Kui enne joulu soopohjad pakkane ärä tinutab, siis tuleb meresse paigaline jää koguks talveks. EV 2731:1
+Sügise olla merevesi kerge ja vihane, suvel raske ja lahke. EV 11381:1
+Ku soe üle maa tuleb, sis tuleb soe kevadi, aga ku soe üle mere tuleb, sis saab külm kevadi. EV 10583:1
+Kui enne ristebed mered täis on, siis tuleb kuiu sui. EV 9777:1
+Kaob tie mualt, kaob ka merelt. EV 11729:1
+[113–115] Kalamehe kalender
+
+113. Kalade liikumine, kudemisaeg, soodsam ja ebasoodsam püügiaeg jne.
+Kevädkala tahtub läüke käde, sügüskala etsib maa-alust. EV 3649:1
+Lutsu kueve tõnisepäeva ümmer. EV 6091:3
+Tõnisepäeval läinud lutsul pletid lahti. EV 12295:1
+Kui kõourb lahki, sis särje kõtt ka lahki. EV 4841:1
+Enne pärtli ige päiv, peräst pärtli nädälpäivis. EV 9327:1
+Pendipäeval pöörab kala pea kalda poole. EV 8536:1
+Jüripäiväh olgu kala orrel vai rannal. EV 2799:4
+Kui maamesilane välles, siis on suur räim meres. EV 6220:2
+Siis särg roogus, kui konnad rauksuvad. EV 11187:2
+Kui kaar lükib, siis võtavad kalad kiige paremini õnge. EV 2895:1
+Keväjä tuul särele kat't sängü, latkalõ lavva. EV 3651:1
+Ku kõivoleht om hiirekõrva suuru', sis om kalaaig lännü'. EV 4818:1
+Ku tikõrpuu muhetasõ, sis om ka kalaaig müüdä. EV 12005:1
+Ku ruupäälse otsa' künnüse lootsikohe, sis om latikõ aig müüdä. EV 9799:1
+114. Kalasaagiendeid kalendaarsete ilmamärkide järgi
+Kui mardipäeval hanged aede tasa on, siis tuleb kevadel räimesaak. EV 6388:2
+Kui mardipäeval või kadripäeval uuded on litsi moodi, siis on hea kalasaak, kui on peale kadripäeva uuded, siis tuleb kalasaak peale jaanipäeva. EV 6393:1
+Kui jõulupühil puu härmäs, sõs kala kaldan koeva. EV 2739:1
+Kui üks müts kännu otsas, siis saab kala. EV 7114:1
+Kuidas madisepäeval tuul, nii on kalasaak. EV 6265:1
+Kui madise tuul oli maa poolt, siis puhus ta meresse kaladeks, kui ta oli mere poolt, siis maale ussideks. EV 6262:1
+Matsapäe humiku sajab kalu, pärast lõunat hussisi. EV 6285:1
+Kui jüripäe vesi kõrge oli, siis oli maal hea saak, aga kui vesi madal, siis oli hea kalasaak. EV 2813:2
+Kui külm keväjel konnakudu rigub, lohub torm ka kalakudu. EV 5094:5
+Kui kõvakaelad meres kevade kisendavad ― kala kallis. EV 4903:1
+115. Mere- ja maasaagi vahekordi
+Kui Jumal kevadel merd õnnistab, õnnistada suvel ka põldu. EV 13964:7
+Ku linnuparvedel kevadi tulles pikem rida maa pool, sis on selle sui maa rikkam kui meri, aga ku pikem rida mere pool, sis on meri rikkam ku maa. EV 5973:1
+116. Mittekalendaarseid kalasaagiendeid (peam tuule suuna ja tugevuse järgi)
+Keskhommiku tuul olla kalameeste lebatuul. EV 3618:1
+Kärmetuul on merereha. EV 4957:2
+Idatuul lõpetab kalasaagi. EV 1897:1
+Ida vieb kalad meresta, idakakku kattilasta. EV 1894:14
+Kagutuul vieb kalad merest. EV 2911:3
+Torm püüab kalad merest. EV 12054:1
+Vaga ilm on mere püha, / tuul ja torm toob kalaliha. EV 13196:1
+Tuul ja torm on mere püha, / vaga ilm toob kalaliha. EV 12245:11
+Ega hüva ilma padaje panda. EV 887:6
+Paha ilm, pajas pariseb. EV 8218:1
+Kuri ilm paneb ennemini paea tulele kui hea ilm. EV 4610:1
+Mere poolt toob kalasaaki, maa poolt mürin külmapakki. EV 6729:2
+Kui palju siidi sadab, siis tuleb hästi kala välja. EV 10412:1
+117. Muid tähelepanekuid kaladest
+Kuhu kudeb konn, sinna kudeb ka kala. EV 4314:1
+Mida sügavam meri, seda enam kalu. EV 11362:1
+Haug on kala hunt. EV 871:1
+118. Mees ja meri
+Kes ei taha jumalat paluda, see mingu mere pääle. EV 8383:2
+Merel on sada südänd. EV 6727:1
+Meri annab, meri võttab, meri mehegi mattab. EV 6731:8
+Mees püüab hüljest, aga hüljes püüab meest ka. EV 6602:5
+Meri tapab noore mehe, kare katkestab noore härja. EV 6734:2
+Küll meri mihe tegeb. EV 6725:2
+Mes naised sest täävad, mes mihed merel näävad. EV 7218:1
+119. Kalaõnnest
+Püümies kaks nägeb: kas saab kala vai jääb ilma. EV 9402:4
+Kala hüppab püüdmata pihku, ori ostmata pardale. EV 3040:1
+Ei verk kala etsi, kala etsib ise vergu üles. EV 14335:1
+Ega kala maale hüüa. EV 3033:2
+Ega' kala kaatso tulõ-õi'. EV 3032:1
+Ei kalal ole kella kaulas. EV 3034:5
+Kalal oo kell kaelas. EV 3050:1
+Kala on vesi. EV 3049:2
+Kala libe laev liuglema. EV 3042:1
+Kalal on libedad kõrvad. EV 3047:1
+120. Mitmesugust kalapüügist ja -müügist
+Kui noorkuu püsti, siis meremees pikali. EV 7555:1
+Enne jüripäeva aete võrgud pahlule ja kalad vankrile. EV 2789:1
+Jaagubipäiväst otsib jo aluksemies sadama. EV 2305:1
+Kevadel vörkud aius, sügisel köides. EV 3640:1
+Kes jäätegemise ja jäälagunemise ajal verku ei hoia, ei ole vergumies. EV 2770:1
+Mees koiduga merele, päevaga öhtsele. EV 6574:2
+Paremb Virve viis paari kui Maluhaua tuhat. EV 14250:2
+Merimihel mekud märjäd, kalamihel kappud märjäd. EV 6713:2
+Kui hämmes saamist hirmut, ega sis kallu ei saa. EV 1814:1
+Kuda kala, ninda võrk. EV 3063:1
+Miks räim võrku läheb, ku tal auk ees on. EV 9925:1
+Ega kalamees õnge järve ei või jätta. EV 3076:1
+Kala ütelnu: "Ku ka kigesuguste püünderiistäde iist saas ennäst ärä hoida, aga tulussa iist om sii iki võimata". EV 3056:1
+Hädasaak on aena otsas. EV 1808:1
+Kenes meri, sen kalad. EV 6718:2
+Püüdjä õks putro ei süü. EV 9398:1
+Pea püüdjale, saba saajale, keskpaik keetjale. EV 8470:40
+Üks osa Jumalale, kaks kalurile. EV 15006:2
+Räimesada ja pakk tuletikke olla ikka ühe hinna peal. EV 9926:1
+Püüä kala merest, ärä püüä ostaja kääst. EV 3072:1
+Söö kala, aga mitte kala püüdjad. EV 3074:1
+Küll vesi velad maksab. EV 13969:8
+121. Laev, laevasõit, meremees
+Lülü puu on kivele kiskuja, reeva puu vade onneliguld vahelt menijä. EV 6180:1
+Kes laevaga riidleb, see elu kautab. EV 5267:1
+Vilets, kes vene vesile jättäb. EV 14176:1
+Ei torv tobe tie. EV 12315:1
+Enne lõpeb põrgus tuli kui laevas töö. EV 9200:2
+Alt kive, päält jää. EV 3925:1
+Küll kourapurjed kuhale vieväd. EV 4430:1
+Meremehe käsi on kui sea suu: kus kinni hakkab, sealt tükk tuleb. EV 6711:1
+Kolm ametid oo ilmas, mis inimene ei või maha jätta, kus ta neid oo katsund kord pidada: need oo kaardimäng, viinajoomine ja meresõit. EV 4274:1
+BE. KÜTTIMINE, JAHIMEES
+
+122.
+Jahil käimine, see on hakkan haigus. EV 2374:1
+Jaht änäm kui nahk. EV 2375:1
+Enämb om ets ku jänes. EV 721:8
+Tina otsib liha. EV 12013:1
+Püss on virgem kui püvi. EV 9388:1
+Jahimies ei saa juostes, vaid uodates. EV 2372:1
+Püünises looma õnnetus, peremehe õnn. EV 9405:1
+Mis püüs püüab, selle peremees soab. EV 9404:10
+Ütski kütt jovva-ai ummi katusõ kolkõ kohenda. EV 5199:2
+Tsiga künd küti nurme. EV 10401:1
+Jahimehe leib om kannu otsah. EV 2371:1
+Kütt om alati nälätsemb kui sant. EV 5196:1
+Ei püssi pea pereda, ei kannel lapsi kasvata. EV 9386:1
+Jahiamet paneb jalad perse. EV 2370:1
+Kütt toob külmad kindad. EV 5198:1
+Karu tapjal olgu säng, põdra tapjal kirst valmis. EV 3304:10
+BF. AMETID JA AMETIMEHED
+
+123. Ameti saamisest ja pidamisest
+Annab Jumal ameti, annab ka mõistuse. EV 2620:4
+Annab Jumal mõistust, siis annab ta ka koha. EV 2515:1
+Ei see ole mees, kes ammeti saab, vaid see, kes ammetist kinni peab. EV 270:1
+Ammetilaeka peab igaüks maksma, kes tahab ammetid saada. EV 260:1
+124. Amet pole koormaks ega häbiks
+Amet ei küsi leiba. EV 257:60
+Ega sepist seljas kanta. EV 10303:18
+Aamõtet kanna-ai säläga. EV 266:7
+Ammet ja oskus pole kuormaks. EV 262:1
+Ammet ei tiuta meest, kui mees ammetit ei tiuta. EV 259:7
+Ei pole ükski amet nii sant, et meest ei toida. EV 269:3
+Ammet kõik, mis leiba annab. EV 263:25
+Amet mehe au. EV 258:3
+125. Amet toob kasu, annab leiba
+Ametimiis ei jää kunagi nälgä. EV 279:1
+Üks ametimees saab igas paikas leiba. EV 281:1
+Kel ammet, sel leiba. EV 273:5
+Ammet toidab ikka mehe. EV 265:10
+Ammet on inimese ülespidaja. EV 264:1
+Amet annab, laiskus võtab. EV 255:1
+Kel ammet om, sel saap ammetist kasvu. EV 272:1
+Ametimihe põld ei lää kunagi hukka, täl alasi kasvas. EV 278:1
+Kui sol põle anepit, ei siis saa kanda sanepit. EV 276:1
+Töö maksab kopika, amet kaks. EV 12520:1
+Seni on sepal selget leiba, kuni lõksvad lõõtsalõuad. EV 10310:3
+Sepäl om must tüü, aga valge leib. EV 10314:1
+Sepasellil seitse mütsi. EV 10300:1
+Kingsepp ütles vanal ajal: "Niikaua kui see mood on, et inimesed jalge peal käevad, ei tule mul tööpuudust". EV 3791:1
+Ametimehele lääva iks naise naabren ja abikaasa karaten. EV 277:1
+126. Mativõtmine, nöörimine, pistis, pettus
+Iga sepa haamrilöök maksab kopika. EV 10305:1
+Pista pikka ja aja harva, siis saab igamees oma kätte. EV 8906:3
+Mis üle kääri kukub, on rätsepa jagu. EV 5019:1
+Rikkal möldril on ikka kaks luuda: vana luud, millega veskilised pühivad, ja uus, millega ta ise veskilisi pühib. EV 9732:1
+Kinnas kotti, pöial matti. EV 3810:6
+Kinnas on vaese inimese kott, pöial matt. EV 3811:1
+Mölder ja kõrtsimees põle ilmaskid ilmarahva meele järge mette. EV 7102:1
+Kõrtsimiis ja möldre ei saava taivahe: kõrtsimiis ei kalda topsi täüs ja möldre võtt mati kuhjaga. EV 4883:1
+Ära keela kõrtsimehele kopikat ja möldrile matti. EV 4884:2
+Möldri matt ja kõrtsi mõõt olgu maksetud. EV 7103:3
+Kõrtsimees on sandi sulane. EV 4880:2
+Muna ei vahetada munaga. EV 6900:12
+Ega rahaga maksa raha vahetada. EV 9418:1
+Tahud saada kaubamiheks, müö kaigepääld süämetunnistus maha. EV 3503:1
+Meistril näpud õlised. EV 6708:1
+Arstid ja ahukaadid tahtuvad määrimist. EV 391:1
+Kuidas tibu, nõnda tervis; kuidas arst, nõnda abi. EV 11984:25
+Saa abi vai saa-ai', palk iks saa. EV 19:1
+Kirjutajad, kustutajad, / kõik on meie vaeva sööjad. EV 3851:2
+127. Teistele teeb, ise ilma
+Rätsepal pole riiet ega kingsepal kinga. EV 3788:50
+Sepa hobo rauata, sepa naene noata. EV 10311:7
+Ega sepal väist ega kirvest pole. EV 10304:15
+Niids vüül vüükudujal, puutsirp sepä naisõl. EV 7427:3
+Kes ligi linna elab, see soolanälga sureb. EV 5961:1
+Arst, aita iseennast!. EV 389:8
+128. Ametimehel liikuv eluviis
+Antvärgi riista om ree pääl. EV 329:1
+Sepa riistad on ree pääl. EV 10312:1
+Arsti riistad on rie pääl. EV 393:1
+Koolmeistri riistad on ree pääl. EV 4339:4
+Metsavahi raam on alati ree pääl. EV 6801:5
+129. Mõnda ametimeeste lastest ja sigadest
+Koolmeistre latse ehk kõrtsi tsia. EV 4338:1
+Moonakate lapsed ja veski sead on julged. EV 6855:1
+Möldri sead ning junkru hobused on ikka lihavad. EV 7105:10
+Opetaja poja' ja möldre tsia' omma ütesugutse. EV 14742:1
+130. Ametimeeste võrdlusi ja iseärasusi
+Kuhu iga töömees oma järelejäänud tükid paneb: kingsepp saapa-apsatisse, rätsep kuuekrae sisse, müürsepp müüri vahele. EV 12572:1
+Siga ja sepp on üks: siga teeb sita, sepp teeb raua uueks. EV 10374:3
+Mölder elab vee ja tuulega. EV 7101:1
+Kõrtsunaisel on kõige suurem kannatus. EV 4885:1
+Kingsepp pidi õmblema traati kahele poole tõmmates ikka põrgu poole, rätsep aga kätt ülespoole sirutades taeva poole. EV 3790:2
+Kes ei ole jalust vigane, see on peast segane. EV 2400:14
+Rätsep, räim ja pääsuke ― need on kõige kergemad surema. EV 9934:1
+Arst tantsib haigete pilli järgi. EV 395:1
+Olgu külas kuke kurn ehk kana kahja, ike kutsutakse koolmeister. EV 5057:1
+BG. ERI ELUKUTSETE KÕRVUTUSI. PÕLLUTÖÖ EELISTAMINE. ÜHEKSA AMETIT ― KÜMNES NÄLG
+
+131.
+Põllumees on saatuse ori. EV 9190:1
+Üks on luadud luulijast, teine on luadud laalijast, kolmas musta mulla püerijast. EV 15004:1
+Põllumees põline rikas, ametmees ajuti rikas, kaupmees korrati rikas. EV 9191:115
+Põllumees magab, põld kasvab; ammetmees magab, ammet seisab. EV 9189:20
+Kui peremees magab, siis kasvab põld, aga kui sulane magab, siis magab ka põld. EV 8606:2
+Paremb põlletäüs põldu kui näputöö. EV 9183:1
+Enam kündaja kübara kui ametimehe hobene. EV 5167:2
+Põllu- ja meremeestel ei ole püha ega ööd. EV 9188:1
+Metsamees kiidab õhtu, meremees kiidab hommiku. EV 6796:4
+Metsamees jääb ikki enne nälga ku meremees. EV 6795:1
+Märg jahimees ja kuiv kalamees on mõlemad õnnetumad. EV 7085:4
+Läheb jahimees metsa, pane pada kummuli; läheb kalamees kalale, pane pada tulele. EV 2373:25
+Kalamees toidab kassi, kütt ei toida kedagi. EV 3080:40
+Kütt toidab koera, aga kalamees ei kassigi. EV 5197:2
+Üheksa ametit, kümnes nälg. EV 14836:140
+Kes kõik tüü tege, tuu kõik nälä näge. EV 12450:4

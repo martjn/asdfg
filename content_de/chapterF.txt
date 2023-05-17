@@ -1,0 +1,2074 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-7.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-7-flip.gif">
+</div>
+F. ARBEITEN, ERHALTEN, SAMMELN, ABGEBEN
+FA. ARBEIT UND BESCHÄFTIGUNG
+
+FAA. Strebungen, Ziele, Mittel, Objekte, Methoden; Voraussetzungen, Fähigkeiten, Kenntnisse, Erfahrungen
+
+[361–366] Die Wahl und die Verbundenheit der Ziele, Mittel, Objekte und Methoden. Strebe nicht nach unerreichbare Ziele, mache keine Dummheiten
+
+361. Verschiedenartiges über unerreichbare und hoffnungslose Vorhaben. Ironie über die schildbürgerliche Denkweise
+Was leer ist, läuft immer ins Leere. EV 12653 : 1 Var.
+Was unmöglich ist, wird man nicht bekommen. EV 14301 : 3 Var.
+Man kann nicht über die Decke springen. EV 5276 : 1 Var.
+Mit dem Kopf läuft niemand durch die Wand. EV 8467 : 4 Var.
+Lauf nicht vor dem Schatten (weg). EV 13847 : 1 Var.
+Vor seinem Schatten kann niemand davonlaufen. EV 13842 : 1 Var.
+Der Hase kann nicht durch den Berg laufen. EV 2747 : 1 Var.
+Wer vermag es, die Wellen zu zählen. EV 5301 : 1 Var.
+Warum fürchtest du dich, das Beil ins Wasser zu werfen, der Stiel wird schon darauf (d. i. auf dem Wasser) bleiben. EV 3881 : 1 Var.
+Fürs Pferd ist's eine Erleichterung, wenn der Kober auf dem Rücken des Mannes ist. EV 1695 : 3 Var.
+362. Falsche Lokation der Vorhaben und Strebungen, die Versuche, unverbindbare Sachen zu verbinden
+Auf trockenem Land kann man nicht schwimmen. EV 4462 : 1 Var.
+Der Narr kriecht vor dem Regen ins Wasser. EV 1567 : 1 Var.
+Wo gibt es süßes Wasser im Meer. EV 6724 : 1 Var.
+Niemand wetzt ja die Beilhaube. EV 3871 : 1 Var.
+Nimm die Quappe nicht beim Schwanz. EV 6093 : 1 Var.
+Mach das Feuer nicht dorthin, wo das allergrößte Wasser ist. EV 12183 : 5 Var.
+Auf Wasser gemachtes Feuer brennt nicht. EV 13974 : 1 Var.
+Wasser und Feuer passen ja nicht zueinander. EV 13953 : 1 Var.
+363. Zweckmäßige Handlung, Orientation, Richtung
+Ein Haus wird nicht vom First, sondern von der Erde aus gebaut. EV 6365 : 2 Var.
+Man kann das Pferd nicht am Schwanz (d. i. umgekehrt) vorspannen. EV 10021 : 3 Var.
+Steck den Fisch mit dem Kopf voran in den Sack. EV 3071 : 1 Var.
+Eine Schlange fang immer vom Kopf an zu erschlagen. EV 12968 : 1 Var.
+In rechter Richtung besser, umgekehrt kümmerlicher. EV 9324 : 2 Var.
+Gegen den Wind kann niemand blasen. EV 12258 : 1 Var.
+Ein Schiff kann sich nicht gegen den Wind stellen. EV 5270 : 1 Var.
+Gegen den Strom ist es schwer zu schwimmen. EV 13898 : 1 Var.
+Wer dem Wind widersteht, der immer steht. EV 12221 : 1 Var.
+364. Der Ausgangspunkt und die Mittel passen mit dem Ziel nicht zusammen; vom schlechten Stoff wird kein gutes Produkt; von Nichts kann nicht Etwas werden; der Zustand des Objekts paßt nicht mit dem angestrebten Ziel zusammen
+Aus einer Weide bekommt man keinen Balken. EV 8265 : 3 Var.
+Von der Wand kann man nicht (ab)beißen. EV 10261 : 1 Var.
+Aus Sand bekommt man kein Brot und aus Lehm kein Weißbrot. EV 5845 : 1 Var.
+Aus Schnee kann man keinen Brei kochen, aus Sand keinen Strick machen (d. i. drehen) . EV 6080 : 1 Var.
+Aus einem faulen Ei wird kein guter Brei, von einer Kröte (erhält man) keine gute Haut. EV 7062 : 2 Var.
+Aus Dreck wird keine Seide, aus Hühnerkot kein Tuch. EV 10555 : 28 Var.
+Koch Dreck, back Dreck ― Dreck bleibt immer Dreck. EV 3549 : 2 Var.
+Aus dem Finger kann man nicht Käse machen, aus dem Arm nicht Fladen backen. EV 11166 : 7 Var.
+Weder aus Worten noch aus Fingern kann man etwas machen. EV 11141 : 1 Var.
+Aus der Leere (d. i. aus nichts) kann man kein Bauerntuch und aus zwei Fellen keinen Pelz machen. EV 12702 : 25 Var.
+Treibst einen Keil, treib ihn ins Holz. EV 11473 : 1 Var.
+Schwer ist es, aus Holz Feuer zu schlagen. EV 9111 : 1 Var.
+Stahl kann man ja nicht anstelle von Blei verwenden. EV 11950 : 1 Var.
+Fang keinen Vogel im Fluge. EV 5954 : 1 Var.
+Man kann eine Nadel nicht einfädeln, wenn man sie bewegt. EV 7618 : 1 Var.
+Einen Kübelvoll kochendes Wasser kann niemand bereifen, aber einen trockenen Kübel kann jeder bereifen. EV 13955 : 1 Var.
+Keine Mühle mahlt nasses Korn. EV 7083 : 1 Var.
+Ein kalter Ofen bäckt kein Brot. EV 5101 : 2 Var.
+Bei einem kalten Ofen sucht niemand Wärme. EV 5099 : 1 Var.
+365. Das unpassende (zu schwach, zu stark usw.) Mittel; ein Hilfsmittel kann man nicht bei zwei Arbeiten (gleichzeitig) benutzen
+Mit der Nadel erlegt man keinen Elch. EV 7617 : 8 Var.
+Geh doch mit der Nadel in den Krieg. EV 7616 : 7 Var.
+Wer kann (wohl) das Meer mit der Axt ausfüllen. EV 6720 : 2 Var.
+Mit einem Kahn fährt man nicht über das Meer. EV 6037 : 1 Var.
+Sollst nicht zu Fuß in den Himmel gehen wollen. EV 2407 : 2 Var.
+Scharfen Zähnen koch keinen Brei. EV 11961 : 1 Var.
+Geh wohl mit einer Kanone auf die Mücke schießen. EV 11196 : 1 Var.
+Fang den Kranich nicht mit der Axt. EV 4586 : 3 Var.
+Man weiß nicht, wer sich (wohl) mit einem Ziegelstein die Augen wischen wird. EV 11930 : 1 Var.
+Geh nun mit Wolfsdreck den Acker düngen. EV 1588 : 1 Var.
+Geh nicht mit dem Sieb Wasser holen. EV 11074 : 1 Var.
+Wie lange steht (wohl) Wasser immer im Sieb. EV 13960 : 4 Var.
+Ein leckendes Gefäß hält kein Wasser. EV 2460 : 1 Var.
+Man kann zwei Füße nicht in einen Stiefel stecken. EV 2999 : 1 Var.
+Mit einer Angel kann man nicht zwei Fische fangen. EV 14945 : 1 Var.
+Man kann ja zwei Dinge nicht zugleich tun. EV 2954 : 4 Var.
+366. Das Werkzeug muß dem Objekt entsprechen; ein zähes Objekt ― ein radikales Werkzeug
+Wie der Klotz, so der Keil. EV 8269 : 1
+Ein grober Klotz braucht einen groben Keil. EV 2743 : 18 Var.
+Wie das Loch, so der Flicken. EV 471 : 1 Var.
+Der Flicken muß größer sein als das Loch. EV 8253 : 1 Var.
+Ein vergrastes Feld verlangt eine scharfe Egge. EV 11322 : 2 Var.
+367. Verschiedenartiges über Werkzeuge: ihre Notwendigkeit; wenn es einen Willen (ein Bedürfnis) gibt, gibt es auch das richtige Werkzeug; ein gutes Werkzeug hilft nicht viel, wenn man nicht über die notwendige Fähigkeit verfügt
+Weder kommt der Hirt ohne Rute noch der Soldat ohne Säbel aus. EV 3263 : 1 Var.
+Ohne Beil ist man kein Zimmermann und ohne Nadel kein Schneider. EV 3873 : 1 Var.
+Ohne Zügel kann man ja kein Pferd lenken. EV 1310 : 1 Var.
+Niemand geht doch ohne Hüterhund Vieh hüten. EV 3245 : 1 Var.
+Eines fehlenden Strickes wegen bleibt der Hund nicht ungehängt. EV 4027 : 2 Var.
+Ein schlagender Mann wird schon einen Stock finden. EV 6151 : 1 Var.
+(Auch) der gute Pflug hilft nicht, wenn der Pflüger den Pflug nicht zu tragen vermag. EV 28 : 1 Var.
+Eine schlechte Sache in guter Hand bringt mitunter viel mehr Nutzen als eine gute Sache in schlechter Hand. EV 778 : 2 Var.
+Nicht das Beil, sondern der Zimmermann spaltet. EV 3872 : 1 Var.
+368. Nimm keine solche Beschäftigungen vor, vozu deine Kenntnisse (noch) nicht ausreichen
+Fahr ja nicht mit dem Bären, spring eher auf des Wolfes Rücken. EV 3314 : 1 Var.
+Man kann nicht eher fliegen, als bis die Flügel gewachsen sind. EV 5743 : 1 Var.
+Fliege nicht höher, als die Flügel tragen. EV 5748 : 90 Var.
+Der Vogel kann nicht höher fliegen, als die Flügel tragen. EV 5923 : 40 Var.
+Du kannst schon nicht höher scheißen, als der Arsch reicht. EV 4854 : 3 Var.
+Man soll sich nicht breiter ausdehnen, als der Mensch ist. EV 5291 : 2 Var.
+Man kann nicht breiter sitzen, als der Arsch reicht. EV 5292 : 1 Var.
+Breite die Haut nur dann aus, wenn sie reicht; wenn nicht, dann breite sie nicht aus. EV 7183 : 1 Var.
+Was trittst du tiefer, als das Bein reicht. EV 11360 : 1 Var.
+Was man nicht tragen kann, das braucht man auch nicht aufzuheben. EV 2712 : 1 Var.
+Vom Tropfen (d. i. männlichen Glied) kommt man nicht auf den Dachboden. EV 12009 : 11 Var.
+Sitzt man auf einer Basatmatte, denkt man nicht an Pelze. EV 9415 : 1 Var.
+Der Schuster soll bei seinen Leisten bleiben. EV 3789 : 15 Var.
+369. Die Fähigkeiten der Menschen sind unterschiedlich; was einer nicht kann, kann der andere
+Alle sind nicht gleich klug und gleich fleißig. EV 11604 : 1 Var.
+Nicht alle Birken wachsen ja gleich hoch. EV 3338 : 3 Var.
+Jeder Baum ist nicht ein Mastbaum. EV 9084 : 2 Var.
+Alle Bäume haben gespreizte Äste, (aber) nicht alle taugen zur Heugabel. EV 9094 : 1 Var.
+Nicht jedes Land trägt verschiedene Früchte. EV 6186 : 1 Var.
+Alle Vögel fliegen nicht in gleicher Höhe. EV 5913 : 4 Var.
+Alle Flügel tragen nicht in die gleiche Höhe. EV 12003 : 1 Var.
+Der Ochs macht auf einmal (so viel Mist), wie die Mücke in einem Jahr. EV 1836 : 30 Var.
+Das Huhn hat mehr Mühe mit einem Ei als das Schwein mit sieben Ferkeln. EV 3125 : 3 Var.
+Das Schwein mit vier Füßen kommt nicht auf die Stange und (d. i. aber) das Huhn mit zwei Füßen (kommt) wohl. EV 10403 : 1 Var.
+Das Huhn versteht nicht zu schwimmen. EV 3118 : 1 Var.
+Adler fliegen hoch unter den Wolken, Schmetterlinge niedrig über dem Gras. EV 4411 : 4 Var.
+Ein längeres Bein macht längere Schritte. EV 8811 : 1 Var.
+Ein großes Schiff soll auf die See gehen, ein Kahn in der Nähe des Ufers bleiben. EV 5273 : 1 Var.
+Was der eine nicht weiß, das weiß der andere. EV 14902 : 4 Var.
+Was der eine nicht vermag, das ermag wieder der andere. EV 14901 : 2 Var.
+Der eine versteht den Pflug zu binden, der andere mit dem Pflug zu pflügen. EV 15063 : 2 Var.
+370. Klugheit und Erfahrungen sind nicht überflüssig, sie sind notwendig; hat man Kraft, ist man reich; die Kraft ist besser als der Reichtum
+Weisheit ißt ja nicht Brot. EV 11664 : 8 Var.
+Weisheit wird ja nicht auf dem Rücken getragen. EV 11665 : 2 Var.
+Aus Weisheit platzt niemand. EV 11673 : 2 Var.
+Was der Mensch lernt, das geht niemals verloren. EV 2169 : 1 Var.
+Gebe Gott, daß du jede Arbeit zu verrichten verstehst, aber hüte dich davor, alles zu machen. EV 2599 : 1 Var.
+Des Mannes Macht ist in der Klugheit. EV 6642 : 1 Var.
+Weisheit macht stark, Faulheit mergelt aus. EV 11687 : 1 Var.
+Weisheit ist für den Menschen wie die Sonne für die Natur. EV 11677 : 1 Var.
+Weisheit ist viel wert. EV 11678 : 1 Var.
+Weisheit ist notwendiges Gut. EV 11685 : 3 Var.
+Weisheit ist mehr als Reichtum. EV 11680 : 2 Var.
+Besser klug und arm als dumm und reich. EV 11612 : 2 Var.
+Weisheit geht über Macht. EV 11675 : 2 Var.
+371. Ein erfahrener (kluger, meisterhafter) Arbeiter arbeitet leicht, schafft viel, kommt mit wenig aus, macht fast von Nichts doch Etwas usw. Ein dummer Arbeiter kommt auch in günstigen Bedingungen nicht klar
+(Was für) eine Not hat der Seehund im Wasser!. EV 1740 : 2 Var.
+Frag die Katze, ob sie Krallen hat. EV 3399 : 1 Var.
+Dem Fischer bleiben Kaulbarschgräten nie im Halse stecken. EV 3077 : 1 Var.
+Arbeit ist nicht Schreiben, daß man sie nicht kann. EV 12561 : 1 Var.
+Ein später Hahn findet ein goldenes Huhn. EV 1251 : 1 Var.
+Das Auge eines richtigen Meisters ist der Zirkel und die Nase das Winkelmaß. EV 6709 : 30 Var.
+Der Schaffende macht auch aus nichts etwas. EV 11815 : 11 Var.
+Der Kluge macht auch dem Dreck Augen in den Kopf. EV 11659 : 1 Var.
+Ein geschickter Mann versteht sogar vom Floh die Haut abzuziehen. EV 8117 : 1 Var.
+Ein geschickter Mann zieht auch aus einem Stein Brot heraus. EV 8116 : 2 Var.
+Der eine macht auf dem Knie mehr als der andere auf dem Meer. EV 11802 : 1 Var.
+Setz einen vernünftigen Mann meinetwegen auf einen Sandhügel ― er lebt, aber einen unvernünftigen (Mann) meinetwegen in einen Goldtopf ― er ist immer in Fesseln. EV 7011 : 1 Var.
+Der eine lebt auf dem Steinhaufen, der andere lebt auch dann nicht, wenn er mit der Nase im Kornkasten steckt. EV 11878 : 4 Var.
+Der Kluge hat auf dem Schnee genügend Dampf zum Quästen, der Dumme erfriert auch in der Sauna. EV 11620 : 1 Var.
+Gib dem Narren ein Brot in die Hand, er versteht nicht zu essen. EV 7383 : 1 Var.
+372. Gute Ratschläge (Kunststücke, Kniffe, Lösungen) sind wertvoll; sie vermindern die Mühe, mit deren Hilfe kann man auch schwere Arbeiten erledigen
+Rat hilft dem Mann, das "Hü!" dem Pferd. EV 7639 : 11 Var.
+Guter Rat ist teuer. EV 955 : 5 Var.
+Guter Rat ist mehr als Gold. EV 954 : 1 Var.
+Klugheit leistet ja immer mehr Arbeit, als der Mensch selbst tut. EV 7633 : 1 Var.
+Ein kluger Rat bei der Arbeit teilt die Mühe. EV 11647 : 2 Var.
+Wessen Kopf arbeitet, dessen Füße haben weniger Mühe. EV 8448 : 1 Var.
+Klugheit wird schon die Heiden pflügen, Verstand das Land eggen. EV 7637 : 1 Var.
+Des Verstands wegen werden sogar Hosen angezogen. EV 7638 : 1 Var.
+Mit Geschirr (d. i. dem Können) jagt man den Kübel aus der Stube (Hier ein Wortspiel). EV 7640 : 1 Var.
+Mit Verstand wird die Katze getötet und das Pferd gezüchtet. EV 7641 : 1 Var.
+Es ist wohl schwer, eine Katze zu beschneiden, doch wird sie in den Sack gesteckt und beschnitten. EV 3376 : 1 Var.
+Mit Schabernack wird sogar der Kater verschnitten. EV 14013 : 4 Var.
+373. Guter Rat ist besser als große Kraft, arbeite eher mit dem Kopf als mit den Händen. Auch die Kraft ist nötig
+Gearbeitet wird mit Verstand (od. Nachdenken), nicht mit großer Kraft. EV 7642 : 10 Var.
+Mehr wird getan mit Klugheit als mit Kraft. EV 7634 : 55 Var.
+Mit Überlegen wird mehr getan als mit Kraft. EV 7088 : 2 Var.
+Was man nicht mit Kraft bekommt, bekommt man mit Verstand. EV 2705 : 20 Var.
+Kann man es nicht mit der Tat, dann versuch's mit Rat. EV 11819 : 1 Var.
+Schwere Sachen brauchen Rat, aber nicht große (d. i. viel) Kraft. EV 9553 : 1 Var.
+Der eine schafft mehr mit dem Kopf als der andere mit den Händen. EV 11874 : 1 Var.
+Der Kluge schafft mehr mit Gedanken (d. i. Verstand) als der Dumme mit den Händen. EV 11658 : 1 Var.
+Verstand ist in des Mannes Kopf, aber nicht in des Mannes Hand. EV 7026 : 5 Var.
+Ein guter Kopf ernährt hundert Hände. EV 1035 : 2 Var.
+Besser der Verstand von einem Mann als die Kraft von neun Männern. EV 14877 : 2 Var.
+Die Kraft von neun Männern und der Rat von einem Mann sind dasselbe. EV 14849 : 5 Var.
+Verstand ohne Kraft ist wie ein Krieg ohne Hand. EV 7643 : 2 Var.
+Jede Arbeit braucht Kraft. EV 12439 : 1 Var.
+Wer kann (d. i. Vermögen hat), der rudert. EV 2711 : 15 Var.
+374. Die Dummheit ist schlecht: vergrößert die Mühe, verursacht Schaden
+Wen Gott strafen will, dem nimmt er den Verstand weg. EV 2618 : 1 Var.
+Wie schlimm, wenn der Kopf faulig ist (d. i. wenn im Kopf nichts drin ist). EV 1794 : 1 Var.
+Ein Mann ohne Verstand ist wie ein Pferd ohne Zaum. EV 6581 : 1 Var.
+Ein Mann ohne Gedanken (d. i. Verstand) ist wie ein Ochs ohne Fesseln. EV 6584 : 1 Var.
+Der Kopf schütter, der Fuß leicht. EV 8468 : 2 Var.
+Was nicht im Kopf ist, das muß in den Füßen sein. EV 8462 : 50 Var.
+Wenn der Kopf nicht begreift, dann begreifen die Füße. EV 8453 : 11 Var.
+Die Füße bezahlen, was der Kopf schuldig bleibt. EV 2390 : 1 Var.
+Der Kopf vergißt, die Füße erinnern. EV 8474 : 4 Var.
+Der schlechte Kopf vergißt, die armen Füße müssen verantworten. EV 8469 : 1 Var.
+Wenn der Kopf irreführt, dann stolpert der Fuß. EV 8454 : 1 Var.
+Ist der Kopf dumm, müssen die Füße es spüren. EV 9852 : 1 Var.
+Ein dummer Kopf gibt den Füßen keine Ruhe. EV 12868 : 1 Var.
+Ein leichter Kopf macht den Füßen Arbeit. EV 3603 : 2 Var.
+Hat man keinen Kopf, muß man die Füße antreiben. EV 8452 : 1 Var.
+Der Kopf ist dumm, die Füße haben viel Mühe. EV 12869 : 1 Var.
+Dummer Kopf, große Mühe. EV 9874 : 50 Var.
+Ein dummer Kopf gibt dem Körper Prügel. EV 6012 : 2 Var.
+Ein dummer Kopf ist des Körpers Plage. EV 6011 : 5 Var.
+Was der Kopf macht, das der Arsch verantwortet. EV 8463 : 25 Var.
+Wer sonst schlägt des Dummen Kopf gegen die Wand, als (er) selbst. EV 9850 : 1 Var.
+Dummheit prügelt seinen Herrn. EV 9880 : 5 Var.
+Dummheit muß geprügelt werden. EV 9882 : 1 Var.
+Der Dumme bekommt auch in der Kirche Prügel. EV 6013 : 105 Var.
+375. Der "Flügellose", "Nägellose", "Zahnlose" (dumm? unbeholfen? faul? krüppelhaft?) wird mit nichts fertig
+Wie weit fliegt wohl ein Vogel mit einem Flügel. EV 5901 : 3 Var.
+Wohin fliegt ein flügelloses Huhn oder läuft eine fußlose Eule. EV 12001 : 1 Var.
+Jedermann weiß, was ein Vogel mit nur einem Flügel ist. EV 1929 : 1 Var.
+Wie kann ein Schwein auf den Baum geraten, wenn es keine Krallen hat. EV 10342 : 4 Var.
+Eine Katze, die keine Krallen hat, kommt nicht auf den Baum. EV 3408 : 5 Var.
+Dieser Hund kann nicht beißen, der keine Zähne hat. EV 8569 : 1 Var.
+FAB. Lernen, Üben, Erfahren. Das Lernen vom Leben ist schmerzhaft. Die Weisheit, die hinterher kommt, Voraussicht. Vorsicht, Feigheit, Mut. Angst
+
+376. Von der Wichtigkeit des Lernens: niemand wird klug geboren; wer lernt, der kann; wer nicht lernt, der kann nicht
+Niemand wird klug geboren. EV 11420 : 25 Var.
+Kein Kluger ist vom Himmel gekommen. EV 11662 : 35 Var.
+Iß Ziegenfleisch und lern Weisheit. EV 11271 : 1 Var.
+Dieser Mensch ist reich, der viel gelernt hat. EV 9756 : 1 Var.
+Willst leben, befolge Lehren. EV 566 : 1 Var.
+Leb, um zu lernen und lern, um zu leben. EV 14764 : 1 Var.
+Lern etwas, dann verstehst du etwas. EV 14755 : 1 Var.
+Wer klug ist, der läßt sich belehren. EV 11603 : 2 Var.
+Willst du klug werden, so mußt du lernen. EV 11605 : 10 Var.
+Das, was der Mensch lernt, das weiß (er) auch. EV 2176 : 3 Var.
+Gelernte Arbeit geht leicht. EV 12551 : 1 Var.
+Der Gelernte macht immer die Arbeit, der Ungelernte sieht zu. EV 14763 : 3 Var.
+Ein gelernter (d. i. ans Trinken gewöhnter) Mann trinkt Bier, ein ungelernter erbricht sich. EV 14756 : 4 Var.
+Wer wenig lernt, der wenig versteht. EV 14753 : 1 Var.
+Wer beim Lernen seufzt, der lernt niemals. EV 14518 : 1 Var.
+377. Die Arbeit lehrt den Arbeiter. Den Kenntnissen geht das Üben voraus (das einfache Zuschauen genügt nicht)
+Arbeit lehrt den Täter (d. i. den Arbeitenden). EV 12548 : 35 Var.
+Beim Üben wächst die Kraft. EV 3455 : 1 Var.
+Arbeit lehrt sich selbst. EV 12547 : 15 Var.
+Für eine Weile den anderen, auf Lebenszeit sich selbst. EV 15140 : 3 Var.
+Die Arbeit für den anderen, die Belehrung für sich. EV 12544 : 15 Var.
+Aus Versuchsarbeit kommt Kunst. EV 3451 : 1 Var.
+Übung macht den Meister. EV 852 : 10 Var.
+Je härter du ruderst, desto stärker ist das Bein (od. Je stärker man rudert, desto fester steht man). EV 13303 : 1 Var.
+Gewalt kommt durch Kraft, vermindert sich durch Liebe. EV 14436 : 7 Var.
+Du wirst ja nicht eher ein Mann, bevor du eine Furche übers Feld pflügst. EV 6483 : 1 Var.
+Wie gesehen, so getan. EV 7657 : 1 Var.
+Was weiß der, der nichts versucht hat. EV 11717 : 1 Var.
+Auf dem Sofa kann man nicht schmieden lernen. EV 10598 : 1 Var.
+Im Nest lernt der Vogel ja nicht fliegen. EV 5876 : 6 Var.
+Der Kranich steigt selten auf einen Baum, bricht sich das Bein. EV 4580 : 2 Var.
+Wer den Rechen nicht kennt, der versteht nicht zu rechen. EV 9605 : 1 Var.
+378. Die Not lehrt, gibt Rat
+Not wird schon lehren. EV 1792 : 25 Var.
+Not lehrt, Hunger zeigt (d. i. gibt Anweisung). EV 7782 : 16 Var.
+Not bäckt schon zum Mann. EV 1789 : 1 Var.
+Not schult bisweilen den Narren. EV 1744 : 3 Var.
+Not macht den Mann klug. EV 1743 : 10 Var.
+Not als Lehrer, Mühe als Schlepper und Mangel als Zurechtsteller. EV 1764 : 1 Var.
+Not ist der beste Schulmeister. EV 1750 : 3 Var.
+Not gibt schon Rat. EV 1790 : 4 Var.
+In der Not gibt es vielerlei Rat (d. i. mehrere Auswege). EV 1765 : 1 Var.
+In der Not findet der Mensch fünf Auswege. EV 1755 : 1 Var.
+Die Hexe wird schon Rat wissen, wenn man den Sohn zum Erhängen bringt. EV 7624 : 20 Var.
+Wenn Wasser in den Mund kommt, dann wird man schon das Schwimmen erlernen. EV 13963 : 3 Var.
+379. Der Mensch lernt, bis er stirbt (und ist auch dann noch nicht klug genug)
+Der Mensch ist achtzig Jahre Schuljunge. EV 2142 : 3 Var.
+Der Mensch ist bis zum Tode Schulkind. EV 2123 : 1 Var.
+Der Mensch lernt auch, wenn er alt ist. EV 2140 : 1 Var.
+Der Mensch lernt, solange er lebt. EV 2138 : 80 Var.
+Der Mensch lernt bis zum Tode. EV 2139 : 15 Var.
+Der Mensch lernt von der Wiege bis zum Grabe. EV 2137 : 10 Var.
+Du lernst solange, bis du auf dem Stroh (d. i. auf dem Leichenlager) bist. EV 14758 : 4 Var.
+Man lernt solange, bis zwei Hände auf die Brust gelegt werden. EV 14757 : 1 Var.
+Vor dem Tod ist niemand klug. EV 10721 : 1 Var.
+Man wird ja nicht eher klug, als bis zwei Hände auf der Brust sind. EV 11595 : 1 Var.
+Am Rande des Grabes wirst klug, aber dann ist es zu spät. EV 867 : 1 Var.
+Der Mensch wird nicht eher klug, als bis die Hinterbacken zusammenwachsen. EV 2104 : 1 Var.
+Man wird nicht eher klug, als bis man das Brot aus neun Öfen aufißt. EV 11598 : 1 Var.
+380. Das Leben lehrt. Die Welt lehrt. Die Welt lehrt schmerzhaft, durch Schläge und Wunden
+Das Leben wird schon lehren. EV 586 : 7 Var.
+Wenn du lebst, dann du lernst. EV 555 : 2 Var.
+Das Leben ist der Lehrmeister für viele, der Tod beendet das Übel. EV 574 : 1 Var.
+Der Lebende spürt wohl Hitze. EV 558 : 8 Var.
+Wer vom Leben nicht lernt, den lehrt die Welt. EV 583 : 1 Var.
+Die Welt ist da, um zu lernen und um zu leben. EV 1966 : 4 Var.
+Die Welt ist (da), um zu lernen, nicht um zu leben. EV 1981 : 10 Var.
+Das Leben in der Welt ist wie ein weiser Stein. EV 2013 : 1 Var.
+Die Welt ist klüger als der Mensch. EV 1967 : 2 Var.
+Wenn die Welt dich belehrt, dann wirst du schon klüger werden. EV 1993 : 1 Var.
+Die Lebensschule ist weit; wer sie durchmacht, wird klug. EV 594 : 1 Var.
+Die Schule der Welt (d. i. des Lebens) ist die klügste. EV 2015 : 3 Var.
+Die Welt ist eine feine Schule. EV 1969 : 1 Var.
+Wo eine Zitze, da auch ein Hinterer. EV 12016 : 3 Var.
+Die Welt wird schon aus einem Mann einen Mann machen. EV 1999 : 2 Var.
+Die Schule der Welt (d. i. des Lebens) tut weh. EV 2017 : 1 Var.
+Das Leben lehrt, aber des Lebens Belehrung ist bitter­bitter. EV 582 : 1 Var.
+Die Welt lehrt schmerzhaft. EV 1979 : 1 Var.
+Der Welt Ruten schlagen schmerzhaft. EV 1960 : 3 Var.
+Die Welt lehrt so, daß es durchs Fleisch (dringt) und eine Kerbe in den Knochen (schneidet). EV 1978 : 5 Var.
+Die Welt wird schon lehren und das Kalbsfell tadeln (Im Krondienst trugen Soldaten Ranzen aus Kalbsleder). EV 2001 : 40 Var.
+Die Welt belehrt den Menschen, eine schwere Last das Pferd. EV 1980 : 2 Var.
+Die Welt wird schon lehren. EV 2000 : 75 Var.
+Die Welt lehrt spät. EV 1977 : 4 Var.
+Die Welt hat eine lange Peitsche. EV 1957 : 4 Var.
+Die Peitsche der Welt wird schon lehren. EV 1997 : 1 Var.
+Die Welt wird schon hobeln, die Weltsäge schneiden. EV 1998 : 2 Var.
+Geh nicht mit einem Bösen auf den Weg oder mit einem Feind zur Mühle. EV 11996 : 3 Var.
+Die Welt läßt niemanden ungehobelt. EV 1961 : 1 Var.
+381. Das Unglück und der Schaden lehren
+Unglück lehrt. EV 14731 : 3 Var.
+Der Fleißige (od. der Schnelle) verkommt, der Hurtige (od. der Heftige) wird schorfig, aber der Ruhige lebt immer (weiter). EV 12933 : 40 Var.
+382. Die Klugheit kommt erst nach der Dummheit. Es gibt genug diejenige, die hinterher klug sind
+Dummheit geht voran, Klugheit hinterdrein. EV 9878 : 8 Var.
+Der Mensch wird ja nicht eher klug, bevor er dumm gewesen ist. EV 2092 : 2 Var.
+Man wird ja sonst nicht klug, wenn man kein Schulgeld zahlt. EV 11596 : 2 Var.
+Weisheit kommt hinterdrein. EV 11689 : 18 Var.
+Hinterher ist ein jeder klug. EV 9319 : 20 Var.
+Hinterher gibt es wohl viele Kluge, vorher gibt es keinen einzigen. EV 9318 : 20 Var.
+Wären die Vorderräder die hinteren wäre so manche Sache anders. EV 714 : 2 Var.
+Mit nachträglichem Wissen darf man nicht ins Grab gehen. EV 11663 : 1 Var.
+383. Wer schmerzhafte Erfahrungen hat, der kann (soll) nächstes Mal vorsichtig sein, wird übermäßig vorsichtig
+Wer einmal seine Finger verbrannt hat, der hüte sich, daß er sie nicht zum zweiten Mal verbrennt. EV 11167 : 2 Var.
+Wer sich einmal die Nase gebrannt hat, brennt (sie) nicht mehr. EV 7444 : 1 Var.
+Wer sich einmal verbrannt hat, (der) fürchtet das Feuer. EV 9169 : 7 Var.
+Ein gebranntes Kind scheut das Feuer. EV 9170 : 20 Var.
+Ein geschnittenes Kind hütet sich vor dem Messer. EV 6107 : 2 Var.
+Ein gebissener Hund ist feige. EV 9063 : 3 Var.
+Wo der Hund einmal geschlagen wurde, da bellt er ein anderes Mal nicht mehr. EV 4137 : 1 Var.
+Der verprügelte Hund fürchtet sich vor dem Knüppel. EV 8527 : 1 Var.
+Eine verschreckte Krähe fürchtet sich vor dem Busch. EV 1306 : 4 Var.
+Der Mann, den die Schlange gebissen hat, fürchtet die Eidechse. EV 10579 : 1 Var.
+Wer sich mit Suppe den Mund verbrannt hat, der bläst auch aufs Wasser. EV 10698 : 3 Var.
+384. Wenn du auf einer gefährlichen Landschaft gehst, sei vorsichtig (paß auf, daß du nicht "rutscht", "ertrinkst", keine "Brandwunden bekommst", nicht "gebissen wirst", nicht "geschlagen wirst" usw.)
+Auf glattes Eis geh nicht spielen. EV 5782 : 1 Var.
+Wenn der Ochs auf Glattes geht, dann fällt er um. EV 1851 : 1 Var.
+Steck nicht den Kopf auf den Grund, halt immer die Füße auf dem Grund. EV 8481 : 3 Var.
+Mit dem Fuß prüft man Hartes. EV 2391 : 20 Var.
+Der Mensch, der seine Beine hochhebt, stößt nie gegen einen Stein. EV 2386 : 1 Var.
+Wenn du zuerst mit der Hand prüfst, dann stößt du niemals mit dem Fuß an. EV 4986 : 1 Var.
+Steck den Kopf nicht ins Feuer. EV 8482 : 13 Var.
+Steck den Finger nicht in die Asche, unter der Asche ist Feuer. EV 7740 : 1 Var.
+Spiel nicht mit Feuer, Wasser oder der Schlange. EV 12182 : 1 Var.
+Rühr nicht ein Wespennest an. EV 1222 : 1 Var.
+Geht ja nicht in die Nesseln scheißen. EV 7622 : 1 Var.
+Faß ein scharfes Messer nicht mit bloßen Händen an. EV 11962 : 1 Var.
+385. Überlege und überprüfe vielmals, ehe du einmal handelst
+Neunmal miß, einmal schneid. EV 14841 : 40 Var.
+Neunmal hau und neunmal miß, dann ist die Arbeit gut. EV 14842 : 1 Var.
+Neunmal schau, einmal schneid. EV 14853 : 1 Var.
+Neunmal schau, einmal mach. EV 14852 : 1 Var.
+Neunmal denken, einmal machen. EV 14840 : 4 Var.
+386. Lebe nach deiner Vernunft. Erst denke, dann handle. Der Kluge denkt vorher, der Dumme bringt sich in die Gefahr, wird später bereuen
+Der Wind schiebt den Vogel, der Verstand den Mann. EV 5935 : 1 Var.
+Der Vogel fliegt nach dem Schnabel, aber der Mensch muß nach dem Verstand leben. EV 5928 : 1 Var.
+Wenn du ein Mann bist, dann hab eines Mannes Verstand. EV 6541 : 1 Var.
+Verstand voran, Rat und Tat hinterdrein. EV 401 : 1 Var.
+Zuerst gedacht, später gemacht. EV 7040 : 3 Var.
+Wer Verstand hat, der denke nach. EV 6456 : 1 Var.
+Tu, was du tust, aber überlege dabei und denk nach. EV 11800 : 2 Var.
+Für den Tag leb, für hundert Jahre denk im voraus. EV 9295 : 1 Var.
+Der Kluge denkt still nach, der Dumme geht bei Sturm aufs Meer. EV 11645 : 1 Var.
+Der Kluge denkt vorher, der Dumme bereut hinterher. EV 11644 : 1 Var.
+387. Es ist besser, vorsichtig zu sein (durchzudenken, zu fürchten, zu entsagen, stehenzubleiben usw.) als später zu bereuen (etwas zu verderben, Schaden zu verursachen)
+Besser zweimal denken als einmal verderben. EV 3016 : 1 Var.
+Besser zuerst bedenken als nachher bereuen. EV 7048 : 4 Var.
+Besser vorsehen als nachher bereuen. EV 723 : 15 Var.
+Besser sich vorsehen als später leiden. EV 2887 : 11 Var.
+Besser vorher zusehen als nachher bedauern. EV 3519 : 3 Var.
+Besser fürchten als bedauern. EV 3273 : 185 Var.
+Besser sich hüten als stöhnen. EV 1430 : 155 Var.
+Besser seufzen als stöhnen. EV 7780 : 1 Var.
+Besser ein Jahr warten als zwei bereuen. EV 12 : 3 Var.
+Besser aus der Nähe zurückkommen als von weitem bereuen. EV 5799 : 1 Var.
+Besser vor der Tür als aus der Hinterecke fliehen. EV 12853 : 10 Var.
+Besser vorsehen als schnell laufen. EV 722 : 1 Var.
+388. Verschiedenartiges über die Vorsicht, deren Wichtigkeit und Nutzen
+Die Augen sollen immer vorn und hinten sein. EV 10459 : 8 Var.
+Vorsicht ist die Mutter der Weisheit. EV 727 : 20 Var.
+Vorsehen schadet niemals. EV 724 : 2 Var.
+Sorgsame Vorsicht sticht dem Unglück die Augen aus. EV 1480 : 1 Var.
+Der Mensch muß auf der Erde wie auf einem runden Balken leben. EV 2126 : 1 Var.
+389. Die Nachlässigkeit verursacht Unannehmlichkeiten, Schaden, Unglück
+In die Nähe man legt, von weitem man nimmt. EV 6141 : 1 Var.
+Wohin du mit einer Hand gelegt hast, von dort nimm mit beiden Händen. EV 14882 : 35 Var.
+Dem Nachlässigen stiehlt der Wolf immer seine Sachen. EV 1488 : 1 Var.
+Der Nachlässige vergißt immer. EV 1492 : 1 Var.
+Nachlässigkeit verhindert das Zugrundegehen nicht. EV 1495 : 3 Var.
+Nachlässigkeit fordert die größten Opfer. EV 1502 : 1 Var.
+Wer nachlässig, der unglücklich. EV 1494 : 10 Var.
+Nachlässigkeit voran, Unglück hinterdrein. EV 1496 : 40 Var.
+Wo Nachlässigkeit, da Unglück. EV 1510 : 40 Var.
+Wo ich Naclhlässigkeit finde, dorthin Unglück ich säe. EV 1511 : 5 Var.
+Wenn du Nachlässigkeit pflegst, dann sendet der Himmel Unglück. EV 1216 : 1 Var.
+Nachlässigkeit und Unglück gehen zusammen. EV 1499 : 6 Var.
+Nachlässigkeit ist des Unglücks Mutter. EV 1505 : 5 Var.
+Nachlässigkeit ist des Unglücks Wegweiser. EV 1506 : 1 Var.
+Nachlässigkeit und Unglück sind Genossen. EV 1500 : 2 Var.
+Unglück und Nachlässigkeit sind Brüder. EV 14722 : 6 Var.
+390. Mut / Furcht haben zweierlei Natur. Ein ängstlicher Mensch hütet sich selbst, ein Mutiger ernährt sich
+Mut und Unglück sind Brüder. EV 2505 : 1 Var.
+Dem Mutigen wird auch des Mutigen Unglück zuteil. EV 2500 : 1 Var.
+Ein Verwegener hat ein böses Ende. EV 5835 : 4 Var.
+Ein mutiger Wolf findet bald sein Ende. EV 2494 : 2 Var.
+Das Kotstückchen eines mutigen Hundes bleibt immer auf dem Schneehaufen. EV 2492 : 10 Var.
+Ein feiger Hund hütet sein Fell. EV 342 : 25 Var.
+Der Mutige gibt die Haut, aber der Feige ernährt den Kopf (d. i. ernährt sich). EV 2491 : 1 Var.
+Der Feige hütet seine Haut. EV 339 : 10 Var.
+Der Mutige ernährt den Kopf, der Feige stirbt. EV 2497 : 25 Var.
+Mut erhebt, Mut tötet. EV 2509 : 1 Var.
+Ein ängstlicher Hund wird nicht fett. EV 3268 : 3 Var.
+Wer sich vor dem Wolf fürchtet, der soll nicht in den Wald gehen. EV 1655 : 2 Var.
+Der Wolf bekommt ja kein Fleisch, wenn er sich vor dem Nebel fürchtet. EV 1596 : 1 Var.
+Ein feiger Hirt läßt die Herde mager werden. EV 340 : 1 Var.
+Wer nicht wagt, wird die Stadt Wõru nicht zu sehen bekommen. EV 2501 : 1 Var.
+Wer Schaden fürchtet, der findet kein Glück. EV 2936 : 195 Var.
+Wer sich vor Betrug fürchtet, der findet kein Glück. EV 8725 : 1 Var.
+Dem Mutigen ist das Glück hold. EV 2495 : 2 Var.
+Wer sich fürchtet, der verliert. EV 3271 : 2 Var.
+Dem Mutigen gehört der Sieg. EV 2499 : 12 Var.
+Mut ist ein halbes Maß. EV 2506 : 1 Var.
+Des Mutigen Feld blüht immer. EV 2498 : 1 Var.
+391. Verschiedenartiges über Furcht und Angst: die Wirkungen der Angst usw.
+Wovor du dich fürchtest, das fällt dir an den Hals. EV 3272 : 1 Var.
+Furcht taugt nirgendwohin. EV 3287 : 1 Var.
+Furcht kostet Geld. EV 1288 : 4 Var.
+Furcht hat große Augen. EV 1293 : 25 Var.
+Furcht zwingt die Hosen Mehl zu beuteln. EV 1291 : 1 Var.
+Furcht wird (dir schon) Beine machen. EV 1292 : 1 Var.
+Furcht lehrt bitten. EV 1295 : 1 Var.
+FAC. Ungeduld / Wartung. Geduldsamkeit, Geduld
+
+392.
+Greifst du plötzlich, verbrennst (dir) den Mund. EV 733 : 35 Var.
+An des Wartenden Angel beißt der Fisch. EV 8066 : 4 Var.
+Wer wartet, der bekommt viel. EV 8067 : 1 Var.
+Wer lange wartet, der bekommt Schönes. EV 3469 : 20 Var.
+Wer sich geduldet, der lebt lange. EV 3174 : 200 Var.
+Wer sich geduldet, der bereut nichts. EV 3173 : 4 Var.
+Der Geduldige geht nicht verloren. EV 3184 : 5 Var.
+Der Geduldige sieht zwei Anteile. EV 3171 : 20 Var.
+Ein Geduldiger wird das Tuch (d. i. etwas Gutes) sehen. EV 3170 : 1 Var.
+Geduld ist ein teurer Schatz. EV 3178 : 6 Var.
+Geduld ist die beste Arznei. EV 3179 : 10 Var.
+Die Geduld ist des Lebens Verbesserung. EV 3177 : 3 Var.
+Geduld ist des Mannes Halt. EV 3180 : 1 Var.
+Geduld ist der Freude Schlüssel. EV 3181 : 2 Var.
+Geduld besiegt alles. EV 3183 : 8 Var.
+Geduld macht alles Schwere leicht. EV 3182 : 2 Var.
+FAD. Initiative. Anfang und Ende. Zielbewußtheit, Hartnäckigkeit
+
+393. Wenn du auf ein Ziel kommen wirst ― fange von Anfan an. Ein mutiger Anfang ist das halbe Ziel. Für das Auge furchtbar, für die Hand machbar
+Willst auf den Wipfel klettern, mußt beim Stamm beginnen. EV 5584 : 1 Var.
+Willst du den Bock fangen, pack den Bock an den Hörnern. EV 10424 : 1 Var.
+Willst du die Kerne haben, dann nimm das Schälen vor. EV 12263 : 3 Var.
+Wer nicht ins Wasser springt, der lernt nicht schwimmen. EV 13956 : 5 Var.
+Wenn der Wolf zur Herde kommt, wird er schon gefüttert werden. EV 10795 : 1 Var.
+Mutiges Beginnen ist ein halber Sieg. EV 2496 : 105 Var.
+Ein guter Anfang ist ja die Hälfte der Arbeit. EV 911 : 1 Var.
+Eifrigkeit ist ein halber Sieg. EV 155 : 2 Var.
+Die Augen schrecken, die Hände erfreuen. EV 10487 : 2 Var.
+Die Augen fürchten die Arbeit, die Hände verrichten (sie). EV 10466 : 3 Var.
+Die Augen sehen die Arbeit, die Hände verrichten die Arbeit. EV 10490 : 1 Var.
+394. Ein großes Vorhaben ist schwer. Jeder Anfang ist schwer, das Beenden oft noch schwerer
+Ein großes Schiff ist immer schwer zu wenden. EV 5272 : 7 Var.
+Ein großer Balken ist immer schwer zu heben. EV 8373 : 5 Var.
+Arbeit ist ja nicht so schwer wie der Anfang. EV 12420 : 1 Var.
+Aller Anfang ist schwer. EV 246 : 55 Var.
+Der Anfang ist schwer, die Mitte leicht, das Ende flott. EV 770 : 1 Var.
+Es gibt viele, die mit einer Arbeit beginnen; nicht einmal die Hälfte beendet sie. EV 407 : 1 Var.
+Gut anzufangen, aber schlecht zu beenden. EV 910 : 2 Var.
+Wer viel anfängt, der wenig beendet. EV 8348 : 1 Var.
+Über den Hund kann man (kommen), aber nicht über den Sehwanz. EV 4192 : 6 Var.
+395. Hast du schon angefangen, dann gehe bis zum Ende, bleib nicht auf dem halben Weg stehen
+Wenn du die Hand an den Pflug legst, dann schau nicht mehr zurück. EV 4981 : 2 Var.
+Wer den Pflug einsetzt, muß bis zum Rand der Furche ziehen. EV 30 : 1 Var.
+Wer anfängt, muß (es) beenden. EV 244 : 3 Var.
+Wer den Anfang anfängt, der das Ende beendet. EV 247 : 15 Var.
+Wie du (es) beginnen geholfen hast, so hilf (es) auch beenden. EV 245 : 1 Var.
+Hast (es) begonnen, dann beende (es) auch. EV 254 : 1 Var.
+Hast du zu beginnen verstanden, mußt du (auch) zu beenden verstehen. EV 7021 : 4 Var.
+Wer auf halbem Weg stehen blieb, hat oft Schaden erlitten. EV 8967 : 1 Var.
+396. Der starke Wille, die Beharrlichkeit bringen zum Ziel. Sei hartnäckig: bewege dich Schritt für Schritt; gebe Mühe; der Erfolg kommt nicht so einfach; wenn nötig, fange noch mal an
+Wenn man will, macht man auch dem Teufel Hörner auf den Kopf. EV 11481 : 1 Var.
+Beständigkeit führt zum Ziel. EV 9385 : 1 Var.
+Wenn du dich aus Leibeskräften anstrengst, kommst du über jeden Berg. EV 9401 : 45 Var.
+Wer rudert (d. i. sich bewegt), der kommt an. EV 11180 : 10 Var.
+Du ruderst (d. i. bewegst dich), solange du kannst. EV 11181 : 1 Var.
+Steter Tropfen höhlt den Stein. EV 241 : 2 Var.
+Schicht für Schicht baut der Vogel sein Nest. EV 4387 : 1 Var.
+Ein Schritt heute, morgen der zweite. EV 12394 : 1 Var.
+Eine Furche heute, eine Furche morgen ― zum Wochenende ist schon das halbe Feld gepflügt. EV 12399 : 1 Var.
+Eine Kerbe heute, eine Kerbe morgen, und einmal wird ja der große Baum (auch) fallen. EV 12365 : 20 Var.
+Der Baum fällt nicht auf einen Span (d. i. Hieb). EV 9103 : 100 Var.
+Eher soll man das Fällen nicht nachlassen, als bis der Baum fällt. EV 9541 : 1 Var.
+Wenn man entwirrt, dann wird es immer vonstatten gehen (d. i. gedeihen). EV 855 : 1 Var.
+Die Maus sucht so lange, bis sie ein Loch findet. EV 1240 : 1 Var.
+Wer sucht, der findet. EV 8147 : 60 Var.
+Wenn du suchst, dann du findest. EV 8148 : 1 Var.
+Der Ochs wird so lange zum Jahrmarkt geschleppt, bis man schließlich doch einig wird. EV 1864 : 1 Var.
+Wenn ein Rat nicht hilft, so befolge einen anderen Rat. EV 14890 : 1 Var.
+Was du quer nicht kannst, (das) aufrecht versuch. EV 9135 : 1 Var.
+Wenn dreckig, dann von neuem. EV 10522 : 5 Var.
+397. Wenn das Fundament (Vorbereitungen) da ist (sind), ist es schon leichter weiterzumachen. Ist hauptsächliche Arbeit schon fertig (die Schwierigkeiten überwunden), komm(st) (du) auch mit Übergebliebenen zurecht
+Was fehlt, Feuer zu machen, wenn die alten Feuerbrände erhalten sind. EV 12156 : 8 Var.
+Kommst über den Hund (hinweg), so kommst auch über den Schwanz. EV 4132 : 245 Var.
+Kommst über den Besen, kommst auch über den Besenstiel. EV 6100 : 2 Var.
+Geh über die Brücke, wenn du die Brücke erreicht hast. EV 10426 : 1 Var.
+Bist du an der Schlange vorbeigekommen, dann laß dich nicht beißen. EV 12964 : 1 Var.
+398. Über die Erwartung des Endes, ein kurzer Schluß
+Wart nicht auf das Ende, dann (d. i. sonst) rückt es weiter. EV 6131 : 1 Var.
+Nichts nimmt ja ein Ende, wenn du selbst nicht ein Ende machst. EV 6130 : 1 Var.
+Besser ein kurzes Ende als ein langes Geschwätz. EV 6176 : 1 Var.
+Besser ein kurzes Ende als ein langer Anfang. EV 6175 : 1 Var.
+Besser kurz und gut als lang und schlecht. EV 6172 : 1 Var.
+399. Anfang gut ― Ende schlecht. Anfang schlecht ― Ende gut. Wie der Anfang, so das Ende. Alles gut ― Ende gut. Ende gut ― alles gut
+Wer gut beginnt, der schlecht beendet. EV 243 : 1 Var.
+Wer groß hereinfährt, der klein herauskommt. EV 10936 : 1 Var.
+(Wer) zuerst ein Kammerdiener, (der) ist später ein Schweinehirt; aber (wer) zuerst ein Schweinehirt, (der) ist später ein Kammerdiener. EV 12018 : 1 Var.
+Wer mit Kleinem anfängt, (der) mit Großem beendet. EV 14452 : 1 Var.
+Mit Wenigem beginn, mit Vielem beende. EV 14449 : 1 Var.
+Besser ein leichter Anfang als ein leichtes Ende. EV 3609 : 1 Var.
+Wie du beginnst, so du endest. EV 773 : 1 Var.
+Wenn alles gut, ist auch das Ende gut. EV 1099 : 1 Var.
+Ende gut, alles gut. EV 6132 : 20 Var.
+FAE. Die Planung der Zeit: rechtzeitig, zu früh und zu spät; schnell und langsam
+
+400. Alles zu seiner Zeit; jede Zeit hat bestimmte Vorhaben. Mache alles zu seiner (richtiger, bestimmter) Zeit
+Jede Sache zu ihrer Zeit. EV 420 : 25 Var.
+Jede Zeit hat ihre Dinge. EV 113 : 1 Var.
+Alles verlangt seine Zeit. EV 119 : 3 Var.
+Jede Sache braucht ihre Zeit. EV 418 : 1 Var.
+Jede Arbeit braucht ihre Zeit. EV 12434 : 1 Var.
+Jede Arbeit will zur rechten Zeit getan werden. EV 12437 : 2 Var.
+Jede Zeit fragt nach ihrer Arbeit und Tat: Wer im Winter macht (d. i. arbeitet), der findet im Sommer vor; wer im Sommer macht, der findet im Winter vor. EV 112 : 1 Var.
+Jeder Tag hat seine Nacht. EV 9252 : 1 Var.
+Jeder Tag bringt besondere Arbeit. EV 9255 : 2 Var.
+Jeder Tag hat sein Joch, jede Stunde ihre Besorgungen (d. i. Arbeiten). EV 9250 : 2 Var.
+Jeder Tag bekommt von seiner Mühe. EV 9254 : 5 Var.
+Mach alles zu seiner Zeit. EV 11785 : 1 Var.
+Wenn du machst, dann mach die Arbeit; wenn du schläfst, dann schlaf. EV 11768 : 5 Var.
+Schlaf zur Zeit des Schlafens, sei auf zur Zeit des Aufseins. EV 6319 : 15 Var.
+Arbeite zur Arbeitszeit; plaudre zur Plauderzeit. EV 12492 : 115 Var.
+Iß dann, wenn das Essen schmeckt; arbeite, wenn die Arbeit vorangeht. EV 11301 : 1 Var.
+401. Die Zeit ist teuer, man darf sie nicht vergeuden; die Zeit vergeht schnell, bleibt nicht stehen und kommt nie zurück
+Die Zeit hat flinke Beine. EV 101 : 1 Var.
+Zeit ist ein guter Mann zu (ver)gehen. EV 97 : 4 Var.
+Halte die Zeit für teuer. EV 127 : 5 Var.
+Zeit ist teuer. EV 78 : 3 Var.
+Zeit ist Geld. EV 80 : 25 Var.
+Zeit kann man nicht für Geld kaufen. EV 46 : 3 Var.
+Zeit kann man nicht auf dem Jahrmarkt kaufen. EV 48 : 1 Var.
+Besser die Zeit verkaufen als kaufen. EV 126 : 30 Var.
+Die Zeit wartet ja nicht auf den Mann. EV 108 : 1 Var.
+Die Zeit kann man nicht aufhalten. EV 47 : 1 Var.
+Keine verlorene Stunde kommt dir wieder zurück. EV 2882 : 3 Var.
+402. Handle im richtigen Augenblick; laß das nicht los, was du erreicht hast. Wenn du die richtige Zeit verpaßt, wirst du mehr Mühe haben
+Schmiede das Eisen, solange es heiß ist. EV 9570 : 75 Var.
+Zieh die Bastfaser (d. i. den Bast), solange die Bastfaser läuft. EV 3890 : 1 Var.
+Lüfte dann, wenn der Wind geht (d. i. weht); verheirate die Tochter dann, wenn der Mann nimmt. EV 12262 : 1 Var.
+Wenn das Essen gar ist, dann soll man essen. EV 11221 : 2 Var.
+Halte die Hand dann zu, wenn der Vogel in der Hand (ist). EV 8739 : 2 Var.
+Halt den Sack, wenn der Fuchs drin ist. EV 4425 : 1 Var.
+Wer bei stillem (Wetter) schläft, der bei Sturm rudert. EV 13213 : 1 Var.
+Reiß von dort mit Krallen, von wo du früher nicht gerissen hast. EV 3891 : 1 Var.
+Ein Tag klagt um den anderen. EV 9305 : 2 Var.
+403. Benutze richtige Methoden: ist das Unglück (die Gefahr, die Not) schon da, ist es bereits zu spät. Es ist einfacher, die Gefahr dann zu hindern, wenn sie noch klein ist
+Bereite (d. i. mach) im Winter Räder, dann kannst du im Sommer fahren. EV 13305 : 10 Var.
+Die Lüge schleppt zum Stehlen, die Falschheit zum Galgen. EV 13264 : 2 Var.
+Warum fütterst du den Hund noch dann, wenn der Freier vor der Tür ist. EV 4167 : 1 Var.
+Gib dann dem Hund zu fressen, wenn er Vieh hüten geht. EV 4008 : 2 Var.
+Der Mann füttert den Hund nicht dann, wenn er auf die Jagd geht. EV 6607 : 2 Var.
+Füttere den Hund nicht dann, wenn ein Wolf in der Herde ist. EV 4189 : 140 Var.
+Füttere den Hund nicht, wenn die Sehweine im Weizen sind. EV 4190 : 2 Var.
+Man kann ja doch nicht mehr den Hund füttern, wenn der Dieb schon auf dem Hof ist. EV 4021 : 4 Var.
+Füttere nicht die Hühner, wenn der Habicht in der Herde ist. EV 3151 : 1 Var.
+Wenn die Truhe gestohlen ist, schließt man den Speicher ab. EV 3870 : 1 Var.
+Wenn das Pferd durch das Tor gelaufen ist, dann lohnt es sich nicht mehr, das Tor zu schließen. EV 1395 : 7 Var.
+Ist das Schwein schon aus dem Stall heraus, geht man erst die Tür schließen. EV 10359 : 1 Var.
+Erst dann wird ein Zaun rings um (den Hof) errichtet, wenn der Wolf die Gänse gefressen hat. EV 43 : 1 Var.
+Einem Ochsen ist sein Schwanz dann vonnöten, wenn eine Bremse über ihn herfällt. EV 1865 : 35 Var.
+Vielleicht wird auch dem Hund sein Schwanz vonnöten sein. EV 4024 : 1 Var.
+Man braucht dann einen Schwanz, wenn das Wasser im Arsch. EV 10020 : 1 Var.
+Der Hund beginnt nicht eher zu schwimmen, als bis das Wasser ihm den Arsch berührt. EV 4028 : 8 Var.
+Lerne dann nicht mehr schwimmen, wenn das Wasser im Ofen ist. EV 12851 : 2 Var.
+Wenn Wasser in den Mund kommt, dann wird man schon das Schwimmen erlernen. EV 13963 : 3 Var.
+Geh dann noch schwimmen, wenn das Wasser im Arsch ist. EV 12850 : 20 Var.
+Mach keinen Kahn, wenn das Wasser den Arsch berührt. EV 6039 : 4 Var.
+Geh dann noch ein Schiff bauen, wenn die Überschwemmung da ist. EV 5271 : 1 Var.
+Der alte Brunnen wird ja nicht eher zugeschüttet, bevor der Ochs nicht hineingefallen ist. EV 13314 : 1 Var.
+Wenn das Kind ertrunken ist, dann hilft es nicht mehr, (es) vor dem Wasser zu schützen. EV 5464 : 1 Var.
+Du gehst dann dem Brunnen einen Deckel machen, wenn das Kind schon ertrunken ist. EV 2906 : 10 Var.
+Geh dann noch Werkzeug (od. ein Gefäß) machen, wenn du es (gerade) brauchst. EV 9633 : 1 Var.
+Man kann ja dann den Brunnen nicht mehr graben, wenn das Feuer an der Hausecke ist. EV 2898 : 2 Var.
+Die Nacht voran, der Tod hinter dem Rücken. EV 14799 : 65 Var.
+Wenn das Feuer schon in der Traufe ist, wer löscht es dann noch. EV 12153 : 1 Var.
+Lösch das Feuer aus, bevor es sich verbreitet. EV 4693 : 2 Var.
+Schlag den Hund, bevor er beißt. EV 4153 : 1 Var.
+Halt das Pferd, bis es zahm ist. EV 1408 : 1 Var.
+Bessere aus, wenn es die richtige Zeit ist. EV 8395 : 20 Var.
+Besser einen Bach als einen Fluß dämmen. EV 7791 : 30 Var.
+Decke das kleine Loch zu, bevor daraus ein großes Meer wird. EV 470 : 1 Var.
+Nach dem Streit ist es nicht nötig, mit Fäusten zu drohen. EV 9622 : 1 Var.
+Disteln sollen ausgerupft werden, wenn sie treiben; man soll mit dem Ausrupfen nicht beginnen, wenn sie schon Köpfe und Stacheln haben. EV 7775 : 1 Var.
+Ein alter Knoten ist schwer zu lösen. EV 13519 : 2 Var.
+Alter Ruß ist schwer abzuwaschen. EV 13465 : 1 Var.
+404. Besser früh als spät: die Arbeit, die man am Morgen macht, ist besser als die des Abends. Wer früh kommt, bekommt zu essen, wer spät kommt, muß leer ausgehen, kommt zu Schaden
+Nimm Zeit im voraus, nimm keine hinterher. EV 129 : 1 Var.
+Früh ist es zu sterben, nicht (am Morgen) aufzustehen. EV 13680 : 1 Var.
+Spät herein, früh heraus. EV 1261 : 1 Var.
+Verachte den Spätling, verachte nicht den Frühzeitigen. EV 9175 : 1 Var.
+Gegen eine frühe Sache vermag niemand etwas. EV 13711 : 4 Var.
+Der Frühzeitige bereut nie. EV 13694 : 3 Var.
+Je früher, desto besser (od. lieber). EV 13672 : 95 Var.
+Besser zwei Tage früher als einen Tag später. EV 3020 : 2 Var.
+Besser ein früher als ein später Mann. EV 13688 : 1 Var.
+Besser den Tag am Kopf als am Arsch packen. EV 9280 : 3 Var.
+Besser vor dem Morgenrot mit dem Flegel schlagen (d. i. dreschen) als bei Tageslicht mit dem Klöppel (d. i. Dreschflegel) klopfen. EV 4263 : 1 Var.
+Am Morgen mußt du so früh aufstehen, daß du (noch) einen weißen Spatz fängst. EV 1436 : 1 Var.
+Wenn du keinen weißen Spatz siehst, dann wirst du in der Welt kein Glück finden. EV 13286 : 1 Var.
+Wer keinen weißen Spatz gesehen hat, aus dem wird wohl kein Bauer werden (Der Bauer muß vor Sonnenaufgang aufstehen). EV 13285 : 1 Var.
+Wenn das Morgenrot dämmert, dann treibt sich der Späte umher. EV 4261 : 1 Var.
+Morgenstunde hat Gold im Munde. EV 1463 : 10 Var.
+Morgenstunden sind Goldstunden. EV 1462 : 1 Var.
+Morgenzeit ― goldene Zeit. EV 1457 : 2 Var.
+Morgenarbeit ist Gold, Abendarbeit ist Erde. EV 1460 : 5 Var.
+Besser früh am Morgen als spät am Abend. EV 1453 : 2 Var.
+Morgendliche Sorge füllt (d. i. sättigt, ernährt) mehr als abendliche Arbeit. EV 1456 : 2 Var.
+Besser bis zum Morgen gemacht als bis zum Abend gedacht. EV 1455 : 1 Var.
+Am Morgen sei fleißig, am Abend schwindet die Kraft aus den Nieren. EV 1445 : 1 Var.
+Glück ist am Morgen fleißig. EV 14680 : 1 Var.
+Wer früh aufsteht, der sieht viel. EV 13668 : 1 Var.
+Wer vor der Morgendämmerung beginnt, der hat bei Tageslicht keine Mühe. EV 158 : 1 Var.
+Der steht nun, der vorher lief. EV 10264 : 1 Var.
+Wer sich vor dem Morgenrot bewegt, der wird früher des Brotes Herr werden (d. i. wird reich). EV 4253 : 10 Var.
+Wer zuerst zur Mühle gelangt, der mahlt zuerst. EV 13997 : 15 Var.
+Wer voran, der ein Mann. EV 507 : 95 Var.
+Wer den Tag nicht beim Kopf packt, der bekommt (d. i. packt) den Tag nicht am A.... EV 9258 : 1 Var.
+Was ist das für eine Krähe, die nicht früh fliegt. EV 13815 : 3 Var.
+Ein früher Vogel findet immer ein Korn. EV 13698 : 1 Var.
+Früh steht das Vögelchen auf, früh säubert es auch den Schnabel. EV 13674 : 1 Var.
+Der Frühe wischt (sich) den Schnabel, der Späte schüttelt die Flügel. EV 13702 : 310 Var.
+Der Späte gähnt noch, aber der Frühe wischt sich schon den Arsch. EV 1248 : 3 Var.
+Der Frühe guckt unter den Kropf, der Späte unter den Schwanz. EV 13703 : 7 Var.
+Die letzte Krähe scharrt alle Haufen auseinander. EV 14080 : 1 Var.
+Eine späte Krähe sieht immer Hunger. EV 1255 : 1 Var.
+Eine späte Krähe bleibt ohne Beute. EV 1256 : 4 Var.
+Wer sich verspätet, der geht leer aus. EV 1263 : 60 Var.
+Der frühe Mann entbehrt's manchmal, der späte Mann entbehrt's immer. EV 13699 : 1 Var.
+Wenn du früh aufstehst, verzehrst das Brot; schläfst du lange, schläfst dir Schulden an den Hals. EV 13671 : 2 Var.
+Fang dann an zu essen, wenn die anderen anfangen zu scheißen. EV 11233 : 2 Var.
+Kommt man nicht rechtzeitig zum Empfangen, bekommt man später nichts mehr. EV 9994 : 1 Var.
+Der Langsame bekommt des Hundes Abfälle. EV 8782 : 1 Var.
+Wer lange schläft, dem frißt der Hund die Schuhe auf. EV 3468 : 3 Var.
+Wer lange schläßt, dem bleibt der Hals steif. EV 3470 : 1 Var.
+Verzögerung hat viele Mängel. EV 14159 : 1 Var.
+Fünf Entschuldigungen hat der Zaudernde, zehn Ausflüchte der Säumige. EV 14147 : 3 Var.
+405. Steh früh auf und mach früh Feierabend. Verlängere deine Arbeitzeit nicht auf die Nacht, das bringt keinen Nutzen
+Mit den Schweinen schlafen ( gehen ) und mit den Hühnern auf(stehen). EV 10371 : 25 Var.
+Mit den Hühnern schlafengehen, mit den Schweinen aufstehen. EV 3113 : 25 Var.
+Mit den Hühnern zu Bett, mit den Hähnen auf. EV 3112 : 3 Var.
+Am Morgen mit dem Hahn, am Abend mit dem Hund. EV 1439 : 1 Var.
+Am Abend (geh) früh schlafen, am Morgen steh früh auf. EV 14525 : 1 Var.
+Mach abends rechtzeitig Schluß, am Sonnabend mach halbtags Schluß. EV 14520 : 1 Var.
+Diese Sitte, nach der man abends fleißig und morgens faul ist, vernichtet das Gehöft. EV 11461 : 3 Var.
+Der Unglückliche macht (d. i. arbeitet) an allen Abenden, der Jämmerliche während aller Dämmerungen. EV 14703 : 2 Var.
+Wer nicht am Tage macht, der macht in der Nacht. EV 11755 : 1 Var.
+Wer am Tage schläft, der läuft in der Nacht hin und her. EV 9259 : 1 Var.
+Des Tages Arbeit ist leichter als der Nacht Arbeit. EV 9308 : 1 Var.
+Nach Sonnenuntergang wird für den Teufel gemacht (d. i. gearbeitet). EV 9281 : 3 Var.
+Arbeit nach Sonnenuntergang ― das Verdienen von des Teufels Tabaksgeld. EV 9313 : 3 Var.
+Eine schlaflose Nacht vermindert die Arbeit nicht. EV 12896 : 1 Var.
+Der Nacht Arbeit bleibt im Schoß Tagesarbeit am Kopfende. EV 15131 : 1 Var.
+Das Licht lacht über die Arbeit der Dunkelheit. EV 13293 : 40 Var.
+Am Abend ist der Tanz lieb, am Morgen der Schlaf süß. EV 14529 : 1 Var.
+Sind die Nächte ohne Schlaf, so ist die Arbeit ohne Leben. EV 14798 : 1 Var.
+406. Verschiebe die Arbeit nicht auf den nächsten Tag (dagegen das Essen und das Sprechen können bis zum nächsten Tag warten). Was du heute machst, findest du morgen fertig vor
+Verlängere das Brot, aber verlängere nicht die Arbeit. EV 2764 : 1 Var.
+Die im voraus gemachte Arbeit und das zurückgelegte Brot sind immer gut. EV 12432 : 1 Var.
+Die Arbeit mach im voraus, das Essen behalt für nachher. EV 12567 : 1 Var.
+Bewahre für morgen Brot, aber nicht die Arbeit auf. EV 1467 : 40 Var.
+Die Arbeit für heute, das Reden für morgen. EV 12568 : 3 Var.
+Die heutigen Geschäfte wirf nicht an den Nagel von morgen (Was du heute kannst besorgen, das verschiebe nicht auf morgen). EV 12411 : 85 Var.
+Laß das nicht für morgen, was du heute machen kannst. EV 1469 : 17 Var.
+Was du heute machen kannst, damit beeil dich. EV 12373 : 5 Var.
+Besser immer heute als morgen. EV 12377 : 2 Var.
+Wo ich heute aufhöre, da werde ich morgen die Fortsetzung finden. EV 12367 : 1 Var.
+Nach hinten wirfst, von vorn findest. EV 14252 : 8 Var.
+Wirf einen Stein voraus, dann ist es gut, darauf zu treten. EV 3946 : 1 Var.
+Was heute unverrichtet bleibt, das wird dem morgigen (Tag) angeschrieben. EV 12370 : 2 Var.
+Was du heute nicht machst, mußt du morgen zweimal machen. EV 12368 : 1 Var.
+Was du heute machst, findest du morgen vor. EV 12374 : 1 Var.
+Was heute getan, das ist morgen vergessen. EV 12372 : 2 Var.
+Was heute getan ist, das macht morgen keine Sorgen mehr. EV 12371 : 100 Var.
+Was am Abend getan, darum braucht man sich am Morgen nicht zu sorgen. EV 14522 : 1 Var.
+Was heute gemacht ist, das braucht man morgen nicht mehr zu machen. EV 12375 : 5 Var.
+Getane Arbeit will nicht mehr getan werden. EV 11794 : 2 Var.
+Abendliches Gespültes ist besser als morgendliches Gewaschenes. EV 14539 : 15 Var.
+Besser ein abendlicher Strohwisch als ein morgendlicher Schachtelhalmwisch. EV 14538 : 3 Var.
+407. Erfolg bei den Arbeiten im Zusammenhang mit Wochentagen. Die Arbeit, die man am Sonntag macht, hat kein Segen
+Der Sonntag ist für Gott, der Werktag für die Arbeit. EV 9370 : 1 Var.
+Des Sonntags Arbeit gelingt nicht. EV 9371 : 7 Var.
+Sonntags darf man nicht arbeiten, denn die sonntägige Arbeit bringt nur soviel Nutzen, um ein Gerstenkorn in neun (Teile) zu machen (d. i. zu teilen). EV 9369 : 1 Var.
+Des Sonntags Arbeit stiehlt sich der Teufel. EV 9368 : 1 Var.
+Das Schwein frißt des Montags Arbeit auf. EV 720 : 1 Var.
+Am Montag bekommt man nichts, am Dienstag bekommt man für die anderen, am Mittwoch bekommt man für alle (Beim Kohlpflanzen). EV 719 : 1 Var.
+Des Sonnabends Arbeit pflegt spät zu bleiben. EV 8975 : 1 Var.
+Der Sonnabend hat nur ein Ende. EV 5596 : 1 Var.
+408. Die erste ist die beste; lehne die erste Gelegenheit nicht ab
+Das Erste ist immer das Beste. EV 693 : 1 Var.
+Verachte nicht das erste Angebot. EV 715 : 2 Var.
+Verachte nie das erste Glück. EV 9176 : 15 Var.
+409. Der erste Versuch scheitert
+Das erste Kalb geht hinter den Zaun (d. i. mißlingt). EV 698 : 60 Var.
+Das erste Kalb verreckt immer. EV 700 : 1 Var.
+Das erste Kalb wird ja nicht die Herde vergrößern. EV 678 : 1 Var.
+Das erste Kalb hat Durchfall. EV 699 : 1 Var.
+Das Erste haben immer die Mäuse, die Elstern. EV 684 : 8 Var.
+410. Der vorzeitige, frühe Versuch scheitert
+Ein frühes Kalb geht hinter den Zaun (d. i. krepiert). EV 13704 : 55 Var.
+Frühe Kälber gehen nicht in den Wald. EV 13691 : 1 Var.
+Ein frühes Kalb bekommt Durchfall. EV 13706 : 24 Var.
+Ein frühzeitiges Kalb wird krank. EV 669 : 1 Var.
+Frühe Hühner bleiben nicht auf der Stange. EV 13690 : 1 Var.
+Frühgeborene Kinder bleiben selten am Leben. EV 670 : 1 Var.
+Zu frühzeitig (ernannte) Paten werden nicht gebraucht. EV 671 : 1 Var.
+411. Nimm nichts vor, ehe die Zeit dazu reif ist bzw. Bedingungen vorhanden sind
+Bevor du säen willst, mußt du auch pflügen. EV 5141 : 1 Var.
+Kauf nicht eher ein Pferd, als bis der Stall fertig ist. EV 1412 : 7 Var.
+Bau den Stall nicht eher fertig, als bis das Pferd nicht da ist. EV 11497 : 6 Var.
+Eher kann man aufs Pferd keine Last legen, als bis der Wagen nicht hinten ist. EV 1315 : 2 Var.
+Zuerst der Schlitten, dann die Last. EV 9597 : 1 Var.
+Niemand fährt eher durch das Tor, als bis das Tor offen ist. EV 14491 : 1 Var.
+Fang vorher keinen Zaun an zu errichten, bis der Haufen nicht fertig ist. EV 45 : 1 Var.
+Setz die Mühle nicht eher in Gang, als bis du Körner im Korb hast. EV 14001 : 1 Var.
+412. Rechne nicht mit dem Gewinn, den du noch nicht bekommen hast; überlege nicht die Möglichkeiten, die noch nicht entstanden sind
+Miß die Fische am Morgen, nicht am Abend. EV 3068 : 2 Var.
+Verkauf des Bären Fell nicht eher, als bis du den Bären hast. EV 3315 : 40 Var.
+Rupf die Federn nicht eher, als bis der Vogel schon in der Hand ist. EV 10692 : 25 Var.
+Mach aus diesen Federn kein Kissen, die (noch) unter dem Himmel fliegen. EV 10693 : 1 Var.
+Schnitze keinen Bratenspieß, wenn der Vogel noch im Walde ist. EV 8989 : 1 Var.
+Setz den Kessel nicht eher aufs Feuer, als bis der Vogel geschossen ist. EV 8201 : 1 Var.
+Setz den Kessel nicht eher aufs Feuer, als bis der Fisch gefangen ist. EV 8202 : 1 Var.
+Den Fisch, der in den Wellen plätschert, tut man nicht in den Kessel. EV 3035 : 1 Var.
+Iß den Vogel nicht eher auf, als bis (du ihn) fängst. EV 5953 : 2 Var.
+Koch nicht diese Eier, die das Huhn noch nicht gelegt hat. EV 6904 : 1 Var.
+Iß (es) nicht auf, bevor du es hast. EV 11308 : 2 Var.
+Iß (es) nicht auf, bevor es gar ist. EV 11309 : 1 Var.
+Laß die Suppe zuerst fertig kochen, dann iß. EV 10700 : 3 Var.
+Iß den Brei nicht früher auf, bevor er gekocht ist. EV 9014 : 1 Var.
+Iß die Kartoffeln nicht auf, bevor sie gekocht sind. EV 11307 : 1 Var.
+Koch eher keine warme Milch, als bis die Kuh kalbt. EV 3553 : 1 Var.
+Es lohnt sich nicht, Milch zu trinken, ehe die Kuh nicht übers Meer gekommen ist. EV 8756 : 1 Var.
+Den Brei darf man nicht eher aufessen, als bis das Mehl von der Mühle nach Hause gebracht ist. EV 9008 : 1 Var.
+Such dann nicht nach Äpfeln, wenn der Apfelbaum erst blüht. EV 12802 : 1 Var.
+Roggen wird nicht von Schößlingen geschnitten. EV 9830 : 1 Var.
+Wetze (die Sense) nicht vor der Heuzeit. EV 6063 : 1 Var.
+Drück nicht des Fohlens Rücken ein. EV 13862 : 3 Var.
+Es ist ja nicht sofort in der Hand, obwohl es in der Schnauze ist. EV 4208 : 1 Var.
+Hof und Stube haben noch die Türschwelle zwischen sich. EV 14769 : 1 Var.
+413. Freue dich (lobe, fürchte) nicht, ehe die Sache klar ist
+Freu dich nicht, wenn du noch nicht auf dem Dach bist. EV 9923 : 1 Var.
+Die Ziege kann sich nicht eher freuen, als bis sie auf dem Dach ist. EV 3897 : 1 Var.
+Freu dich (erst) dann, wenn du schon auf dem Hügel bist. EV 3696 : 2 Var.
+Ruf nicht eher hopp!, bevor du nicht hinübergekommen bist. EV 1891 : 1 Var.
+Ruf nicht eher, bevor du nicht über das Meer gelangt bist. EV 1890 : 6 Var.
+Prahle und rühme dich nicht, bevor du über den Bach gekommen bist. EV 3713 : 20 Var.
+Prahle nicht, bevor du über den Zaun bist. EV 3714 : 3 Var.
+Juble nicht eher, als bis du über den Berg gekommen bist. EV 1688 : 25 Var.
+Tanz nicht, bevor die Hochzeit da ist. EV 11587 : 4 Var.
+Juble nicht eher, als bis das Bier in den Kopf gestiegen ist. EV 1687 : 20 Var.
+Lobe (dich) nicht, bevor du die Sache nicht hast. EV 3742 : 1 Var.
+Juble nicht vor der Zeit. EV 1686 : 2 Var.
+Juble nicht vor dem Abend. EV 1689 : 85 Var.
+Der Tag ist noch nicht am Abend (d. i. zu Ende). EV 9247 : 3 Var.
+Lobe den Tag nicht vor dem Abend. EV 3750 : 90 Var.
+Man soll das Wetter nicht vor dem Abend loben. EV 3748 : 50 Var.
+Lob nicht die abendliche Schlafstelle. EV 14543 : 35 Var.
+Lobe den Sommer nicht vor dem Herbst. EV 3753 : 1 Var.
+Lobe das Pferd nicht eher, als bis du es kennst. EV 3741 : 10 Var.
+Beginn die Mühle nicht eher zu loben, bevor du nicht weißt, was für ein Mehl sie mahlt. EV 14002 : 1 Var.
+Prahle nicht, wenn du in die Stadt gehst, prahle (dann), wenn du aus der Stadt kommst. EV 3733 : 1 Var.
+Juble nicht, wenn du ins Gericht gehst; juble, wenn du aus dem Gericht kommst. EV 1690 : 2 Var.
+Das Leben darf man nicht eher glücklich preisen, als am Ende. EV 571 : 3 Var.
+Wer früh lacht, der später weint. EV 13670 : 1 Var.
+Schilt den Wolf nicht, wenn es ihn nirgends gibt. EV 1677 : 3 Var.
+414. Wirf alte (schlechtere) Sachen nicht weg, solange du keine neuen (besseren) hast
+Schütt den alten Brunnen nicht eher zu, bevor der neue nicht fertig ist. EV 13525 : 195 Var.
+Wirf altes Wasser nicht eher hinaus, bevor neues da ist. EV 13536 : 20 Var.
+Alten Kohl soll man nicht eher fortwerfen, bevor es keinen neuen gibt. EV 13523 : 2 Var.
+Gib die Knuste nicht weg, ehe du den Laib in der Hand hast. EV 3190 : 2 Var.
+Wirf die alte Mütze nicht eher in den Ofen, bevor du die neue auf dem Kopf hast. EV 13528 : 2 Var.
+Schlacht nicht eher das alte Pferd, bevor das Füllen zieht. EV 13531 : 1 Var.
+Wo kein Hündchen auf dem Hof ist, treibt man den alten Hund in den Wald (d. i. zum Jagen). EV 13415 : 1 Var.
+Häng den alten Hund nicht eher auf, bevor der junge zu bellen anfängt. EV 13526 : 13 Var.
+415. Man fängt zu früh an, Vorbereitungen zu machen ― man kommt aber doch zur richtigen Zeit nicht an oder vergißt etwas
+Ein frühes Hündchen verspätet sich. EV 13696 : 1 Var.
+Wer früh sattelt, der spät fährt. EV 13667 : 3 Var.
+Je mehr du dich beeilst, desto länger du bleibst. EV 9902 : 1 Var.
+Wen man früh ruft, der wird später vergessen. EV 13666 : 3 Var.
+Wer vor einem Jahr gerufen (d. i. eingeladen) wird, der wird am richtigen Tag nicht gerufen. EV 10 : 8 Var.
+416. Die Zeit gibt guten Rat ― entscheide nicht zu schnell
+Die Zeit gibt guten Rat. EV 59 : 125 Var.
+Der Habgierige schnappt von überall, der Verschwender verstreut in alle Richtungen. EV 190 : 1 Var.
+Kommt Zeit, kommt Vernunft. EV 12128 : 1 Var.
+Kommt Zeit, kommt Rat. EV 12129 : 10 Var.
+Mit heimatlicher Wärme und abendlichem Rat kommt man nicht weit. EV 3995 : 1 Var.
+Der Morgen ist klüger als der Abend. EV 1443 : 25 Var.
+Die erste Meinung (d. i. die Ansicht) wird die letzte nicht überholen. EV 677 : 1 Var.
+Der erste Gedanke bleibt nicht der letzte. EV 676 : 1 Var.
+Mit einem Wort wird ja nicht Recht gesprochen. EV 11094 : 2 Var.
+417. Lieber langsam als schnell: langsam wird die Arbeit ordentlich, schnelle Arbeit ist nachlässig, oft unbeendet; das Ungestüm kann Mißlingen mitbringen, macht müde, eher kommt man langsam zum Ziel
+Die Zeit ist ja keine Hase. EV 106 : 5 Var.
+Gott hat ja nicht die Eile geschaffen, Gott hat die Mäuse geschaffen. EV 2525 : 18 Var.
+Eile ist nötig, um Flöhe zu fangen. EV 3702 : 7 Var.
+Mit der Zeit gehen die Sachen. EV 134 : 105 Var.
+Sachen werden im Laufe der Zeit erledigt, Arbeit wird der Reihe nach getan. EV 408 : 1 Var.
+Immer sanft und vorsehend!. EV 11696 : 7 Var.
+Sanft und klug, niedrig (d. i. demütig) und verständig. EV 11697 : 2 Var.
+Besser leise als sehr. EV 11699 : 3 Var.
+Überhol nicht die Zeit. EV 131 : 1 Var.
+Gib Zeit, (um) den Pflug zu richten. EV 103 : 35 Var.
+Eine gute Sache erfordert Zeit. EV 898 : 3 Var.
+Gute Arbeit braucht auch gute Zeit. EV 980 : 2 Var.
+Es nimmt Zeit, aber eine Sache wird es werden. EV 56 : 38 Var.
+Nimmt es Zeit, wird es gut. EV 89 : 1 Var.
+Mit der Zeit wird die Sache besser. EV 133 : 3 Var.
+Mit der Zeit wird die Sache schön. EV 132 : 7 Var.
+Je länger, desto schöner. EV 3471 : 1 Var.
+Was lange kommt, kommt schön. EV 3472 : 1 Var.
+Je länger du's kochst, desto süßer schmeckt's. EV 3551 : 1 Var.
+Je länger es kocht, desto besser es wird. EV 8785 : 1 Var.
+Je langsamer es zäh wird, desto besser es sich biegt. EV 8786 : 1 Var.
+Was langsam kommt, kommt gut. EV 8784 : 3 Var.
+Des Hastenden Arbeit ist untauglich, des Bedächtigen Arbeit schön. EV 9887 : 40 Var.
+Schnelle Arbeit ist nicht gleichmäßig. EV 4954 : 30 Var.
+Schnell getan ― unordentlich gemacht; lange getan ― hübsch gemacht. EV 8487 : 165 Var.
+Der Eile Arbeit ist nachlässig. EV 9892 : 1 Var.
+Rasch macht die Katze Junge, aber sie werden blind geboren. EV 3379 : 35 Var.
+Die Hündin macht ein Junges, verschlingt es selbst. EV 862 : 2 Var.
+Übereilt­nächlässig getan, klirrend-plärrend zerbrochen. EV 8876 : 1 Var.
+Der Jammernde hat hinten keinen Schwanz. EV 1801 : 55 Var.
+Weder findet der Jammernde in der Welt Gutes noch der Eilige guten Rat. EV 1802 : 1 Var.
+Eile hat keine Brühe. EV 9889 : 20 Var.
+Dem Eiligen des Eiligen Sachen, dem Fleißigen des Fleißigen Taten. EV 9891 : 1 Var.
+Je dreckiger, desto schneller. EV 10546 : 1 Var.
+Besser zuvor warten als nachsehen. EV 8070 : 4 Var.
+Erst machen, danach zusehen, ist schon vielen übel bekommen. EV 11754 : 1 Var.
+Wer eilt, der weint. EV 9888 : 1 Var.
+Man fragt nicht, wie lange das gemacht wurde; man fragt, wer es gemacht hat. EV 5184 : 4 Var.
+Schnell fließt seichtes Wasser, langsam fließt tiefes Wasser. EV 4956 : 1 Var.
+Die Fliege ist wohl flink, aber ihre Arbeit ist nirgends zu sehen; die Spinne sieht man sich nirgends bewegen, ihre Netze sind an allen Orten. EV 4946 : 1 Var.
+Die Schnecke geht wohl langsam, aber sieh, wie fett sie selbst ist. EV 11997 : 1 Var.
+Eine zu schnelle Fahrt jagt den Wagen in den Graben. EV 3700 : 1 Var.
+Ein bockiges Pferd beschädigt die Kumtriemen. EV 9928 : 25 Var.
+Mit Bockigkeit kommt man nicht weit. EV 9929 : 1 Var.
+Husch-husch zerstört das Werkzeug, verstreut es durcheinander. EV 9774 : 3 Var.
+Der Fleißige (od. der Schnelle) verkommt, der Hurtige (od. der Heftige) wird schorfig, aber der Ruhige lebt immer (weiter). EV 12933 : 40 Var.
+Ermüdet sich der Heftige, aus hält der Langsame. EV 14504 : 15 Var.
+Wer schnell läuft, der ist bald müde. EV 9897 : 1 Var.
+Bald entzündet, bald erloschen. EV 8488 : 1 Var.
+Lauf nicht Hals über Kopf. EV 2467 : 4 Var.
+Mach langsam, dann wirst du eher fertig. EV 11798 : 1 Var.
+Langsam fährst, weiter kommst. EV 11698 : 35 Var.
+Zum Schluß ist der Mann mit dem Ochsen (ebenfalls) dort, wo der Mann mit dem Pferd. EV 1872 : 8 Var.
+Mit der Zeit holt der Ochs den Hasen ein. EV 139 : 55 Var.
+418. Lieber schnell als langsam; arbeite und erledige deine Pflichten schnell
+Wer die Arbeit nicht antreibt, den treibt die Arbeit an. EV 12456 : 5 Var.
+Besser, wenn der Mann die Arbeit antreibt, als wenn die Arbeit den Mann antreibt. EV 6684 : 1 Var.
+Arbeit gelingt dem Hurtigen, dem Täter (d. i. Arbeitenden) gelingt sie ja nicht. EV 12558 : 2 Var.
+Mach schnell, iß schnell, schlaf schnell. EV 11790 : 2 Var.
+Geh laufend und komm laufend; sprich rasch, was nötig ― dann kannst du schnell zurückkommen. EV 2465 : 2 Var.
+Frag, was nötig, komm (schnell) zurück. EV 5190 : 4 Var.
+Geht schnell fort, kommt wieder schnell zurück. EV 9900 : 1 Var.
+Eine schnelle Sache ist ein halber Sieg. EV 4952 : 1 Var.
+Hinter der Eile (steht) ein kleine Heuhaufen. EV 9890 : 5 Var.
+419. Verschiedenartiges über das Beeilen und die Verspätung
+Man hat nie Zeit, wenn man sich nicht Zeit nimmt. EV 60 : 2 Var.
+Wenn zu schnell machst, dann hast du es eilig. EV 3701 : 1 Var.
+Was nicht schnell geht, geht immerhin lange (d. i. langsam). EV 9901 : 1 Var.
+Besser spät als nie. EV 1262 : 40 Var.
+FAF. Arbeit, Fleißigkeit und Faulheit: ihre physische, psychische, ethische und soziale Aspekte
+
+420. Die Arbeit geht nie zu Ende, sucht, zwingt, fordert den Menschen auf
+Wer schafft in der Welt die Arbeit oder im Meer das Wasser ab. EV 6128 : 1 Var.
+Für den Schaffenden endet die Arbeit nie. EV 11812 : 8 Var.
+Des Arbeitenden Arbeit endet nicht und der Stute Fressen endet auch nicht. EV 12580 : 1 Var.
+Eher geht Harn im Hundearsch zu Ende als die Arbeit. EV 4194 : 1 Var.
+Der Welt Arbeiten kann man ja nicht beenden. EV 6216 : 8 Var.
+Der einen Arbeit Ende (od. Beendigung) begleitet (d. i. bringt) den Anfang der anderen. EV 14943 : 2 Var.
+Arbeit weist auf Arbeit hin. EV 12546 : 1 Var.
+Arbeit geht hinter dem Tätigen (d. i. dem Arbeitenden) einher. EV 12516 : 1 Var.
+Jede Arbeit will getan werden. EV 12438 : 2 Var.
+Arbeit sucht den Mann, nicht der Mann die Arbeit. EV 12535 : 2 Var.
+Arbeit verlangt einen Tätigen (d. i. Arbeitenden). EV 12522 : 1 Var.
+Arbeit treibt den Täter (d. i. den Arbeitenden) an. EV 12552 : 2 Var.
+Arbeit ist der größte Gutsvogt. EV 12526 : 4 Var.
+[421–424] Arbeiten oder nicht? Fleißig oder faul arbeiten? Hat die Arbeit einen Sinn?
+
+421. Der Mensch muß nach der Arbeit suchen. Man wird schon Arbeit finden
+Arbeit sucht nicht den Tätigen (d. i. den Arbeitenden), der Tätige soll die Arbeit suchen. EV 12504 : 2 Var.
+Wer keine Arbeit hat, der sucht Arbeit. EV 12443 : 2 Var.
+Des Schaffenden Hände finden Arbeit. EV 11808 : 6 Var.
+Ein guter Arbeiter findet überall Arbeit und Brot. EV 978 : 1 Var.
+Wenn der Vogel sucht, findet er wenigstens ein Korn. EV 5927 : 3 Var.
+Arbeit hat der Tätige (d. i. der Arbeitende), Schlaf der Schläfer (d.i. der Liegende). EV 12500 : 215 Var.
+Dem Pflüger fehlt es nicht an Land, dem Ruderer nicht an Wasser. EV 5168 : 3 Var.
+Arbeit wird schon Täter finden. EV 12478 : 2 Var.
+422. Der Mensch muß arbeiten, er wurde dazu geschaffen. Die Arbeit schadet nicht, man kann arbeiten
+Der Mensch ist geschaffen, um zu arbeiten; der Vogel, um zu fliegen. EV 2143 : 6 Var.
+Wühl in der Erde, ernähr deinen Kopf (d. i. dich). EV 12105 : 2 Var.
+Mach und schnauf, sieh und dulde. EV 11799 : 1 Var.
+Arbeite, solange du lebst. EV 11791 : 14 Var.
+Arbeite und gib dir Mühe, dann kommst du in den Himmel. EV 12487 : 45 Var.
+Arbeite und bete zu Gott. EV 12488 : 30 Var.
+Es geht nicht, ohne zu arbeiten; es geht nicht, ohne zu Gott zu beten. EV 12483 : 1 Var.
+Besser ohne Sorgen arbeiten als mit Sorgen faulenzen. EV 12482 : 1 Var.
+Machst nur ein bißchen, ist doch mehr als nichts. EV 11782 : 1 Var.
+Arbeit fragt ja nicht nach Brot. EV 12424 : 3 Var.
+Die Füße bleiben ja nicht, wenn (auch) die Spuren bleiben. EV 2385 : 30 Var.
+Ein Fußbreit kostet ja kein Geld. EV 2383 : 1 Var.
+Finger kosten ja kein Geld. EV 7735 : 1 Var.
+Arbeit zieht nicht den Ring vom Finger. EV 12538 : 4 Var.
+423. Wenn du etwas machst, mach es gut und ordentlich; lieber ordentlich als unordentlich
+Wenn du etwas machst, mach es gut. EV 11764 : 12 Var.
+Wer besser versteht, der soll besser machen. EV 7019 : 2 Var.
+Es ist leichter, besser zu machen als später zu bereuen. EV 8399 : 1 Var.
+Es ist gut ohne Sorgen, noch besser mit Sorgen. EV 1045 : 3 Var.
+Sei fleißig und mäßig. EV 12928 : 2 Var.
+Arbeite mit den Händen, aber nicht mit Handschuhen. EV 12490 : 1 Var.
+Mach die Arbeit anständig, iß die Speisen, wenn sie schmackhaft sind. EV 12494 : 6 Var.
+Arbeite bis zum Stamm (d. i. bis zum Schluß). EV 12497 : 6 Var.
+Wer einen Damm machen will, der soll den Damm auch so fest machen, daß das Wasser ihn nicht zu zertrümmern vermag. EV 11573 : 1 Var.
+Was du machst, das teere; aber teere weder Kind noch Löffel. EV 11771 : 3 Var.
+Doppelt reißt nicht. EV 12047 : 7 Var.
+Wer seine Arbeit verdirbt (d. i. schlecht macht), der verdirbt den Handel (d. i. das Geschäft). EV 12451 : 1 Var.
+Alles ist gut, was gut gemacht wird. EV 1112 : 1 Var.
+424. Bei der Arbeit muß man sich nicht beeilen. Die Arbeit ist eine Vergnügung des Dummkopfes. Die Arbeit ernährt nicht
+Arbeit läuft ja nicht davon. EV 12423 : 1 Var.
+Arbeit ist ja kein Hase, daß sie davonläuft. EV 12416 : 35 Var.
+Arbeit ist kein Wolf, daß sie in den Wald läuft. EV 12503 : 1 Var.
+Arbeit ist ja kein Frosch, daß sie davonspringt. EV 12418 : 1 Var.
+Arbeit ist ja kein Vogel, daß sie davonfliegt. EV 12421 : 1 Var.
+Mach die Arbeit und bewahr die Arbeit auf, beende die Arbeit nicht. EV 12495 : 2 Var.
+Mit einem Tag bekommt man noch nicht eines ganzen Jahres Brot. EV 9246 : 1 Var.
+Morgen ist auch ein Tag. EV 1433 : 1 Var.
+Arbeit ist des faulen Menschen Zeitvertreib. EV 12527 : 7 Var.
+Arbeit ist des Dummen Zeitvertreib. EV 12528 : 7 Var.
+Arbeit ist des Dummen Vergnügen. EV 12529 : 2 Var.
+Arbeit ist für dumme Menschen und alte Pferde nötig. EV 12564 : 16 Var.
+Die Arbeit mag den Dummen. EV 12210 : 1 Var.
+Dumm ist, wer sich eine Mahlzeit verdient. EV 6009 : 1 Var.
+Ein dummer Mann, der bessere Arbeit macht, als er versteht. EV 9864 : 1 Var.
+Auch der Vogel sät nicht, aber (er) wird satt. EV 12068 : 1 Var.
+Der Narr macht viel, der Kluge lebt von Wenigem. EV 1584 : 18 Var.
+Arbeit ernährt ja niemanden. EV 12417 : 15 Var.
+Wer hat (schon) nur von Arbeit (und) Tat gelebt, wenn es weder Kleidung noch Brot gibt. EV 12582 : 1 Var.
+Spuren werden nicht angezogen. EV 2742 : 1 Var.
+Durch Arbeit wird niemand reich, sondern durch Klugheit. EV 12508 : 5 Var.
+Der Leere (d. i. der Nichtsnutz od. Teufel) weiß, wo die Arbeit bleibt, Erholung erbt die Seele. EV 12686 : 2 Var.
+[425–428] Die Meinungen des faulen und des fleißigen Menschen gegenüber der Arbeit, ihr Aussehen
+
+425. Einem faulen Menschen geht es immer schlecht (das Wetter und die Gesundheit sind schlecht, die Arbeit ist schwer usw.), er hat immer Vorwände, lieber leidet Not als arbeitet; ein fleißiger Mensch schrickt vor Hindernissen nicht zurück
+Der Faule bittet um den Tod, der Dieb um schlechtes Wetter. EV 5376 : 4 Var.
+Der Faule hat es nirgends gut. EV 5336 : 1 Var.
+Dem Faulen steht immer ein Löwe quer über dem Weg. EV 5316 : 1 Var.
+Der Faule hat das Kreuz im Schlitten, die Not in der Wiege. EV 5337 : 1 Var.
+Dem Faulen ist alle Arbeit schwer. EV 5330 : 1 Var.
+Dem Nackten kalt, dem Faulen schwer. EV 8308 : 1 Var.
+Bei heißem (Wetter) fühlt sich ein Fauler auch unter dem Zaunpfahl nicht wohl. EV 4749 : 3 Var.
+Der Regen kommt dem Faulen, gutes Wetter dem Fleißigen. EV 14056 : 1 Var.
+Wann arbeitet der Faule? Im Winter getraut er sich nicht, im Herbst sind starke Winde, im Frühling (gibt's) viel Wasser und im Sommer ist es heiß. EV 5389 : 3 Var.
+Dem Faulen ist der Sommer immer heiß und der Winter kalt, die Pfote grindig und die Erde gefroren. EV 5320 : 1 Var.
+Böse Kälte und schlimme Hitze, ein Fauler hat auf keine Weise Hilfe. EV 4619 : 1 Var.
+Dem Faulen ist der Tag immer lang, der Kopf schmerzt. EV 5317 : 1 Var.
+Für den Faulen sind die Zaunstecken Werstpfähle. EV 5327 : 1 Var.
+Man hat keine Lust, Wolle zu spinnen; man will kein Werg; gäbe es Bast, drehte man Seile. EV 14155 : 2 Var.
+Wenn man keine Lust hat, Bastschuhe zu machen, ist es besser, barfuß zu gehen. EV 14157 : 4 Var.
+Lieber Mangel leiden als arbeiten. EV 9116 : 1 Var.
+Der Faule hat hundert Entschuldigungen, der Neidische viel zu beklagen. EV 5331 : 1 Var.
+426. Ein fauler Mensch sucht Bequemlichkeit, gute Arbeitsbedingungen, beschäftigt sich mit Kleinigkeiten und kommt auch mit ihnen nicht zurecht
+Nordwind und Mittagssonne ― sie behagen dem Fuchs. EV 9130 : 3 Var.
+Nordwind und Mittagssonne behagen dem faulen Jungen. EV 9129 : 1 Var.
+Unter dem Gebüsch ist es gut zu beobachten, was die anderen machen. EV 9245 : 1 Var.
+Der Faule geht im Sommer in den Schatten, im Winter an den warmen Ofen. EV 5368 : 1 Var.
+Alle Faulen loben dieses Land, wo man nicht zu arbeiten braucht. EV 5311 : 1 Var.
+Der Faule sucht nach einem Herrn, der ihm in einer Woche sieben Sonntage gibt. EV 5374 : 1 Var.
+Etwas macht auch ein müßiger Pfaffe, (und) wenn es sonst nichts gibt, so tauft er tote Kälber. EV 2708 : 8 Var.
+Wenn Must (d. i. der Name eines schwarzen Hundes) nichts anderes zu tun hat, beschnuppert er seinen Schwanz. EV 6961 : 2 Var.
+Der Faule geht nicht einmal in die geheizte Sauna. EV 5369 : 2 Var.
+Wer Lust hat, der quästet sich; wer hebt (schon) den Faulen auf die Badepritsche. EV 14156 : 1 Var.
+Bei einer faulen Hausfrau bleibt das Gesinde ohne Essen, obwohl es Brennholz auf der Darrstange, Brot auf dem Regal, Getreidekörner im Topf und Feuer im Herd gibt. EV 5335 : 1 Var.
+427. Der Arbeitstil des faulen und des fleißigen Menschen: der Faule schläft viel, wird erst spät mit der Arbeit fertig, arbeitet langsam und unwillens, wartet, bis endlich der Abend kommt, verschiebt die Arbeiten auf den nächsten Tag; der Fleißige macht umgekehrt
+Der Faule in seinem Bett wie die Tür in ihren Angeln. EV 5371 : 1 Var.
+Des Faulen Schlaf ist süß, des Geizigen Kopeke teuer. EV 5340 : 2 Var.
+Des Faulen Nacht ist sehr teuer. EV 5348 : 1 Var.
+Der Faule will, daß es immer Nacht ist. EV 5383 : 1 Var.
+Der Faule hat Zeit im Bett, der Fleißige im Grabe. EV 5341 : 1 Var.
+Der Fleißige hat keinen Schlaf, der Faule keine Arbeit. EV 12930 : 1 Var.
+Weder fehlt es dem Fleißigen an Arbeit noch dem Faulen an Zeit. EV 14216 : 4 Var.
+Dem Dummen ist süß der Schlaf, dem Klugen teuer die Arbeit. EV 12862 : 7 Var.
+Dem faulen Menschen ist die Zeit billig, nicht teuer. EV 5321 : 1 Var.
+Der Faule hat nimmer Zeit. EV 5314 : 1 Var.
+Der Faule hat immer genug Zeit. EV 5313 : 1 Var.
+Faulheit gähnt vor Schlaf, Fleiß bewegt den Mund. EV 5410 : 1 Var.
+Der Fleißige erwacht, dann sticht (er) (d. i. fängt an zu arbeiten), aber der Faule bleibt liegen. EV 14245 : 1 Var.
+In der Mistkäferkühle (d. i. gegen Abend) gehen die Faulen zur Arbeit. EV 10529 : 1 Var.
+Ein vernünftiger Mann nimmt die Mütze nicht vor dem Abend vom Kopf. EV 7006 : 1 Var.
+Der Tag schiebt (d. i. neigt sich) zur Nacht, die Faulen gehen zur Arbeit. EV 9293 : 1 Var.
+Die Hühner auf die Stange, die Faulen an die Arbeit, die Fleißigen gehen schlafen. EV 3115 : 35 Var.
+Die Hühner auf die Stange, die Kücken an die Arbeit. EV 3116 : 1 Var.
+Ein fauliges Aas (d. i. ein Faulenzer) steht doch nicht vom Boden auf. EV 7064 : 1 Var.
+Schwer hat es der Fuchs, den Schlitten nachzuziehen. EV 9557 : 8 Var.
+Die Katze geht ja nicht in den Fluß. EV 3344 : 1 Var.
+Hält der Strick (zur Befestigung der Femerstange) nicht, zieht auch die Deichsel nicht. EV 8704 : 2 Var.
+Die Finger des faulen Mannes sind schlaff, können nichts halten. EV 5343 : 1 Var.
+Fleißige Finger heulen. EV 12929 : 1 Var.
+Wie lange geht bei einer Fleißigen der Teig auf. EV 4950 : 1 Var.
+Was der Faule nicht kann, kann der Fleißige wohl. EV 5387 : 1 Var.
+Je schneller das Pferd vorausgeht, desto leichter kommt das Fuder hinterdrein. EV 9898 : 1 Var.
+Wer fleißig ist, erledigt (alles) in dieser Zeit, wenn der Faule erst anfängt, die Hände auszustrecken. EV 4951 : 1 Var.
+Der Fleißige erwacht fünfmal, der Faule bewegt sich nicht mal von der Schlafstelle. EV 14244 : 1 Var.
+Der Fleißige läuft dreimal um die Stube, aber der Faule kann's nicht ein einziges Mal. EV 14237 : 1 Var.
+Was der Fleißige in einer Stunde (macht), das macht der Faule in drei Tagen. EV 14224 : 1 Var.
+Der Fleißige verbessert die Fehler, der Faule vervielfältigt sie. EV 14242 : 10 Var.
+Für den Fleißigen ist die Nacht im Sommer länger als für den Faulen die Nacht im Winter. EV 14230 : 1 Var.
+Der Faule blickt in die Augen der Sonne, der Fleißige blickt in die Augen der Arbeit. EV 5386 : 1 Var.
+Ein faules Schwein wühlt nach Tagesende. EV 5379 : 8 Var.
+Der Faule macht immer am Sonnabendabend. EV 5384 : 3 Var.
+Des Faulen Werktag ist immer morgen. EV 5347 : 2 Var.
+"Morgen, dann sind wir Männer!" sagt der Sorglose. EV 1434 : 2 Var.
+Der Faule hat viele Sonntage. EV 5334 : 2 Var.
+428. Die Arbeit eines faulen Menschen ist nutzlos und schlecht, sein Haus und Aussehen nachlässig
+Des Faulen Arbeit ― wie ein Huhn, das auf faulen Eiern brütet. EV 5346 : 1 Var.
+Des Faulen Stadt wird nirgends gefunden. EV 5322 : 8 Var.
+Ein fauler Besen fegt nie die Stube rein. EV 5366 : 1 Var.
+Der Faule hat eine zottige Nadelarbeit, eine grindige Handarbeit. EV 5339 : 1 Var.
+Der Fleißige ist anständig, der Faule schlampig. EV 14243 : 1 Var.
+Auf dem Feld des faulen Mannes wachsen Unkraut und Nesseln. EV 5342 : 1 Var.
+Die Katze ist der faulen Bäuerin Gehilfin ― die Bäuerin geht schlafen, die Katze reinigt sogar den Tisch. EV 3377 : 1 Var.
+Des Faulen Beine sind verwest. EV 5324 : 1 Var.
+Des Faulen Beine latschen, des Stumpfsinnigen Haare stehen in Büscheln. EV 5323 : 1 Var.
+Ein fauler Hund wird räudig. EV 5362 : 2 Var.
+429. Vorwände des faulen Menschen
+Wer ißt (wohl) des Fleißigen Korn, wenn es auf der Erde keine Faulen gibt. EV 14218 : 110 Var.
+Wer wird wohl des Fleißigen Bastschuhtuch tragen, wenn es unter (den Menschen) keine Faulen gibt. EV 14217 : 17 Var.
+Wie könnte man sonst Fleißige erkennen, wenn es keine Faulen gäbe. EV 14223 : 1 Var.
+Der Schläfer (begeht) weniger Sünden. EV 6303 : 1 Var.
+Alle Vögel können nicht auf einmal fliegen. EV 5915 : 7 Var.
+430. Ein fauler Mensch hat Glück. Auch ein fauler, unerfahrener Mensch ernährt sich
+Der Faule hat immer breites (d. i. viel) Glück. EV 5319 : 1 Var.
+Der Faule hat immer Glück. EV 5328 : 1 Var.
+Fauler Hund, gutes (d. i. großes) Glück. EV 5361 : 10 Var.
+Einer schlafenden Katze läuft manchmal auch eine Maus ins Maul. EV 6296 : 14 Var.
+Auch der Langsame wird sich ernähren, der Unbeholfene seinen Kopf verspeisen. EV 1269 : 2 Var.
+Auch der Faule wird schon seine Kinder ernähren, der Spätling sich verpflegen. EV 5312 : 20 Var.
+Ein Ruhiger den Kopf ernährt, ein Sanfter die Familie verpflegt. EV 11701 : 1 Var.
+431. Die Faulheit kann man nicht beseitigen. Geborener Faulpelz und einfach fauler Mensch
+Faule werden ja nicht gesät oder gepflügt, sie wachsen von selbst. EV 5305 : 3 Var.
+Niemand ist faul geboren, sondern selbst geworden. EV 11425 : 1 Var.
+Ein gewohnheitsmäßiger Fauler bessert sich doch noch, ein gebürtiger Fauler ja nicht mehr. EV 849 : 1 Var.
+Wer im Leben faul, der ist beim Sterben faul. EV 551 : 2 Var.
+Was eine Wurst ist, das bleibt eine Wurst. EV 14286 : 1 Var.
+432. Ähnlichkeit und Verschiedenheit der Faulheit und Nachlässigkeit, Arbeitsamkeit und Ordnung
+Nachlässigkeit ist des Faulen Mutter. EV 1503 : 2 Var.
+Nachlässigkeit und Faulheit sind Schwestern. EV 1498 : 1 Var.
+Faulheit und Nachlässigkeit sind Brüder. EV 5400 : 2 Var.
+Der Faule macht doch von Zeit zu Zeit, aber der Nachlässige macht nie etwas. EV 5385 : 7 Var.
+Ein Nachlässiger ist schlimmer als ein Fauler: Der Faule macht wenig, aber macht (es) fertig, der Nachlässige läßt alles unvollendet. EV 1491 : 2 Var.
+Ein Sorgsamer ist immer mehr wert als ein Arbeitender. EV 1482 : 1 Var.
+433. Die Meinungen des Faulpelzes über einen anderen faulen Menschen
+Der Faule findet den anderen Faulen. EV 5364 : 1 Var.
+Ein Fauler findet immer einen Schwager. EV 5358 : 1 Var.
+Wann lacht schon der Faule über einen Faulen. EV 5388 : 1 Var.
+Der Faule mag ja den Faulen nicht. EV 5304 : 1 Var.
+434. Arbeit und Schmutz. Der Schmutz, der beim Arbeiten entsteht, ist natürlich und entschuldbar
+Schwarze (od. schmutzige) Stube, weißes Brot. EV 6956 : 1 Var.
+Wo Staub, da Arbeit. EV 12028 : 1 Var.
+Wer arbeitet, der wird schmutzig. EV 12459 : 1 Var.
+Besser mit Staub als mit Dreck. EV 12029 : 1 Var.
+Der Arbeiter riecht wie ein Arbeiter. EV 12573 : 1 Var.
+Arbeitsschmutz entehrt nicht, Schweißschmutz schändet nicht. EV 12560 : 1 Var.
+Den von der Arbeit Schmutzigen sieht niemand (an), zu Hause sieht man den Faulen (an). EV 12559 : 2 Var.
+[435–436] Arbeit und Nahrung
+
+435. Die Abhängigkeit der Eßlust / des Durstes vom Beschäftigtsein. Wer viel arbeitet, der ißt auch viel. Arbeite viel und iß viel
+Der Waschende will essen, der Mahlende trinken. EV 7035 : 1 Var.
+Der Sitzende wird hungrig, der Mahlende durstig. EV 2267 : 3 Var.
+Wer viel macht, der viel ißt; wer wenig macht, der wenig ißt. EV 8346 : 4 Var.
+Wer wie ein Ochs arbeitet, der wie ein Ochs frißt. EV 1846 : 1 Var.
+Beim Arbeiten faulenze nicht, dem Essen weich nicht aus. EV 12550 : 1 Var.
+Iß so, daß man spuckt; mach so, daß man dankt. EV 11299 : 50 Var.
+Arbeite und ziehe den Gürtel fest zusammen; wenn du essen gehst, so lockere (ihn). EV 11801 : 5 Var.
+436. Beim Essen fleißig, bei der Arbeit faul. Ein fauler Mensch ist feinschmeckerisch
+Wenn du essen gehst, dann iß so, daß die Zehen gespreizt sind; wenn du arbeiten gehst, dann mach so, (daß) sich die Scheide auf dem Arsch nicht bewegt. EV 11249 : 1 Var.
+Sei eifrig auf Essen aus, dräng dich nicht nach Arbeit. EV 11354 : 8 Var.
+Träge bei der Arbeit, schnell beim Mund (d. i. beim Essen). EV 12108 : 2 Var.
+Ein Fauler beim Essen, dann ins Hemd; zur Arbeit, dann den Pelz an; ein Schneller beim Essen, dann den Pelz an; zur Arbeit, dann ins Hemd. EV 5382 : 1 Var.
+Alles belebt sich zur Essenszeit und genest zur Topfzeit. EV 11222 : 2 Var.
+Der Faule schwitzt beim Essen, friert beim Arbeiten. EV 5329 : 1 Var.
+Wer faul und naschhaft ist, der ist auch geil. EV 5308 : 2 Var.
+437. Für den Arbeiter sind Brot und Schlaf süß
+Mit Mühe verdientes Brot macht die Wangen rot. EV 13185 : 3 Var.
+Selbstverdientes Brot hat den Geschmack von Weißbrot. EV 7980 : 8 Var.
+Selbstverdientes Brot ist süß zu essen. EV 7979 : 12 Var.
+Selbstverdientes Brot ist süßer als fremdes. EV 7978 : 2 Var.
+Arbeite, dann wird das Essen schon süß sein. EV 12496 : 2 Var.
+Arbeite mit Schweiß, dann ißt du (dein) Brot mit Appetit. EV 12485 : 16 Var.
+Je schweißiger die Haut desto süßer das Brot. EV 1233 : 7 Var.
+Je bitterer (d. i. salziger) der Schweiß im Sommer, desto süßer das Brot im Winter. EV 3689 : 1 Var.
+Je härter die Arbeit, desto süßer das Brot. EV 3690 : 5 Var.
+Des Arbeitenden Brot ist süß. EV 12577 : 2 Var.
+Des Arbeitenden Schlaf ist süß. EV 12581 : 3 Var.
+Harte Arbeit, süßer Schlaf. EV 3687 : 1 Var.
+Je schwerer die Arbeit, desto ruhiger der Schlaf. EV 9552 : 3 Var.
+Wenn die Arbeit getan ist, so ist es gut zu atmen (d. i. zu ruhen). EV 12475 : 10 Var.
+Der Arbeiter schläft auch auf der Egge. EV 12574 : 1 Var.
+[438–441] Die Schwierigkeitsstufe der Arbeit. Arbeit und Müdigkeit, Erholung, Gesundheit
+
+438. Die Arbeit bricht keine Knochen, tötet nicht (das Warten, die Sorge, der Tod töten)
+Arbeit schadet ja nicht dem Knochen. EV 12419 : 6 Var.
+Arbeit tötet nicht, Kummer tötet. EV 12506 : 7 Var.
+Arbeit erbt ja nicht die Seele, Erholung erbt die Seele. EV 12422 : 1 Var.
+Im Vergleich zum Zuschauen ist Arbeit Dreck (d. i. nichtig). EV 12533 : 2 Var.
+439. Die Arbeit ist schwer. Es ist leichter zu stehen als zu arbeiten. Arbeite und mach Pausen
+Bitter ist das Pflügen mit den Nägeln, des Kopfes Ernähren mit den Daumen. EV 3688 : 3 Var.
+Zu spazieren ist es leichter als zu arbeiten. EV 4485 : 1 Var.
+Was hilft das Gehen, wenn das Sitzen nicht hilft. EV 434 : 2 Var.
+Besser sitzen als gehen, auf dem Rücken hält man mehr vor als stehend. EV 2276 : 5 Var.
+Auf der Seite liegend ist die Mann flinker. EV 5082 : 2 Var.
+Liegend ist der Mann fleißiger als stehend. EV 6592 : 1 Var.
+Hole Atem und arbeite. EV 1284 : 2 Var.
+Arbeit für heute, Kraft für morgen. EV 12545 : 8 Var.
+440. Die Arbeit ist widerwärtig, macht müde, tötet (das Stehen nicht). Die Faulheit spart die Gesundheit und verlängert das Leben
+Arbeit langweilt, der Acker ermüdet. EV 12553 : 1 Var.
+Was lange dauert, das ermüdet. EV 8783 : 1 Var.
+Der Schaffende wird müde, aber der Schlafende wird nicht müde. EV 11816 : 1 Var.
+Arbeit ist, was den Menschen tötet. EV 12523 : 1 Var.
+Was sich bewegt, das nutzt sich ab. EV 5841 : 11 Var.
+Stehend geht ja kein Werkzeug (od. Gefäß) kaputt. EV 10267 : 1 Var.
+Ein faules Pferd übernimmt sich nie. EV 5357 : 1 Var.
+Ein faules Pferd ist dick. EV 5354 : 1 Var.
+Des Faulen Haut murrt ja nicht. EV 5303 : 1 Var.
+Faulheit ist des Lebens Verlängerer. EV 5404 : 1 Var.
+Das Dach ist des Hauses Lebensdauer, Faulheit ist des Mannes Lebensdauer. EV 3462 : 3 Var.
+441. Das Verhältnis "der Kraft und der Länge des Weges" beim Arbeiten. Scheinbare und wirkliche Arbeit
+Der Fleißige birst vor Laufen, der Faule hebt sich kaputt. EV 12931 : 2 Var.
+Besser Mühe zu Fuß als Mühe durch Kraft. EV 2384 : 30 Var.
+Häufige Wagenzüge, kleine Wagenfuhren. EV 10034 : 4 Var.
+Der Fleißige geht fünfmal, der Faule reißt sich (d. i. überarbeitet sich auf einmal). EV 14238 : 50 Var.
+Überanstrenge dich nicht auf einmal, mach fünfmal, dann sehen Hungrige, bemerken Nackte. EV 3027 : 1 Var.
+Bei der Arbeit gefunden, wird als Tätiger (d. i. Arbeitender) gelobt. EV 12519 : 1 Var.
+442. Die Arbeit macht froh, erhöht den Menschen moralisch, die Faulheit richtet einen zugrunde
+Arbeit macht froh. EV 12536 : 1 Var.
+Arbeit ist dem Menschen zum Zeitvertreib (da). EV 12549 : 2 Var.
+Arbeit ist des Bösen Trotz. EV 12525 : 1 Var.
+Faulheit gehört nirgendwohin. EV 5398 : 1 Var.
+Faulheit ist des Teufels Kopfkissen. EV 5406 : 65 Var.
+Hütet euch vor Faulheit, Faulheit ist die Wurzel allen Übels. EV 5393 : 4 Var.
+Faulheit ist aller Laster Anfang. EV 5407 : 2 Var.
+Faulheit ist der Sünde Ansteckung. EV 5408 : 1 Var.
+Vor dem Tod stirbst du vor Faulheit. EV 10723 : 1 Var.
+Ein Mensch ohne Arbeit verdirbt wie Fleisch ohne Salz. EV 2156 : 1 Var.
+Stehendes Wasser fängt an zu stinken. EV 10266 : 4 Var.
+Schlamm entsteht auf stehendem Wasser. EV 4840 : 1 Var.
+Im fließenden Wasser bleiben keine Insekten. EV 2462 : 1 Var.
+Wenn ich mich ausruhe, dann roste ich. EV 9028 : 1 Var.
+Dieses Eisen, das unter der Hand (d. i. mit dem man arbeitet), rostet nie. EV 9569 : 1 Var.
+Das Pflugeisen rostet nicht. EV 5176 : 1 Var.
+[443–445] Den Menschen kennt man, schätzt man, behandelt man nach seiner Arbeit
+
+443. An der Arbeit kennt man den Arbeiter. Wie der Arbeiter, so die Arbeit
+Den Baum erkennt man an seiner Frucht. EV 9102 : 10 Var.
+An der Arbeit erkennt man den Täter (d. i. den Arbeitenden). EV 12565 : 4 Var.
+Am Stumpf erkennt man den Holzfäller. EV 4937 : 1 Var.
+Den Meister erkennt man am Span. EV 5248 : 1 Var.
+Wie der Meister, so die Arbeit. EV 6707 : 2 Var.
+Wie die Männer, (so) der Honig; wie die Frauen, (so) der Buttervorrat. EV 6645 : 8 Var.
+444. Die Arbeit lobt den Arbeiter, der Arbeit verdient Achtung und Dankbarkeit; Faulheit bringt Schande und Tadel, Strafe
+Arbeit lobt den Tätigen (d. i. den Arbeitenden). EV 12515 : 100 Var.
+Arbeit lobt (od. rühmt) sich selbst. EV 12514 : 8 Var.
+Die Sache lobt sich selbst. EV 410 : 2 Var.
+Gutes lobt Schönes. EV 924 : 4 Var.
+Man muß immer nach Arbeit und Tat loben, nicht nach Sackpfeife und Fest. EV 12441 : 1 Var.
+Den Fleißigen lob, den Faulen tadle, den Guten verwöhn, den Bösen rüg. EV 14235 : 1 Var.
+Der Faule hat viele, die ihn tadeln; der Fleißige viele, die ihn loben. EV 5333 : 1 Var.
+Leichte Füße werden gelobt, aber faule getadelt. EV 3595 : 1 Var.
+Der Hand des Schaffenden dankt man; die Hand des Stehenden (d. i. Nichtstuers) verdammt man. EV 11809 : 1 Var.
+Wie du machst, so denkt man; wie du ißt, so spuckt man. EV 11767 : 1 Var.
+Der Faule wird nicht gelitten, der Fleißige nicht verachtet. EV 5350 : 1 Var.
+Zum Fleißigen schaut jedermann hin, dem Faulen kehrt man den Rücken. EV 14234 : 1 Var.
+Der Hände Arbeit macht den Menschen berühmt. EV 4995 : 1 Var.
+Arbeit ist eine Ehrensache. EV 12524 : 1 Var.
+Ehre die Arbeit, dann ehrt die Arbeit auch dich. EV 489 : 1 Var.
+Lebe nach eigenem Verstand, erwirb Achtung durch Arbeit. EV 547 : 1 Var.
+Fleiß ehrt, Faulheit beschämt. EV 12936 : 1 Var.
+Arbeit schändet niemand, Faulheit tadelt jeden Mann. EV 12507 : 15 Var.
+Arbeit macht niemandem Schande, sondern ehrt alle. EV 12502 : 3 Var.
+Arbeit schadet nicht dem Tätigen (d. i. dem Arbeitenden), wenn der Tätige der Arbeit nicht schadet. EV 12505 : 8 Var.
+Nicht der Tätige schämt sich vor der Arbeit, der Sehende schämt sich vor der Arbeit. EV 12498 : 1 Var.
+Es ist gut zu stehen, aber schlimm zu verantworten. EV 1030 : 4 Var.
+Es ist gut zu sitzen, aber schlimm zu verantworten. EV 918 : 1 Var.
+445. Ein Faulpelz ist nutzlos, stört die anderen, lebt auf fremde Kosten
+Der Faule ist das Wasser nicht wert, das man ins Brot hineintut. EV 5378 : 2 Var.
+Der Nachlässige ist sich selbst und den anderen eine Plage. EV 1493 : 1 Var.
+Ein fauler Mensch ist des anderen Menschen Gerümpel. EV 5359 : 1 Var.
+Besser fünf Fleißige als zehn Faule. EV 14140 : 1 Var.
+Wann scheint wohl aus eines Schläfers Arsch die Sonne auf den Arbeitenden. EV 6306 : 1 Var.
+Wer ernährt des Faulen Kinder, wenn es keine Fleißigen gibt. EV 5307 : 1 Var.
+Des Faulen Recht ist groß. EV 5332 : 1 Var.
+FAG. Arbeitsamkeit und Ertrag, Arbeit und Lohn, Arbeit und Ergebnis
+
+[446–450] Die Arbeit ernährt, Faulheit und Nachlässigkeit bringen Hunger ins Haus
+
+446. Wie du arbeitest, so wird es dir gegeben
+Wie du schiebst, so es geht. EV 6179 : 100 Var.
+Der Wagen läuft so, wie du von hinten schiebst. EV 13650 : 2 Var.
+Wie das Pflügen, so der Nutzen. EV 5165 : 1 Var.
+Viel Getreide (od. Gut, Habe), viele Sorgen. EV 14189 : 1 Var.
+Wie die Arbeit, so die Frucht. EV 12472 : 1 Var.
+Wie die Arbeit, so die Beute (d. i. das Ergebnis). EV 12468 : 5 Var.
+Wie du machst, so du bekommst. EV 11761 : 5 Var.
+Wie du machst, so du ißt. EV 11769 : 1 Var.
+Wie die Arbeit ist, so (auch) iß. EV 12470 : 2 Var.
+Wie die Finger sich zu bewegen vermögen, demnach vermag auch der Mund zu essen. EV 7738 : 1 Var.
+Wie der Mann, so das Wurststück. EV 6515 : 1 Var.
+Wie das Huhn scharrt, so das Huhn pickt. EV 3141 : 2 Var.
+Wie der Mensch strebt, so er erhält. EV 2163 : 1 Var.
+447. Genau das, was du machst, wirst du später auch haben
+Wie getan, so ist es gut. EV 11777 : 1 Var.
+Wie gemacht, so verdient. EV 11763 : 1 Var.
+Wie der Schaffende getan, so der Tragende trägt. EV 11805 : 3 Var.
+Was Mihkal (Michaelstag, 29. IX) macht, das Mihkal hält. EV 6806 : 1 Var.
+Wie gemacht, so gebraucht. EV 11762 : 2 Var.
+Je mehr Wind, desto mehr Feuer. EV 12234 : 1 Var.
+Was der Finger milkt, das der Oberkörper trägt. EV 11169 : 8 Var.
+Was die Finger machen, das der Arsch hält. EV 7739 : 2 Var.
+Gutes machst, Besseres brauchst. EV 990 : 1 Var.
+Die Hand macht Gutes, der Hals trägt Besseres. EV 1061 : 4 Var.
+448. Wer arbeitet, der bekommt
+Arbeit ist der Welt Ernährer. EV 12530 : 2 Var.
+Der Mann ernährt nicht die Arbeit, die Arbeit ernährt den Mann. EV 6657 : 1 Var.
+Der Arbeitende stirbt nie an Hunger. EV 12576 : 2 Var.
+Was Mats macht, das Mats ißt. EV 6449 : 14 Var.
+Was du heute machst, das wirst du morgen essen. EV 12376 : 1 Var.
+Wer macht, der auch ißt. EV 11758 : 6 Var.
+Wer arbeitet, der sieht keinen Hunger. EV 12460 : 5 Var.
+Wer arbeitet, der bekommt auch Brot. EV 12466 : 3 Var.
+Wo Arbeit, da Brot. EV 12476 : 8 Var.
+Jeder muß für Brot Gutes tun. EV 5655 : 1 Var.
+Wer arbeitet und Mühe liebt, dem hilft Gott. EV 12457 : 2 Var.
+Man muß so arbeiten, daß man aus Gottes Mund den Brocken wegnimmt ― dann kann man auskommen. EV 12555 : 1 Var.
+Arbeit wird einen schon zum Wohlstand bringen. EV 12479 : 1 Var.
+Arbeit lohnt dem Täter (d. i. dem Arbeitenden). EV 12541 : 1 Var.
+Der Mensch bekommt für die Arbeit. EV 2131 : 30 Var.
+Jeder Vogel bekommt Futter für seine Lieder. EV 5891 : 25 Var.
+Dem Vogel genügt, was er mit dem Schnabel bringt. EV 5930 : 5 Var.
+Korn ist in des fliegenden Vogels Schnabel. EV 2290 : 3 Var.
+Eine gescheite Henne findet Körnchen. EV 11947 : 1 Var.
+Das Korn kommt von Gott, aber der Vogel selbst muß diese Stelle auffinden, hinfliegen und es auch aufpicken. EV 11946 : 1 Var.
+Ein laufender Fuchs hat immer einen Käfer im Maul. EV 2461 : 5 Var.
+Die Katze, die sich herumtreibt, füttert ihr Junges. EV 3393 : 7 Var.
+Tauch den Schwanz ins Wasser, dann bekommst du den Fisch fest. EV 10016 : 1 Var.
+Gib dir Mühe, dann bekommst ein Messer; streng dich an, dann bekommst ein Beil. EV 14481 : 1 Var.
+Einer guten Arbeit folgt der Nutzen auf dem Fuße. EV 979 : 1 Var.
+Jede Mühe hat ihren Vorteil. EV 13175 : 1 Var.
+Mühe erzeugt Korn, Feindschaft Haß. EV 13188 : 1 Var.
+Wenn es Mühe macht, dann gibt es (auch) Fladen. EV 13179 : 1 Var.
+Wo man Habe bekommen, da hat man Mühe gesehen. EV 13661 : 1 Var.
+Wenn du es machst, dann gedeiht es; wenn du (etwas) in Bewegung setzt, dann geht es voran. EV 11766 : 1 Var.
+Wo es gemacht (wird), da tropft es. EV 11770 : 1 Var.
+Wer Hände hat, der hat Lefzen. EV 4942 : 1 Var.
+Wer Hände hat, der hat Apfel. EV 4940 : 45 Var.
+Wer Hände hat, der hat Kopeken. EV 4939 : 1 Var.
+Der einen Arbeit Ende (od. Beendigung) begleitet (d. i. bringt) den Anfang der anderen. EV 14943 : 2 Var.
+Wer Hände hat, der hat Klöße. EV 4941 : 3 Var.
+Wessen Hände, dessen Fische. EV 4967 : 4 Var.
+Wessen Hand, dessen Honig. EV 4975 : 1 Var.
+Wessen Hand am Pflug, dessen Mund am Brot. EV 4970 : 3 Var.
+Wessen Hand schützt, dessen Mund schmeckt. EV 4971 : 1 Var.
+Wessen Hand sich bewegt, dessen Mund ißt. EV 4974 : 1 Var.
+Wessen Hand sich bewegt, dessen Mund schmatzt. EV 4973 : 2 Var.
+Wessen Hand fuchtelt, dessen Zunge schnappt. EV 4972 : 1 Var.
+Was die eigene Hand macht, das der eigene Mund ißt. EV 4999 : 1 Var.
+Wessen Fuß watschelt, dessen Mund schmatzt. EV 2399 : 360 Var.
+Wessen Leib hüpft, dessen Mund schmatzt. EV 1946 : 1 Var.
+Wessen Arsch pupst, dessen Mund schmatzt. EV 8690 : 5 Var.
+Wessen Arsch zappelt, dessen Zunge schnappt. EV 8689 : 1 Var.
+Wessen Fuß flink, dessen Zunge glatt (d. i. schmeichlerisch). EV 2398 : 1 Var.
+Die Beine kotig bis an die Knie, der Mund fettig bis an die Ohren. EV 2392 : 65 Var.
+Wessen Hände dreckig sind, dessen Mund ist mit Weißbrot (gefüllt). EV 4969 : 65 Var.
+Wessen Kleidung bis zum Knie dreckig, dessen Mund bis zu den Ohren fettig. EV 9908 : 1 Var.
+Wessen Schwanz dreckig, dessen Maul fettig. EV 10017 : 1 Var.
+Naß der Schoß, satt der Magen. EV 1693 : 1 Var.
+Je schmutziger die Hände, desto feiner das Brot. EV 6937 : 2 Var.
+Schmutzige Arbeit, weißes Brot. EV 6957 : 6 Var.
+Wer sammelt, der findet. EV 4391 : 1 Var.
+Wer geduldig (d. i. langsam) arbeitet, der bekommt. EV 9066 : 2 Var.
+Wer ein Mann beim Tun (d. i. Arbeiten), der ein Mann beim Empfangen. EV 6509 : 1 Var.
+Wo die Arbeit, da die Beute (d. i. das Ergebnis). EV 12467 : 2 Var.
+Wo es Schläge gibt, dort gibt es (auch) Beute. EV 6154 : 1 Var.
+Häufig die Schritte, dick die Wangen. EV 10128 : 1 Var.
+Keuchst beim Tun, keuchst beim Essen. EV 14774 : 1 Var.
+Achzt du arbeitend, ißt du gierig. EV 11822 : 1 Var.
+Wer mit Weinen sät, der mit Freude erntet. EV 7608 : 3 Var.
+Im Sommer bleibe ich (bei der Arbeit) hinter den anderen (zurück), im Winter singe ich am Tisch. EV 10987 : 7 Var.
+Wer Halme pflückt, der pflückt Ähren. EV 7581 : 1 Var.
+So lange ein Lebensalter, bis man (bei der Ernte) voran ist; so lange Wohlstand, bis man (mit der Sichel) aberntet. EV 1906 : 2 Var.
+Der Eifrige hat Roggen, der Schaffende Korn. EV 9963 : 1 Var.
+Der Eifrige hat Kleider, der Schuftende Hemden. EV 9962 : 10 Var.
+Der Schaffende bekommt immer einen Groschen. EV 11813 : 25 Var.
+Das Pferd steht im Stalle des Sparsamen, das Geld im Beutel des Schmiedenden, das Korn im Kasten des Schaffenden. EV 1371 : 1 Var.
+Der Sorgsame hat ein Pferd im Stall. EV 1512 : 1 Var.
+Sorge dich um morgen, dann fehlt dir übermorgen nichts. EV 1515 : 1 Var.
+Sorgsamkeit hilft weiter. EV 1471 : 1 Var.
+Wer Sorgen hat, der hat Sahne. EV 1477 : 15 Var.
+Fleiß bringt Gutes. EV 12939 : 1 Var.
+449. Wer arbeitet, der bekommt; wer faulenzt, der bekommt nichts
+Der Arbeitende ist den Lohn wert. EV 12578 : 25 Var.
+Fleiß bringt ehrlichen Lohn, aber Taubheit bringt den Knüppel. EV 12938 : 1 Var.
+Der Fleißige bekommt Neues, der Faule nicht mal Zerrissenes. EV 12935 : 2 Var.
+Fleiß bringt Brot, Faulheit Hunger. EV 12940 : 2 Var.
+Sorgsamkeit trägt Früchte, Faulheit leidet Hunger. EV 1475 : 2 Var.
+Der Arbeitende bekommt zu essen, aber das Aas sieht Hunger (d. i. hungert). EV 12579 : 1 Var.
+Wer arbeitet, der hat zu essen; wer faulenzt, der sieht Hunger. EV 12463 : 2 Var.
+Wer viel tut, der viel bekommt; wer wenig tut, der wenig bekommt. EV 8338 : 3 Var.
+Wer macht, der bekommt; wer nichts macht, der bekommt nichts. EV 11759 : 20 Var.
+Von Arbeit bekommt man immer etwas, aber vom Schlaf gar nichts. EV 12537 : 1 Var.
+Vom Tun bekommt man immer (etwas). EV 11797 : 10 Var.
+Vom Tun bekommt man ein Körnchen, vom Schlafen bekommt man kein Beerchen. EV 11804 : 12 Var.
+Der Schaffende bekommt etwas, der Schlafende gar nichts. EV 11814 : 1 Var.
+Schlummernd bekommt man ein wenig, schlafend bekommt man überhaupt nichts. EV 10645 : 1 Var.
+Vom Schlummern bekommt man ein Körnchen, vom Schlafen nicht mal ein Beerchen. EV 12117 : 1 Var.
+Mehr bekommt der viel Schlummernde als der lange Schlafende. EV 10644 : 12 Var.
+Von kleiner Arbeit hat man immer mehr als von langem Stehen (d. i. Nichtstun). EV 8901 : 90 Var.
+Was hilft das Sitzen, wenn das Gehen nicht hilft. EV 2278 : 15 Var.
+Besser mit Sorgen leben als in Armut schmachten. EV 1472 : 1 Var.
+Der Faule hält das Brot (d. i. die Arbeit) nicht fest, des Fleißigen Sack und Magen sind voll. EV 5352 : 14 Var.
+Beim Fleißigen starrt der Hunger hinter dem Fenster, aber beim Faulen hinter der Tür. EV 14231 : 3 Var.
+Unter dem Arsch warm, unter der Nase kalt. EV 8700 : 60 Var.
+Des Deutschen (d. i. des Herrn) Schlaf, des Hundes Brot; des Hundes Schlaf, des Deutschen (d. i. des Herrn) Brot. EV 10082 : 1 Var.
+Schlaf kostet kein Geld, Arbeit kostet (Geld). EV 12900 : 1 Var.
+Wenn das Pflugeisen blank ist, voller Brotstücke der Brottisch; wenn das Pflugeisen rostig ist, dann ist der Brottisch glatt (d. i. leer). EV 799 : 1 Var.
+450. Wer nicht arbeitet, der bekommt nichts. Mit dem Schlafen, ohne Mühe erreicht man nichts
+Wer keine Arbeit hat, der geht den Weg (entlang). EV 12446 : 1 Var.
+Wer nicht arbeiten will, der muß betteln. EV 12465 : 3 Var.
+Wer nicht dem Brot nachjagt, dem jagt das Brot nach. EV 5661 : 1 Var.
+Wer die Arbeit nicht antreibt, den treibt der Hunger an. EV 12455 : 1 Var.
+Wer Arbeit schont, liebt Hunger. EV 12454 : 1 Var.
+Wer nicht arbeiten will, muß einen leeren Magen ertragen. EV 12447 : 1 Var.
+Wer nicht arbeiten will, der muß Hunger sehen. EV 12449 : 2 Var.
+Wer nicht arbeiten will, der soll auch nicht essen. EV 12448 : 35 Var.
+Ohne Arbeit kann ja niemand leben. EV 12426 : 1 Var.
+( Niemand) bekommt ohne Arbeit zu essen. EV 12442 : 20 Var.
+Wer nicht arbeitet, der bekommt kein Essen. EV 12453 : 5 Var.
+Wer nicht arbeitet, der ißt nicht Brot, sondern wirft die Beine auf die Wand. EV 12452 : 1 Var.
+Das Bein an die Wand, die Zähne an den Nagel. EV 2397 : 1 Var.
+Dem Arsch ist's weich zu sitzen, dem Munde hart zu ertragen. EV 8695 : 1 Var.
+Wenn die Hand rein ist, dann muß auch der Mund rein sein. EV 4984 : 2 Var.
+Wenn die Krallen nichts zu scharren haben, dann hat der Schnabel nichts zu picken. EV 5243 : 1 Var.
+Wer keine Gerste anbaut, bekommt keinen Met. EV 7764 : 1 Var.
+Wenn der Dreschflegel steht, dann ist das Brot zu Ende. EV 4357 : 1 Var.
+Wenn keine Arbeit da ist, (so) ist kein Brot da. EV 12431 : 2 Var.
+Wenn die Arbeit aufhört, so hört auch das Brot auf. EV 12474 : 1 Var.
+Faule Arbeit, wäßrige Kost. EV 6105 : 1 Var.
+Leichte Arbeit, leichtes Brot. EV 1694 : 1 Var.
+Der Faule darf kein Brot essen, Brot wird nicht umsonst gefunden. EV 5353 : 1 Var.
+Faulheit gibt kein Brot. EV 5397 : 7 Var.
+Arbeit ernährt den Menschen, Faulheit verdirbt ihn. EV 12509 : 2 Var.
+Wer Faulheit liebt, der findet kein Glück. EV 5394 : 1 Var.
+Faulheit zwingt leihen, Stumpfsinn Asche stampfen. EV 5396 : 1 Var.
+Dem Faulen kommt das Wasser in den Ofen. EV 5338 : 1 Var.
+Faulheit ist der Armut Bruder. EV 5405 : 10 Var.
+Faulheit und Hunger sind eines Dorfes Kinder. EV 5401 : 1 Var.
+Der Faule hat zwei Freunde: den Schlaf und den leeren Magen. EV 5326 : 1 Var.
+Armut ist der Faulheit Kamerad. EV 13169 : 1 Var.
+Faulheit geht langsam voran, Armut kommt leicht (d. i. schnell) hinterher. EV 5403 : 5 Var.
+Faulheit geht mit Hunger Hand in Hand. EV 5402 : 1 Var.
+Wie der Hof, so der Kwaß. EV 11507 : 10 Var.
+Wo Nachlässigkeit, da Elend. EV 1509 : 1 Var.
+Nachlässigkeit schlägt immer seinen Herrn. EV 1501 : 2 Var.
+Der Nachlässige stöhnt, der Furchtsame bereut. EV 1490 : 1 Var.
+Die Nachlässigen behüten nicht, die Faulen ernähren nicht. EV 1486 : 1 Var.
+Gott behütet nicht den Nachlässigen, ernährt nicht den Faulen. EV 2571 : 10 Var.
+Der nachlässige Soldat hat immer Teig im Sack. EV 1485 : 2 Var.
+Wer nicht imstande ist, einen Halm zu tragen, der baut so bald kein Nestchen. EV 4865 : 1 Var.
+Der Nachlässige hat keinen Anteil, der Nachgiebige kein Nest. EV 1484 : 1 Var.
+Der Nachlässige hat keine Zügel für das Pferd und der Faule keinen Boden im Schlitten. EV 1483 : 1 Var.
+Ein nachlässiger Mann hat kein Pferd, eine faule Frau keine Schafe. EV 1489 : 8 Var.
+Im Winter ohne Arbeit, im Sommer ohne Gürtel. EV 11555 : 1 Var.
+Eine arbeitslose Frau hat einen leeren Schoß. EV 12540 : 1 Var.
+Wessen Hände im Schoß, der hat Hunger im Magen. EV 4966 : 3 Var.
+Wer faulenzend lebt, der hosenlos springt. EV 5391 : 3 Var.
+Bist sorglos, dann gehst ohne Schuhe. EV 1478 : 2 Var.
+Gibt es keine Sorgsamkeit, gibt es keine Häuser. EV 1470 : 1 Var.
+Weder besorgt ein Aas den Haushalt, noch ernährt ein großer Wolf. EV 6351 : 1 Var.
+Wer Mühe scheut, der wird Schmerzen sehen. EV 13177 : 2 Var.
+Sorgloses Leben bringt Gefahren und Schmerzen. EV 1473 : 1 Var.
+Wer viel schläft, erleidet viel Schaden. EV 6311 : 1 Var.
+Wer schläft, der ist arm. EV 6310 : 1 Var.
+An des Schläfrigen Angel beißt ja kein Fisch. EV 12848 : 1 Var.
+Ein fauler Wolf bekommt kein Schaf. EV 5381 : 2 Var.
+Ein schlafender Fuchs fängt kein einziges Huhn. EV 6304 : 3 Var.
+Ins Maul einer schlafenden Katze läuft keine Maus. EV 6297 : 230 Var.
+Eine schlafende Katze fängt keine Mäuse. EV 6295 : 1 Var.
+Wer wird in den Mund der schlafenden Katze scheißen. EV 6293 : 5 Var.
+Am Kopfende gibt es keinen Brotlaib, wenn man nicht arbeiten will. EV 9348 : 1 Var.
+Im Schlaf bekommt man ja keinen Brotlaib. EV 12889 : 5 Var.
+Im Schlaf bekommt man ja keinen Fladen. EV 12890 : 6 Var.
+Wer hat wohl aus Schlaf Kuchen gebacken. EV 12894 : 1 Var.
+Aus Gejammer kann man ja keinen Brei kochen. EV 4685 : 1 Var.
+Im Schlaf kann man ja keinen Brei kochen. EV 12888 : 3 Var.
+Aus Schlaffett bekommt man ja keine Brühe. EV 12887 : 4 Var.
+Wer ist wohl von Schlaf satt geworden. EV 12893 : 2 Var.
+Von Schlaf bekommt man keinen Haufen. EV 12910 : 10 Var.
+Aus Schlafen hat noch niemand Nutzen gezogen. EV 6322 : 2 Var.
+Schlafen bringt ja nichts ein. EV 6321 : 1 Var.
+Mit Schlafen baut man kein Haus. EV 6324 : 1 Var.
+Vom Schlafen kann man nichts in den Sack legen. EV 6323 : 1 Var.
+Eine solche Stelle wird man nicht finden, wo man schlafend zu essen und Kleider zu tragen bekommt. EV 4213 : 1 Var.
+Schlaf gibt keinen neuen Rock, Schlafen kein bis zur Erde reichendes Hemd; Schlaf treibt zum Umherstreichen, Schlafen zum Marschieren. EV 12899 : 265 Var.
+Den Arsch fütternd bekommt man nichts. EV 8686 : 4 Var.
+Sitzend bekommt man keine schönen Kleider, stehend (keinen) herrschaftlichen Rockschoß. EV 2268 : 1 Var.
+Verstehst du den Fisch nicht im Wasser zu fangen, wird er von selbst nicht aufs Trockne kommen. EV 3053 : 1 Var.
+Kein Stein erhebt sich, ohne daß er gehoben wird. EV 3948 : 1 Var.
+Getreide kommt nicht ohne gearbeitet zu haben, Fisch nicht ohne den Fuß naß gemacht zu haben. EV 14192 : 1 Var.
+Ohne den Mann läuft das Essen ja nicht in den Mund. EV 11216 : 1 Var.
+Ohne Mühe fällt ja kein Brot in den Rachen. EV 13173 : 1 Var.
+Ohne Mühe bekommt man ja kein weißes Hemd. EV 13172 : 4 Var.
+Reich wird man nicht ohne Mühe. EV 9670 : 1 Var.
+Man bringt dir nichts nach Hause in die Hand. EV 3980 : 4 Var.
+Der Wind bringt nichts ins Haus. EV 12256 : 1 Var.
+Nirgends regnen Weißbrote vom Himmel. EV 10037 : 1 Var.
+Gott kommt nicht in den Mund scheißen. EV 2612 : 4 Var.
+Warum frißt der Hund Brot, wenn er nicht bellt. EV 4166 : 2 Var.
+Zwei gute Sachen ― Geld und Schlaf ― kann man ja nicht auf einmal bekommen. EV 2949 : 1 Var.
+451. Verschiedene Zusammenhänge zwischen Arbeit und Ernte, Arbeit und Lohn, Mühe und Lohn: erst die Arbeit, dann der Lohn (der Ertrag); den Lohn kann man nicht selbst bestimmen; der Lohn muß bezahlt werden u.ä.
+Zuerst die Arbeit, dann das Essen. EV 12429 : 1 Var.
+Zuerst wird die Arbeit getan, danach wird der Lohn gezahlt. EV 12430 : 35 Var.
+Zuerst züchte das Huhn, dann erst wünsch dir ein Ei. EV 3106 : 3 Var.
+Stundenweise wird die Arbeit getan stückweise wird der Lohn gezahlt. EV 12205 : 1 Var.
+Arbeit macht man mit der eigenen Hand, aber den Lohn nimmt man nicht mit der eigenen Hand. EV 12562 : 2 Var.
+Was getan, das ist bezahlt. EV 11776 : 1 Var.
+Was gestoßen, das ist bezahlt. EV 6869 : 1 Var.
+Mach die Arbeit tüchtig und nimm den Lohn richtig. EV 12493 : 1 Var.
+Wenig machst, viel bekommst. EV 8912 : 1 Var.
+Für eine Kopeke Sachen, für einen Rubel Aussehen (od. Gestalt). EV 4369 : 1 Var.
+Mach die Arbeit für eine Kopeke, die (Arbeit) für einen Rubel schieb beiseite. EV 12014 : 1 Var.
+452. Formelhafte Wendungen über die Entsprechung der Arbeit und der Ernte oder der Tat und des Ergebnisses allgemeiner
+Alles sind Taten, die vollbracht werden. EV 11820 : 1 Var.
+Wie die Arbeit, so der Lohn. EV 12469 : 100 Var.
+Jede Arbeit ist ihren Lohn wert. EV 12436 : 3 Var.
+Jede Arbeit findet ihren Lohn. EV 12425 : 1 Var.
+Arbeit verdient Lohn. EV 12543 : 1 Var.
+Mach gute Arbeit, dann kriegst du guten Lohn. EV 1146 : 3 Var.
+Wie der Mann, so der Lohn. EV 6523 : 1 Var.
+Jede Arbeit trägt ihre Frucht. EV 12433 : 1 Var.
+Wer Getreide schneiden will, soll teure Samen säen. EV 14188 : 1 Var.
+Wie die Saat, so das Korn. EV 5136 : 10 Var.
+Wie die Saat, so die Ernte. EV 5138 : 65 Var.
+Was du säst, das du erntest. EV 5150 : 40 Var.
+Anderer Hof, anderer Kwaß. EV 11883 : 45 Var.
+Machst gut, bekommst besser. EV 1880 : 4 Var.
+Was du suchst, das du findest. EV 8152 : 7 Var.
+Was jemand sucht, das er findet. EV 8151 : 8 Var.
+Was der Mann sucht, das der Mann findet. EV 6666 : 8 Var.
+Wer etwas sucht, der jenes bekommt. EV 8146 : 2 Var.
+Welchen Fisch jemand fängt, diesen er bekommt. EV 3069 : 15 Var.
+Wie du das Bett machst, so träumst du. EV 404 : 3 Var.
+Wohin du eilst, dahin du kommst. EV 12330 : 1 Var.
+Wie die Hand macht, so der Hals trägt. EV 4978 : 100 Var.
+Nach welchem Brot das Kind weint, das bekommt es (auch). EV 5712 : 1 Var.
+453. Einem aktiven Menschen (der alles ausprobieren will) begegnet Gutes sowie Schlechtes (einem passiven Menschen passiert nichts)
+Ein herumlaufender Hund bekommt bald ein Holzstück, bald einen Knochen. EV 4927 : 1 Var.
+Ein laufender Hund kriegt immer etwas ― einmal auf den Rücken, das andere Mal ins Maul. EV 2459 : 20 Var.
+Ein Herumstreicher sieht immer beides ― bekommt er was in den Mund oder auf den Rücken. EV 4825 : 3 Var.
+Der Empfänger bekommt immer, entweder in den Mund oder auf den Rücken. EV 9984 : 5 Var.
+Der Schaffende bekommt immer, einerlei, ob in den Mund oder auf den Rücken (d. i. Prügel). EV 11807 : 1 Var.
+Der Betriebsame bekommt immer, entweder in den Mund oder auf den Rücken. EV 9968 : 11 Var.
+Ein Rutschender­Scharrender kriegt immer etwas, der bloß so Sitzende kriegt nichts. EV 3698 : 8 Var.
+Dem Schaffenden geschieht (so) manches, dem Schlafenden nichts. EV 11810 : 70 Var.
+Von getaner Arbeit hat man immer etwas: Wenn sonst nichts, dann (wenigstens) Ärger. EV 11795 : 1 Var.
+Wer alles prüft, der manches sieht. EV 3459 : 6 Var.
+Wer nach allen Rasenhügeln sucht, der von allen Beeren schmeckt. EV 7091 : 1 Var.
+Wer alle Heiden durchwandert, der alle Beeren schmeckt. EV 7631 : 80 Var.
+Wer über alle Sümpfe fährt, der lernt alle Länder kennen. EV 10602 : 3 Var.
+Wer alle Gänge geht, der alle Beeren schmeckt. EV 4824 : 1 Var.
+Der Arme ist oft ein fleißiges Kind, der Reiche oft ein faules Kind. EV 13087 : 1 Var.
+[454–456] Beziehungen des Angenehmen ("Süßen", "Wohlschmeckenden") zu dazugehörendem Unangenehmen ("Bitteren", "Leiden")
+
+454. Wer Gutes kosten will, muß auch (vorausgehende, dazugehörende, hinterherkommende) Unannehmlichkeiten aushalten; wer nicht kosten will, muß auch nicht leiden
+Wer viel bekommen will, der muß viel leiden. EV 8347 : 1 Var.
+Wenn du rodeln willst, dann mußt du auch den Schlitten ziehen. EV 5989 : 1 Var.
+Verstehst du das Ei zu essen, dann verstehst du auch, die Schale zu zerbrechen. EV 6894 : 3 Var.
+Wer von oben die Schale (od. Kruste) ißt, der soll auch den Inhalt essen. EV 4344 : 3 Var.
+Hast du die Beerlein gegessen, so iß auch des Beerleins Stengel. EV 11244 : 1 Var.
+Wer alle Beeren schmeckt, der sich die Zunge verbrennt. EV 6413 : 1 Var.
+Wer alle Beeren schmeckt, der alle Hunger sieht. EV 6412 : 2 Var.
+Wer alle Beeren schmeckt der auch alles Bittere probiert. EV 6415 : 1 Var.
+Wer alles Süße kostet, der alles Bittere erleidet. EV 6328 : 25 Var.
+Wenn ohne Essen, dann ohne Schläge. EV 11247 : 6 Var.
+455. Wer Unannehmlichkeiten aushält / nicht aushält, der kann Gutes kosten / kann nicht
+Wer Bitteres aussteht, der Süßes schmeckt. EV 3684 : 35 Var.
+Wer Grobes aussteht, der wird Tuch tragen. EV 3085 : 14 Var.
+Die Geduld ist bitter, aber die Frucht ist süß. EV 3176 : 3 Var.
+Wer alle Stacheln (od. Splitter) erträgt, der alle Beeren schmeckt. EV 8872 : 1 Var.
+Wer Böses hört, der Gold trägt. EV 4595 : 13 Var.
+Wer Böses nicht hört, der Süßes nicht kostet. EV 4593 : 1 Var.
+456. Es ist zwar gut zu kosten, aber Mühe geben oder verantwortlich sein will keiner; jeder Mensch will bekommen, niemand will Mühe geben
+Kwaß ist wohl gut zu trinken, aber schlecht zuzubereiten. EV 11458 : 1 Var.
+Ein Schäfchen ist gut zu essen, aber die Klauen sind schlecht herauszuscheißen. EV 1076 : 2 Var.
+Jedermann möchte essen, trinken, niemand möchte den Pfaffen töten. EV 11278 : 6 Var.
+FB. BEKOMMEN, SAMMELN, VERGEUDEN, WOLLEN
+
+FBA. Gute und schlechte Zeiten. Verhältnisse des Bekommens, der Vorräte und des Vergeudens
+
+457. Alle Zeiten sind nicht gleich (gut). Mehr gibt es Tage des Essens als die des Bekommens
+Die Zeit ist nicht des Jahres Bruder. EV 61 : 1 Var.
+Nicht alle Jahre sind Brüder. EV 11 : 95 Var.
+Nicht alle Tage sind Brüder. EV 9268 : 4 Var.
+Der Tag ist nicht des Tages Kind. EV 9290 : 1 Var.
+Die Tage sind (d. i. kommen) nicht aufeinander, sondern nacheinander. EV 9282 : 8 Var.
+Jeden Tag ist nicht Sonntag. EV 9256 : 1 Var.
+Nicht alle sind weiblich, manche sind auch männlich. EV 656 : 1 Var.
+Nicht alle Stunden sind einträglich. EV 12196 : 1 Var.
+Viele Tage, wenig Brot. EV 9300 : 1 Var.
+Mehr Tage als Würste. EV 9248 : 4 Var.
+Alle (Tage) sind immer Eßtage, nicht alle sind Erwerbstage. EV 11315 : 75 Var.
+Manchmal kann man Met trinken, hundertmal Weißbrot essen, meistens ist man ohne. EV 6978 : 3 Var.
+458. Der Herbst (der Sommer) reich, der Frühling (der Winter) arm. In der Erntezeit vergeudet man übermäßig viel, später muß man Not leiden
+Der Sommer ernährt den Winter. EV 10996 : 1 Var.
+Am Michaelstag (29. IX) wird Butter mit dem Löffel gegessen. EV 6824 : 1 Var.
+Mihkel (Michaelstag, 29. IX) ist ein reicher, Jüri (Georgstag, 23. IV) ein armer Mann. EV 6809 : 1 Var.
+Besser einen armen Herbst als einen reichen Frühling. EV 13055 : 1 Var.
+Sei nicht reich im Herbst, sei reich im Frühling. EV 9664 : 3 Var.
+Der Herbst füttert, der Frühling mergelt aus. EV 11389 : 7 Var.
+Im Frühling sind kärgliche Zeiten, im Herbst große Erträge. EV 3637 : 1 Var.
+Im Herbst große Weißbrotlaibe, im Frühling kärgliche Mehlsuppe. EV 11393 : 1 Var.
+Im Herbst sind große Mahlzeiten, im Frühling sind die Hülsen süß (od. teuer). EV 11379 : 100 Var.
+Im Herbst würde man essen, man vermag nicht zu essen; im Frühling würde man essen, es gibt nichts zu essen. EV 11390 : 1 Var.
+Im Herbst kann man essen, verkaufen; der Frühling bringt den Kessel um den Hals. EV 11386 : 6 Var.
+Im Winter zertreten wir Kwaß und Brot, im Sommer essen wir Milch und Brot. EV 11563 : 1 Var.
+Im Herbst immer: Grobweizenbrot, Grobweizenbrot und noch Besseres; aber im Frühling: Lieber Herr, leihe Brot. EV 11376 : 1 Var.
+Im Herbst wählt man die Strömlinge, im Frühling leckt man des Strömlings Harn (d. i. das Salzwasser) ab. EV 11392 : 1 Var.
+Im Herbst sagte die Brühe zum Suppensatz: "Gib Raum!", im Frühling: "Wart auf mich". EV 11391 : 1 Var.
+Im Herbst paßt nicht durch, im Frühling kommt nicht nach. EV 11374 : 1 Var.
+Im Sommer bellen große Hunde, im Herbst sind nicht einmal Hündchen zu hören. EV 10979 : 2 Var.
+Ein Jahr frißt des anderen Jahres Mist auf. EV 15056 : 1 Var.
+Der Winter ißt sogar des Sommers Mist auf. EV 11566 : 8 Var.
+Groß ist des Winters Mund, breit des Winters Magen. EV 10947 : 1 Var.
+Zwischen der Lichtmeß (2. II) und dem Fastenmarientag (Mariä Verkündigung, 25. III) soll es am schlechtesten stehen: Auch die Katze soll dann rohe Kartoffeln fressen. EV 5239 : 1 Var.
+Wenn die Fastnacht vorbei ist, ist das Fleisch alle. EV 13886 : 1 Var.
+Die Bohnenblüte ist die schwerste Zeit. EV 12795 : 3 Var.
+Der Weiße wird wohl verzehren, was der Schwarze sammelt (Winter und Sommer). EV 13289 : 1 Var.
+Neuen Roggen darf man nicht mit neuem Brot schneiden. EV 12988 : 1 Var.
+Frühlingsrenke und herbstliche Milch, das ist die Kost der Tochter des Hauses. EV 3674 : 3 Var.
+Im Frühling ist das alte Pferd lieb im Herbst der alte Pelz teuer. EV 3652 : 4 Var.
+459. Das Gute wird zuerst aufgebraucht. Wenn man Besseres hat, läßt man das Schlechtere außer acht
+Eine gute Sache geht zuerst zu Ende. EV 984 : 1 Var.
+Die Katze frißt den Fisch Vom Schwanz. EV 3381 : 1 Var.
+Gute Brotlaibe werden aufgegessen, mit schlechten wird Rad geworfen (Radwerfen ist ein Kinderspiel). EV 900 : 1 Var.
+Wer wird dann Roggen essen, wenn es Weißbrot gibt. EV 9819 : 1 Var.
+Wenn es frisches Brot gibt ― wer will dann wohl hartes essen. EV 14495 : 1 Var.
+Wenn Semmeltimpen zu sehen sind, dann (wirft man) die Haferbrötchen in den Graben. EV 10041 : 1 Var.
+Wenn die neue Ernte schon da ist, dann soll der Hunger sich den Arsch lecken. EV 12977 : 3 Var.
+Was mit Leere anfangen, wenn Fülle in der Hand ist. EV 12654 : 1 Var.
+Wer wird wohl Krähen schießen, wenn es Birkhühner gibt. EV 13807 : 8 Var.
+Wer kümmert sich dann um die Quappe, wenn der Hechtschwanz schon in der Hand ist. EV 6089 : 1 Var.
+Wer sieht wohl die Schlinge der Ziege, wenn der Halfterstrick der Kuh fest ist. EV 3899 : 1 Var.
+460. Vergeude nicht alles auf einmal. Wer am Anfang viel vergeudet, wird später in Not geraten (wer nicht vergeudet, dem reicht alles)
+Sei keine Hausfrau für einen Tag. EV 14861 : 10 Var.
+Ziehe alle Hosen nicht auf einmal an, sonst zerreißen sie alle auf einmal. EV 9381 : 2 Var.
+Wie ein Bettler bekommen, wie ein Herr gegessen. EV 10176 : 1 Var.
+Kommst wie ein Deutscher (d. i. ein Herr), lebst wie ein Bettler. EV 10073 : 1 Var.
+Wer mit der Suppenkelle beginnt, der mit dem Löffel endet. EV 4523 : 4 Var.
+Am Morgen mit dem Holzlöffel, am Abend mit der Schöpfkelle. EV 1440 : 1 Var.
+Heute ein Ochs, morgen Hunger. EV 12381 : 1 Var.
+Heute einen Kloß, morgen eine Wurst, übermorgen einen Kaulbarsch, ein bewährtes Gericht. EV 12400 : 1 Var.
+Mats (d. i. männlicher Name, Flegel, Bauer), lach nicht über den Kloß (aus geröstetem Gerstenmehl), später wirst du auch den Brei aufessen. EV 7166 : 3 Var.
+461. Wenn man nicht Gutes (reichlich) hat, kommt man mit weniger aus. In Not benutzt man auch die schlimmsten Möglichkeiten, man verbraucht alles, was man aufbewahrt hat usw.
+Wenn es (auch) nicht fließt, dann wenigstens tropft es. EV 2481 : 1 Var.
+Alles ist gut, wenn man nichts Besseres in der Hand hat. EV 1114 : 1 Var.
+Mit Vielem führt man den Haushalt, mit Wenigem kommt man aus. EV 8356 : 2 Var.
+Wenn es keine Fische gibt, muß der Frosch in die Reuse gehen. EV 3064 : 4 Var.
+Kann man nichts Großes bekommen, so muß man Dünnes essen. EV 10937 : 1 Var.
+Wo die Getreidegarben fehlen, da wird Stroh geschlagen (od. gedroschen). EV 14199 : 1 Var.
+Auch die Handmühle genügt, wenn die alte Mühle Tauffest hat. EV 5007 : 1 Var.
+Wenn kein Scheffel da ist, so muß man sich mit der Hand behelfen. EV 13231 : 1 Var.
+Stirbt das Pferd, kostet (d. i. bleibt) das Fell. EV 10708 : 17 Var.
+In der Not frißt der Teufel sogar Fliegen. EV 1738 : 4 Var.
+In der Not muß man alles essen: Schweinefleisch und Hühnereier. EV 1737 : 50 Var.
+Bekommt man einen Kornkasten oder einen Lehmtopf voll ― ein Jahr muß man (davon) immerhin leben. EV 10122 : 7 Var.
+462. Wer im Sommer nicht sammelt, muß im Winter hungern. Sammle und bewahre in der guten Zeit, dann hast du in der Notzeit Vorräte. Verschwende dann, wenn du wenig hast
+Wo baut der Wolf im Winter eine Höhle (Gilt für Faule). EV 1663 : 1 Var.
+Wer im Sommer nicht sammelt, der im Winter nicht ißt. EV 10972 : 1 Var.
+Wer im Sommer nicht sammelt, der im Winter nicht gedeiht. EV 10970 : 1 Var.
+Wer im Sommer nicht sammelt, muß im Winter fronen. EV 10969 : 1 Var.
+Wohin du im Sommer Körnchen (d. i. Erbsen, Bohnen) ausgestreut hast, da kannst du im Winter Schoten aushülsen. EV 10975 : 1 Var.
+Im Sommer in den Magen, im Winter in den Ofen. EV 10982 : 1 Var.
+Wird der Michaelstag (29. IX) mit Butterbrot gefeiert, dann soll man den Johannistag (24. VI) mit Fleisch und Brot feiern (können). EV 6820 : 1 Var.
+Sammle zur rechten Zeit, dann hast du zur Notzeit. EV 4392 : 10 Var.
+In guten Zeiten bekommen, in schlechten gebraucht. EV 925 : 1 Var.
+In guten Zeiten behütet, in schlechten Zeiten verbraucht. EV 1062 : 5 Var.
+Verwahr in glücklichen Zeiten die Kopeke, die Kopeke wird in der Notzeit zum Rubel. EV 11931 : 15 Var.
+Hüte (d. i. Spare) die Kopeke für schwarze Tage. EV 1425 : 7 Var.
+Iß Brot, wenn keines da ist; bewahre es dann, wenn es da ist. EV 11276 : 1 Var.
+Wenn es kein Brot gibt, dann halt Hochzeit, wenn es kein Holz gibt, dann bau ein Haus. EV 5674 : 2 Var.
+463. Wie das Kommen, so das Gehen: großes Einkommen geht auch schnell weg; was leicht kommt, wird auch leicht gehen; was man mit Mühe bekommen hat, wird man auch sorgfältig bewahren
+Was bekommen, das gegessen. EV 10005 : 7 Var.
+Laßt uns essen, wenn wir bekommen (Die Gelegenheit benutzen). EV 11280 : 5 Var.
+Wie die Beute, so die Speise. EV 9993 : 2 Var.
+Wie bekommen, so gegessen. EV 10004 : 25 Var.
+Wie die Sauna bekommen, so soll die Sauna (auch) gehen. EV 10215 : 3 Var.
+Wie bekommen, so geht es (fort). EV 10003 : 30 Var.
+Wie bekommen, so gegeben. EV 9999 : 1 Var.
+Wie es kommt, so es geht. EV 12124 : 12 Var.
+Wie gekommen, so verschwunden. EV 12123 : 1 Var.
+Wie gegriffen, so fortgeschmissen. EV 732 : 2 Var.
+Das Leben lebt man dem Glück gemäß, das Essen ißt man der Ernte gemäß. EV 572 : 1 Var.
+Wo großes Einkommen ist, da ist großes Essen. EV 9996 : 6 Var.
+Wer viel bekommt, der viel ißt. EV 8332 : 5 Var.
+(Wer) viel bekommt, (der) gibt viel aus. EV 8362 : 4 Var.
+Wer innerlich viel gärt, der viel nach außen klärt. EV 8334 : 1 Var.
+Viel kommt herein, viel geht heraus. EV 8355 : 1 Var.
+Wer ein großes Einkommen hat, der hat große Ausgaben. EV 12121 : 3 Var.
+Wie in der Hand, so es geht. EV 4979 : 1 Var.
+Billig bekommen, nachlässig gehalten. EV 7763 : 1 Var.
+Was leicht gekommen, das wird leicht gehen. EV 3611 : 7 Var.
+Leicht bekommen, leicht gegangen. EV 9997 : 7 Var.
+Was leicht bekommen, das leicht gegessen. EV 3610 : 3 Var.
+Schnell bekommen, schnell gegessen. EV 9903 : 3 Var.
+Schnell gemacht, schnell gegessen. EV 9904 : 1 Var.
+Schnell bekommen, schnell gegangen. EV 8485 : 1 Var.
+Wenn (es) durch das Fenster kommt, dann geht (es) durch die Tür. EV 232 : 1 Var.
+Geld kommt wie Feuer, aber geht wie Wasser. EV 9475 : 25 Var.
+Was der Wind holt, das bringt das Wasser. EV 12239 : 25 Var.
+Wenn das Brot (d. i. die Speise) verdaut ist, so fängt ihr an, die Füße zu werfen. EV 5671 : 1 Var.
+Ohne Mühe bekommen, aber ohne Liebe (d i. leicht) wird es gehen. EV 13186 : 1 Var.
+Was du mit Mühe bekommst, das behütest du eifrig. EV 13180 : 1 Var.
+Mit Mühe bekommen, sorgfältig gehalten. EV 13182 : 1 Var.
+Mit Mühe verdientes Brot ist süß. EV 13184 : 5 Var.
+Eine mit Mühe verdiente Kopeke ist eine liebe Kopeke. EV 13183 : 6 Var.
+464. Lebe nach deinen Möglichkeiten, laß die Kosten mit deinem Einkommen in Entsprechung sein. Auch ein großes Einkommen hilft nicht, wenn noch mehr ausgegeben wird. Ein großes Verschwenden ist schlimmer als ein kleines Einkommen
+Wie die Hände sind, so wird auch gelebt. EV 4977 : 1 Var.
+Jedermann lebt nach eigener Kraft. EV 2694 : 1 Var.
+Lebe so, wie du kannst; nicht so, wie du willst. EV 545 : 2 Var.
+Lebe so, wie es scheint. EV 546 : 1 Var.
+Ich muß so leben, wie meine Lage anzeigt (d. i. wie meine Lebensumstände sind). EV 560 : 1 Var.
+Jeder soll seine Ausgaben nach seinen Einkünften richten. EV 14488 : 1 Var.
+Man streckt die Beine nach der Decke. EV 11924 : 1 Var.
+So bedecke ich den Schwanz, wie das Umschlagetuch reicht. EV 10018 : 2 Var.
+Paß den Mund dem Sack an. EV 10879 : 55 Var.
+Richte den Mund nach dem Essen, die Hände nach der Arbeit. EV 10931 : 2 Var.
+Man macht eine Arbeit, wie es sich ziemt; aber man ißt, wie es sich ergibt. EV 12566 : 1 Var.
+Laß nicht des Gerichtes Hand voraus gehen (d. i. laß die Sache nicht vors Gericht kommen). EV 4247 : 1 Var.
+Nimm aus dem Scheffel eine Handvoll Mehl, zwei leg zurück. EV 15068 : 1 Var.
+Die hinteren Tore sollen immer kleiner sein als die vorderen. EV 11474 : 1 Var.
+Die Tür ― um zu kommen, das Tor ― um zu gehen. EV 12856 : 1 Var.
+Das vordere Tor ist wohl groß, durch das man hineinbringt; aber die hintere Tür ist noch größer, durch die man hinausbringt. EV 14490 : 1 Var.
+Die Hände weit bei der Arbeit, der Mund weit beim Essen. EV 5296 : 5 Var.
+Was nützt es, wenn eine Kuh viel Milch gibt, (diese) aber mit dem Fuß umwirft. EV 3430 : 55 Var.
+Arm ist nicht derjenige, der wenig hat, sondern derjenige, der viel verbraucht. EV 13063 : 1 Var.
+465. Es ist einfacher zu verschwenden als zu verdienen. Es ist einfacher zu verdienen als aufzubewahren, es ist einfacher zu sammeln als aufzubewahren
+Geld kann man nicht vom Baum schneiden. EV 9449 : 7 Var.
+Geld ist schwer zu bekommen. EV 9485 : 4 Var.
+Geld ist ein guter Mann zu gehen. EV 9471 : 2 Var.
+Geld ist rund. EV 9476 : 1 Var.
+Geld hat Räder unten. EV 9462 : 2 Var.
+Eher verlierst du zwei (Mark), als daß du eine Mark auf dem Boden findest. EV 2957 : 1 Var.
+Besser essen als holen. EV 11257 : 1 Var.
+Im Schoß trägst du in den Speicher hinein, in der Hand heraus ― immer (leidest du) Not. EV 15132 : 1 Var.
+Mit dem Pferd fährst ein, im Schoß kannst heraustragen. EV 1365 : 1 Var.
+Der eine schleppt mit dem Schoß mehr heraus als neun mit Säcken herein. EV 15084 : 1 Var.
+Mit dem Handschuh läßt aus der Hand gehen, mit bloßer Hand fängst nicht mehr ein. EV 3808 : 1 Var.
+Lebenslang gespart, in einem Augenblick verschwendet. EV 591 : 2 Var.
+Jedes beliebige Geldsammeln ist nicht Geldsparen. EV 9436 : 1 Var.
+Keine Kunst, Geld zu verdienen; aber eine Kunst, Geld zu halten (d. i. zu sparen). EV 9492 : 15 Var.
+Der Sparsame hat seine Sache (d. i Besitz), der Empfänger (d. i. derjenige, der vom anderen nimmt) hat nichts. EV 1421 : 15 Var.
+Der Empfänger hat eine Kopeke, der Sparsame zwei. EV 9983 : 1 Var.
+Zu sammeln ist es leichter als zu sparen. EV 4207 : 2 Var.
+466. Alte Vorräte gehen zu Ende, wenn nichts Neues dazu kommt. Es gibt keine Garantie darüber, wie lange das Alte noch ausdauert
+Das Frühere geht bald zu Ende, wenn nichts hinzukommt. EV 667 : 1 Var.
+Das Frühere hilft nicht, wenn das Jetzige nicht taugt. EV 666 : 3 Var.
+Dieser Sack staubt nicht, der im vorigen Jahr in der Mühle war. EV 4414 : 1 Var.
+Das Ende braucht keinen Reichtum. EV 6136 : 4 Var.
+Einmal berühren die Finger doch den Boden. EV 7736 : 3 Var.
+FBB. Sammle und spare, verschwende nicht umsonst. Wer sammelt, der bekommt, wer bewahrt, der hat; ein verschwenderischer Mensch muß hungern
+
+467. Lieber ein bißchen als gar nichts. Je mehr, desto besser. Es ist nicht schlecht, etwas zuviel zu haben. Wenn man viel hat, reicht es für lange Zeit
+Besser ein halbes Ei als eine leere Schale. EV 8970 : 270 Var.
+Besser ein halbes Ei als gar keins. EV 8968 : 1 Var.
+Besser ein Bissen Brot als ganz ohne ein Körnchen. EV 8298 : 1 Var.
+Besser mit wenigem als ganz ohne. EV 7404 : 5 Var.
+Wenn es keinen schwedischen Gefangenen (d. i. Hering) gibt, dann kau Strömlinge; wenn es keine Strömlinge gibt, dann iß des Strömlings Tränen (d. i. Salzwasser). EV 9805 : 1 Var.
+Etwas ist auch gut, viel ist noch besser. EV 7402 : 2 Var.
+Je mehr, desto besser. EV 665 : 15 Var.
+Viel tut ja nichts Schlechtes. EV 8309 : 25 Var.
+Fülle tut der Fülle ja nichts Böses. EV 5086 : 50 Var.
+Übermaß tut Übermäßigem wohl nichts Übermäßiges. EV 5831 : 2 Var.
+Zugabe tut doch nichts zuleide. EV 5976 : 1 Var.
+Von der Fülle bekommt das Dorf, vom Reichlichen das eigene Haus. EV 5089 : 1 Var.
+Genug genügt für ein ganzes Dorf, übrig bleibt ein Schoßvoll. EV 5056 : 1 Var.
+468. Vorräte sind notwendig. Lieber zu viel als zu wenig. Sammle alles auf und bewahre es für schlechte Zeiten
+Eine ersparte Sache verjährt nie. EV 1427 : 1 Var.
+In der Tasche wird man (es) schon brauchen. EV 11705 : 1 Var.
+Geld schreit ja nicht in der Tasche. EV 9420 : 7 Var.
+Wer ein Pfeifenraucher ist, muß Feuerschwamm für das (ganze) Jahr haben. EV 8749 : 1 Var.
+Die Arznei soll bereit(stehen), nicht nur nötig sein. EV 9786 : 1 Var.
+Mag es als Ausweg dienen, wenn nicht als Mittel. EV 7783 : 4 Var.
+Eher kann (etwas) übrigbleiben als fehlen. EV 15106 : 1 Var.
+Besser hinten als nötig. EV 11470 : 6 Var.
+Auch der Hund scharrt den Knochen ein, wenn er satt ist. EV 8566 : 1 Var.
+Sammle ein, was auf dem Bast steht. EV 4271 : 1 Var.
+Nimm das auf, was dreimal um den Finger reicht. EV 15130 : 5 Var.
+Alles, was noch eine Läusehaut wert ist, muß man aufheben. EV 12351 : 2 Var.
+Den Hund muß man (schon) im voraus schlagen. EV 13863 : 20 Var.
+469. Es ist günstiger, altes Zeug zu reparieren als neues anzuschaffen. Wer das Alte nicht aufbewahrt, der bekommt kein Neues
+Ein alter Besen fegt das Zimmer immer noch sauber. EV 13443 : 5 Var.
+Einen alten Brunnen reinigen ist besser als einen neuen bauen. EV 13411 : 1 Var.
+Besser das Alte ausbessern als Neues machen. EV 13370 : 2 Var.
+Besser das Alte hüten als Neues versuchen (od. sehen). EV 13365 : 1 Var.
+Wer Altes nicht flickt, der Neues nicht bekommt. EV 13332 : 15 Var.
+Wer Altes nicht schont, der Neues nicht findet. EV 13331 : 1 Var.
+Wer alte Kleider nicht abträgt, der kriegt keine neuen. EV 13337 : 3 Var.
+Durch Altes bekommt man Neues. EV 13390 : 30 Var.
+470. Spare und sammle korn-, tropfen-, kopekenweise. Wer das Kleine nicht behält, der bekommt auch nichts Großes
+Aus Tropfen sammelt sich ein Meer. EV 12007 : 3 Var.
+Wer das Körnchen nicht sammelt, bekommt keinen Scheffel. EV 11939 : 3 Var.
+Eine Kopeke ist auch Geld. EV 4364 : 6 Var.
+Wenn du Groschen sammelst, dann bekommst du Kopeken. EV 4442 : 1 Var.
+Die Kopeke behütet den Rubel. EV 4363 : 15 Var.
+Hüte die Kopeke, die Rubel hüten sich schon selbst. EV 4358 : 2 Var.
+Wer die Kopeke nicht sammelt, der bekommt keinen Rubel. EV 4360 : 210 Var.
+Von eines Ochsen Leib bekommt man ja nicht zwei Häute. EV 14869 : 75 Var.
+Wer die Halme nicht sammelt, der bekommt kein Fuder. EV 4867 : 2 Var.
+Wer den Sprößling nicht behütet, der wird keine Rute finden. EV 14337 : 1 Var.
+471. Verschiedenartiges über die Notwendigkeit der Sparsamkeit. Wer behält (sammelt), der hat, ein verschwenderischer Mensch hat nichts
+Sei doch vernünftig, sei kein Gutsbesitzer. EV 7010 : 1 Var.
+Iß und laß übrig. EV 11270 : 1 Var.
+Iß wenig, trink wenig, kauf dir ein Messer an die Hüfte. EV 11289 : 1 Var.
+Geld darf ja im Beutel nicht heiß sein, es muß abkühlen. EV 9421 : 1 Var.
+Dreh eine Kopeke so lange zwischen den Fingern, bis sie heiß wird, dann gib sie aus. EV 4378 : 5 Var.
+Besser heute ein halbes Ei als morgen ein ganzes Huhn. EV 12378 : 4 Var.
+Fleisch soll in den Händen des Sparsamen und die Butter hinter Schlüsseln (d. i. hinter Schloß und Riegel) sein. EV 8114 : 1 Var.
+Die Sch... ist ja kein Butterfaß, das beim Gebrauch leerer wird. EV 14270 : 1 Var.
+Durch Sparen bleibt manch gute Kopeke übrig. EV 1432 : 1 Var.
+Wer Geld spart, der lebt ohne Not. EV 9428 : 1 Var.
+Geld hat keinen Verstand im Kopf. EV 9461 : 1 Var.
+Geld hält nicht den Mann, wenn der Mann das Geld nicht hält. EV 9445 : 1 Var.
+Der Kluge nimmt vom Vorrat, der Naschhafte aus dem Arsch. EV 11651 : 1 Var.
+Das Genommene vermindert sich, das Berührte verringert sich. EV 14346 : 30 Var.
+Wer sammelt, der spart. EV 4390 : 1 Var.
+Wie du sparst, so du findest. EV 1429 : 3 Var.
+Hat man Gespartes, so hat man Essen. EV 1414 : 2 Var.
+Der Sparsame hat seinen Anteil, der Bewahrer seinen Vorteil. EV 1418 : 1 Var.
+Beim Sparen einen Anteil, beim Zurücklegen einen Überrest. EV 1431 : 1 Var.
+Der Sparsame hat kein Ende, der Zurücklegende keinen Überrest. EV 1419 : 1 Var.
+Wer spart, der hat. EV 1428 : 5 Var.
+Der Sparsame stöhnt nicht. EV 1416 : 70 Var.
+Aus dem Verschwender wird ein Bettler, aus dem Sparer ein König. EV 8850 : 1 Var.
+472. Ein verschwenderischer Mensch behält nichts lange
+Wie lange bleibt die Wurst in des Hundes Halse. EV 4127 : 100 Var.
+Wie lange (liegt) der Fisch vor der Katze. EV 3057 : 4 Var.
+In des Verschwenders Hand verschimmelt keine Kopeke. EV 9540 : 1 Var.
+Die Biene sammelt einen Tag und lebt neun Tage; der Faulpelz und Verschwender verdient neun Tage und lebt einen Tag. EV 6749 : 2 Var.
+Immer warm in den Mund und heiß in den Bart. EV 10604 : 30 Var.
+FBC. Möglichkeit und Ausnutzen
+
+473. Wo es etwas gibt (wo man etwas bekommen kann), dort scharen auch Leute, die es begehren. Man nimmt, wo es bloß möglich ist
+Auch der Wolf kommt auf den Geruch hin. EV 10819 : 1 Var.
+Das Schwein dreht die Nase immer dorthin, von wo es Gestank spürt. EV 10378 : 1 Var.
+Auch die Krähe fliegt auf den Festschmaus zu. EV 13832 : 2 Var.
+Wo nur immer ein Aas ist, dort versammeln sich Adler. EV 9537 : 50 Var.
+Der Wolf ist bei einem Aas nicht hungrig. EV 10827 : 12 Var.
+Wie lange soll der Wolf neben dem toten Schaf schlafen. EV 1651 : 1 Var.
+Wo ein Aas liegt, da frißt der Hund. EV 9539 : 2 Var.
+Wo ein knochen liegt, dahin laufen die Hunde. EV 4323 : 2 Var.
+Der Hund geht ja nicht dorthin zu Gast (od. in dieses Dorf), wo er keinen Knochen bekommt. EV 4018 : 2 Var.
+Die Biene fliegt nicht dorthin, wo sie keine Waben vorfindet. EV 6748 : 1 Var.
+Das Huhn scharrt immer unter dem Riegensieb. EV 3136 : 1 Var.
+Ist denn das Schwein ungefüttert, wenn (es) Dreck vor der Nase hat. EV 10337 : 1 Var.
+Das Schwein frißt dort, wo der Trog vorn ist. EV 10388 : 5 Var.
+Wo der Ochs kann, da der Ochs trinkt. EV 1859 : 1 Var.
+Wo der Wolf bekommt, da der Wolf frißt. EV 1662 : 5 Var.
+Wo man Haare bekommt, da werden Haare gerauft. EV 3331 : 1 Var.
+Die Nägel werden schon zulangen und die Zähne fassen, wo nur irgend möglich. EV 5245 : 1 Var.
+Von einem Stück geht man ja nicht fort. EV 12711 : 1 Var.
+Die Hand greift nach dem Reifen. EV 4991 : 2 Var.
+Wo der Fisch, da der Angler. EV 3062 : 1 Var.
+Wer ein Messer hat, der hat die Erlaubnis, (zuzugreifen). EV 7582 : 1 Var.
+474. Nimm immer, wenn es etwas gibt, nutze die Gelegenheit immer aus
+Was frierst du noch bei Gebackenem. EV 5177 : 5 Var.
+Gerb die Haut an richtiger Stelle. EV 7186 : 1 Var.
+Zieh die Haut da ab, wo sie dick ist. EV 7185 : 1 Var.
+Scher dort, wo die Schafschere festhakt. EV 7432 : 1 Var.
+Nimm, wo zu nehmen ist. EV 14348 : 4 Var.
+Nimm von dort, wo es gibt; leg dahin, wo es nötig ist. EV 14350 : 2 Var.
+FBD. Wollen und Bekommen. Anforderungen, Gier und Geiz
+
+475. Die Verhältnisse des Wollens und des Bekommens; wer will, der bekommt; wer will, der bekommt nicht, wer nicht will, der bekommt; es ist einfacher zu wollen als zu bekommen u.ä.
+Wenn ich's nicht habe, mach ich mir nichts daraus; wenn ich's nicht bekomme, mag ich's auch nicht. EV 7796 : 8 Var.
+Wer will, der bekommt (od. erreicht). EV 11480 : 1 Var.
+Je mehr du willst, desto mehr du bekommst. EV 11482 : 1 Var.
+Wer will, der bekommt nicht; wer nicht will, der bekommt. EV 11479 : 1 Var.
+Wer etwas hat, um es nach Hause zu tragen, der hat auch vieles zu holen. EV 3963 : 1 Var.
+Wollende (d. i. Wünschende) (gibt es) viele, Bekommende wenige. EV 11478 : 1 Var.
+Wollen ist besser als bekommen. EV 11484 : 1 Var.
+Das Wollen (d. i. der Wunsch) ist richtig, das Bekommen (d. i. das Ergebnis) arm. EV 11487 : 1 Var.
+Wollen ist das Himmelreich. EV 11485 : 30 Var.
+476. Wer zu viel (Gutes) bekommen will, der verliert auch das, was er früher besaß (erleidet Schaden, bekommt nichts)
+Gehst den Rock suchen, verlierst auch noch das Wams. EV 4732 : 1 Var.
+Geh mit dem Knust einen Laib suchen, verlierst auch den Knust. EV 3187 : 45 Var.
+Wer mit einem Brot betteln geht, kommt mit einem Stück zurück, aber wer mit einem Stück geht, kommt mit einem Brot zurück. EV 5662 : 1 Var.
+Gehst Wurst schneiden, gibst den Schinken dazu. EV 14285 : 1 Var.
+Zucker willst, Pfeffer bekommst. EV 10643 : 1 Var.
+Geh auf zwei Stühle sitzen, du setzt dich zwischen die Stühle. EV 3013 : 1 Var.
+Als Ochs hingehend, als Kalb zurückkommend. EV 1833 : 1 Var.
+Gehst du zwei Hasen fangen, (so) bekommst du keinen. EV 3012 : 8 Var.
+Wer den Igel sucht, der ein Schwein findet. EV 10419 : 1 Var.
+Gehst die Hühner der Welt fangen, fliegen die eigenen Hühner in die Welt. EV 2014 : 2 Var.
+Suchst das Huhn, verlierst das Ei. EV 3133 : 1 Var.
+(Wer) reichlich Speisen fordert, (der) alle Hunger sieht. EV 9797 : 1 Var.
+Wer alle Fänge fängt, der alle Hunger sieht (d. i. erleidet). EV 9395 : 2 Var.
+Gehst ein Rebhuhn fangen, verlierst das Huhn. EV 9396 : 110 Var.
+Geh Großes bekommen, Dickes teilen, zum Schluß Feines (d. i. nichts) in der Hand. EV 10939 : 45 Var.
+Meinst wohl die (ganze) Welt zusammenzuraffen, aber später bleibst ohne alles. EV 2004 : 1 Var.
+Wer nach Vielem strebt, der das Kleine (d. i. das Wenige) verliert. EV 8313 : 1 Var.
+Wer nach Vielem strebt, der Weniges bekommt. EV 8323 : 1 Var.
+Wer viel will, der wenig bekommt. EV 8336 : 4 Var.
+Wer Gutes sucht, der Schlechtes findet. EV 1086 : 10 Var.
+477. Wer nicht mit wenig zufrieden ist, der bekommt nichts Großes. Wer zu hohe Anforderungen hat, der erleidet schaden
+Wer eins nicht will, der bekommt nicht zwei. EV 14881 : 1 Var.
+Wer mit Kleinem (d. i. wenigem) nicht zufrieden ist, der bekommt nichts Großes (d. i. viel). EV 8878 : 3 Var.
+Wer viel wählt, der das Schlechtere bekommt. EV 8340 : 7 Var.
+Wähl nicht viel: Wer viel wählt, der Nacktes bekommt. EV 13300 : 1 Var.
+Die Krähe späht an des Wählers Pforte. EV 13829 : 1 Var.
+478. Das Wenige genügt nur für eine kurze Zeit. Versuche nicht von Wenigem viel Gewinn zu ziehen
+Aus einem wachsen ja nicht zwei. EV 14870 : 1 Var.
+An einem Halm wachsen ja nicht zwei Ähren. EV 14875 : 6 Var.
+Das Huhn legt täglich ein Ei, es legt ja nicht zwei Eier. EV 3127 : 1 Var.
+Von eines Ochsen Leib bekommt man ja nicht zwei Häute. EV 14869 : 75 Var.
+Von einem Schaf bekommt man nicht zwei Vliese (auf einmal). EV 14940 : 2 Var.
+Mit einer Tochter bekommt man nicht zwei Schwiegersöhne. EV 14876 : 2 Var.
+479. Sei nicht zu gierig. Zu viel ist nicht gut. Gier schadet (bringt einen zum Platzen, läßt einen ins Loch, auf die Nase fallen usw.)
+Wenn du es gut hast, such nicht mehr Besseres. EV 1104 : 3 Var.
+Begehre doch nicht Silbergeld!. EV 1683 : 8 Var.
+Viel Gutes ist nie gut. EV 12020 : 4 Var.
+Ein zu fettes Tier wird räudig. EV 5830 : 1 Var.
+Viel Roggen treibt auch den stärksten Ochsen zum Bersten. EV 9821 : 2 Var.
+Zu viel läßt den Sack bersten. EV 8354 : 1 Var.
+Ein großes Stück zerreißt den Mund. EV 12717 : 285 Var.
+Ein großes Stück bleibt im Halse stecken. EV 12716 : 1 Var.
+Ein großes Stück paßt nicht in den Mund. EV 12718 : 3 Var.
+Der Mensch strebt immer nach einem größeren Mundvoll als in den Mund paßt. EV 2106 : 1 Var.
+Lieber gutes Essen übriglassen als den Wanst zerreißen. EV 1131 : 45 Var.
+Habgier treibt in die Grube. EV 193 : 45 Var.
+Habgier bringt zu Fall. EV 194 : 3 Var.
+Habgier hilft immer nehmen, aber hilft nicht forttragen. EV 192 : 1 Var.
+Was hilft die Habgier, wenn der Reichtum endet. EV 198 : 1 Var.
+Nach der Kopeke muß man streben, wenn auch zwei ( Kopeken) vorbeigehen. EV 4361 : 1 Var.
+Was hilft die Habgier, wenn der Reichtum endet. EV 198 : 1 Var.
+Der Hund frißt immer des hungrigen Hirten Brotkanten. EV 7731 : 1 Var.
+Geldgier ist allen Übels Wurzel. EV 9500 : 5 Var.
+480. Beim Essen wächst der Appetit. Der Gierige ist unersättlich
+Wer es gut hat, der möchte Besseres. EV 1083 : 10 Var.
+Wer genug hat, der will mehr. EV 5088 : 2 Var.
+Wer viel bekommt, der will mehr. EV 8333 : 20 Var.
+Wächst der Ertrag, (so) wächst das Verlangen. EV 3438 : 1 Var.
+Beim Essen wächst der Appetit. EV 11295 : 20 Var.
+So (gierig) wie der Böse auf Seelen, so gierig ist der Habsüchtige auf Geld. EV 791 : 3 Var.
+Dem Schwein ist Dreck teuer, dem Habgierigen das Geld teuer. EV 10395 : 2 Var.
+Des Menschen Wille und die Hölle werden nie befriedigt. EV 2149 : 5 Var.
+Das Höllengrab wird ja niemals voll. EV 9209 : 1 Var.
+Des Habgierigen A... wird nicht voll. EV 11477 : 1 Var.
+Wann wird das Leere wohl voll. EV 12643 : 2 Var.
+Der Neidische (od. Mißgünstige) wird nimmer voll (d. i. satt). EV 6144 : 1 Var.
+Der Habgierige wird ja nie voll (d. i. satt ). EV 1819 : 1 Var.
+Des Habgierigen Magen wird nimmer satt. EV 182 : 15 Var.
+Ein habgieriger Hund wird nimmer satt. EV 181 : 2 Var.
+Der Wolf hat eines Wolfes Appetit. EV 1607 : 1 Var.
+Der Habgierige schnappt, der Habgierige greift, der Habgierige ißt auch, was nicht taugt. EV 180 : 1 Var.
+Der Habgierige schnappt von überall, der Verschwender verstreut in alle Richtungen. EV 190 : 1 Var.
+Des Geizigen Schenkel frieren, des Habgierigen Mund ist offen. EV 3918 : 3 Var.
+Die Augen sehen mehr als der Magen. EV 10489 : 1 Var.
+Des Habgierigen Magen ist größer als das ganze Meer. EV 187 : 1 Var.
+Habgier ― ein Topf ohne Boden. EV 196 : 1 Var.
+Ein bodenloses Geschirr kann man nicht mit Wasser füllen. EV 9127 : 1 Var.
+Des Habgierigen Hand ist lang. EV 185 : 1 Var.
+Der Arme braucht sehr viele Sachen, der Habgierige braucht alles, was es auf der Welt gibt. EV 13133 : 3 Var.
+481. Geiz und Gier sind gleich schlimm, beide haben ihren Ursprung in der Bosheit
+Der Geizige und der Habgierige stehen in gleichen Ehren. EV 1933 : 1 Var.
+Der Geizige und der Habgierige sind des Teufels Knechte. EV 1935 : 1 Var.
+Geiz und Habgier sind beide böse. EV 1936 : 2 Var.
+482. Geiz bringt keinen Nutzen: zwingt einen zum Hungern, der Reichtum kann verderben, geht in die Hände der Erben usw.
+Geiz findet niemals Ruhe. EV 1938 : 1 Var.
+Geiz leidet immer Not. EV 1937 : 1 Var.
+Welch Nutzen hat der Geizige von großem Geld, wenn er selbst in Not lebt. EV 3920 : 1 Var.
+Der Geizige verhungert auf dem Goldsack. EV 1939 : 4 Var.
+Der Geizige saugt an der eigenen Hacke. EV 1934 : 1 Var.
+Der Geizige erleidet zwei (Mal) Schaden. EV 10531 : 2 Var.
+Die Katze frißt das lange Gesparte, der Hund das lange Bewahrte. EV 3382 : 140 Var.
+Die Motte frißt des Geizigen Vermögen. EV 4250 : 2 Var.
+Das Schwein frißt des Geizigen Vermögen. EV 10389 : 2 Var.
+Großer Haushalt, großer Magen. EV 8591 : 1 Var.
+Der Sparer hat einen Verzehrer (d. i. Esser). EV 11209 : 3 Var.
+Das Wollene dehnt sich, das Rohe zerfällt. EV 14206 : 11 Var.
+Dem Sammler ist der Verschwender auf den Fersen. EV 4272 : 6 Var.
+483. Geld muß zirkulieren. Halte Geld nicht für zu wichtig, habe keine Angst, Geld auszugeben (es geht sowieso weg)
+Geld muß aus des einen Hand in des anderen Hand gehen. EV 9478 : 1 Var.
+Laß den Rubel gehen, dann hat der nächste Platz zu kommen. EV 9812 : 5 Var.
+Geld darf ja nicht abkühlen. EV 9422 : 1 Var.
+Geld dient dem Mann, aber der Mann darf nicht dem Geld dienen. EV 9491 : 2 Var.
+Geld hat nicht den Menschen bekommen, (sondern) der Mensch hat Geld bekommen. EV 9483 : 8 Var.
+Geld geht immer in den Sumpf. EV 9463 : 1 Var.
+FBE. "In der Hand" oder "draußen in der Welt". Soll man essen oder aufbewahren?
+
+484. Was auf der Wiese ist, gehört nicht mir; was im Haus, aufgegessen usw. ist, gehört mir. Darum, was man aufgebraucht hat, muß man auch keine Sorgen mehr haben
+Buchweizen mißt man nicht an den Blüten, sondern am Kornkasten. EV 11707 : 1 Var.
+Getreideschößlinge sind noch nicht im Kornkasten. EV 8074 : 18 Var.
+Das Getreide auf dem Feld ist in niemandes Sack, es ist in Gottes Hand. EV 14195 : 1 Var.
+Ein Heuhaufen ist erst die Hälfte des Heus. EV 9978 : 3 Var.
+Was im Heufeim, das in der Hand; was im Heuhaufen, das auf dem Schlitten; was im Heuschober, das zu Hause. EV 4930 : 1 Var.
+Was unterm Schatten (d. i. Dach), das hat man in der Hand. EV 13843 : 1 Var.
+Was in der Hand, das im Besitz. EV 8743 : 1 Var.
+Was in der Hand, das in der Hand. EV 4997 : 1 Var.
+Was angewachsen, das gehört dir. EV 5084 : 1 Var.
+Was hinter den Zähnen, (das) gehört dir. EV 819 : 17 Var.
+Das ist nicht das Eigene, was im Speicher; das Eigene ist, was im Magen. EV 8025 : 3 Var.
+Was im Magen, das im Magen. EV 4805 : 1 Var.
+Was im Magen, das an Ort und Stelle. EV 4807 : 1 Var.
+Was im Magen, das zu Hause. EV 4804 : 2 Var.
+Was im Magen, das ist nebenbei; was im Wanst, das ist geborgen. EV 4806 : 75 Var.
+Ist's zu Ende, dann hat man keine Sorgen; ist's im Wanst, dann hat man keine Mühe. EV 8142 : 18 Var.
+Ist alles zu Ende, dann hat der Mund Ruhe. EV 8141 : 1 Var.
+Aus dem Magen bekommt's nicht einmal der Kaiser zurück. EV 4800 : 1 Var.
+485. Lieber das Schlechte (ein bißchen) in der Hand als das Gute (eine große Menge) draußen in der Welt (in Gefahr, in einem unbekannten Ort, nicht in der Hand)
+Besser wenig in der Hand als viel in der Welt. EV 8909 : 1 Var.
+Besser wenig in der Hand als viel in den Händen. EV 8910 : 1 Var.
+Besser unreifes Korn im Sack als reifes auf dem Feld. EV 12044 : 2 Var.
+Besser Spreu im Magen als Kaff an des Loches Rande. EV 4821 : 1 Var.
+Besser ein Körnchen in der Tasche als ein Brotende in der Ferne. EV 11942 : 1 Var.
+Besser einen Knust in der Hand als einen Laib in der Luft. EV 3189 : 2 Var.
+Ein fremdes Kind ist ja nicht das eigene Kind. EV 14355 : 1 Var.
+Besser eine Kopeke in der Hand als hundert Taler im voraus. EV 4375 : 1 Var.
+Besser nimm vom Schritt eine Kopeke als von der Werst einen Rubel. EV 10127 : 2 Var.
+Besser Mageres im Stall als Fettes auf dem Feld (d. i. draußen). EV 5279 : 45 Var.
+Besser eine Meise im Sack als ein Auerhahn auf dem Ast. EV 11999 : 6 Var.
+Besser eine Meise in der Hand als ein Auerhahn auf dem Zweig. EV 11998 : 20 Var.
+Besser ein Spatz in der Hand als eine Taube auf dem Dach. EV 13795 : 90 Var.
+Besser ein Spatz auf dem Tisch als eine Taube in der Traufe. EV 13794 : 2 Var.
+Besser ein Spatz im Sack als zehn auf dem Dach. EV 13793 : 4 Var.
+Besser ein Spatz in der Hand als zehn auf dem Zaunpfahl. EV 14907 : 1 Var.
+486. Es ist klüger zu essen als aufzubewahren. Es ist klüger aufzubewahren als zu essen. Man kann nicht gleichzeitig aufbewahren und essen
+Iß mit Freude, was man mit Mühe bekommen hat. EV 7187 : 13 Var.
+Was Gott Juku gibt, das ißt Juku auch auf. EV 2654 : 1 Var.
+Lieber gute Ochsen im Magen als in der Ecke einer leeren Futterscheune. EV 1124 : 6 Var.
+Besser im Magen als im Sack. EV 4809 : 4 Var.
+Besser ein Ferkel im Arsch als hinterdrein. EV 9217 : 90 Var.
+Besser ein Ferkel hinten als im Hintern. EV 9219 : 2 Var.
+Verschlagener ist die Kuh beim Melken als beim Schlachten. EV 1915 : 20 Var.
+Wenn man den Magen voll essen will, dann kann man mit Brei kein Mitleid haben. EV 4788 : 1 Var.
+FBF. Nutzen und Schaden
+
+487. Wenn der Schaden da ist, kann man es nicht ändern
+Des Wolfes und des Todes Anteil muß vorhanden sein. EV 10805 : 1 Var.
+Des Schadens Strick kann man nicht kaputtschneiden. EV 2934 : 6 Var.
+Dem Schaden kann man ja nicht den Hals brechen. EV 2940 : 7 Var.
+Mit Schaden kann man doch nicht mitgehen. EV 2939 : 8 Var.
+488. Wo es Reichtum (Besitz) gibt, dort entstehen auch Schaden. Wo etwas gemacht wird, dort bröckelt etwas auch ab (d.h. es gibt auch Verluste, Unfälle)
+Alle Kälber gehen ja nicht zur Herde. EV 13865 : 1 Var.
+Nicht alle gehen zur Herde, mancher wird auch untauglich (d. i. mißlingt). EV 3238 : 1 Var.
+Gibt es eine Herde, dann gibt es auch Schaden. EV 3240 : 6 Var.
+Wo Hörner in der Wand, da Knochen hinter dem Stall. EV 10205 : 1 Var.
+Wo im Stall, da (auch) hinter dem Stall. EV 5622 : 130 Var.
+Wo im Garten, da (auch) hinter dem Garten. EV 39 : 7 Var.
+Wo im Speicher, da (auch) hinter dem Speicher. EV 210 : 1 Var.
+Wo im Haus, da (auch) hinter dem Haus. EV 12073 : 1 Var.
+Wo auf dem Tisch, da auch unter dem Tisch. EV 5585 : 2 Var.
+Nicht der ganze Mist geht auf die Fuhre, so manches Stück fällt auch herunter. EV 11149 : 1 Var.
+Was man zieht, das tropft. EV 13907 : 1 Var.
+Wo ein Fuder hinfällt, da bleibt Abfall. EV 4352 : 5 Var.
+Wohin der Vogel fliegt, dorthin die Flaumfeder fällt. EV 12066 : 40 Var.
+Wo das Pferd sich wälzt, dort bleiben Haare zurück. EV 1398 : 30 Var.
+Wo das Schaf geschoren wird, da knirscht das Haar. EV 5423 : 1 Var.
+Wo man den Ochsen schlachtet, da tropft Blut. EV 1849 : 30 Var.
+Wo Fleisch schmort, dort Fett tropft. EV 5804 : 8 Var.
+Wo man mißt, dort bleibt es liegen; wo man gießt, von dort es verschwindet. EV 7059 : 1 Var.
+Das Huhn bekommt zwischen zwei Maßen. EV 3135 : 10 Var.
+Wo man einen Baum fällt, da fallen Späne. EV 9090 : 50 Var.
+Wo man baut, da ist auch Schutt. EV 517 : 1 Var.
+Großer Baum, große Späne. EV 9112 : 2 Var.
+Wenn du ein Begräbnis hast, dann bleiben Brotkrümel übrig, aber wenn du ein Haus baust, dann bekommst du Späne. EV 9030 : 1 Var.
+489. Verschiedenartiges über Besitz und Schaden: ihr Zusammengehörigkeit, Abwechslung, Nichtzusammengehörigkeit, die Größe des Schadens usw.
+Der Ertrinkende ergreift (sogar) einen Strohhalm. EV 12925 : 30 Var.
+Wer Schaden zu erleiden hat, der bekommt Schande kostenlos obendrein. EV 2935 : 1 Var.
+Gewinn und Verlust sind Zwillingsbrüder. EV 3422 : 2 Var.
+Der Fleißige birst vor Laufen, der Faule hebt sich kaputt. EV 12931 : 2 Var.
+Was willst du aus Schaden Nutzen ziehen. EV 2937 : 6 Var.
+Dem Schaden braucht man ja nicht das Kummet um den Hals zu legen. EV 2941 : 1 Var.
+Fremde machen (es), Fremde bringen (es fort). EV 14370 : 14 Var.
+Des Fohlens Schaden ist immer des Fohlens Schaden. EV 13859 : 1 Var.
+Schade ist es auch um ein Kücken. EV 2928 : 1 Var.
+490. Was gut und nützlich ist, wird nicht abgelehnt (auch wenn es mangelhaft ist)
+Bier wird ohne Durst getrunken, Weißbrot ohne Appetit gegessen. EV 14648 : 4 Var.
+Wer verachtet wohl Gutes oder wirft Süßes weg. EV 1092 : 11 Var.
+Das Kalb kippt ja keinen guten Mehltrank um, und einem guten Kalb gibt man ja auch keinen schlechten Mehltrank. EV 13866 : 1 Var.
+Wer den anderen stößt, fällt auch selbst. EV 11843 : 1 Var.
+Wann faucht schon die Katze auf eine Ratte. EV 3402 : 1 Var.
+Der Hund bellt ja dann nicht auf, wenn man (ihn) mit einem Knochen wirft. EV 4020 : 17 Var.
+Der Wolf hat keine Angst, wenn das Schaf furzt. EV 1617 : 2 Var.
+Wie lange zürnt der Bettler dem eigenen Sack. EV 10147 : 2 Var.
+FBG. Das Hauptsächliche und das Zusätzliche, "der Behälter" und "das, was man behält"
+
+491. "Den Sack" (d.h. die Basis, die Grundmittel, das Minimum) soll man selbst haben. Hat man (hätte, bekäme man) das Hauptsächliche, bekommt man (bekäme man) auch das Zusätzliche
+Sag einem fremden Pferd "Hü", sieh zu, ob es gleich losfährt. EV 14419 : 1 Var.
+Ein armer Bettler ist der, der ohne Sack bettelt. EV 13085 : 12 Var.
+Den Sack muß man selbst haben, einerlei, woher man das Ferkel bekommt. EV 4422 : 2 Var.
+Es ist gut zu betteln, wenn der Beutel in der Hand ist. EV 922 : 1 Var.
+Hätte ich Fleisch, würde ich aus dem Dorf (od. aus der Nachbarschaft) schon Kohl bekommen. EV 8112 : 3 Var.
+Bekommst Brot, bekommst auch Salz. EV 5714 : 1 Var.
+Wenn man Wurst bekommt, bekommt man auch den Stift. EV 14283 : 1 Var.
+Wo man einen Besen kriegt, da kriegt man auch den Reif. EV 6101 : 1 Var.
+492. Wer das Hauptsächliche gibt, wird auch das Zusätzliche geben
+Wessen Tabak, dessen Feuer. EV 12076 : 2 Var.
+Von wem die Brühe, von dem auch der Löffel. EV 5625 : 1 Var.
+Wer die Suppe kocht, der muß auch fürs Salz sorgen. EV 10699 : 1 Var.
+Wessen Brei, dessen Fett. EV 9002 : 1 Var.
+Wessen Sauna, dessen Quast. EV 10213 : 2 Var.
+Wessen Boot, dessen Schiffsschnabel. EV 8181 : 1 Var.
+493. Wer dieses hat, hat auch jenes ("das, was man behält" ― "der Behälter", das Hauptsächliche ― das Zusätzliche u.ä.). Wo es nicht ..... gibt, dort gibt es nicht....
+Wie vom einen, so vom anderen. EV 14884 : 4 Var.
+Wer einen Wald hat, der hat auch Baumstümpfe. EV 6757 : 2 Var.
+Wessen Hosen, dessen Mast (d. i. Macht im Haus). EV 9376 : 1 Var.
+Wer eine Jacke hat, der hat auch ein Wams. EV 13905 : 1 Var.
+Wo Körner, da Körnchen. EV 11941 : 2 Var.
+Wo Brot, da (auch) Zukost. EV 5675 : 2 Var.
+Wer eine Kopeke hat, der hat einen Beutel. EV 4359 : 1 Var.
+Wer Korn hat, der hat (auch) einen Kornkasten. EV 14187 : 1 Var.
+Wo kein Sack ist, da kann man (auch) nichts in den Sack legen. EV 10283 : 1 Var.
+494. Ist das Hauptsächliche (der beste Teil, der Hauptteil) verschwunden, soll auch der weniger wichtige (der schlimmere, der übrige) Teil verschwinden. Ist das Zusätzliche weg, soll auch das Hauptsächliche weggehen. Vernichte nicht das Hauptsächliche, das Wertvolle zusammen mit dem Zusätzlichen, dem Unwichtigen
+Das Ende hat ja keinen Überrest. EV 6129 : 4 Var.
+Ist der Kopf weg, wozu noch die Haare bewahren. EV 8455 : 2 Var.
+Wenn das Pferd hin ist, dann soll auch der Zaum hin sein. EV 1397 : 2 Var.
+Wenn der Wolf das graue Pferd gefressen hat, dann soll er auch den Wagen mit der hölzernen Achse fressen. EV 10792 : 2 Var.
+Ist die Nabe gegangen, dann sollen auch die Speichen gehen. EV 9884 : 3 Var.
+Wenn die Trommel hin ist, so sollen auch die (Trommel)stöcke hin sein. EV 12060 : 4 Var.
+Ist die Pfeife dahin, was beweinst du noch die Röhren. EV 8841 : 1 Var.
+Ist das Fleisch alle, dann sollen auch die Knochen alle werden. EV 5803 : 1 Var.
+Ist der Honig alle, dann soll auch das Wachs alle sein. EV 6737 : 2 Var.
+Wenn schon das Brot hin ist, dann soll auch der Brotkanten hinsein. EV 5667 : 1 Var.
+Ist das Salz aus dem Haus verschwunden, geht auch das Brot. EV 6361 : 1 Var.
+Der Stall wird ja deshalb nicht abgerissen, weil das Pferd verreckt ist. EV 11496 : 1 Var.
+Das Kind darf nicht mit dem Waschwasser ausgeschüttet werden. EV 5444 : 1 Var.
+FBH. Größe, Menge, Qualität, Komplexitität
+
+495. Lieber klein und ordentlich (gut, heil u.ä.) als groß und nachteilig (unheil, leer u.ä.)
+Besser ein heiler Kopf als ein kaputter Kessel. EV 11965 : 1 Var.
+Besser kleine und gesunde als große und kranke Augen. EV 14457 : 1 Var.
+Was hat man von diesem Auge, das nicht sieht, oder was von diesem Ohr, das nicht hört. EV 10449 : 5 Var.
+Was nützt ein großer Kornkasten, wenn kein Getreidekorn drin ist. EV 10121 : 1 Var.
+Die Kirche ist groß, aber nicht jedesmal ist sie voll. EV 3830 : 1 Var.
+496. Gutes muß man nicht viel haben. Lieber ein bißchen (ein) Gutes als viel Schlechtes (zwei schlechte Dinge). Ein großes ist besser als mehrere kleine Dinge
+Gutes braucht man nicht viel. EV 907 : 5 Var.
+Lieber ein wenig Gutes als viel Schlechtes. EV 1123 : 2 Var.
+Besser immer eins und gut als zwei und knapp. EV 14908 : 7 Var.
+Besser eine Quappe als zwei Krebse. EV 14914 : 5 Var.
+Ein großer Vogel ist viel mehr als ein Dutzend kleiner Vögelchen. EV 14957 : 1 Var.
+Besser ein Großes als zwei Kleine. EV 14915 : 6 Var.
+497. Lieber zwei (ein Komplekt) schlimmere Dinge als ein (unkomplexes) besseres Ding
+Besser zwei Knappe als ein Ausgezeichnetes. EV 3015 : 1 Var.
+Besser zwei Bundschuhe als ein Stiefel. EV 3019 : 2 Var.
+Ohne Stein mahlt eine Mühle nicht. EV 3928 : 1 Var.
+Wozu dicker Brei, wenn man keine Butter hineinzutun hat. EV 9005 : 4 Var.
+Wenn es Fische gibt, dann gibt es keine Kartoffeln und wenn es Kartoffeln gibt, dann gibt es keine Fische. EV 3065 : 1 Var.

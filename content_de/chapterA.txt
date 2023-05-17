@@ -1,0 +1,598 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-2.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-2-flip.gif">
+</div>
+
+A. NATUR
+AA. NICHTKALENDARISCHE SPRICHWÖRTER
+
+1. Tag und Nacht. Licht und Dunkelheit. Mond und Sterne
+Die Nacht hat neun Teile, der Tag acht Teile. EV 14812 : 1 Var.
+Die Nacht hat neun Söhne, der Tag mehrere Gedanken. EV 14803 : 140 Var.
+Die Nacht hat neun Wetter. EV 14802 : 1 Var.
+Die Nacht ist niemands Freund. EV 14800 : 2 Var.
+Dunkelheit hat ja keine Peitsche. EV 8856 : 6 Var.
+Dunkelheit wird ja nicht angreifen (d. i. man kann auch im Dunkeln gehen). EV 8858 : 11 Var.
+Der Mond ist eine Himmelslampe. EV 4725 : 1 Var.
+Der Mond ist des Junggesellen Sonne. EV 4724 : 3 Var.
+Der Mond ist der Häusler Sonne und die Sonne ist der Bauern Sonne. EV 4726 : 1 Var.
+Der große Bär häuptlings im Meer, das Sieb schräg im Süden. EV 14508 : 1 Var.
+Wenn das Morgenrot beginnt, so zeigt es der Morgenstern. EV 4260 : 1 Var.
+Was du in der Nacht nicht siehst, das kannst du am Tag sehen. EV 14796 : 1 Var.
+2. Wasser, Feuer, Stein, Erde
+Wasser ist älter als Feuer. EV 13983 : 1 Var.
+Wasser findet jedesmal den Weg. EV 13981 : 1 Var.
+Das Wässerchen wäscht sich zwölfmal während der Nacht. EV 13986 : 1 Var.
+Drei Sachen gibt es nicht auf der Welt: Der Stein hat keine Wurzeln, der Vogel keine Milch, das Wasser keinen Ast. EV 3929 : 45 Var.
+Der Stein hat keinen Schwanz hinten. EV 3936 : 6 Var.
+Stein und Stumpf sind des Waldes Herren. EV 3934 : 1 Var.
+Die Erde wird schon Tiere erzeugen. EV 6198 : 1 Var.
+3. Wald, Bäume, Pflanzen
+Wer im Wald herumgeht, soll die Augen offenhalten. EV 6759 : 1 Var.
+Der Wald ist ja nicht leer. EV 6756 : 2 Var.
+Besser am Rand des Waldes als am Rand des Roggenfeldes. EV 6793 : 1 Var.
+Der Wald ist des armen Mannes Speicher. EV 6791 : 1 Var.
+Der Wald ist des armen Mannes Pelz. EV 6785 : 35 Var.
+Des Waldes Arsch ist weiblich. EV 6776 : 25 Var.
+Der Wald hat kein Vorhängeschloß. EV 6773 : 1 Var.
+Der Wald wächst ja nicht wie ein Hanfgarten. EV 6780 : 1 Var.
+Der Wald säubert sich selbst (von Ästen). EV 6783 : 1 Var.
+Der Baum ist älter als der Mensch. EV 9107 : 2 Var.
+Die Eiche wächst, der Pelz an, das Haupt entblößt. EV 11576 : 1 Var.
+Des Haselnußbaumes Herz (d. i. das Innere) zerfällt. EV 10202 : 2 Var.
+Die Fichte wird schnell modrig, die Föhre wird schnell weich. EV 4763 : 1 Var.
+Wo es für die Fichte mager (d. i. schlecht) und für die Kiefer gut ist, da ist es für die Lärche eben recht. EV 4756 : 1 Var.
+Wacholder sind Viehruten, Disteln sind Sklavenruten, Nesseln sind Heidelbeeren. EV 2840 : 3 Var.
+Disteln und wilde Rosensträucher wachsen auch auf schlechter Erde. EV 7776 : 1 Var.
+[4–8] Tiere und Vögel
+
+4. Wolf und Bär
+Die Wölfin sagte: "Die Katze ist zwei Monate trächtig, die Hündin drei Monate trächtig, ich ― Jungfrau ― vier Monate". EV 1650 : 1 Var.
+Den Zaun übertretend ist der Wolf größer als das Pferd. EV 1648 : 2 Var.
+Der Wolf hat einen eichenen Vorderteil, einen lehmigen Hinterteil. EV 10809 : 2 Var.
+Der Nebel ist dem Wolf der Oheim, der Regen der Bruder und der Tau der Halsabschneider. EV 1608 : 5 Var.
+Den Wolf ernähren seine Beine. EV 1620 : 1 Var.
+Der Wolf ist des Hundes Oheim. EV 1627 : 1 Var.
+Der Wolf fürchtet sich mehr vor einem daumenspitzenlangen Hund als vor einem pfahllangen Mann. EV 10833 : 1 Var.
+Der Wolf soll vor alten Zeiten gesagt haben: "Ein Pferdefuß ist nichts weiter als eine Wergkunkel, Pferdezähne sind feurige Zangen, Ochsenhörner feurige Pfriemen". EV 1631 : 3 Var.
+Wenn auch einem Baumstumpf der Hut aufgesetzt wird, so fürchte ich mich vor ihm mehr, als vor fünf Mädchen (So sagt der Wolf, der nur Jungen fürchtet). EV 4931 : 1 Var.
+Der Wolf soll einstmals gesagt haben: "Ich fürchte mich mehr vor einem kniehohen Jungen als vor einem Brautmädchen". EV 1649 : 2 Var.
+Der Wolf hat die Kraft eines Mannes, aber den Verstand von neun Männern; der Bär hat die Kraft von neun Männern, aber den Verstand eines Mannes. EV 1610 : 90 Var.
+Der Wolf frißt, der Bär schützt. EV 1639 : 1 Var.
+Aus dem Bären wird ein Spielmann, aus dem Wolf nie. EV 3303 : 1 Var.
+Des Bären Pelz fürchtet keine Kälte. EV 3297 : 1 Var.
+Der Bär fürchtet am meisten für seine Glöckchen (d. i. den Hoden). EV 3296 : 3 Var.
+Der Bär lebt von altem Fett. EV 3292 : 1 Var.
+Der Bär hat gesagt: "Schwarzbeere, Erdbeere ― dreckige (d. i. schlechte) Beeren; Vogelbeere ― des Mannes Beere. EV 3307 : 2 Var.
+"Salzströmlinge und Brot sind des Mannes Kost, Vogelbeeren­Preiselbeeren meine Kost", so soll der Bär gesagt haben. EV 10441 : 1 Var.
+"Andere Beeren, schmutzige Beeren; Johannisbeeren, schlechte Beeren; Vogelbeerbaumbeeren, kräftige Beeren; da kannst du Trauben kauen," so hat der Bär gesungen. EV 6419 : 1 Var.
+Der Bär soll gesprochen und die roten Beeren (d. i. Erdbeeren) gelobt haben: "Rote Beeren schmackhafte Beeren, Blaubeeren ― Mistbeeren". EV 3301 : 1 Var.
+Der Bär hat gesagt, daß wenn er im Walde schläft, dann soll der Mann auf einem Blatt pfeifen und die Frau singen, dann würde er hören und könne weggehen; aber wenn der Mensch plötzlich kommt, dann zerreißt er ihn sofort. EV 3308 : 5 Var.
+Ein Bär verursacht den Schaden von acht Männern. EV 3305 : 1 Var.
+Besser schon eines Bären Klaue als eines Hasen Fuß. EV 3313 : 1 Var.
+5. Fuchs, Dachs, Hase, Igel
+Der Fuchs hat die Sprache von neun Vögeln und neun anderen Tieren im Mund. EV 9589 : 1 Var.
+Der Fuchs soll ein Aas sein, der Hase ihm der nächste (d. i. wenn sie jemandem begegnen). EV 9584 : 1 Var.
+Der Dachs ist des Fuchses Arbeitsmann. EV 4923 : 1 Var.
+Der Hase hat dem Wolf gesagt: "Hätte ich deine Größe und deinen Mut, würde ich allen die Gurgel abschneiden, aber ich wage nur dann zu beißen, wenn man mich angreift". EV 2758 : 1 Var.
+Der Hase flieht auch vor dem Wind. EV 2752 : 1 Var.
+Der Hase hinterläßt in einer Nacht mehr Spuren als ein Pferd mit einem Fohlen im ganzen Sommer. EV 2754 : 10 Var.
+6. Vögel (der Kuckuck, die Nachtigall, der Star, die Lerche, die Elster, die Krähe, der Rabe, der Eichelhäher, die Eule, der Spatz)
+Am Morgen Sorgenkuckuck, am Mittag Trauerkuckuck, am Abend Glückskuckuck. EV 1438 : 140 Var.
+Der Kuckuck ist Überbringer und Fortbringer des Glücks. EV 4484 : 1 Var.
+Die Nachtigall singt das Nachtlied, der Star das Morgenlied, die Lerche das Mittagslied. EV 14816 : 1 Var.
+Die Krähe richtet sich nach der Wolke. EV 13824 : 1 Var.
+Auch die Krähe hinterläßt zwei Reihen. EV 13823 : 1 Var.
+Krähe und Rabe sind der Botschaft Überbringer, die Elster bringt des Guts Befehl. EV 13820 : 8 Var.
+Der Rabe hat acht Junge, die Krähe fünf blutige Klumpen. EV 2827 : 1 Var.
+Der Eichelhäher hat neun Zungen im Munde. EV 8416 : 1 Var.
+Wer die Eule nicht mag, der mag Ratten und Mäuse. EV 14820 : 1 Var.
+Der Spatz fürchtet den Wald und der Frosch fürchtet tiefe Stellen im Fluß. EV 13797 : 1 Var.
+Im Kopf eines Vogels soll es weniger Verstand als im A... eines Mannes geben. EV 5945 : 2 Var.
+7. Lurche und Reptilien (der Frosch, die Schlange, die Eidechse, die Blindschleiche)
+Die Kröte hat geprahlt, daß mancher auf der Erde stark sei, mancher im Meer, sie aber halte sich in beiden auf. EV 4961 : 1 Var.
+Der Frosch nimmt des Wassers Gift, die Schlange nimmt der Erde Gift. EV 4313 : 2 Var.
+Die Schlange straft den Frosch streng. EV 6290 : 3 Var.
+Wer eine Schlange totschlägt, dem werden neun Sünden vergeben; wer sie aber nicht totschlägt, steht neun Tage und Nächte unter Gottes Zorn. EV 7619 : 125 Var.
+Wer eine Schlange sieht und sie nicht erschlägt, mit dem ist die Schlange neun Tage böse. EV 10578 : 1 Var.
+Die Giftschlange soll versprochen haben, sich in sieben Jahren zu rächen, wenn jemand ihr ein Leid antut. EV 7620 : 1 Var.
+Man glaubt, die Schlange sei des Teufels Diener und die Eidechse sein Untertan. EV 12967 : 4 Var.
+Man sagt, die Eidechse sei der Schlange Neffe. EV 10517 : 4 Var.
+Die Eidechse ist der Schlangen Arzt. EV 10514 : 2 Var.
+Wenn du eine Eidechse siehst, dann ist die Schlange auch nicht mehr weit. EV 10512 : 5 Var.
+Das Beißen der Eidechse soll dasselbe sein wie (das Beißen) der Schlange. EV 10515 : 1 Var.
+Neun Bisse der Eidechse sind zusammen ebenso giftig wie ein Biß der Schlange. EV 10516 : 13 Var.
+Der Biß einer Eidechse soll neunmal mehr weh tun als derjenige einer Schlange. EV 10513 : 1 Var.
+Die Blindschleiche soll gesagt haben, daß wenn sie Augen hätte, schlösse sie in einer Nacht die Türen von neun Bauernhöfen (d. i. sie würde die Bewohner von neun Bauernhöfen töten). EV 13883 : 40 Var.
+Die Blindschleiche soll einmal gesagt haben: Hätte sie Augen im Kopf, dann würden die Kirchenglocken jeden Tag läuten. EV 13884 : 25 Var.
+Die Blindschleiche würde alle Menschen auffressen, wenn sie sähe. EV 13885 : 6 Var.
+Das hat Gott gut gemacht, daß er der Blindschleiche keine Augen in den Kopf gegeben hat. EV 13882 : 2 Var.
+8. Insekten (die Heuschrecke, die Biene, die Wespe, die Spinne)
+Die Viehbremse hat gesagt: "Wenn ich das Tier zum ersten Mal steche, dann hebt es den Schwanz, (wenn) zum zweiten Mal, dann rückt es vom Fleck; zum dritten Mal, dann läuft es im Galopp davon". EV 6035 : 1 Var.
+Die Heuschrecke beißt und heilt. EV 1197 : 1 Var.
+Die Biene (ist) Arbeitskraft, der Mistkäfer des Weges Kraft. EV 6750 : 1 Var.
+Wenn die Hornisse neunmal gestochen hat, dann ist es, als ob eine alte Schlange gebissen hätte. EV 12998 : 2 Var.
+Sieht man eine Spinne am Morgen, dann bedeutet es Sorgen; zu Mittag ― Trauer, und am Abend ― Glück. EV 14781 : 5 Var.
+Graue Spinne ― Glücksspinne, schwarze Spinne ― Sorgenspinne. EV 14780 : 7 Var.
+9. Witterung (außer den Omina): kalt und warm, Wind, Nebel, Tau, Regen, Regenbogen
+Was Blut im Leib, das ist Wärme in der Luft. EV 13938 : 2 Var.
+Besser windstiller Frost als windiges Tauwetter. EV 13227 : 1 Var.
+Stilles Wetter treibt kein Stäubchen ins Auge (d. i. streut keinen Sand in die Augen). EV 13195 : 1 Var.
+Der Wind ist ein Kamerad (Wenn man bei Wind segelt). EV 12250 : 2 Var.
+Der Wind ist des anderen Menschen Hilfe. EV 12251 : 2 Var.
+Der Wind bringt Nachrichten. EV 12254 : 1 Var.
+Der Wind stößt, der Regen schwenkt; vom Wind kommt alle Not. EV 12255 : 1 Var.
+Bei Nebel gehen die Wölfe, bei Tau Hüterhunde. EV 12807 : 1 Var.
+Der Mensch schmilzt ja nicht in der Sonne und im Regen. EV 2091 : 1 Var.
+Regen schlägt ja die Knochen nicht entzwei. EV 14042 : 1 Var.
+Zur Regenzeit regnet es auch vom klaren Himmel, zur Dürrezeit regnet es nicht mal aus einer Wolke. EV 14051 : 1 Var.
+Der Regen hat gesagt: "In den Steinpfad bekomme ich einen Zwischenraum hinein, aber in den Feldrain und Wiesenpfad kann ich keinen Zwischenraum hineinbekommen". EV 14062 : 1 Var.
+Der Lichtbogen im Morgennebel trinkt Nebel, aber der Regenbogen trinkt Wasser. EV 285 : 1 Var.
+[10–12] Witterung (kurzfristige Omina)
+
+10. Vorzeichen der Kälte und der Wärme
+Wenn das Morgenrot flimmert, dann gibt es morgen Reif. EV 159 : 1 Var.
+Rötet das Morgenrot, so zeigt es Frost; rötet das Abendrot, so zeigt es Wärme. EV 1461 : 1 Var.
+Die Hitzsteine (d. i. der Ruß) brennen, der Frost kommt. EV 3613 : 1 Var.
+11. Vorzeichen des Regens und der Trockenheit, des guten und des schlechten Wetters, des Nebels (aufgrund der Himmelskörper, des Himmels und der Wolken, der Anfangszeit des Regens, der Windrichtung, der Tiere und Vögel u.ä.)
+Liegt der Rechen auf dem Rücken und ist der Dreschflegel umgefallen, so kommt regnerisches Wetter (Rechen und Dreschflegel = in der Volksastronomie das Sternbild des Orion). EV 9607 : 1 Var.
+Der kalte Mond ist auf der Seite, der warme Mond ist auf dem Rücken, der böse Mond ist umgefallen, der gute Mond ist nach vorn, der schlechte Mond ist aufrecht. EV 5110 : 30 Var.
+Der Kreis um den Mond zeigt Dürre an, der Kreis um die Sonne zeigt Regen an. EV 4721 : 15 Var.
+Wenn die Sonne hinterher guckt, wird's Regen geben. EV 9264 : 1 Var.
+Geht die Sonne durch den Wolkenrand, wird's morgen ein wenig (regnen). EV 9270 : 1 Var.
+Wenn die Sonne an einem regnerischen Tag nur auf so lange herauskommt, daß ein Reiter Zeit hat, sich aufs Pferd zu setzen ― nicht länger ― , dann kommt am nächsten Tag trockenes Wetter. EV 14064 : 1 Var.
+Heute brütet's, morgen regnet's. EV 12379 : 7 Var.
+Schwarze Wolken ziehen bloß so dahin, aus lehmfarbigen regnet es. EV 6942 : 7 Var.
+Abendrot ― ein guter Tag, Morgenrot ― ein kotiger (d. i. sehr schlechter) Tag. EV 1247 : 1 Var.
+Das Abendrot schimmert rot ― gutes Wetter; das Morgenrot schimmert rot ― böses Wetter. EV 514 : 2 Var.
+Der morgendliche Gast geht für den Tag (d. i. am Tag) weg, aber der abendliche bleibt über Nacht. EV 1459 : 11 Var.
+Ein umherspringender (d. i. unbeständiger) Wind bringt böses Wetter. EV 3231 : 1 Var.
+Der Wind aus der Wasserrichtung (d. i. diese Windrichtung, aus der meistens Regen kommt) bringt Regen. EV 13994 : 2 Var.
+Aus dem Osten wird schon Rundes (d. i. Hagel) kommen. EV 1895 : 1 Var.
+Der Ostwind läßt das Weinen nicht. EV 1896 : 1 Var.
+Der Nordwestwind ist des Himmels Besen. EV 6019 : 23 Var.
+Der Südwind regnet, der Nordwind stärkt. EV 6139 : 1 Var.
+Der Alte des Westens läßt (das Wetter) aufklären. EV 6150 : 1 Var.
+Nordwind bringt Dürre, Südwind Regen. EV 9133 : 1 Var.
+Nordwind ― Himmelsbesen. EV 9132 : 1 Var.
+Der Norden regnet, der Süden vertreibt. EV 9126 : 1 Var.
+Der Norden bietet an (d. i. es wird schneien), der Süden leckt's ab. EV 9124 : 1 Var.
+Das Wetter bleibt nicht eher beständig, bevor der Nordwestwind nicht Regen bringt. EV 1948 : 1 Var.
+Kalter Wind bringt keinen Regen. EV 5125 : 1 Var.
+Der Wind pfeift, es wird regnen. EV 12257 : 1 Var.
+Legt sich am Abend das Windchen, kommt schönes Wetterchen. EV 13224 : 3 Var.
+Fällt der Nebel, kommt trockenes Wetter; steigt der Nebel, kommt Regen. EV 12805 : 1 Var.
+Der Hase hinterläßt Spuren unter gutem Wetter (d. i. bevor das Wetter gut wird). EV 2753 : 1 Var.
+Die Krähe singt früh den Regen herbei, spät ― gutes Wetter. EV 13825 : 7 Var.
+Wenn die Krähe früh am Morgen ein Wort singt, dann kommt schlechtes Wetter; wenn drei Worte, dann gutes Wetter. EV 13810 : 1 Var.
+Wenn die Krähe stöhnt, dann kommt Regen. EV 13813 : 2 Var.
+Wenn die Gänse sich quästen, kommt Regen. EV 827 : 5 Var.
+Wenn die Kraniche schreien, kommt schlechtes Wetter. EV 4567 : 4 Var.
+Wenn der Frosch auf den siebenten Wandbalken springt, dann wird das Wetter schlecht. EV 4316 : 1 Var.
+Die Pfeife jammert, der Regen kommt. EV 8771 : 4 Var.
+Der Nebel eitert nicht im Osten. EV 12804 : 4 Var.
+12. Vorzeichen des Windes (Dauer, Stärke u.ä.)
+Der Nordwind zieht die Hosen an. EV 9128 : 5 Var.
+Der Westwind geht mit dem Mann schlafen. EV 6148 : 5 Var.
+Der Ostwind geht für die Nacht zur Frau. EV 1898 : 7 Var.
+Der Ostwind legt sich in der Nacht. EV 1899 : 1 Var.
+Wenn es den Wald hebt und das Meer ansteigen läßt, (so) kommt der Wind. EV 6763 : 1 Var.
+Der Sturm am Freitag sieht nicht den Sonntag. EV 9595 : 1 Var.
+AB. DER JAHRESKREIS IN DER NATUR
+
+ABA. Vom Gipfel des Winters bis zum Mittsommer
+
+[13–14] Witterung
+
+13. Entwicklung des Frühlings in der normalen Richtung: Warmwerden des Wetters, Schneeschmelzen, Längerwerden des Tages u.ä.
+Am Paulstag (10. I) erhält das Meer einen Riß, am Antoniustag (17. I) (kriecht) die Zecke auf des Ochsen Rücken. EV 8183 : 1 Var.
+Am Antoniustag (17. I) erblickt das Schwein am Himmel die Sonne. EV 12293 : 12 Var.
+Am Antoniustag (17. I) wird der Winter in zwei Hälften gezählt. EV 12294 : 35 Var.
+Der Antoniustag (17. I) ist des Winters Gipfel. EV 12302 : 14 Var.
+Am Antoniustag (17. I) wird des Winters Rücken gebrochen. EV 12296 : 55 Var.
+Zur Lichtmeß (2. II) Iäuft dem Frost ein Auge Wasser. EV 5229 : 40 Var.
+Zur Lichtmeß (2. II ) berstet des Frostes Herz. EV 5234 : 50 Var.
+Zur Lichtmeß (2. II) wird dem Frost ein Horn vom Kopf geschlagen. EV 5228 : 1 Var.
+Zur Lichtmeß (2. II) kann man den Pelz schon verkaufen, der Zigeuner verkauft den Pelz, er ist nicht mehr notwendig. EV 5232 : 2 Var.
+Zur Lichtmeß (2. II) dreht sich der Weg auf die andere Seite (d. i. der harte Weg wird weich, kotig). EV 5226 : 1 Var.
+Die Lichtmeß (2. II) ist schon auf des Winters Seite. EV 5237 : 2 Var.
+Lichtmeß (2. II) ist das erste Frühlingsfest. EV 5227 : 2 Var.
+Schnee zur Lichtmeß (2. II), Regen zum Georgstag (23. IV). EV 6076 : 1 Var.
+Piitre (Peterstag, 22. II) steckt einen warmen Spieß in den Schnee. EV 8509 : 2 Var.
+Am Matthiastag (24. II) beginnen die Halme den Schnee zu hassen. EV 6279 : 90 Var.
+Vom Matthiastag (24. II) an bleibt die Mütze auf dem Baumstumpf (liegen). EV 6287 : 1 Var.
+Am Matthiastag (24. II) fängt der Neuschnee an, den alten zu essen. EV 6278 : 7 Var.
+Der alte Schnee verschwindet nicht eher, bis der nächste (Schnee) nachkommt: Der eine bringt den anderen fort. EV 13325 : 3 Var.
+Wenn die Dächer am Matthiastag (24. II) schneefrei sind, so ist der Erdboden zum Georgstag (23. IV) kahl. EV 6266 : 1 Var.
+Der Matthiastag (24. II) bricht des Winters Macht. EV 6289 : 1 Var.
+Der alte graubärtige Matjus (Matthiastag, 24. II) ruft die Kinder an die Wand, lockt sie zum Zaun. EV 13446 : 2 Var.
+Am Poornatag (d. i. am ersten Sonntag nach Fastnacht) kann der Ochse schon unter der Traufe trinken. EV 8983 : 1 Var.
+Der März taut den Schnee und schickt ihn fort. EV 7089 : 1 Var.
+Frühlingsschnee verschwindet rasch. EV 3669 : 3 Var.
+Der Wind ißt den Schnee (auf). EV 12253 : 1 Var.
+Am Marientag (Mariä Verkündigung, 25. III) bekommt man Wasser für eine Krähe. EV 6239 : 1 Var.
+Am Marientag (Mariä Verkündigung, 25. III) müssen die Wasserströme einander schon treffen. EV 6244 : 3 Var.
+Nach dem Marientag (Mariä Verkündigung, 25. III) zerbricht der Frost nicht mehr das Hühnerei. EV 6249 : 10 Var.
+Am Marientag (Mariä Verkündigung, 25. III) geht der Tag in die Schneewehe und bleibt dort neun Tage und Nächte, von dort geht er ins Wasser und bleibt dort wieder neun Tage und Nächte, kommt dann aus dem Wasser heraus und beginnt die Erde zu trocknen. EV 6243 : 15 Var.
+Am Fastenmarientag (Mariä Verkündigung, 25. III) wird der erste heiße Stein ins Wasser geworfen, der zweite beim Hinaustreiben von Vieh (1. IV) und der dritte am Georgstag (23. IV). EV 8175 : 50 Var.
+Der erste kalte Stein soll am Georgstag (23. IV) aus dem Wasser genommen werden, der zweite am Urbanustag (25. V) und der dritte am Johannistag (24. VI). EV 13975 : 1 Var.
+Der Jüri (Georgstag, 23. IV) im Frühling ist der Feind eines zornigen Winters. EV 3683 : 1 Var.
+Vor Jüri (Georgstag, 23. IV) gibt es Kälte, nach Jüri warmes Wetter. EV 2772 : 1 Var.
+In der Nacht des Georgstages (23. IV) gibt die Abendröte der Morgenröte die Hand, (sie) begrüßen einander. EV 156 : 2 Var.
+Wenn es vor dem Georgstag (23. IV) donnert, kommt ein warmer Frühling, wenn es nach dem Michaelstag (29. IX) donnert, kommt ein warmer Herbst. EV 2805 : 4 Var.
+14. Der Widerstand des Winters gegen den Frühling (fortdauernde Kälte, das Zurückkehren des Winters, die "Antworten"); die Launenhaftigkeit des Frühlingswetters; die Omina des fortdauernden Winters, des kalten Frühlings und Sommers
+Wenn es im Neujahrsmonat (Januar) taut, dann ist der Lichtmonat (Februar) kalt. EV 7746 : 3 Var.
+Was der Januar nicht gemacht hat, das macht der Februar. EV 2364 : 1 Var.
+Wenn ein Auge des Winters sich ausgeweint hat, dann gibt es zwischendurch noch starken Frost; wenn das andere Auge des Winters auch zu weinen beginnt, dann kommt der Frühling. EV 11554 : 1 Var.
+Wenn des Winters Rückgrat zur Lichtmeß (2. II) nicht bricht, dann kommt ein kalter Frühling; wenn es aber bricht, dann kommt ein warmer Frühling. EV 5219 : 1 Var.
+Wenn der Ochs zur Lichtmeß (2. II) unter der Traufe trinken kann, so kann am Marientag (Mariä Verkündigung, 25. III) nicht mal der Hahn trinken. EV 5222 : 190 Var.
+Der Fastenmarientag (Mariä Verkündigung, 25. III) soll einst gesagt haben: "Wenn die Lichtmeß (2. II) auf die Nase des Ochsen harnt, dann harne ich nicht einmal auf die Nase des Hahns". EV 8177 : 1 Var.
+Wenn es zur Lichtmeß nicht friert, dann wird es am Matthiastag (24. II) ausgeglichen (Es wird dann frieren). EV 5092 : 1 Var.
+Kalt ist schon die Lichtmeß (2. II), noch kälter die Fastnacht, noch windiger der Aschentag (d. i. Aschermittwoch). EV 5098 : 1 Var.
+Kalt ist schon der Lichtmonat (Februar) noch kälter der Fastenmonat (März). EV 5097 : 13 Var.
+Für das Tauwetter im Lichtmonat (Februar) haftet der Fastenmonat (März). EV 5206 : 2 Var.
+Wenn es im Lichtmonat (Februar) taut, so ist der Fastenmonat (März) kalt; wenn aber der Lichtmonat kalt ist, so taut es im Fastenmonat. EV 5210 : 4 Var.
+Warmer Lichtmonat (d. i. Februar), kalter Frühling. EV 10590 : 3 Var.
+Der Fastenmonat (März) soll dem Lichtmonat (Februar) gesagt haben: "Wenn ich du wäre, würde ich alle Kinder auf dem Fußboden (und) die Hände der Frau im Brotgefäß und die Hundekrallen auf der Schwelle nehmen (d. i. erfrieren), aber ich kann nicht, mein zweites Auge läuft Wasser". EV 8170 : 20 Var.
+Der erste Ewdokiatag (1. III) beugt des Ochsen Horn. EV 466 : 2 Var.
+Der Matthiastag (24. II) füllt die Löcher unter dem Vordach mit Schnee. EV 6274 : 1 Var.
+Das Schneegestöber am Matthiastag (24. II) ist ein Kriecher. EV 6282 : 1 Var.
+Wenn es am Matthiastag (24. II) stöbert, so stehen noch neun Schneegestöber bevor. EV 6271 : 2 Var.
+Am Matthiastag (24. II) ist der halbe Schnee im Himmel. EV 6277 : 17 Var.
+Wenn es am Matthiastag (24. II) schneit, so ist der halbe Winter erst im Himmel. EV 6270 : 4 Var.
+Wenn es am Matthiastag (24. II) noch über den Strohhalm schneit, ist der halbe Schnee hoch im Himmel. EV 6268 : 13 Var.
+Als es am Aschentag (d. i. Aschermittwoch) so viel geschneit hatte, daß es einen Strohhalm bedeckte, dann sagten die alten Leute: Gegen Frühling wird es noch so viel schneien, daß es ein Strohbündel bedeckt. EV 12099 : 1 Var.
+Wenn es am Poornatag (d. i. am ersten Sonntag nach Fastnacht) über die Schlittenkufe stöbert, stöbert es am Kohlmarientag (Mariä Verkündigung, 25. III) über den Dachfirst. EV 8981 : 24 Var.
+Einer mit dem Pflug, sieben mit dem Löffel. EV 15081 : 5 Var.
+Wenn am Marientag (Mariä Verkündigung, 25. III) Schnee auf dem Dach (liegt), sind am Georgstag (23. IV) Schneewehen am Zaun. EV 6230 : 45 Var.
+Dann ist es ein anständiger Winter, wenn es im Frühling vor dem Marientag (Mariä Verkündigung, 25. III ) neun Nächte und Tage Kälte gibt und nach (dem Marientag) neun Nächte und Tage Kälte. EV 4393 : 1 Var.
+Wenn es neun Nächte vor und nach dem alten Marientag (Mariä Verkündigung, 25. III) ständig Nachtfrost gibt, dann wird es einen warmen Frühling geben. EV 14830 : 1 Var.
+Wenn am Marientag (Mariä Verkündigung, 25. III) drei Nächte kalt sind, so kommt ein kalter Frühling. EV 6229 : 3 Var.
+Wenn es in der Nacht des Fastenmarientags (Mariä Verkündigung, 25. III) friert, wird es noch in vierzig Nächten frieren. EV 8174 : 185 Var.
+Wie das Wetter in der Nacht des Marientages (Mariä Verkündigung 25. III) ist, so wird es noch vierzig Nächte und Tage sein. EV 6224 : 1 Var.
+Wenn es vor dem Fastenmarientag (Mariä Verkündigung, 25. III) kalt ist, dann ist es später warm; ist es früher warm, dann ist es später kalt. EV 8171 : 1 Var.
+Wenn das Wasser vor dem Fastenmarientag (Mariä Verkündigung, 25. III) über den Weg rinnt, dann gleicht es nach dem Marientag wieder aus (d. i. es wird wieder frieren). EV 8172 : 5 Var.
+Wenn vor dem Marientag (Mariä Verkündigung, 25 III) die Flüsse fließen, so werden sie nach dem Marientag gefrieren. EV 6225 : 4 Var.
+Wenn die Schneewehe vor dem Fastenmarientag (Mariä Verkündigung, 25. III) einen Hund trägt, so trägt die Schneewehe zwei Wochen nach dem Fastenmarientag einen Ochsen. EV 6067 : 1 Var.
+Neun Tage und Nächte vor dem Marientag (Mariä Verkündigung, 25. III) eine Schneewehe für Hund und Katze, neun Tage und Nächte nach dem Marientag eine Schneewehe für Pferd und Ochs. EV 14848 : 6 Var.
+Wenn der Schnee nicht zwei Wochen vor dem Kohlmarientag (Mariä Verkündigung, 25. III) geht, dann geht er zwei Wochen nach dem Kohlmarientag fort. EV 6071 : 5 Var.
+Wenn der Schnee nicht zwei Wochen vor dem Kohlmarientag (Mariä Verkündigung, 25. III) geht, so schmilzt er jammernd und greinend zwei (Wochen) später. EV 6072 : 4 Var.
+Wenn es am Auferstehungsfest (d. i. zu Ostern) so warm ist, daß man (nur) im Rock gehen kann, dann soll es zu den Vierten Festtagen (d. i. Pfingsten) so kalt sein, daß man im Pelz geht. EV 15129 : 1 Var.
+Fürcht nicht den Winter, fürcht des Winters Sohn. EV 11556 : 7 Var.
+Ein Frühlingstag hat zehn Bastarde. EV 3680 : 1 Var.
+Der März kämpft, der April fängt schon an zu wärmen. EV 6437 : 1 Var.
+Das Pferd ist geschaffen, um zu warten; die Frau, um zuzusehen. EV 1333 : 2 Var.
+Was der April baut, das der Mai zerstört. EV 335 : 1 Var.
+Wenn es vor dem Georgstag (23. IV) donnert, kommt ein kalter Frühling. EV 2804 : 6 Var.
+Wenn es das erste Mal im Norden donnert, dann soll ein kalter Sommer kommen; donnert es im Süden, so kommt ein warmer Sommer. EV 7112 : 2 Var.
+Wenn du am Georgstag (23. IV) noch Eis findest, dann findest du (es) auch am Johannistag (24. VI). EV 2811 : 1 Var.
+Geht man vor dem Georgstag (23. IV) im Hemd, trägt man nach Jaan (Johannistag, 24. VI) den Pelz. EV 2818 : 1 Var.
+[15–16] Wald, Bäume, Pflanzen
+
+15. Frühlingsomina aufgrund des Abfalls der Nadeln im Nadelwald
+Wenn der Wald sich früh säubert Zweige abwirft, dann kommt ein früher Frühling. EV 6769 : 1 Var.
+Der Schnee geht zwei Monate später, nachdem der Wald zum ersten Mal die Nadeln abgeworfen hat. EV 6078 : 2 Var.
+Wenn der Wald zum drittenmal Nadeln abwirft, dann schmilzt einen Monat später der Schnee. EV 6764 : 1 Var.
+Wenn im Lichtmonat (Februar) die Fichtenzweige herabfallen, wird der Schnee im Fastenmonat (März) schmelzen. EV 5208 : 3 Var.
+Wenn im Lichtmonat (Februar) die Fichtennadel auf dem Schnee ist, dann ist (sie) im Fastenmonat (März) auf dem Wasser. EV 5209 : 6 Var.
+Wenn im Frühling bei Tauwetter Fichtennadeln auf dem Schnee liegen, dann soll der Schlittenweg nicht mehr lange währen. EV 3660 : 1 Var.
+Wenn Fichtennadeln auf den Schnee fallen, dann ist das Tauwetter im Kommen und der Frühling auch. EV 4755 : 1 Var.
+16. Wald und Pflanzen im Frühling (verschiedenartiges)
+Bäume bleiben ja nicht gefangen. EV 9075 : 1 Var.
+Je kälter der Winter, desto süßer der Saft. EV 5129 : 1 Var.
+Seit dem Marientag (Mariä Verkündigung, 25. III) wird der Boden immer süß. EV 6222 : 1 Var.
+Jüri (Georgstag, 23. IV) nagt die Baumrinde los. EV 2779 : 2 Var.
+Wenn es zum erstenmal donnert, dann löst sich die Weidenrinde. EV 7111 : 2 Var.
+[17–20] Tiere und Vögel
+
+17. Der Mittelpunkt und der Schluß des Winterschlafes
+Am Matthiastag (24. II) dreht sich alles Ungeziefer auf die andere Seite. EV 6446 : 10 Var.
+Am Matthiastag (24. II) dreht sich die Schlange auf die andere Seite. EV 6288 : 25 Var.
+Am Matthiastag (24. II) müssen die Fliegen, Schlangen und alle anderen kleinen Tiere erwachen ― etwa 45 (50) Var.. EV 6284 : 45 Var.
+Am Matthiastag (24. II) müssen alle den Winterschlaf schlafenden Tiere erwachen. EV 6283 : 4 Var.
+Am Michaelstag (29. IX) geht der Bär auf sein Lager; zur Lichtmeß (2. II) dreht er sich auf die andere Seite; am Marientag (Mariä Verkündigung, 25. III) kommt er vor Tagesanbruch heraus. EV 3300 : 100 Var.
+18. Vögel: Bauen der Nester, Eierlegen, Vogeljungen, Vogelgesang usw.
+Wenn die Krähe vor der Lichtmeß (2. II) ihr Nest baut, taut der Schnee vor dem Marientag (Mariä Verkündigung, 25. III). EV 13808 : 1 Var.
+Am Morgen der Lichtmeß (2. II) soll der Rabe den ersten dürren Zweig ins Nest bringen. EV 2826 : 4 Var.
+Die Krähe bringt am Morgen des Marientags (Mariä Verkündigung, 25. III) den ersten Nestbalken zur Stelle. EV 13830 : 26 Var.
+Am Marientag (Mariä Verkündigung, 25. III) legt die Krähe das erste Ei. EV 6238 : 35 Var.
+Am Morgen des Marientags (Mariä Verkündigung, 25. III) soll der Rabe das erste Ei ins Nest legen. EV 6245 : 4 Var.
+Am Morgen des Marientags (Mariä Verkündigung, 25. III) soll im Nest des Raben ein goldenes Ei liegen. EV 6236 : 1 Var.
+Die Krähe soll schon am Marientag (Mariä Verkündigung, 25. III) ihre Kinder taufen. EV 13826 : 3 Var.
+Am Karfreitag soll der Rabe seine Kinder taufen. EV 10956 : 16 Var.
+Von den Ameisen sagt man, daß wenn sie im Frühling schon auf ihrem Haufen sitzen, dann muß der Rabe mit der Erziehung seiner Jungen auch fertig sein. EV 10506 : 1 Var.
+Wenn die Krähe dreimal kräht, dann kommt der Frühling. EV 13811 : 11 Var.
+Am Fastenmarientag (Mariä Verkündigung, 25. III) hat der Kiebitz das erste Ei im Nest. EV 8178 : 1 Var.
+Die Wildgans legt am Morgen des Fastenmarientags (Mariä Verkündigung, 25. III) das erste Ei. EV 6804 : 1 Var.
+Wenn das erste Ei vor dem Marientag (Mariä Verkündigung, 25. III) im Nest ist, so ist der Frühling zeitig und warm. EV 6226 : 1 Var.
+Wenn das Birkhuhn auf der Schneewehe balzt, so (balzt es) nach einem Monat auf verwelktem Gras. EV 11726 : 4 Var.
+Am Georgstag (23. IV) legt das Birkhuhn das erste Ei. EV 2793 : 2 Var.
+Die Balzzeit des Birkhuhns muß zwei Wochen vor und zwei nach dem Georgstag (23. IV) sein. EV 11727 : 1 Var.
+19. Rückkehr der Zugvögel und damit verbundene Omina
+Am Tag der vierzig Märtyrer (9. III) wendeten vierundvierzig Vögel den Mund (d. i. den Schnabel) zum Sommer hin. EV 10630 : 8 Var.
+Käädri (Gertrudstag, 17. III) ruft siebenundsiebzig Paar Frühlingsvögel herbei. EV 5016 : 2 Var.
+Wenn die Stare bei Altmond herauskommen, dann geht der Winter beim nächsten Altmond fort. EV 4511 : 1 Var.
+Die Amsel hat auch das gesagt: "Sobald der Rasen frei ist, dann bin ich im Paradies". EV 6967 : 1 Var.
+Die Lerche hat gesagt: "Bevor der Rasen nicht freiliegt, werde ich nicht singen". EV 6122 : 1 Var.
+Wenn die Lerche im Frühjahr unter dem Schnee schon drei Sandkörner findet, soll es zum Leben reichen. EV 6116 : 1 Var.
+Nach (d. i. nach dem Kommen) der Lerche fällt noch so viel Schnee, wie die Lerche beim Kommen auf der Erde fand. EV 10026 : 2 Var.
+Fängt die Lerche im Lichtmonat (Februar) an zu singen, so ist der Frühling kalt; erscheint sie im Fastenmonat (März), ist der Frühling warm. EV 6117 : 4 Var.
+Kommt die Lerche früh im März, wird es noch einen Lerchenwinter geben (d. i. es wird noch schneien). EV 6119 : 1 Var.
+Kommt im Frühling die Lerche am Ende des Altmonds, ist der Frühling kurz und warm; (kommt sie) bei Neumond ― ist der Frühling lang und kalt. EV 6127 : 17 Var.
+Die Lerche beginnt zur Fastnacht bei Altmond zu singen. EV 13887 : 4 Var.
+Am Matthiastag (24. II) wird die Zunge der Lerche losgeschnitten, damit sie bald zu singen anfängt. EV 6276 : 3 Var.
+Vom Matthiastag (24. II) an (ist) der Dreck der Lerche in der Schneewehe. EV 6286 : 2 Var.
+Kranichdreck liegt einen Monat und Lerchendreck zwei Monate auf der Schneewehe. EV 4728 : 1 Var.
+Was weiter soll der Kranich verkünden, als den Frühling. EV 4582 : 1 Var.
+Wenn der Kranich am Georgstag (23. IV) auf dem Boden des Heuschobers sitzt, ist auch der Hecht in der Flußmündung. EV 2812 : 3 Var.
+Gänse bringen den Reif davon, Schwäne den Schnee, Kraniche das schlechte Wetter. EV 824 : 8 Var.
+Wenn die Wildgänse und Schwäne im Frühling wieder zurückfliegen, dann kommen Schnee und Frost erneut zurück. EV 6803 : 1 Var.
+Die Kraniche kommen, das Land ist trocken. EV 4576 : 1 Var.
+Die Bachstelze kommt im Frühjahr unter des Kranichs Flügel aus dem warmen Land hierher. EV 5874 : 14 Var.
+Bachstelze ― Krummbeinlein, sie hackt das Bodeneis im Sumpf. EV 14506 : 1 Var.
+Der Bachstelze Fuß zertrampelt im Meer das Eis. EV 5866 : 13 Var.
+Die Bachstelze ist der Meeresenge Zertramplerin (Sie vertreibt das Eis aus der Meeresenge). EV 14507 : 1 Var.
+Der erste Frost ― der Schwalbenfrost und der zweite (ist) der Eschenknospenfrost. EV 14208 : 2 Var.
+Wenn die Blätter des Faulbaums so groß wie Mauseohren sind, fängt die Nachtigall an zu sinigen. EV 12039 : 3 Var.
+Die Nachtigall soll dann erscheinen, wenn sie sich in den Blättern des Faulbaums verstecken kann. EV 14819 : 1 Var.
+Ruft der Kuckuck im Fichtenwald, wird's einen kühlen Frühling geben; ruft er im Birkenwald, gibt's einen warmen Frühling. EV 4482 : 1 Var.
+Am Morgen des Georgstages (23. IV) kommt der Kuckuck heraus, um zu rufen. EV 2801 : 12 Var.
+Der Kiebitz bringt einen Handschuhvoll, der Brachvogel eine Ladung Wärme. EV 3766 : 2 Var.
+Die Lerche bringt Mittagswärme, die Schwalbe Tageswärme, die Nachtigall Nachtwärme. EV 6124 : 80 Var.
+Die Nachtigall singt in der Johannisnacht (24. VI) zwölfstimmig. EV 3847 : 1 Var.
+20. Tiere vom Mittwinter bis zum Frühling (verschiedenartiges)
+Am Antoniustag (17. I) wird im Meer das erste Robbenjunge geboren. EV 12297 : 1 Var.
+Des Wolfes Rede: "Im Lichtmonat (d. i. Februar) ist das Wetter wie Gold, der Weg ist wie ein Brett; weder Schweine noch Schafe werden ins Freie getrieben". EV 10807 : 1 Var.
+Wenn die Bremse zur Hafersaat kommt, dann kommt sie nicht die Brache pflügen. EV 8409 : 1 Var.
+Siehst im Frühling zuerst einen weißen Schmetterling, dann kommt ein feindseliges Leben; wenn einen bunten ― ein buntes Leben; wenn einen schwarzen ― ein sorgenvolles Leben; wenn einen gelben ― das allerbeste Leben. EV 5795 : 35 Var.
+ABB. Vom Mittsommer bis zum Mittwinter
+
+[21–23] Witterung
+
+21. Der Sommer neigt zum Herbst: die Tage werden kürzer, das Wasser wird kälter, Regen, Tau, Nachtfrost
+Am Tage der sommerlichen Sonnenwende wurde wieder gesagt, daß die Nacht anfangs nur um einen Hahnenschritt länger wird. EV 11004 : 2 Var.
+(Während) der Sonnenwende wird die schwarze (d. i. dunkle) Hälfte nach oben gekehrt. EV 9307 : 1 Var.
+Jaan (Johannistag, 24. VI) wirft den ersten kalten Stein ins Wasser, Jakob (Jakobstag, 25. VII) den zweiten, Mihkel (Michaelstag, 29. IX) den dritten. EV 2332 : 115 Var.
+Jaan (Johannistag, 24. VI) wirft einen heißen Stein ins Meer, Jaak (Jakobstag, 25. VII) einen kühlen und Mihkel (Michaelstag, 29. IX) einen kalten. EV 2333 : 1 Var.
+Am Bartholomäustag (24. VIII) wird ein kalter Stein ins Meer und ein warmer Stein in den Brunnen geworfen. EV 9344 : 2 Var.
+Am Piitrestag (29. VI) beginnt der Sommer schon den Schwanz einzuziehen. EV 8513 : 1 Var.
+Am Piitrestag (29. VI) regnet es jedes Jahr. EV 8512 : 2 Var.
+Wenn der Bärenmonat (Margaretenmonat, Juli) mit Trockenheit hereinkommt, so geht er mit Regen heraus; kommt er mit Regen herein, geht er mit Trockenheit heraus. EV 3320 : 2 Var.
+Wenn es am Siebenbrüdertag (10. VII) regnet, dann regnet es sieben Wochen. EV 10281 : 230 Var.
+Der Margaretentag (13. VII) ist ein wäßriger Tag. EV 6409 : 1 Var.
+Vom Bärentag (Margaretentag, 13. VII) an geht das Schreckgespenst ins Gebüsch. EV 3326 : 12 Var.
+Vom Bärentag (Margaretentag, 13. VII) an wird das Gebüsch im Wald dunkel. EV 3322 : 6 Var.
+Dem Jakobstag (25. VII) folgt noch der halbe Sommer. EV 2303 : 1 Var.
+Am Jakobstag (25. VII) wendet sich der Sommer schon dem Herbst zu. EV 2308 : 1 Var.
+Vom Jakobstag (25. VII) an bleibt der Tau am Hügel, der Reif am Zaun. EV 2304 : 5 Var.
+Wenn nach dem Jakobstag (25. VII) ein Tropfen Regen fällt, kommen aus der Erde neun (Tropfen) hinzu. EV 2314 : 1 Var.
+Ann (Annentag, 26. VII) harnt (d. i. es regnet). EV 325 : 6 Var.
+Vom Olafstag (29. VII) an kommen Sterne an den Himmel. EV 7832 : 2 Var.
+Vom Olafstag (29. VII) an sollen im Himmel Schneewolken geboren werden. EV 7834 : 1 Var.
+Laurits (Laurentiustag, 10. VIII) nimmt von oben, Pärt (Bartholomäustag, 24. VIII) steckt den Kopf bis auf den Boden (d. i. Nachtfrost). EV 5610 : 1 Var.
+Laurits (Laurentiustag, 10. VIII) bringt die ersten Holzscheite. EV 5607 : 4 Var.
+Laurits (Laurentiustag, 10. VIII) und Pärt (Bartholomäustag, 24. VIII) zeigen einander die Zähne. EV 5604 : 1 Var.
+Wenn es zwischen dem Laurentiustag (10. VIII) und dem Bartholomäustag (24. VIII) keinen Frost gibt, so kommt er vor dem Michaelstag (29. IX) nicht. EV 5613 : 2 Var.
+Wenn es vor dem Laurentiustag (10. VIII) friert, so friert es nach dem Laurentiustag nicht mehr. EV 5612 : 2 Var.
+Der Bartholomäustag (24. VIII) ist der erste Herbsttag. EV 9345 : 1 Var.
+22. Das Eintreffen des Winters, die Abwechslung des Schnees und des Tauwetters, der Wärme und der Kälte (besonders zum Martinstag und Katharinatag). Die Vorzeichen der Ankunft und des Andauerns des Winters
+Gottes Wetter und des Kindes Arsch kann man nicht vertrauen. EV 2533 : 22 Var.
+Die herbstliche Nacht hat neun Söhne. EV 11403 : 110 Var.
+Die herbstliche Nacht reitet auf dem Rücken von neun Pferden. EV 11407 : 1 Var.
+Der Michaelstag (29. IX) haßt den Sommer und lockt den Winter an. EV 6830 : 1 Var.
+Ist am Michaelstag (29. IX) der Wind aus dem Süden, ist vor Weihnachten kein Schlittenweg zu erwarten; ist er aber aus dem Osten oder Norden, gibt es bald Schnee. EV 6805 : 2 Var.
+Was Mihkel (Michaelstlag, 29 IX) vergessen hat, daran wird sich Mart (Martinstag, 10. XI) erinnern. EV 6811 : 1 Var.
+Wenn die Gans am Martinstag ( 10. XI) aufs Eis tritt, tritt sie zu Weihnachten (25. XII) in den Dreck. EV 830 : 7 Var.
+Wenn Märt (Martinstag, 10. XI) taut, dann friert Kadri (Katharinentag, 25. XI), wenn aber Märt friert, dann taut Kadri. EV 6431 : 3 Var.
+Wenn Mart (Martinstag, 10. XI) schmutzig und naß ist, dann (ist) Kadri (Katharinentag, 25. XI) steif und gefroren. EV 6426 : 1 Var.
+Wenn Mart (Martinstag, 10. XI) im Schlamm geht, (geht) Kadri (Katharinentag, 25. XI) auf gefrorenem Boden. EV 6427 : 2 Var.
+Wenn Mart (Martinstag, 10. XI) im Pelz umherläuft, dann springt Kadri (Katharinentag, 25. XI) in (leichten) Kleidern umher. EV 6425 : 7 Var.
+Kadri sitzt auf Marts Schoß (Wenn der Martinstag, 10. XI, ein Sonnabend ist, so fällt der Katharinentag, 25. XI, auf einen Sonntag). EV 2869 : 4 Var.
+Kadri (d. i. Katharinenbettler, 25. XI) ist zottig, Märt (d. i. Martinibettler, 10. XI) glatt (Die Kostüme der Katharinen­ und Martinibettler). EV 2870 : 1 Var.
+Mart lötet, Kadri taut (Am Martinstag, 10. XI, friert es, am Katharinentag, 25. XI, taut es). EV 6442 : 2 Var.
+Mart (Martinstag, 10. XI) baut Brücken über Sümpfe, über niedriges Land. EV 6441 : 1 Var.
+Märt fault, Kadri deckt zu; Simun macht (d. i. baut) Brücken über Sümpfe; Niklus vernietet; Toomas, der stolze Mann, fährt hinüber (Am Martinstag, 10. XI, taut es, am Katharinentag (25. XI) friert es; der Simonstag (28. X) baut den Winterweg; der Nikolaustag (6. XII) festigt den Weg; am Thomastag (21. XII) wird stolz gefahren). EV 6439 : 150 Var.
+Kadri fängt an zu harnen, aber Andres schiebt ein Stäbchen vor (Wenn es am Katharinentag, 25. XI, regnet, so friert es am Andreastag, 30. XI). EV 2868 : 100 Var.
+Was die Kadris (Katharinentag 25. XI) auftauen, das lötet Andreas an (d. i. es friert am Andreastag 30. XI). EV 2875 : 1 Var.
+Wenn es am Katharinentag (25. XI) taut, dann friert es wieder am Andreastag (30. XI). EV 2878 : 1 Var.
+Pärtels (Bartholomäustag, 24. VIII) Sturm und Kadris (Katharinentag, 25. XI) Tauwetter sind in keinem Jahr ausgeblieben; Tauwetter zu Weihnachten (25. XII) und zur Lichtmeß (2. II) erwartet man aber jedes Jahr umsonst. EV 9332 : 1 Var.
+Kadris (des Katharinentags, 25. XI) Sieb (d. i. das Siebengestirn) liegt im Schnee. EV 2872 : 1 Var.
+Jüri (Georgstag, 23. IV) baut eine Brücke, Mikul (Nikolaustag, 6. XII) vernagelt (sie). EV 2773 : 4 Var.
+Nigulas (Nikolaustag, 6. XII) Bart ist im Eiszapfen. EV 7423 : 1 Var.
+Hagel bleibt nicht des Winters Grundlage. EV 9507 : 1 Var.
+Der Winter kommt nicht einmal und geht nicht zweimal. EV 11541 : 2 Var.
+Neun Winter sind in einem Winter drin. EV 14850 : 2 Var.
+Wieviel Tage der erste Schnee auf der Erde, soviel Winter kommen. EV 9275 : 1 Var.
+Der Winter bleibt ja nicht im Himmel. EV 11538 : 55 Var.
+Regen bleibt ja nicht im Himmel. EV 14043 : 8 Var.
+Der Norden festigt den Winter. EV 9123 : 5 Var.
+Kälte wird ja nicht gesät. EV 5091 : 1 Var.
+23. Das Wetter zum Jahreswechsel; die längste Nacht, das Längerwerden des Tages. Witterungsomina des Winters oder vom Anfang des Winters bis zum Frühling
+Für wie lange reicht ein spätherbstlicher Tag: Nur zwei dämmerige Enden und eine Spanne hellerer Zeit dazwischen. EV 1258 : 2 Var.
+Am Lucientag (13. XII) ist die Nacht so lang, daß der Adler vom Baum herunterfält. EV 6104 : 17 Var.
+Am Thomastag (21. XII) stöbert es immer. EV 12034 : 18 Var.
+Wenn es am Thomastag (21. XII) stöbert, dann stöbert es den ganzen Winter. EV 12033 : 1 Var.
+Am Thomastag (21. XII) kommt (von) der Sonne eine Staubschicht ab, die Sonne wird klarer. EV 12036 : 1 Var.
+Am letzten Tag des Weihnachtsfestes (27. XII) kann man schon den Tag erkennen (d. i. es ist heller geworden). EV 2730 : 1 Var.
+Am zweiten Weihnachtstag (26. XII) wird der Tag um einen Hahnenschritt länger. EV 3619 : 20 Var.
+Am letzten Weihnachtstag (27. XII) soll der Tag schon so lang sein, daß die Kohlsuppe ordentlich fertig kocht. EV 14082 : 1 Var.
+Nach Weihnachten (25. XII) gibt es noch genügend Winter(tage), nach Weihnachten sind die Tage lang. EV 2736 : 2 Var.
+Der Weihnachtsmonat (Dezember) hat gesagt: "Ich bin wohl kalt, aber ein Bein hinkt." Der Neujahrsmonat (Januar) hat gesagt: "Ich bin der kälteste." Der Lichtmonat (Februar) hat gesagt: " Ich wäre noch kälter, aber ein Auge läuft Wasser. EV 2737 : 1 Var.
+Ist das Abendrot gelblich ― kommt Frost; ist der Wald bläulich ― kommt Tauwetter; ist der Himmel im Norden schwarz ― wird es tauen. EV 513 : 1 Var.
+Abendrot am Abend ― des Winters Verlängerung. EV 14519 : 2 Var.
+Später Winter, später Frühling. EV 1254 : 4 Var.
+Wenn die Gans zu Weihnachten (25. XII) auf dem Dreck ist, dann ist (sie) am Georgstag (23. IV) auf dem Eis. EV 829 : 2 Var.
+Kalte Weihnachten (25. XII), warme Ostern; grüne Weihnachten, weiße Ostern. EV 5100 : 20 Var.
+24. Wald und Pflanzen
+Jaan (Johannistag, 24. VI) bindet die Weidenrinde, Piitre (Peterstag 29. VI) drückt noch den Rest fest. EV 2324 : 8 Var.
+Nach dem Laurentiustag (10. VIII) fängt der Wald nicht mehr an zu brennen, dann kann man im Walde Feuer machen. EV 5619 : 1 Var.
+Heidelbeeren bringen schwarze Nächte. EV 6962 : 3 Var.
+Die Roggenmaarja (Mariä Himmelfahrt, 15. VIII) bringt Beeren, Pärt (Bartholomäustag, 24. VIII) noch Nüsse hinzu. EV 9840 : 1 Var.
+Drei Tage vor und nach dem Bartholomäustag (24. VIII) ist die Erle der Weide Halbbruder. EV 9335 : 1 Var.
+Pärtel (Bartholomäustag, 24. VIII) sät die Pilze. EV 9331 : 7 Var.
+[25–27] Tiere und Vögel
+
+25. Der Wolf wird dem Vieh gefährlich; der Bär hält den Winterschlaf; Ratten bauen Nester
+Wenn die Roggenähre herauskommt, dann kommen auch die Wolfsjungen zum erstenmal aus dem Gebüsch heraus. EV 9967 : 1 Var.
+Im Michaelsmonat (September) gibt man den Wölfen (ihren) Wintervorrat. EV 6812 : 3 Var.
+Am Georgstag (23. IV) wurde dem Wolf der Zaum angelegt, am Michaelstag (29. IX) abgenommen. EV 2800 : 30 Var.
+Der Michaelstag (29. IX) ist des Wolfes Freilassungstag. EV 6831 : 2 Var.
+Vom Michaelstag (29. IX) an wird das Wolfsmaul freigelassen. EV 6822 : 3 Var.
+Am Michaelstag (29. IX) näht man dem Wolf die Augen zu, damit er die Herde nicht sieht. EV 6826 : 1 Var.
+Am Michaelstag (29. IX) geht der Bär auf sein Lager; zur Lichtmeß (2. II) dreht er sich auf die andere Seite; am Marientag (Mariä Verkündigung, 25. III) kommt er vor Tagesanbruch heraus. EV 3300 : 100 Var.
+Wenn der Bär sich früh eine Höhle sucht, kommt die Kälte früh. EV 3312 : 1 Var.
+Der Bär saugt im Winter immer an der Pfote. EV 3294 : 1 Var.
+Bauen die Ratten (ihr) Nest auf den Kornschober, kommt ein tiefer Winter; wenn (aber) unter den Kornschober, (kommt) ein niedriger (Winter) (d. i. wenig Schnee). EV 9807 : 4 Var.
+26. Der Kuckuck hat eine Gerstengranne in der Kehle. Das Wegziehen der Zugvögel
+Der Kuckuck hört dann auf zu rufen, wenn er einen Heuhaufen sieht. EV 4920 : 4 Var.
+Kommt die Gerstengranne heraus, so ruft der Kuckuck nicht mehr. EV 7771 : 2 Var.
+Treibt die Gerste Ähren, bleibt die Gerstengranne im Hals des Kuckucks stecken. EV 7768 : 30 Var.
+Vom Johannistag (24. VI) an verwandelt sich der Kuckuck in einen Sperber. EV 4921 : 6 Var.
+Wieviel Tage der Kuckuck nach dem Johannistag (24. VI) ruft, soviel Wochen ist es nach dem Michaelstag (29. IX) warm. EV 9273 : 1 Var.
+Am Peetri­Paavlitag (29. VI) schweigt der Kuckuck. EV 8511 : 2 Var.
+Nach Jaan (Johannistag, 24. VI) singt die Lerche das Trauerlied. EV 6121 : 1 Var.
+Pärt (Bartholomäustag, 24. VIII) erbt die Schwalben. EV 9333 : 1 Var.
+Am Bartholomäustag (24. VIII) gehen die Schwalben in den See. EV 9343 : 2 Var.
+Um den Bartholomäustag (24. VIII) ziehen die Schwalben davon. EV 9341 : 8 Var.
+Die Bachstelze soll auf des Kranichs Flügel ins warme Land ziehen. EV 5873 : 3 Var.
+Ziehen die Kraniche davon ― gibt es böses Wetter; gehen die Gänse ― wird es reifen; gehen die Schwäne ― wird es schneien. EV 4574 : 225 Var.
+Der Schnee ist unter des Schwanes Flügel. EV 6077 : 15 Var.
+Davonziehend bringen die Kraniche Nachtfrost, die Gänse Tagesfrost, die Schwäne Schnee. EV 4575 : 1 Var.
+Fliegen die Schwäne niedrig, kommt ein niedriger (d. i. schneearmer) Winter; fliegen die Schwäne hoch, kommt ein tiefer (d. i. schneereicher) Winter. EV 6061 : 35 Var.
+27. Den Schlangen und den Fröschen wird der Mund gebunden; das Verschwinden der Bremsen, Fliegen und Mücken
+Zur Zeit der Roggenernte ist das Maul des Frosches zu. EV 9838 : 8 Var.
+Ab Schlangenmarientag (Mariä Geburt, 8. IX) soll die Schlange in den Grashügel beißen. EV 12972 : 1 Var.
+Am Schlangenmarientag (Mariä Geburt, 8. IX) verschwinden Schlangen, Fliegen, Käfer; der Mund der Schlange wird zugestopft. EV 12971 : 35 Var.
+Wenn man vor dem Johannistag (24. VI) eine Bremse totschlägt, kommen neun von selbst hinzu; wenn man sie nach dem Johannistag totschlägt, verschwinden neun von selbst. EV 2357 : 40 Var.
+Vom Margaretentag (13. VII) an verschwinden die Bremsen. EV 6410 : 5 Var.
+Die Bremse soll seit dem Margaretentag (13. VII) blind sein. EV 8410 : 2 Var.
+Bremse ― Dreck bis zum Johannistag (24. VI), die Mücke ― ein tüchtiger Kerl bis zum Michaelstag (29. IX). EV 8411 : 70 Var.
+Nach dem Roggenmarientag (Mariä Himmelfahrt, 15. VIII ) fangen die Fliegen an, sich zu erhängen. EV 9841 : 1 Var.
+Wenn der Käfer nach Mart (10. XI) fliegt, soll vor Weihnachten (25. XII) kein Schnee kommen. EV 10525 : 1 Var.
+ABC. Sommer und Winter
+
+28. Sommer und Winter einander gegenübergestellt: ein milder Sommer, ein strenger Winter usw.; Waldtiere im Sommer und Winter
+Regnend kommen die Sommer, zähneklappernd die Winter. EV 10028 : 3 Var.
+Der Winter hat des Habichts Krallen, der Sommer des Wolfs Zähne. EV 11564 : 1 Var.
+Den Sommer sieht man an den Augen, den Winter spürt man an den Zähnen. EV 10995 : 1 Var.
+Der Sommer hat große Augen, der Winter hat lange Zähne. EV 10990 : 2 Var.
+Der Sommer hat klare Augen, helle Ohren. EV 11001 : 1 Var.
+Auch der Vogel ist groß vor dem Sommer, schön vor dem Frühling. EV 12069 : 2 Var.
+Der Sommer kommt prahlend, der Winter kommt scheltend. EV 10998 : 3 Var.
+Der Winter kommt tanzend (d. i. schnell), der Sommer kommt schlummernd (d. i. langsam). EV 11567 : 2 Var.
+Der Sommer warm ― die Frau faul; der Winter kalt ― der Mann rot. EV 10984 : 4 Var.
+Der Sommer gehört dem Armen und dem Faulen. EV 10994 : 1 Var.
+Wer keinen Pelz hat, der mag den Sommer. EV 10978 : 1 Var.
+Der Winter kommt, tötet das Kind; der Sommer küßt das Kind. EV 11558 : 1 Var.
+Der Hase sagt, daß sein Winterquartier besser ist als seine sommerliche Futterfläche. EV 2757 : 1 Var.
+Der Wolf ist im Sommer im Sumpf, im Winter hinter dem Haus. EV 10830 : 1 Var.
+29. Vorzeichen des Sommers aufgrund des Winters und umgekehrt. Weihnachten und Johannistag als "Nabel des Jahres".
+Wie der Winter, so der Sommer. EV 11547 : 4 Var.
+Der Sommer richtet sich nach dem Winter. EV 10983 : 5 Var.
+Wenn ein guter Winter, dann auch ein guter Sommer. EV 11546 : 2 Var.
+Wenn es zur Winterzeit keinen Winter gibt, dann gibt es zur Sommerzeit keinen Sommer. EV 11549 : 3 Var.
+Kalter Winter, warmer Sommer. EV 5121 : 10 Var.
+Tauen im Winter weist auf Dürre im Sommer hin. EV 11572 : 1 Var.
+Frost im Lichtmonat (Februar) bringt einen warmen Sommer. EV 5212 : 4 Var.
+Neun Schneegestöber nach dem Matthiastag (24. II), dann ist der Sommer warm. EV 14845 : 1 Var.
+Je tiefer der Winter, desto wärmer der Sommer. EV 11363 : 1 Var.
+Ist der Winter niedrig (d. i. schneearm), kommt ein kühler Sommer. EV 6255 : 1 Var.
+Wenn der Winter kahl ist, dann ist der Sommer trocken. EV 11548 : 1 Var.
+Ein hügeliger Weg ― ein regnerischer Sommer; ein eingefallener Weg ― ein trockener Sommer. EV 4454 : 1 Var.
+Wenn es im Winter wenig Schneegestöber gibt, dann gibt es im Sommer wenig Regen. EV 11553 : 1 Var.
+Ein warmer und trockener Juli ― ein kalter und klarer Januar; ein kühler und regnerischer Juli ― ein warmer und regnerischer Januar. EV 10589 : 1 Var.
+Der Sommer kommt nicht ohne Winter oder der Winter ohne Sommer. EV 10968 : 1 Var.
+Klar der Herbst, steif der Frühling, warm der Sommer, kalt der Winter. EV 11387 : 1 Var.
+Der Sommer weicht dem Winter. EV 10985 : 1 Var.
+Weihnachten (25. XII) und jaan (Johannistag, 24. Vl) sind an derselben Stelle. EV 2724 : 4 Var.
+Je kälter die Weihnachten (25. XII), desto heißer der Jaan (Johannistag 24. VI ). EV 5127 : 1 Var.
+Ist Jaan (Johannistag, 24. VI) heiß, dann sind die Weihnachten ) kalt. EV 2341 : 1 Var.
+30. Die Ankunft des Sommers und des Winters im Zusammenhang mit Windrichtungen
+Ohne Südostwind kommt kein Sommer und kein Winter. EV 2910 : 1 Var.
+Der Winter kommt aus dem Süden und der Sommer aus dem Norden. EV 11568 : 1 Var.
+Aus dem Osten kommt ein andauernder Sommer, aus dem Norden ein ewiger Winter. EV 1892 : 2 Var.
+Aus dem Osten kommt gutes Wetter, aus dem Osten kommt schlechtes Wetter, aus dem Osten kommt das Ende der Welt. EV 1893 : 5 Var.
+ABD. Frühling und Herbst
+
+31. Frühling und Herbst als Übergangsjahreszeiten. Grenzdaten des Sommers / des Winters. Grenzdaten des Mittsommers
+Der Herbst hat des Sommers Augen, aber des Winters Zähne. EV 11380 : 5 Var.
+Sommer und Winter streiten sich immer miteinander. EV 10980 : 3 Var.
+Madis (Matthiastag, 24. II) macht das Eis, Madis bricht das Eis. EV 6263 : 3 Var.
+Der Michaelstag (29. IX) ist der erste Winterfeiertag; der Fastenmarientag (Mariä Verkündigung, 25. III) der erste Sommerfeiertag. EV 6828 : 2 Var.
+Jüri (Georgstag, 23. IV) bringt den Sommer, Mihkel (Michaelstag, 29. IX) bringt den Winter. EV 2782 : 3 Var.
+Jüri (Georgstag, 23. IV) beginnt (den Sommer), Jakap (Jakobstag, 25. VII) beendet (den Sommer). EV 2775 : 1 Var.
+Jüri (Georgstag, 23. IV) kündet die Morgenröte an, Jakob (Jakobstag 25. VII) macht sie aus. EV 2777 : 8 Var.
+Jüri (Georgstag, 23. IV) verlängert, Jakob (Jakobstag, 25. VII) reißt. EV 2778 : 5 Var.
+32. Sommer und Herbst einander gegenübergestellt (auch bei kurzfristigen Witterungsomina)
+Der Herbst kommt, das Herz groß (d. i. es wird kalt); der Frühling kommt, Schmucksachen an. EV 11394 : 1 Var.
+Der Frühling kommt mit Gold, der Herbst mit Mist. EV 3647 : 1 Var.
+Die herbstliche Morgenröte läßt Zeit, um auf den Brei zu blasen, die im Frühling läßt nicht mal Zeit, um den Brei zu kochen. EV 11405 : 1 Var.
+Zäh ist das Eis im Herbst, leicht ist das Eis im Frühling. EV 14213 : 1 Var.
+Eine ganze Herbstnacht und einen ganzen Frühlingstag regnet es nicht. EV 11404 : 1 Var.
+Im Frühling kommt aus rotgelbem Himmel Frost, im Herbst Wärme. EV 3644 : 2 Var.
+Herbstlicher Nebel bedeutet Wärme, Frühlingsnebel Kälte. EV 11402 : 25 Var.
+[33–34] Witterungsomina vom Herbst bis zum Frühling und umgekehrt
+
+33. Vorzeichen des Frühlings aufgrund des Herbstes
+Sind die Blätter am Michaelstag (29. IX) auf der Erde, dann ist zum Georgstag (23. IV) Gras auf der Erde. EV 6813 : 45 Var.
+Sind die Bäume am Michaelstag (29. IX) noch belaubt, so sind sie am Georgstag (23. IV) wieder belaubt. EV 6815 : 1 Var.
+Wenn die Seelen (d. i. der Seelentag, 2. XI) mit dem Schlitten wegfahren, so bringen sie die Dauer des Strohes weg (d. i. so wird das Stroh nicht reichen), wenn aber mit dem Wagen, so kommt ein warmer Winter. EV 1283 : 7 Var.
+Wenn die Gans vor dem Martinstag (10. XI) über den Fluß geht, dann ist am Marientag (Mariä Verkündigung, 25. III) der Fluß zugefroren. EV 828 : 1 Var.
+Wenn die Flüsse am Martinstag (10. XI) zugefroren sind, dann (sind sie es) auch am Marientag (Mariä Verkündigung, 25. III). EV 6389 : 6 Var.
+Wenn der Baumstumpf am Martinstag (l0. XI) einen Hut aufhat, dann (hat er ihn) auch am Marientag (Maria Vcrkündigung, 25. III) (auf). EV 6390 : 1 Var.
+Wenn die Grashügel am Martinstag (10. XI) kahl sind, dann müssen die Grashügel auch am Marientag (Mariä Verkündigung, 25. III) frei von Schnee sein. EV 6394 : 1 Var.
+Wenn Märt (Martinstag, 10. XI) schwarz ist, dann ist die Fleischnahme (d. i. die Ostern) auch schwarz; wenn Märt weiß (ist), dann (ist) auch die Fleischnahme weiß. EV 6429 : 10 Var.
+Wenn der Schnee am Martinstag (10. XI) auf den Dächern liegt, dann liegt er (dort) auch zu Ostern. EV 6395 : 18 Var.
+Wenn der See am Martinstag (10. XI) offen ist, dann auch am Georgstag (23. IV). EV 6396 : 1 Var.
+Wenn der Weg am Martinstag (10. XI) staubt, dann soll er auch am Georgstag (23. IV) stauben. EV 6392 : 1 Var.
+Wenn am Katharinentag (25. XI) das Siebengestirn vor Tageslicht untergeht, fließt das Wasser am Marientag (Mariä Verkündigung, 25. III). EV 2877 : 1 Var.
+Wenn der Schnee im Herbst auf die Blätter fällt, dann kommt er auch im Frühling auf die Blätter ― 2 Var.. EV 6073 : 2 Var.
+Später Herbst, früher Frühling. EV 1253 : 2 Var.
+34. Vorzeichen des Herbstes aufgrund des Frühlings
+Wieviel warme oder kalte Nächte es vor dem Marientag (Mariä Verkündigung, 25. III) gibt, soviel Wochen Wärme oder Kälte gibt es vor dem Michaelstag (29. IX). EV 14797 : 1 Var.
+Kommen die Schwalben vor dem Georgstag (23. IV), gehen sie vor dem Michaelstag (29. IX). EV 9353 : 2 Var.
+Wenn am Georgstag (23. IV) Schneehaufen am Zaun liegen, werden die Bäume am Michaelstag (29. IX) Blätter haben. EV 2809 : 2 Var.
+Wenn es vor dem Georgstag (23. IV) donnert, dann kommt der Schnee vor dem Michaelstag (29. IX). EV 2803 : 1 Var.
+Wenn im Frühling das Wasser die Weidenabhänge nicht überschwemmt, dann überschwemmt es sie im Herbst. EV 13962 : 4 Var.
+Wenn ein langer Frühling, (dann) ein kurzer Herbst. EV 8792 : 1 Var.
+ABE. Der Zycklus des Monds, Neumond und Altmond. Der Monat und die Jahreszeiten. Ein Monat mit fünf Freitagen. Wochentage
+
+35.
+Neuer Mond (d. i. Neumond), neues Wetter. EV 12989 : 3 Var.
+Der Mond verändert das Wetter. EV 4723 : 1 Var.
+Ist es zu Beginn des Neumonds kalt, dann wird es am Ende des Altmonds warm. EV 7566 : 1 Var.
+Tritt der Neumond aufrecht ein, dann kommt regnerisches Wetter. EV 4720 : 1 Var.
+Die Winde bei Altmond wehen Regen (herbei), die Winde bei Neumond wehen Dürre (herbei). EV 13556 : 1 Var.
+Neumond macht gedeihen, Altmond läßt verschwinden. EV 7563 : 6 Var.
+Neumond züchtet Hartes, Altmond macht durch Fäulnis weich. EV 7565 : 1 Var.
+Was der junge Mann tut, das der alte Mann verdirbt (Frost und Tauwetter). EV 7488 : 1 Var.
+Bei Neumond kommt kein Sommer, bei Altmond kein Winter. EV 7557 : 8 Var.
+Der Mond im Lichtmonat (Februar) geht den Dachfirst entlang (d. i. hoch), im Olafsmonat (Juli) den Zaun entlang (d. i. niedrig). EV 5211 : 1 Var.
+Am Olafstag (29. VII) geht der Mond so niedrig, daß auch das Schwein ihn sieht. EV 7836 : 1 Var.
+Olafsmonat (Juli) ― Eitermonat (Im Juli fangen Wunden leicht zu eitern an). EV 8064 : 1 Var.
+Ein Monat mit fünf Freitagen ist immer ein schlechter Monat. EV 14071 : 3 Var.
+Am Freitag ist Gott reich, am Montag gerecht. EV 9593 : 3 Var.
+ABF. Verschiedene Zusammenhänge und Beziehungen im Volkskalender
+
+36. Über das Spezifikum und die "Verwandtschaft" der kalendarischen Heiligen
+Nach der Sonnenwende soll die Sonne drei Tage im Nest bleiben. EV 9358 : 1 Var.
+Der Wind der Sonnenwende baut ein Nest. EV 9359 : 1 Var.
+Vom Georgstag (23. IV) an wird man irgendwo hinkommen. EV 2802 : 1 Var.
+Zu Weihnachten (25. XII) wird der Mann irgendwo hinkommen. EV 2723 : 5 Var.
+Den Antoniustag (17. I) feiert man gegen Krankheiten, den Matthiastag (24. II) gegen Schlangen. EV 12298 : 1 Var.
+Mart (Martinstag, 10. XI) ist (d. i. herrscht) über das Land und Kadri (Katharinentag, 25. XI) über das Vieh. EV 6440 : 6 Var.
+Mikul (St. Nikolaus, Nikolaustag, 6. XII) ist der Männer Gott, Praskowja (6. VIII) (ist) der Jünglinge Götze. EV 6834 : 1 Var.
+Miitrosk (Demetriustag, 26. X) darf man nicht trotzen. EV 6833 : 1 Var.
+Der Martinstag (10. XI) und der Michaelstag (29. IX) sind Brüder und der Katharinentag (25. XI) ist ihre Schwester. EV 6397 : 1 Var.
+Kadri (Katharinentag, 25. XI) ist die Frau von Mart (Martinstag, 10. XI), aber Lutsi (Lucientag, 13. XII) ist seine Schwester. EV 2871 : 1 Var.
+Der Michaelstag (29. IX) galt als des Teufels Heutag. EV 6825 : 1 Var.
+Am Thomastag (21. XII) heiratet der schwarze Thomas seine erste Tochter; am Antoniustag (17. I) die zweite, zur Lichtmeß (2. II) die dritte. EV 12035 : 7 Var.
+37. Kalendarische Zusammenhänge der Gedenktage. Jährliche Zeitrechnung
+Jaan (Johannistag, 24. VI) am Abend, Maarja (Mariä Verkündigung, 25. III) am Morgen. EV 2337 : 1 Var.
+Mart (Martinstag, 10. XI) am Abend, Kadri (Katharinentag, 25. XI) am Morgen. EV 6445 : 1 Var.
+Der Weihnachtsabend (24. XII) und der Knutstag (7. od. 14. I) sind an ein und demselben Wochentag. EV 2716 : 1 Var.
+Matthias- (24. II), Michaels- (29. IX) und Martinstag (10. XI) sind immer an ein und demselben Wochentag. EV 6280 : 1 Var.
+Der Fleischwurf (d. i. die Fastnacht) soll herumgehen und den Neumond und den Dienstag suchen. EV 5820 : 1 Var.
+Der Fastnachtstag treibt die Festtage zum Springen. EV 13890 : 1 Var.
+Wenn das Siebengestirn zu Weihnachten (25. XII) bei Morgenrot sinkt, dann sinkt es am Marientag (Mariä Verkündigung, 25. III) bei Abendrot. EV 2732 : 1 Var.
+Von der Lichtmeß (2. II) sieben (Wochen) bis (zum Austreiben) der Schweine (25. III), acht bis zur Herde (d. i. zum Weidenaustrieb des Viehs) ( 1. IV), zehn bis zum Pflügen (14. IV), elf bis zum Georgstag (23. IV); vom Georgstag neun bis Jaan (24. VI), von Jaan vier bis Jakob (25. VII), vom Jakobstag sechs bis zum Michaelstag (29. IX), vom Michaelstag sechs bis Mart (10. XI), von Mart zwei bis Kadri (25. XI), von Kadri vier bis Weihnachten (25. XII), von Weihnachten sechs bis zur Lichtmeß (2. II). EV 5235 : 145 Var.

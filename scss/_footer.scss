@@ -1,0 +1,171 @@
+@import 'config';
+// unmodified template: https://codepen.io/scanfcode/pen/MEZPNd
+strong{
+  color: $secondary-color;
+}
+
+.site-footer
+{
+  background-color:$primary-color;
+  padding:45px 0 20px;
+  font-size:1rem;
+  line-height: 150%;
+  color: $light-gray;
+}
+.site-footer hr
+{
+  border-top-color:$secondary-color;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+.site-footer h6
+{
+  color: $secondary-color;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+.site-footer a
+{
+  color:beige;
+  text-decoration: none;
+}
+.site-footer a:hover
+{
+  color:$secondary-color;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color: beige;
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color: $secondary-color;
+  text-decoration:none;
+}
+.footer-links.inline li
+{
+  display:inline-block
+}
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  margin-left: 0.5rem;
+  margin-right:0;
+  border-radius: 0.5rem;
+  background-color:#2e45a5
+}
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none;
+}
+.social-icons li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: beige;
+  background-color: black !important;
+}
+.social-icons li
+{
+  display:inline-block;
+}
+.social-icons li.title
+{
+  margin-right:15px;
+  text-transform:uppercase;
+  color:#96a2b2;
+  font-weight:700;
+  font-size:13px
+}
+.social-icons a{
+  background-color:$secondary-color;
+  color:#818a91;
+  font-size:16px;
+  display:inline-block;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:$primary-color;
+  background-color:beige !important;
+}
+.social-icons.size-sm a
+{
+  height:34px;
+  width:34px;
+  font-size:14px
+}
+.social-icons a.facebook:hover
+{
+  background-color:$tertiary-color;
+}
+.social-icons a.twitter:hover
+{
+  background-color:$tertiary-color;
+}
+.social-icons a.linkedin:hover
+{
+    background-color:$tertiary-color;
+}
+.social-icons a.dribbble:hover
+{
+    background-color:$tertiary-color;
+}
+@media (max-width:991px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}

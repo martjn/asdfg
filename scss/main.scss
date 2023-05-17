@@ -1,0 +1,116 @@
+@import 'config';
+@import 'bookmark';
+@import 'nav';
+@import 'backbtn';
+@import 'homecards';
+@import 'botbtn';
+@import 'infoarea';
+@import 'form';
+@import 'pagebtn';
+@import 'footer';
+@import 'book';
+@import 'tts';
+@import 'vsr';
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap');
+
+*, pre{
+    font-family: 'Libre Franklin', sans-serif;
+    line-height: 150% !important;
+}
+
+html, body {
+    height: 100%;
+    
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+
+html {
+    *{
+        line-height: 150%;
+    }
+}
+
+hr{
+    border-color: $light-gray;
+}
+
+/* High-contrast theme */
+body.contrast {
+    background-color: black;
+    color: yellow;
+    span, .text, strong, .text-light, th, td, h6, i, a, p, nav, h5, button, label, .modal-body, .modal-footer, footer, .dropdown-menu{
+        background-color: black !important;
+        color: yellow !important;
+    }
+    li a{
+        background-color: black;
+        color: yellow;
+        text-decoration: underline;
+    }
+    a, i, button{
+        h5{
+            text-decoration: underline !important;
+        }
+        text-decoration: underline !important;
+    }
+    .active{
+        border-bottom: 2px solid yellow;
+    }
+    .btn-close{
+        color: yellow !important;
+        background-color: yellow !important;
+        border-color: yellow !important;
+    }
+    .form-range {
+        background-color: #686e00 !important;
+    }
+    nav{
+        border-bottom: 2px solid yellow !important;
+    }
+    footer{
+        border-top: 2px solid yellow !important;
+    }
+    #id-speech-form > div > label {
+        border: 3px solid yellow !important;
+        border-radius: 0.25rem !important;
+    }
+    #id-speech-form > div > input[type="radio"]:checked + label {
+        background-color: yellow !important;
+        color: #000000 !important;
+      }
+
+  }
+  
+  /* Override Bootstrap styles for high-contrast theme */
+  .contrast .btn-primary {
+    background-color: yellow;
+    border-color: yellow;
+    text-decoration: underline;
+    color: black;
+  }
+  
+  .contrast .form-check-input:checked + .form-check-label::before {
+    background-color: yellow;
+    border-color: yellow;
+    text-decoration: underline;
+  }
+
+.form-check-input{
+    &:focus{
+        border-color: $light-gray;
+        box-shadow: 0 0 0 0.25rem rgba(100,100,100,.25);
+    }
+    &:checked{
+        background-color: $primary-color;
+        border-color: $primary-color;
+    }
+}
+

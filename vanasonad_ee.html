@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="ee">
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <title>Eesti ütlused | Eesti vanasõnad</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/b83cf0fab3.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="./css/main.css">
+
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light sticky-top">
+    <div class="container">
+      <!-- Logo -->
+      <div class="navbar-brand d-flex align-items-center">
+          <a href="https://www.kirmus.ee/">
+            <img class="img-fluid w-50 d-inline-block" src="./svg/EKM-logo-light-navbar.svg" alt="Eesti Kirjandusmuuseum">
+          </a>
+        <!-- Button trigger modal -->
+        <button id="idAccessibilityMenuToggleMobile" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal">
+          <i class="fa-solid fa-gear fs-4"></i>
+        </button>
+        <!-- Burger menu -->
+        <button class="navbar-toggler mt-0" type="button" data-bs-toggle="collapse" data-bs-target="#idNavToggle"
+        aria-controls="idNavToggle" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="fa-solid fa-bars fa-xl"></span>
+        </button>
+
+      </div>
+
+      <div class="collapse navbar-collapse justify-content-end" id="idNavToggle">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="./index.html">Avaleht</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./konekaanud.html">Kõnekäänud</a>
+          </li>
+          <li class="nav-item dropdown active">
+            <a class="nav-link dropdown-toggle" href="#" id="idNavbarDropdown1" role="button"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Eesti vanasõnad
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item border-bottom" href="./vanasonad_ee.html">Eesti</a></li>
+              <li><a class="dropdown-item" href="./vanasonad_de.html">Eesti+Saksa</a></li>
+            </ul>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./vanasonaraamat.html">Vanasõnaraamat</a>
+          </li>
+        </ul>
+      </div>
+      <!-- Button trigger modal -->
+      <button id="idAccessibilityMenuToggleDesktop" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal">
+        <i class="fa-solid fa-gear fs-4"></i>
+      </button>
+      <!-- Modal -->
+      <div class="modal fade" id="Modal" tabindex="-1" aria-labelledby="ModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header border-0 fs-4">
+              <span>Ligipääsetavus</span>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-header py-0">
+              <div class="btn-group me-2" role="group">
+                <button type="button" class="btn btn-primary mt-0 active" id="modal-appearance-settings-btn"><i class="fa-solid fa-paintbrush"></i> Teksti suurus, reavahe, värv</button>
+                <button type="button" class="btn btn-primary mt-0" id="modal-speech-settings-btn"><i class="fa-solid fa-volume-high"></i> Kõne</button>
+              </div>
+              
+            </div>
+            <!-- Accessibility options -->
+            <div id="modal-appearance-options" class="modal-body p-5 d-none">
+              <!-- Text size -->
+              <span class="fw-bolder fs-2">Teksti suurus</span>
+              <form id="idAccessibilityTextSize">
+                <div class="form-range">
+                  <input class="form-range" type="range" min="-2" max="2" step="1" value="0" id="textSizeRange">
+                </div>
+                <div class="form-text ms-auto">
+                  <span id="textSizeValue"></span>
+                  <i class="fa-solid fa-text-height fs-2"></i>
+                </div>
+                <hr>
+              </form>
+              <!-- Line height -->
+              <form id="idAccessibilityLineHeight">
+                <span class="fw-bolder fs-2">Reavahe</span>
+                <div class="form-range">
+                  <input class="form-range" type="range" min="0.6" max="1.4" step="0.2" value="1" id="lineHeightRange">
+                </div>
+                <div class="form-text ms-auto text-center d-flex flex-column justify-content-center align-items-center">
+                  <span id="lineHeightValue"></span>
+                  <i class="fa-solid fa-arrows-left-right-to-line d-flex flex-column flex-wrap fa-rotate-90 fs-2"></i>
+                </div>
+                <hr>
+              </form>
+              <!-- Contrast -->
+              <form id="idAccessibilityContrast">
+                <i class="fa-solid fa-circle-half-stroke fs-2"></i>
+                <span class="fw-bolder fs-2">Kontrastsus</span>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="flexRadioContrast" id="flexRadioContrast1" value="1">
+                  <label class="form-check-label" for="flexRadioContrast">
+                    Kõrge kontrastsus (must taust, kollane tekst)
+                  </label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="flexRadioContrast" id="flexRadioContrast2" value="0" checked>
+                  <label class="form-check-label" for="flexRadioContrast">
+                    Originaal
+                  </label>
+                </div>
+              </form>
+
+            </div>
+            <!-- Accessibility options -->
+            <div id="modal-speech-options" class="modal-body px-5">
+              <!-- Voice type -->
+              <span class="fw-bolder fs-2 mb-3">Vali hääl</span>
+              <form id="id-speech-form" type="checked">
+                <div>
+                  <input type="radio" class="btn-check" name="options" id="option-speech-0" autocomplete="off" value="0" checked>
+                  <label id="label-speech-0" class="btn btn-secondary" for="option-speech-0">Peeter</label>
+                </div>
+                <div>
+                  <input type="radio" value="1" class="btn-check" name="options" id="option-speech-1" autocomplete="off">
+                  <label id="label-speech-1" class="btn btn-secondary" for="option-speech-1">Tõnu</label>
+                </div>
+                <div>
+                  <input type="radio" value="2" class="btn-check" name="options" id="option-speech-2" autocomplete="off">
+                  <label id="label-speech-2" class="btn btn-secondary" for="option-speech-2">Indrek</label>
+                </div>
+                <div>
+                  <input type="radio" value="3" class="btn-check" name="options" id="option-speech-3" autocomplete="off">
+                  <label id="label-speech-3" class="btn btn-secondary" for="option-speech-3">Külli</label>
+                </div>
+                <div>
+                  <input type="radio" value="4" class="btn-check" name="options" id="option-speech-4" autocomplete="off">
+                  <label id="label-speech-4" class="btn btn-secondary" for="option-speech-4">Liivika</label>
+                </div>
+                <div>
+                  <input type="radio" value="5" class="btn-check" name="options" id="option-speech-5" autocomplete="off">
+                  <label id="label-speech-5" class="btn btn-secondary" for="option-speech-5">Tambet</label>
+                </div>
+                <div>
+                  <input type="radio" value="6" class="btn-check" name="options" id="option-speech-6" autocomplete="off">
+                  <label id="label-speech-6" class="btn btn-secondary" for="option-speech-6">Liisi</label>
+                </div>
+                <div>
+                  <input type="radio" value="7" class="btn-check" name="options" id="option-speech-7" autocomplete="off">
+                  <label id="label-speech-7" class="btn btn-secondary" for="option-speech-7">Riina</label>
+                </div>
+                <div>
+                  <input type="radio" value="8" class="btn-check" name="options" id="option-speech-8" autocomplete="off">
+                  <label id="label-speech-8" class="btn btn-secondary" for="option-speech-8">Lee</label>
+                </div>
+              </form>
+              <span class="mt-2" id="selected-voice-span"></span>
+              <div class="text-center align-middle d-flex justify-content-center align-items-center">
+                <button id="speech-test-button" type="button" class="btn btn-secondary bg-dark">Testi&nbsp;&nbsp;<i class="fa-solid fa-volume-high"></i></button>
+                <div class="loader-test fs2"></div>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary bg-dark" data-bs-dismiss="modal">Sulge</button>
+              <button id="idAccessibilityDefault" type="button" class="btn btn-primary bg-dark">Taasta algseaded</button>
+            </div>
+          </div>
+        </div>
+      </div>
+  </nav>
+    <section>
+      <div class="container mt-sm-4"">
+        <!-- Bookmark area -->
+        <div class="bookmark-container">
+          <a href="https://www.folklore.ee/">
+            Eesti folkloristide andmebaas
+          </a>
+          <span class="separator"> / </span>
+          <a href="https://www.folklore.ee/ebaas/">
+            Andmebaasid
+          </a>
+          <span class="separator"> / </span>
+          <a href="./index.html">
+            Eesti ütlused
+          </a>
+          <span class="separator"> / </span>
+          <a href="#">
+            Eesti vanasõnad
+          </a>
+        </div>
+
+        <!-- Back button area -->
+        <div id="backBtnArea" class="mt-sm-4">
+          <a href="./index.html" class="back-button">
+            <i class="fa-solid fa-chevron-left"></i> Tagasi avalehele
+          </a>
+        </div>
+
+        <div class="row">
+          <!-- Heading area -->
+          <div class="col-lg-6 heading-container mt-sm-5">
+            <h1 class="display-6">Eesti vanasõnad
+              <button class="mt-auto fs-2" id="tts" type="button" aria-pressed="false" autocomplete="off">
+                <i class="fa-solid fa-volume-high"></i>
+              </button>
+              <div class="loader fs-2"></div>
+            </h1>
+
+            <h4 class="mt-lg-5">Otsimismasin</h4>
+            <hr>
+            <div class="input-group mt-lg-5">
+              <div class="form-floating">
+                <input type="search" id="search-form" class="form-control" placeholder="Otsi"/>
+              </div>
+            </div>
+          </div>  
+          <!-- Info area -->
+          <div id="info-area" class="col-lg-6 heading-container mt-sm-5 info-area">
+            <div class="d-flex flex-wrap default-active">
+              <div class="buttons-container">
+                <div>
+                  <button type="button1" class="info-button" data-toggle="button1" aria-pressed="false" autocomplete="off">
+                    <i class="fa-solid fa-circle-info"></i>
+                  </button>
+                </div>
+                <div>
+                  <button type="button2" class="question-button" data-toggle="button2" aria-pressed="false" autocomplete="off">
+                    <i class="fa-solid fa-circle-question"></i>
+                  </button>
+                </div>
+              </div>
+              <div class="info-text-container">
+                  <span class="info-text">
+                    <button class="" id="tts-info" type="button" aria-pressed="false" autocomplete="off">
+                      <i class="fa-solid fa-volume-high"></i>
+                    </button>
+                    <div class="loader-info fs-2"></div>
+                    <p>
+                        See otsimismasin võimaldab teha leksikaalseid päringuid ligi 13000 teksti suurusest massiivist, mis sisaldab printsiibis kõigi teadaolevate eesti traditsioonis käibinud ja/või käibivate vanasõnatüüpide normaalvorme. Põhiosa siinseist tekstidest esindab aastail 1980 – 1988 ilmunud teaduslikus väljaandes Eesti vanasõnad (edaspidi: EV) leiduvaid vanasõnatüüpe.
+                    </p>
+
+                    <p>
+                        Tekstid kattuvad enamasti (kuid mitte tingimata) EV-tüüpide tiiteltekstidega ("tüübipealkirjadega"). Neile lisaks on toodud u 250 näidet tüüpidest, mida neil või teistel põhjustel EV-s ei leidu.
+                    </p>
+                    <p>
+                        Otsija võimaldab järjestada leide EV tüübinumbrite järgi või vanasõnatüüpide "võimsuse" (s.t rahvaehtsate arhiivitekstide arvu) järgi. EV-välised vanasõnatüübid kannavad tingnumbreid, mis algavad 15141-st (sest EV-s on üldse 15140 tüpoloogilist üksust).
+                    </p>
+                    <p>
+                        Tekstid on sisestanud Anne Hussar, Arvo Krikmann ja Katrin Mikk, redigeerinud Luule Krikmann. Otsimismasina ehitas Martin Toming.
+                    </p>
+
+                  </span>
+                  <span class="question-text">
+                    <p>Otsimine:</p>
+                    <p class="pb-0 mb-0">1. Sõnaosa kaudu - nt kass.</p>
+                    <p class="pb-0 mb-0">2. Sõna järgi -nt ( kass ).</p>
+                    <p class="pb-0 mb-0">3. Alternatiivseid tähti sisaldavate avaldiste korral -nt nai[ns]e.</p>
+                    <p>4. Erinevaid sõnu sisaldavate kombinatsioonide puhul</p>
+                    <p class="pb-0 mb-0"><span class=fw-bolder>nai[ns]e & kass</span> - kõik väljendid, mis sisaldavad sõnu kass <span class="text-decoration-underline">ja</span> naine (naise).</p>
+                    <p class="pb-0 mb-0"><span class=fw-bolder>nai[ns]e | kass</span> - kõik väljendid, mis sisaldavad sõnu kass <span class="text-decoration-underline">või</span> naine (naise).</p>
+                    <p class="pb-0 mb-0"><span class=fw-bolder>{kass|koer} & nagu</span> - kõik väljendid, mis sisaldavad sõnu kass või koer ja nagu. (avaldiste grupeerimiseks kasutame loogelisi sulge {} )</p>
+                    
+                  </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="d-flex justify-content-center align-items-center mt-3">
+          <span id="entries-count"></span>
+        </div>
+
+        <div class="pagination d-flex justify-content-center align-items-center mt-5">
+            <button class="page-button me-2 pe-3" id="prev-button-top"><i class="fa-solid fa-chevron-up fa-rotate-270 my-auto"></i><span class="my-auto">Eelmine</span></button>
+            <div>
+                <p class="my-auto" id="page-number-top"></p>
+            </div>
+
+            <button class="page-button ms-2 ps-3" id="next-button-top"><span class="my-auto">Järgmine</span><i class="fa-solid fa-chevron-up fa-rotate-90"></i></button>
+        </div>
+
+        <table id="results-table" class="table table-sm table-hover">
+            <thead>
+                <tr>
+                    <th scope="col">Tüübi nr.</th>
+                    <th scope="col">Vanasõna
+                      <button class="" id="tts-table" type="button" aria-pressed="false" autocomplete="off">
+                        <i class="fa-solid fa-volume-high"></i>
+                      </button>
+                      <div class="loader-table fs-2"></div>
+                    </th>
+                    <th scope="col">Autentseid tekste</th>
+                </tr>
+            </thead>
+            <tbody id="table-body" class="table-group-divider">
+
+            </tbody>
+
+        </table>
+
+        <div class="pagination d-flex justify-content-center align-items-center mb-5">
+          <button class="page-button me-2 pe-3" id="prev-button-bottom"><i class="fa-solid fa-chevron-up fa-rotate-270 my-auto"></i><span class="my-auto">Eelmine</span></button>
+          <div>
+              <p class="my-auto" id="page-number-bottom"></p>
+          </div>
+
+          <button class="page-button ms-2 ps-3" id="next-button-bottom"><span class="my-auto">Järgmine</span><i class="fa-solid fa-chevron-up fa-rotate-90"></i></button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Mobile view navigation buttons -->
+    <div class="bot-btn">
+      <button id="bot-back-btn">
+        <a href="./index.html"><i class="fa-solid fa-turn-up fa-rotate-270"></i></a>
+      </button>
+      <button id="bot-scroll-up-btn" onclick="scrollToTop()">
+        <i class="fa-solid fa-arrow-up"></i>
+      </button>
+    </div>
+
+  <!-- Site footer -->
+  <footer class="site-footer mt-lg-5 flex-grow-1">
+    <div class="container justify-content-evenly">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>Eesti Kirjandusmuuseum</h6>
+            <p class="text-justify">EKM on teadus- ja arendusasutus, mis täidab ka riigi keskse teadusliku mäluasutuse ülesandeid, hallates olulisi kultuuriloo ja rahvaluule (folkloristika) arhiive ning Eesti rahvusteaviku ja vanaraamatu kogusid.</p>
+            <strong class="text-justify">Avatud E - N kell 9-17; R kell 9-16.30</strong>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <h6>Kontakt</h6>
+          <ul class="footer-links">
+            <li><a href="tel:+3727377700">(+372) 7 377 700</a></li>
+            <li><a href="mailto:kirmus@kirmus.ee">kirmus@kirmus.ee</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <h6>Aadress</h6>
+          <ul class="footer-links">
+            <li><a target="_blank" href="https://www.google.com/maps/place/Estonian+Literary+Museum/@58.373895,26.7155176,17z/data=!3m1!4b1!4m5!3m4!1s0x46eb371febf131e9:0xe45379e05185d36d!8m2!3d58.3738922!4d26.7177062">Vanemuise 42, 51003 Tartu</a></li>
+            <li><a target="_blank" href="https://ariregister.rik.ee/est/company/70003879/Eesti-Kirjandusmuuseum?search_id=318159e&pos=1">Reg nr 70003879</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <p class="copyright-text">&copy; <span id="copyright-year"></span> <a class="link-body-emphasis" target="_blank" href="https://www.folklore.ee">Eesti Kirjandusmuuseumi folkloristika osakond</a>, kõik õigused kaitstud.
+          </p>
+        </div>
+
+        <div class="col-md-6 col-sm-6 col-xs-12">
+          <ul class="social-icons">
+            <li><a class="facebook" target="_blank" href="https://www.facebook.com/kirjandusmuuseum/"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="twitter" target="_blank" href="https://twitter.com/eratera?lang=en"><i class="fa fa-twitter"></i></a></li>
+            <li><a class="dribbble" target="_blank" href="https://www.kirmus.ee/et"><i class="fa fa-dribbble"></i></a></li>
+            <li><a class="linkedin" target="_blank" href="https://www.linkedin.com/company/estonian-literary-museum/mycompany/"><i class="fa fa-linkedin"></i></a></li>   
+          </ul>
+        </div>
+      </div>
+    </div>
+</footer>
+</body>
+
+<script src="../../app.js" crossorigin="anonymous"></script>
+<script src="../../info.js" crossorigin="anonymous"></script>
+<script src="./vanasonadData.js" crossorigin="anonymous"></script>
+<script src="./accessibility_options.js" crossorigin="anonymous"></script>
+<script src="../../speech_dynamic.js" crossorigin="anonymous"></script>
+</html>

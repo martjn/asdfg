@@ -1,0 +1,356 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-12.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-12-flip.gif">
+</div>
+
+K. "VANASÕNARAAMATU" SISULISEST SÜSTEEMIST
+
+1.
+Vanasõnaväljaannetes on materjali süstematiseerimiseks (järjestamiseks, grupeerimiseks) kasutatud üpris mitmesuguseid põhimõtteid, sh. etnilis-geograafilist, keelelist, kronoloogilist, sageduslikku jpm. Teistest märksa sagedasemateks on senises praktikas osutunud siiski kaks järjestusprintsiipi: alfabeetiline ja temaatiline. Seejuures on alfabeetiline põhimõte olnud valdav just teaduslikumat laadi väljaannetes, temaatiline aga populaarsetes väljaannetes. Viimaste hulka tahab kuuluda ka "Vanasõnaraamat".
+Kui vaadata sisulis-temaatilisi vanasõnasüsteeme, mis senistes väljaannetes on realiseeritud või teoreetiliste konstruktsioonidena välja pakutud, võib peagi veenduda, et
+   1) need süsteemid on üksteisest suuresti erinevad, praktiliselt on neid niisama palju kui nende koostajaid;
+   2) nad peegeldavad pigem koostajate endi maailmanägemisi ja maitseid kui vanasõnade sisus tegelikult esilekerkivaid sisudominante, põhikategooriaid, paradigmasid, nn. loomulikke klasse; pahatihti on nad ülimalt tendentslikud ja meelevaldsed;
+   3) nad ei võimalda kuigi edukat materjali ülesleidmist sisuliste tunnuste järgi ja on üsna hoolimatud klassifikatoorsete protseduuride loogilise ranguse ja "semantilise heakorra" suhtes.
+Osa neist puudustest võib johtuda ka klassifitseerija rumalusest, hooletusest, ebaobjektiivsest suhtumisest ainestikku, religioosseist või poliitilistest eelarvamustest, tsensuursest välissurvest vmt.
+Kuid on karta, et isegi kui nende mürafaktorite kaasamäng oleks välistatud või minimaalne, ei paraneks tulemus kuigi märkimisväärselt, sest suurem osa raskusi tuleneb nimelt "asjast enesest", st. vanasõna kui poeetilise ja kommunikatiivse fenomeni spetsiifikast, inimkeele ja selle semantika spetsiifikast, inimmeele toimimise spetsiifikast, inimelu ja -tegevuse loomusest.
+
+2.
+Nimetame siin lühidalt vaid mõnesid seniseid silmapaistvamaid katseid nende hulgast, kus semantilise vanasõnasüsteemi rajamine on püstitatud puhtteadusliku eriülesandena, mitte lihtsalt mingi aine korrastamiseks mõnes populaarses kogumikus.
+
+Semantilised vanasõna-klassifikatsioonid olid eriti 70-ndate aastate parömioloogias aktuaalne probleem ja aktuaalseks said nad tänu eelkõige selle sajandi ühe tuntuma parömioloogiaklassiku Grigori Permjakovi (1919–1983) töödele "Избранные пословицы и поговорки народов Востока" (1968), От поговорки до сказки" (1970), "Паремиологический эксперимент" (1971), "Пословицы и поговорки народов Востока" (1979) jt. Permjakovi praktilised klassifikatsioonikatsed põhinesid ta nn. üldisel klišeeteoorial, mille sihiks oli leida teatav klassifikatoorsete tunnuste komplekt või universaalne metakeelne aparatuur väga erineva pikkuse ja keerukusega tekstide ühtseks liigitamiseks, kirjeldamiseks ja analüüsiks.
+Sellepoolest on Permjakovi püüdlusi võrreldud ühtse keelekirjelduse või ühtse tekstiteooria loomise katsetega glossemaatilises lingvistikas, eriti Louis Hjelmslev'l. Permjakovi klišeeteooria ja vanasõnasüsteemid tegid ilma ja olid kuumaks teemaks kogu 70-ndate aastate parömioloogias.
+Teine maailmakuulus parömioloog Matti Kuusi (1914–1998) oli 1960-ndail aastail rajanud soome vanasõnade rahvusvaheliste paralleelide kartoteegi, mis oli algselt mõeldud isiklikuks teabevahendiks ja mälutoeks, kuid arenes peagi ulatuslikku globaalainest esindavaks registriks.
+Kui 60-ndate lõpul ja 70-ndate alul ilmusid Permjakovi esimesed suuremad tööd (vt. ülal), andsid need Kuusile kahtlemata tugeva lisaimpulsi uurida põhjalikumalt vanasõnaväljaannetes (eriti rahvusvahelistes) pruugitavaid aine süstematiseerimise viise ja mõelda omaenda vanasõnaindeksi esitussüsteemile.
+Kuusi kritiseeris Permjakovi süsteemi mitmeid külgi ning avaldas väljavõtteid omapoolseist katsetustest, mis olid küll samuti orienteeritud binaarseile opositsioonidele nagu Permjakovi omadki ― vt.
+"How Can a Type-Index of International Proverbs be Outlined?" ("Proverbium" 15 (1970)); "Towards an International Type-System of Proverbs" (FFC 211; 1972).
+Kuna sellised liigitusviisid on jäigalt ühemõõtmelised, seega abitud konkureerivate alternatiivide tekke korral ning tüpoloogiliselt hõredate ja katkendlike aineosade menetlemisel üldse, siis pettus Kuusi opositsioonipaaridele vm. invariantidele rajatud liigituste võimalustes ilmselt peagi ja paratamatult. 
+(Põhimõtteliselt samas suunas on toimunud ka Permjakovi süsteemide areng: kui (1968). a. süsteem oli oma põhivormilt, võiks öelda, neli lineaarset jada, siis (1979). a. raamatus toodud liigitus on juba komplekt 2-mõõtmelisi maatrikseid.) Võimaldamaks rakendada teatava vanasõnatüübi semantilise staatuse määratlemiseks enam kui üht liigitusalust, transformeerisid Kuusi ja ta tütar Outi Lauhakangas indeksi 1980-ndate aastate lõpul Paradox-süsteemis relatsiooniliseks andmebaasiks, mis võimaldab saada ainest ülevaateid mitmes erinevas lõikes.
+Loodetavasti edastatakse register juba peatselt ka rahvusvahelisele parömioloogilisele üldsusele ― nt. Interneti kaudu, CD-ROM-il vm. elektroonilises vormis. Register ei ilmu võib-olla kunagi raamatuna, kuid allikmaterjali põhjal on tegijad avaldanud tüseda köite maailma rahvaste vanasõnu soome keelde tõlgituna pealkirjaga Maailman sananlaskuviisaus (1993), kus materjal on serveeritud väga originaalses semantilises rubrikatsioonis.
+
+3.
+Tahtmata tüüdata lugejat keelelise ja poeetilise semantika üldprobleemidega, osutagem järgnevas vaid mõnedele põhiseikadele, mis kvaliteetsete semantiliste vanasõnaliigituste loomist raskendavad.
+
+1. Sisulise otseteabe vähesus
+
+Kogu maailma vanasõnafondidele on iseloomulik, et nad koosnevad pelkadest tekstidest, mille juurde on vaid harva lisatud kommentaare ütluste tähenduste, traditsiooniliste kasutamispuhkude jms. kohta. Siit johtub otsene oht, et me võime tõlgendada vanasõnade kujundikeelt valesti, eriti kui see on arhailine või pärineb mõnest meile kaugest kultuurist.
+Vähegi suurema fondi puhul sadestub paratamatult ka mõningane hulk selliseid ütlusi, mille sisu jääb kaasaegsele uurijale või avaldajale juba sedavõrd käsitamatuks, et ei söanda otsustada ühegi tõlgenduse kasuks. "Vanasõnaraamatus" on sedalaadi ütlused koondatud viimaseks, J-peatükiks.
+2. Vanasõnade polüseemia
+
+Vanasõnatekst on tihti semantiliselt määramatu, mitmetitõlgenduv. Selle määramatuse üks peamisi ja enamtuntud aspekte on denotatiivne (referentsiaalne, designatiivne) määramatus, mille peapõhjuseks on vanasõnale omase mõistukõne (metafoori, allegooria) mitmetitõlgendatavus.
+Mulle teadaolevaist näidetest sellise mitmetisuse kohta on üks kaunimaid Vilmos Voigti artiklis "Variantenschichten eines ungarischen Proverbiums" toodud andmestik ungari vanasõna Ka kuradile peab küünalt süüdatama tähendusvariantide kohta (vt. "Proverbium" 15 (1970)). Väidetavasti on seda vanasõna tegelikult kasutatud ja/või kasutatakse vähemalt järgmistes alltähendustes:
+Maailmas tuleb ette häid kui ka halbu inimesi
+Inimeste hulgas, kes kirikus istuvad, tuleb ette häid ja halbu
+Ka halb inimene võib kirikusse minna
+Ka paha moraaliga inimene võib end kord parandada
+Ka hea inimene võib eksida või patustada
+Ka hea mees petab vahete-vahel oma naist
+Abielutruudust ei pea alati pidama
+Ka vaikne inimene lööb vahel üle aisa (riidleb, kakleb, käitub amoraalselt)
+Tuleb ette, et keegi on juua täis
+Purjusolek pole mingi surmapatt
+Ka joobnu saab kord kaineks
+Kes praegu purjus on, tuleb kord mõistusele
+Pole paha, kui keegi end kord väga purju joob
+Inimesele peab andeks andma
+Mitte omal tahtel ei saa inimene joobnuks
+Ma tülitsen kellegagi ja mitte mulle ei anta õigust
+Inimest peetakse alusetult süüdlaseks
+Inimene teeb kogemata halba
+Väikesed asjad lähevad kasutamisel kaduma
+See tööriist, mida tihti kätte võetakse, läheb ruttu kaduma
+Kuna vanasõnatekstide denotatiivne määramatus väljendub tihtipeale (ka) temaatilise määramatusena, siis pole raske arvata, mis tülin johtub sellest vanasõnade sisulisel liigitamisel: me tahaksime panna iga vanasõna oma süsteemis ühte kindlasse kohta, kuid see osutub võimalikuks vaid kompromisside ja meelevaldsuse hinnaga.
+Nt. äsjatoodud ungari vanasõna sobiks paigutada selliste teemade alla, nagu 'kirikuskäimine', 'hea ja halb inimene', 'eksimused, pahed', 'abielurikkumine', 'joomine, joodik', 'andestamine', 'tüli', 'süüdistamine', 'asjad, tööriistad', võib-olla ka 'äpardused, juhtumused' vm.
+Kompromisslahenduste otsingul võib liigitaja liikuda kas "horisontaalses" või "vertikaalses" suunas:
+(1). Ta võib püüda (nt. otseseletuste hulga põhjal) otsustada, kas mõni tähendusvariantidest on "põhiline" (st. sagedasim, tähtsaim) ja teha paigutuse selle põhitähenduse järgi.
+(2). Kuna vanasõna "horisontaalsed" tähendusvariandid pole üksteise suhtes harilikult mingid pimedad homonüümid, vaid omavad tähenduslikku ühisosa, siis "vertikaalne" kompromisslahendus võiks seisneda selles, et püütakse formuleerida vanasõna tähendustervikut kirjeldav metatekst (sh. ta teemamäärang) nii optimaalseis ja üldistes terminites, et see kataks enamiku "horisontaalseist" tähendusvariantidest.
+(3). Võib dubleerida vanasõna ta kõigi või peamiste teemamäärangute alla nii "horisontaalses" kui "vertikaalses" lõikes.
+Ka Voigti näites on teemad, nagu 'abielurikkumine', 'joomine', 'tülitsemine' üksteisest sisuliselt enam-vähem välistuvad, st. "horisontalses" vahekorras; teemamäärangud 'hea ja halb inimene' või 'eksimused, pahed' seevastu on eelmistest märksa suurema mõistemahuga, st. asuvad neist "vertikaalselt" kõrgemal. (Siin kasutatud väljendid horisontaalne ja vertikaalne on ise ka mõistagi vaid jämedad metafoorid; mõistete ja sõnade tegelikud sisusuhted on võrratult keerukamad.)
+Peale denotatiivse polüseemia võivad liigitajale raskusi valmistada ka vanasõna semantilise määramatuse muud, sh. modaalsed aspektid. Meie ungari näide laseb neistki mõnesid demonstreerida, nt. väitevormilise ütluse hinnangulise allteksti ja sellest sõltuva kaudse ettekirjutuse määramatust, samuti ütluse "psühholoogilise rõhu" (infostruktuuri, aktuaalse liigenduse) määramatust. Denotatiivne info, mis enam-vähem parajasti või liiaga katab mitmed loetletud 20 tähendusvariandist, võiks olla sõnastatud umbes järgmiselt: 'ka üldiselt hea inimene võib vahel teha halba (eksida, patustada vm.)'. Konstateerivas metatekstis on psühholoogiline rõhk lahtine ning olenevalt sellest, kas me kujutleme seda rõhku asuvat heal või halval, saame kaks erinevat tõlgendusliini:
+   1) 'kuigi hea inimene vahel teeb halba, on ta põhiliselt siiski hea' → 'hea inimese üksikud eksimused on vabandatavad, need tuleks talle andestada' ja
+   2) 'kuigi keegi on põhiliselt küll hea, teeb ta vahel ka halba' → 'ka head inimest ei või liialt usaldada, kiita vmt.'
+Praktikas liituvad vanasõna semantilise määramatuse efektid mainitud otseandme-vaeguse probleemidega. Vanasõna "tähendustõlke" vormistamisel me ei saa toetuda ainuüksi dokumenteeritud otseandmetele (sest neid on reeglina väga napilt) ega ka ainult omaenda keele- ja fraseoloogia-alasele üldkompetentsile (sest ka otseandmeid on vaja arvestada), nende kahe kokkusobitamine võib aga vahel üsnagi tülikaks kujuneda.
+3. Vanasõnateksti semantiline kirjeldus on paratamatult sisuvaesem kui objekttekst ise
+
+Vältimatu infokadu leiab aset kõikjal, kus on tegu modelleerimis- või üldistamisprotsessidega. Nii ka vanasõna kui poeetilise üksuse adekvaatne semantiline kirje saab olla ainult seesama vanasõnatekst ise, mistahes "mittekunstilised" metatekstid on lähtetekstist paratamatult infovaesemad. Infokadu jätkub mitmetähendusliku vanasõna paigutamisel sisulisse süsteemi. Edasi, senised sisulised vanasõnaliigitused on pea eranditult nimelt temaatilised, st. nende klassid on tähistatud reeglina nimisõnade, teonimede vm. mittepredikatiivsete sõnade või sõnaühenditega: 'Linnud', 'Vaesus', 'Ahnus'; 'Heinategu', 'Varastamine'; Laiskus ja virkus', Töö ja tasu'; 'Vanemate ja laste suhted', 'Kohtumõistmise ebaõiglus' vmt. Vanasõnatekstid ise on teisalt laused, st. kätkevad tingimata predikatsiooniakti ja seega koosnevad tingimata vähemalt kahest allosast:
+   1) sellest, kus osutatakse, millest antud lauses on juttu (e. teemast, teadaolevast infost) ja
+   2) sellest, kus selle teadaoleva kohta midagi öeldakse (e. reemast, uuest infost).
+Seega rikastab tavapärane temaatiline vanasõnasüsteem infokao-mehhanismi terve uue lõike või mõõtme võrra ja infokadu toimub efektiivselt isegi siis, kui meil on dokumenteeritud otseteavet küllaga ja ka vanasõna semantiline laialivalguvus pole kuigi suur.
+Kuna kontekstitu lause, sh. vanasõnateksti infostruktuur ise on samuti üldjuhul määramatu, siis pole millegagi tagatud, et erinevad liigitajad valiksid mingi vanasõna sisutervikust välja ühe ja sama elemendi või osastruktuuri. Pahatihti ei eelne sisuliigituse tegemisele pealegi vanasõnafondi tüpoloogilise korraldamise etappi, kus iga eri vanasõna esindavad tekstid püütaks kokku koondada, nõnda et liigitamisele tulevateks üksusteks oleksid lõppkokkuvõttes mitte üksiktekstid, vaid tüübid (folkloristlikus tähenduses). Nõnda on vähegi suurema vanasõnafondi puhul ootuspärane, et lähedase või identse sõnastusega tekste satub kavatsematult süsteemi eri rubriikidesse. Sedalaadi apsudest pole pääsenud isegi rahvusvahelise mainega autorid Dalist kuni Permjakovini ning selle kurja üheks peajuureks metafoori polüseemia kõrval on just teemamäärangute meelevaldsus.
+Hetkeks võib tekkida illusioon, et infokadu oleks võimalik ohjeldada, kui üritaksime teemade klassifikatsiooni asemel luua hoopis ideede (väidete, hinnangute, keeldude, normide jne.) klassifikatsiooni. Igal üksikjuhul eraldi oleks lausevormiline metatekst muidugi suuteline edastama märksa suuremat hulka objekttekstis (so. vanasõnatekstis) sisalduvast infost. Kuid me märkaksime peagi, et selle võttega pole probleemi põhimõttelisele lahendusele põrmugi lähemale jõutud, vaid probleem on lükatud pelgalt astme võrra ülespoole ― vahekorralt 'tekst : metatekst' vahekorrale 'madalama astme metatekst : kõrgema astme metatekst'.
+Praktilisteks lahenditeks saaksid siingi olla ilmselt ainult nii- või teistsugused kompromissid.
+Me võiksime näiteks jätta oma "ideede kogumi" tervikuna madalale üldisusastmele, nii et ta kujutaks endast pigem lineaarset jada kui klassifikatsiooni. Selliste madala astme rühmade või "üksikideede" hulk saaks aga olema hästi suur ning kui nende vahelised suhted jääksid täiesti näitamata, võiks vajaliku materjali kätteleidmine sellisest süsteemist kujuneda üpris raskeks.
+Kui aga püüaksime ühendada konkreetsemaid ideid üldistatumaiks ideedeks, leiaksime end peagi taas paljude vanade ja uute komplikatsioonide eest. Nt. avastaksime tõenäoliselt, et meie alamastme ideede väli ei kujuta endast mingit "horisontaaltasandikku", vaid mõned ideed asuvad mõistemahult üleni kõrgemal kui teised (st. sisaldavad teisi); või et ühes ja samas alamastme metatekstis on osa mõisteid juba nii üldised, et neid on võimatu viia mingite veel üldisemate soomõistete alla, mõnesid teisi mõisteid võiks taas paigutada paljude erinevate soomõistete alla; või et ka väljaspool mõistemahu-probleeme on osa ideid omavahel mitmesugustes kausaalsetes, modaalsetes, pragmaatilistes eeldus-järeldussuhetes vm. laadi suguluses, nii et ühtede seoste fikseerimine süsteemi ülemastmetel saab toimuda vaid teiste seoste katkirebimise hinnaga.
+Veendumaks öeldu paikapidavuses vaatame näiteks järgmist ideesülemit (neile vastav eesti materjal pärineb "Vanasõnaraaamatu" sisurühmadest 213, 256, 322, 338–340, 356, 385–387, 413, 530, 558, 604–605, 689, 706–707, 744–759, 767–768, 806, 854, 871, 879, 897, 900, 915):
+Alul (laused 1–3) käib jutt sõnade ja mõtete suhete ja vastavuse ümber ja aksioloogiline alltekst on enam-vähem neutraalne.
+Ära räägi kõike, mida mõtled
+Inimestele on omane mõelda üht ja kõnelda teist
+Teise inimese mõtteid ~ tundeid ~ kavatsusi pole võimalik teada
+Lause 4 on eelmise, üldisema sisuga lause konkretiseering ning toob ühtlasi sisse salakavaluse elemendi; siitpeale on ideed hea/halva plaanis selgesti markeeritud. Mingilt küljelt vaadatuna on laused 5 ja 6 omakorda (4). lause konkretiseeringud.
+Salaliku inimese mõtteid pole võimalik läbi näha
+Saksa viha on varjatud, kuid kestev
+Salakaval sõber on hullem kui vaenlane
+Kes silma ees kõneleb lahkesti, see südames mõtleb kurja
+Lause 8 seob salakavaluse uskumise, usaldusega ja see sisukomponent jätkub ka edasi veel tükk aega ((27). lauseni). Laused 8–12 on imperatiivsed ja toovad esile mõningaid inimtüüpe, keda nende mentaalse või sotsiaalse loomulaadi tõttu ei või väidetavalt uskuda või usaldada.
+Salakavalat inimest ei või uskuda
+Ära usalda kurja inimest
+Kurja inimest peab kartma, umbusaldama
+Saksa ei või usaldada
+Saksa lubadust ei maksa uskuda
+Lausest 13 jätkub jutt endiselt uskmatuse ja usaldamatuse ümber, kuid modaliteet on nüüd indikatiivne. Töödeldakse ja konkretiseeritakse mitmes suunas ideed, et miskipoolest erinevad inimesed ei usu teineteist. Laused 13–14 on tegelikult laused teise inimese mingi konkreetse häda uskumise kohta ja lause 15 on teatud mõttes nende üldistus.
+Rikas ei usu vaest, vaene rikast
+Terve ei usu haiget
+Võõrast häda ei usuta, kaldutakse alahindama
+Usald(amat)use teema jätkub (16).–(20). lauseni, kuid seostatavad inimesed on markeeritud siin just eetilises, kõlbelises plaanis.
+Valelik ei usu, et teine tõtt räägib
+Vooruslik usaldab pahelist, paheline vooruslikku mitte
+Paheline ei usalda vooruslikku
+Laused 19 ja 20 on taas mingis mõttes ligikaudu vastandlikud: (19). lauses on pahade vahel pahad, umbusklikud suhted, 20. lauses head ja solidaarsed.
+Paheline ~ kurjategija ~ kõlvatu ei usalda teist omasugust
+Kelmid on omavahel solidaarsed, tunnevad üksteist, ei reeda üksteist
+Laused 21–26 on uuesti selgelt imperatiivsed ning taas tuuakse inimtüüpe, keda ei tohi uskuda: petis, sõber, naine.
+Petist uskuda on mõttetu ~ kasutu ~ kahjulik
+Ära usu hullu ~ rumalat
+Sõpra ei või liialt usaldada
+Naist ei või usaldada, järelvalveta jätta
+Lause 25 on sisult paradoksaalne, sest keelab iseennastki uskumast ja jätab avaralt ruumi mõtisklustele, et mida siin siis õieti mõeldud on.
+Ära usalda iseennastki
+Laused 26 ja 27 on ühest küljest üsna sünonüümsed: võõraid ei tohi uskuda, neid, keda ammu tuntakse, võib. Kuid (27). lause toob ühtlasi sisse aja parameetri, konkreetsemalt enneaegsete asjade motiivi. Edasi konkretiseeritakse taas, millised need enneaegsed asjad just on ja mida nende suhtes valesti tehakse. See kestab kuni (33). lauseni.
+Ära usu ilma ~ võõraid ~ juhuslikke inimesi ~ igaüht
+Teist inimest võib usaldada vaid siis, kui teda põhjalikult tunned
+Laused 28 ja 29 on sünonüümsed sellepoolest, et suhtumise objektiks on mõlemas naine.Lause 29 on sisult lause 30 alljuht või konkretiseering.
+Naist ei või tunda enne, kui temaga kaua koos elatud
+Naist ei või enneaegu kiita
+Kedagi ei või enne kiita/laita, kui teda põhjalikult tunned
+Ära kiida enneaegu ilma ~ päeva ~ aastat vms.
+Ära rõõmusta ~ hellita lootusi enneaegu
+Ka (33). ja (34). lause vahel on sünonüümiasuhe: vana ~ kogetu.
+Vana tuntud, uus tundmata
+Mis kogetud, see teatud, mis kogemata, see teadmata
+Lauseis 35 ja 36 seotakse teatuse motiiv jälle usalduse ja pettuse motiividega.
+Keda teatakse, seda osatakse ka usaldada/umbusaldada ~ karta ~ kahtlustada
+Kes on kord petnud, seda edaspidi ei usaldata
+Laused 37 ja 38 on samuti sisulises suguluses, kuid seda ei saa kvalifitseerida ei sünonüümiakas ega antonüümiaks: nad on pigem välistuvad või vastuolulised ses mõttes, et nii (liigset) kergeusklikkust kui ka umbusku taunitakse.
+Kergeusklik saab hõlpsasti petta
+Kes teist umbusaldab, pole ka ise usaldusväärne
+Laused 39 ja 40 on semantilises suguluses sellepoolest, et mõlemas käsitletakse ja võrdsustatakse väikesi ja suuri usalduskaotusi või vargusi.
+Kes pole usaldusväärne väikesis asjus, pole usaldusväärne ka suurtes
+Väike vargus on niisama taunitav kui suur
+Alates lausest 41 on jätkuvasti juttu uskumisest, kuid see pole nüüd enam usaldus teise inimese vastu, vaid üldisem info tõeväärsuse/paikapidamatuse probleem.
+Usu ainult seda, mida kindlasti tead
+Ise nähtu on usaldusväärsem kui teistelt kuuldu
+Laused 43–46 tegelevad õieti kuulujuttude ja nende usaldatavusega.
+Ära usu kõike, mida räägitakse
+Kuulujutud on tihti alusetud või liialdatud
+Kuulujutt ei teki iseenesest, tal on tõepõhi
+Mida ei teata, sellest ei räägita
+Laused 47–50 eelmistest tehtavad üldistused või järeldused, kus vormistus on kord aksioloogiline, kord imperatiivne. Ühtlasi esindavad nad kõik üldisemat ideed 'Räägi vähem!'.
+Pigem vaikida kui liigselt lobiseda
+Liigne jutukus toob halba
+Mõtle järele, enne kui kõneled ~ ära räägi mõtlematut
+Lause 50 on lause 49 üldistus selles mõttes, et rääkimine on üks tegutsemise alaliik ja mõlema kohta kästakse enne mõelda ja järele kaaluda.
+Kaalutle hoolikalt, enne kui midagi teed
+Lause 51 on lausega 50 vahetus modaalseoses, ta on 50. lause põhjendus ja neid võib kokku lugeda üheks mõttekäiguks, umbes: 'Kes ei kaalutle hoolega oma tegusid, see saab kahju, seepärast kaalutle hoolega oma tegusid'.
+Kes ettevaatamatult toimib, saab kahju ~ peab kahetsema
+Inimene reedab end ise oma kõne läbi
+Edasiräägitu kipub levima
+Edasi arendatakse rääkimise/vaikimise strateegiaid veel mitmes suunas ja (54).–(55). lause kandis nihkutakse pealtkuulamise ja saladuse motiivide juurde ning lausetes 55, 59, 61, 64 ja 66 nimetatakse subjekte, kes pealtkuulajate või saladuste kaasteadjatena on silmapaistvalt ohtlikud.
+Ära räägi kõike, kui on ebasoovitavaid pealtkuulajaid
+Laps kuuleb pealt ~ räägib välja pere saladused
+Laps ei oska teeselda, valetada
+Naised on loomult jutukad
+Naine ei suuda kuuldut endale pidada
+Ära räägi oma saladusi naisele
+Naisel pole vaja healegi mehele kõike ära rääkida
+Ära räägi oma saladusi sõbrale
+Lausetes 62–64 on toodud sisse kitsendus 'oma pere' ja seega ka alternatiivne teemamäärangu võimalus.
+Oma pere saladusi ~ lahkhelisid vms. ära räägi külas edasi
+Omad ärgu tülitsegu võõraste juuresolekul
+Võõras ~ külaline ~ palgaline vm. näeb ära ~ räägib välja pere saladused
+Sant, kerjus kannab kuulujutte edasi
+Ära räägi liigset sandile, sest ta räägib kõik edasi
+Laused 67–70 teevad saladuste asjus väga laiad ja absoluutsed "ontoloogilised" üldistused.
+Kõikjal, isegi näiliselt ohutuis kohtades võib olla pealtnägijaid ~ -kuuljaid
+Mõned neist, kes näivad magavat ~ ükskõiksetena ~ tähelepanematuina, on tegelikult ärkvel ~ tähelepanelikud
+Midagi pole võimalik teha nii salaja, et ei tuleks päevavalgele
+Salajutt ~ -tegu tuleb lõpuks ikka avalikuks
+Laused 71–73 on väitlausete 67–70 ligikaudsed tuletised aksioloogilisel (ja imperatiivsel) tasandil.
+Parem toimida avalikult kui salaja
+Salatsemine toob halba
+Liigne uudishimu toob halba
+Lause 74 on lause 73 omamoodi "ebatäpne" kitsendus või konkretiseering.
+Salaja pealtkuulamine on häbiväärne
+Ülemäära uudishimulikku ~ salaja pealtkuulajat hakatakse umbusaldama ~ vältima
+Laused 76 ja 77 nihutavad (ja ühtlasi laiendavad) uudishimu teema võõrastesse asjadesse sekkumisele.
+Ära tüki sinna, kus sind ei taheta
+Halb inimene sekkub üha võõrastesse asjadesse
+Analoogilisi ekslemisi on võimalik ette võtta praktiliselt igast semantilisest punktist startides ning jätkata lõpmatuseni. Meie intuitsioon tajub neil rännakuil kindlasti, et sarnasus- või sugulusvahekorrad ideede vahel on üsna mitmekesised:
+mõned näivad olevat mõnede konkretiseeringud, mõned mõnede üldistused;
+mõned näivad esitavat mõnede põhjusi, teised teiste tagajärgi;
+mõned on konstateeringud ja mõned neist konstateeringuist tuletatud aksioloogilised või deontilised järeldused.
+Intuitsioon tajub ühtlasi, et kõik need vahekorrad on tegelikus empiirikas antud üsna hajuvate, ebatäpsete ja läbisegi üksteise kukil sõitvatena.
+4. Süsteemi ülesehitamise suund: kas ülalt alla või alt üles?
+
+Sisulise vanasõnaliigituse loojal tuleb nii või teisiti teha otsustused kahes põhilõikes:
+   1) millised sisuklassid üldse asutada ja
+   2) milline materjal sesse või teise klassi paigutada.
+Ülalt alla rajatud "deduktiivsete" süsteemidega kipub olema nii, et kui nad tehakse valmis materjalist enam-vähem eraldi ja seejärel "valatakse" neisse materjal, siis selgub pahatihti, et materjal ei paigutu klassidesse ühtlaselt ja ladusalt, vaid osa klasse jääb imelikult tühjaks, osa taas täitub üle, osa materjali ei soovi üldse klassidesse mahtuda jne.
+Kuid pole palju abi sellestki, kui me liigume rangelt alt üles ― tekstide endi juurest alamastme rühmadele ja sealt üldisemaile sisuklassidele. Ka kui meil õnnestub luua mingi kindlam reeglistik poeetiliste (vanasõna)tekstide "tõlkimiseks" mittepoeetilisse metakeelde ― nii või teisiti jõuame peagi selleni, et meie põhiprobleemiks saab mitte vanasõnade liigitamine kui selline, vaid kaks märksa üldisemat vahekorda:
+   1) vanasõnade sisu kirjeldavate metaterminite vahelised suhted;
+   2) metaterminite ja denotaatide (või designaatide) suhted
+― seega kõikvõimalikud üldsemantika probleemid ning teisalt maailma enda aspekteerimise ja süstematiseerimise probleemid, mitmesuguste "elumudelite", "teadmiste mudelite", "argikäitumise mudelite" jmt. ülesehitamise probleemid.
+Viimase aja semantikas ja kognitivistikas on paljud autorid pidanudki tähtsaks mitmesuguste nn. tervet mõistust esindavate kujutelmade, naiivsete maailmamudelite jms. uurimist. Näiteks G. Lakoffi ja M. Turneri raamatus "More than Cool Reason" kirjeldatud "Olemise Suure Ahela" üks komponente oligi mäletatavasti just maailma asju nende lihtsuse/keerukuse järgi organiseeriv naiivmudel ja nagu selgus, oli see ühtlasi päris töökõlbulik vahend vanasõnades valitsevate metafoorireeglite tuletamiseks (vt. ka  ).
+
+Oleks ühest küljest pentsik kujutella nende uurimisalade laiahaardelist arendamist nimelt parömioloogide poolt, sillutamaks lahendusteed parömioloogia mõnedele spetsiifilistele probleemidele. Teisalt on selge, et nende puhtparömioloogiliste probleemide lahendamiseks sobilike üldteoreetiliste kujutelmade ja metoodikate teke on juhuse meelevallas ja parimalgi juhul üsna aeglane ning nende ülekandmine parömioloogiasse ei suju kaugeltki iseeneslikult. Seega jääb parömioloogi võimaluste, strateegia ja südametunnistuse asjaks, kas ta võtab üldteooriate arendamise suhtes külmalt äraootava või agaralt kaasaaitava hoiaku.
+
+Kui jutt on vanasõnaliigituste ülesehitamise suunast, eeldatakse sellega ühtlasi, et süsteem peaks tulema vormilt hierarhiline, puukujuline. Kuid süsteemi enda vorm või struktuur võib vanasõnaliigituse loojale saada ka probleemiks omaette. Viimaste aastakümnete kognitivistlikus kirjanduses on korduvalt juttu olnud nn. prototüüpidele orienteeritud liigiteludest, nagu G. Lakoffi raamatus "Women, Fire, and Dangerous Things" nimetatud radiaalne liigituspõhimõte, mis tuleb ette nn. loomulikes liigiteludes: 'midagi tähtsat / kõik ülejäänu' (vt. ka  ). Sellised loomulikud liigitelud jagavad maailma nö. klimpideks (mis meid huvitavad) ja vedelikuks nende vahel (mis meid ei huvita); seda vedelikku võib eeldatavasti jääda vägagi palju. Võib-olla oleks semantilise vanasõnaliigitelu optimaalseks vormiks mitte puu, mitte hierarhia, vaid nt. võrk (st. mingi puu ja "klimbisupi" liide või sümbioos) vm. keel või programm, mis oleks võimeline jälgima kõigi asjassepuutuvate metalausete sisusuhteid ja hindama nende sisulist lähedust. Selline süsteem ei lase loomulikult vormistada end lõplikul ja valmil kujul nt. paberile, kuid sellest on praegusel elektroonikaajastul vähe häda. Kui süsteem aitaks meil saada materjalist paindlikke semantilisi lõikeid, jälgida maailma eri aspektide vahekordi jne., oleks ta töövõimelisem mistahes jäigast "valmistehtud" klassifikatsioonist. (Selliseid võimeid ongi senistest süsteemidest ainsana Kuusi ja Lauhakanga elektroonilisel indeksil.)
+5. Vanasõnade kui süsteemi ja maailma kui süsteemi vahekord
+
+See vahekord näib mingis rakursis vanasõnafondi kui süsteemi fragmentaarsusena või ebaühtlusena.
+Me loeme seejuures jaatavalt vastatuks küsimuse, kas me üldse tohime rääkida folkloorist kui süsteemist, kuigi ju tegelikult folkloor on ajas kulgev protsess ja, ütleme, 10. sajandi folkloor on oma žanrilise ja tüübilise koostise jpm. poolest hästigi erinev, ütleme, 20. sajandi folkloorist ning ka mõne rahva vanasõnafond (või kõigi rahvaste vanasõnafondide summa) on tegelikult vaid teatava ajaloolise protsessi jälg, selle sünkrooniline projektsioon. Kuid väga paljud muudki teaduse poolt uuritavad objektid, nagu inimkeel ja -ühiskond, fauna ja floora, tähekogud ja galaktikad, keemilised elemendid jne. on oma praegusel kujul diakrooniliste protsesside saadused, kummatigi tegelevad kõik teadused oma aineala süstemaatikaga, ja see on tähtis tegevussuund. Eriti just noored distsipliinid alustavad reeglina oma uurimisaine inventeerimise ja korraldamisega, parömioloogia aga ongi noor distsipliin. Sünkrooniline uurimine on tihti diakroonilise uurimise hädavajalik eeldus, mis loob selleks vajaliku sõrestiku või kondikava, eriti valdkondades, kus otseteavet uurimisobjektide ajaloolise arengu kohta on napilt. Ka folkloor kuulub selliste uurimisobjektide hulka ning mitmedki koolkonnad fokloristika lühikeses ajaloos on tundnud, et nende vaim on valmis folkloori ajaloolise arenguprotsessi rekonstrueerimiseks, paraku on aga lõpuks ikka selgunud, et nende infovaru ja metoodika on olnud nõder. Sünkroonilise süstemaatika alased pürgimused aitavad ühtlasi selgitada, mis on uurimisaines sagedane ja mis haruldane, seega ehk siis ka leida ainest nn. universaale, st. inimpsüühikat, -keelt, -kultuuri iseloomustavaid üldisimaid tunnusjooni, mis aja toimele on eriti resistentsed.
+Vanasõnade ja maailma kui olemite või süsteemide vahekorra põhiprobleem on ehk pigem sellessamas, milles keele ja maailma vahekorra probleem üldisemalt. Inimesed teevad keelt oma loomulike, praktiliste vajaduste ajel, st. läbi pragmaatika. Haldur Õim on öelnud kunagi keele kohta midagi põhjapanevalt olulist: "...keele semantilist struktuuri pole täpne kujutleda mingi ühtlaselt liigendatud seoste "võrguna". Keel osutub ühtedes kindlates suundades või piirkondades hoopis tugevamini struktureerituks kui teistes. Teatud kindlatel teemadel on võimalik hoopis üksikasjalisem, peenemalt liigendatud kommunikatsioon kui teistel teemadel."
+Öeldu kehtib päris hästi ka vanasõnade kohta ― niihästi vanasõnafondi ideelisel tasandil, nö. äravormistatud mõtete hulga poolest erinevais semantilistes piirkondades kui ka retoorilisel ja tüpoloogilisel tasandil, so. nende vormistuste mitmekesisuse poolest erinevais semantilistes piirkondades. Kui keegi püüab vanasõnu sisuliselt liigitada, siis tekib tal üsna pea kaks tunnet või teadmist:
+   1) mõned teemad, ideed vm. sisuüksused on esindatud väga suure hulga empiirikaga, teised seevastu hästi vähese hulgaga;
+   2) kui meil on tekkinud mingid esialgselt sorteeritud ainekamakad, siis eri ainekamakad ahvatlevad end peenemaks liigendama eri tunnuseid pidi, mis on signaal selle kohta, et eri sisuregioonid jagunevad loomulikeks klassideks eri tunnuseid pidi.
+Toome siinkohal näiteid mõnedest suurematest keskastme teemarühmadest ja -piirkondadest eesti vanasõnades, näidates ühtlasi ära neid esindava ligikaudse tüübihulga:
+(1).	Laps; vanemate ja laste suhted (EB)	570 tüüpi
+(2).	Töö, virkus/laiskus, nende seos saagi, tasu, käekäiguga (FAF–FAG)	520 –"–
+(3).	Rääkimine/vaikimine; klatš, kriitika, kiitus/laitus, kiitlemine (HG)	500 –"–
+(4).	Naisevõtt/meheleminek, kaasavalik (EDA–EDB)	480 –"–
+(5).	Maaviljelus, põld, saagiended (BA)	450 –"–
+(6).	Aeg, selle kulg, toime, ratsionaalne kasutamine (FAE, IAA)	430 –"–
+(7).	Toit ja söömine (DCA–DCF)	420 –"–
+(8).	Rikkus/vaesus; rikka ja vaese suhted (GC)	330 –"–
+(9).	Vargus, kuritegu, süü, karistus (GP)	330 –"–
+(10).	Oma/võõras, ise/teine, ilm (GO, HL)	290 –"–
+(11).	Loomakasvatus (BC)	290 –"–
+(12).	Looduse kalendaarne muutumine (ABA–ABB)	270 –"–
+(13).	Hea/halb, mure/rõõm, õnn/õnnetus; juhus, saatus (IB)	240 –"–
+
+Kui võtta eesti teadaolevate rahvaehtsate vanasõnatüüpide koguarvuks u. 12 800, siis ammendavad need 13 soosikteemat pea täpselt 40% eesti vanasõnatüüpide koguvarust.
+Eespool oli juba juttu vanasõnafondi zipfilikust sagedusjaotusest, mis ilmselt kehtib ka sisutasand(e)il. Teisiti öeldes, semantiline ruum on vanasõnadega täidetud väga ebaühtlaselt ja see teeb raskeks luua ka vanasõnade liigitamiseks mingit unifitseeritud protseduuri või algoritmi, mis töötaks edukalt kogu liigitatava aine ulatuses. Seda "Zipfi needust" pole ilmselt võimalik kõrvaldada ka sisuklasside mingi kavala ümberkorraldamisega, sest Zipfi jaotus kehtib igal mõeldaval tasandil, sh. tüübitasandil, ja mis me ka ette ei võtaks, satub igasse alamastme sisuklassi läbilõhki ikkagi vähe "suuri" ja palju "väikesi" tüüpe, igasse keskastme sisuklassi vähe suuri ja palju väikesi allrühmi, üldse kipub tekkima vähe suuri ja palju väikesi keskastme rühmi jne.
+Võib tulla mõte loobuda üldse moodusest, kus vanasõnad kui teisene süsteem pannakse eluterviku kui esmase süsteemi taustale ja meenutab seal kujult ehk külma vette valatud õnnetina; selle vaateviisi loogiliseks edasiarenduseks oleks siis parömioloogilises praktikas tegelikult esitatudki väide, et teatud tasandil on vanasõnafondi parimaks taustsüsteemiks mingi "kõikvõimalike ütluste summa" (st. praktiliselt lõpmatu ütluste hulk, mis pealegi koosneks 99,9...% ulatuses absurdsetest ütlustest). Võiks siis ehk püüda vaadata vanasõnafondi täiesti autonoomselt, lähtuda "pragmaatilise ruumi" metafoorist ning postuleerida, et pragmaatiline ruum on vanasõnade jm. folklooriga täidetud vastavalt vanasõna vm. folkloori pragmaatilistele üldfunktsioonidele, sealjuures võrdlemisi ühtlaselt. Nii järgib ka vanasõnafond nimelt elus endas kehtivat pragmaatikat: nende referentide kohta, mis elus on olnud aktuaalsed, kätkenud probleeme ja nõudnud lahendusi, on tekkinud palju vanasõnu ning väited, hinnangud ja soovitused nende referentide kohta vastavad enam-vähem "üldisele arvamusele", mis valitses antud ajal ja kohas.
+Kui vaatame näiteks sotsiaalsete institutsioonide esindust eesti vanasõnades, siis näeme, et see teema tervikuna on üsna ebaproduktiivne ja seejuures ikkagi seesmiselt ebaühtlase jagunemisega:
+mõisa ja mõisniku kohta on u. 150 vanasõnatüüpi,
+kohtu, seaduse ja kohtuskäigu kohta u. 80 tüüpi,
+kiriku ja pastori kohta u. 35 tüüpi,
+sõja, kroonuteenistuse ja soldati kohta u. 20 tüüpi,
+linna ja linlase kohta u. 10 tüüpi,
+kuninga, valitsuse ja riigi kohta u. 10 tüüpi.
+Me püüaksime loobuda ootusest, et nt. mõisa ja mõisniku ning kiriku ja pastori teemad on enam-vähem sama suurusega "kastid", loobuksime seega ka imestamast, et esimene kast on vanasõnu üsna täis, teine võrdlemisi tühi, ning seletaksime seda nii, et pragmaatiliselt oli mõis märksa tõsisem probleem kui kirik (ning mutatis mutandis muude teemade puhul). Kuid taipaksime tõenäoliselt peagi, et ka see üldistus oleks enneaegne, sest nt. naljandites on kirik ja pastor u. poole sagedasem teema kui mõis ja mõisnik või nt. sõja- ja nekrutiteemalisi laule on eesti folklooris silmapaistvalt palju. Ja üldse erineb eesti vanasõnafondi temaatiline struktuur järsult eesti naljandite või eesti regilaulude omast või ka eesti mõistatuste lahendite sagedusstruktuurist.
+Seega on ilmne, et folklooris esinduv pragmaatiliste vajaduste kogum kanaliseeritakse eri žanridesse erinevate filtrite kaudu ning ka folkloori žanride süsteem ise on ehk nende pragmaatiliste vajaduste teatav peegeldus. Niisiis sulgub meie nõiaring taas.
+
+4.
+Loodetavasti suutsime lugejat veenda selles, et vanasõnade sisuprobleemid on niivõrd keerukad ja omavahel põimunud, et pole vähimatki lootust lahendada olulisemad neist jooksupealt ja realiseerida tulemused otsekohe ka mõne väljaande süsteemis. Ja kui see oleks põhimõtteliselt võimalikki, siis kindlasti osutuks mõnd sellist rangemat süsteemi esitav metakeelne aparatuur ise nii skrupuloosseks ja raskepäraseks, et vaevalt seda sobiks kasutada populaarset tüüpi väljaandes, mis on mõeldud esmajoones ikkagi lugemismaterjaliks.
+
+"Vanasõnaraamatu" sisuline liigitus ei paku siis mõistetavaltki põhimõttelist lahendust ühelegi nimetatud fundamentaalseist üliprobleemidest. Pigem on ta ülesehitamisel tehtud jõupingutused kulunud võimalikult mõistlike kompromisside otsingule ja võimalikult ladusa praktilise kasutatavuse saavutamisele. Kirjeldagem järgnevas lühidalt süsteemi kujunemiskäiku, selle rajamisel kasutatud poolintuitiivseid printsiipe ja kriteeriume ning lõppilmet.
+1. Süsteemi rajades pole liigutud järjekindlalt "alt üles" ega "ülalt alla", üldisem liikumissund on olnud siiski "alt üles". Praktiliselt on süsteem tekkinud omamoodi selekteerimisprotseduuride ja järkjärguliste täpsustuste tulemusena.
+Kõigepealt püüti materjalist välja eraldada mõned ulatuslikumad suure või keskmise mahuga "kamakad" või "toorrühmad", mis olid teadaolevalt ja selgesti sama- või lähisisulised.
+Nende eelteadmiste kujunemisel oli suureks abiks E. Normanni poolt 50-ndate aastate alul rajatud ja hiljem teiste parömioloogide poolt täiendatud temaatiline liigitus. "Vanasõnaraamatu" süsteemil võib olla Normanni omaga sarnasust mõnede ülemklasside piiritlemisel ja pealkirjastamisel, kogu kesk- ja alamastme liigitus on kummaski põhjalikult erinev.
+Näiteks formeerus raamatu A- ja B-ossa kuuluv materjal üsnagi hoobilt ja üsnagi lõplikul kujul. Oli teada hulk muidki üsna suuri ja koherentseid "klimpe", sh. eelnevas viidatud produktiivseimate ainerühmade toorikud. Ka oli teada, et eksisteerib suur rühm sisult väga ebamääraseid, kuid süntaktiliselt hästi homogeenseid ning rohkeis omavahelistes kontaminatsioonides läbipõimunud Kuidas..., nõnda...-, Igal... oma...- jm. vormelitega ütlusi. Kõrvuti sellega lebas aga ulatuslik ainemassiiv, mille edasine saatus oli vaid hämaralt aimatav või täiesti lahtine. Ka polnud kuigi selget ettekujutust sellest, millistest ülemastme klassidest (praegused A–I) süsteem üldse saab koosnema.
+2. Edasi jätkati tööd mitmel eri tasandil, nt.:
+   a) vaadati korduvalt uuesti läbi iga ringiga ahenev korraldamata vanasõnatüüpide massiiv ning püüti üksiktüüpe ja tüübisülemeid paigutada juba rajatud ning järjest enam liigenduvaile teemaväljadele;
+   b) teisalt laiendati süsteemi enda absoluutpiire, asutades uusi kõrgemat või madalamat järku sisuklasse;
+   c) püüti jagada juba formeeritud suuri ja keskmisi rühmi väiksemateks allrühmadeks;
+   d) püüti järjestada alamastme (hiljem ka keskastme) rühmi omavahel.
+Kirjeldame nüüd süstematiseerimistöö sisulisi ja tehnilisi külgi veidi lähemalt.
+2a. Üksiktüübi paigutuskoha määramisel on vanasõna semantilist kujundit (metafoori, ellipsit vm.) tõlgendatud nii konkreetselt, täpselt ja kitsalt, kui on vähegi söandatud. Seejuures püüti arvestada ka seda, kui produktiivne on see või teine metafoor, millistesse laiemaisse kujundisülemeisse ta võiks kuuluda ja kui koondatult või hajutatult need kujundisülemid süsteemi hetkeseisus paiknevad.
+Näiteks enamik Kuidas..., nõnda...-vormilistest kujundisülemeist, mis bukvaalleksikas tuginevad opositsioonidele 'loom / looma poeg' või 'puu / puu soojätkamisega seotud objektid (võsu, oks, käbi, tõru, õun) on paigutatud rühma 246, st. neid on käsitatud idee 'kuidas vanemad, nõnda lapsed' kehastajatena, kuigi mõtestus võinuks olla ka laiem, eriti puu-sülemi esindajail, nt. 'Kuidas inimene, nii ta tööd, teod' (vrd. nt. kontaminatsioone Inemist tundas tüüst, puud viljäst, mille ematüüp asub rühmas 443, või Puud tunnukse viljast, meest tegudest, mille ematüüp asub rühmas 742 (siinses elektroonilises lühiversioonis pole need tekstid esialgu sattunud tsiteeritavate hulka).
+Toome näite ka teistpidisest lahendusest.
+Umbmääraselt mõtestuvate kujunditega Kuidas..., nõnda...-vormilised ütlused, mille vahel pole julgetud teha lähemaid sisulisi eristusi, asuvad rühmades 973–976, sh. ka Kuidas lind, nõnda laul, mida olnuks võimalik käsitada ka kitsamas tõlgenduses 'Kuidas inimene, nõnda ta kõne, sõnad' (vrd. rühm 790). Põhiargumendiks selle otsuse tegemisel oli lind/laul-paari tihe kontaminatsiooniline kokkukuuluvus teiste IL-klassis olelevate paaridega, nagu mees/viis, talu/taar, talu/viis, maa/viis, maa/mood jts.
+2b. Vanasõnaainese zipfilik sagedusjaotus, millest ülal juba juttu oli, peab ilmselt paika ka "alamastme ideede" tasandil. Teisiti öeldes, loomulikus vanasõnakogumis on palju vähesagedasi ideid (kõige enam selliseid, mis esinduvad vaid ühesainsas vanasõnatüübis) ja vähe sagedasi (paljudes eri vanasõnades esinduvaid) ideid. Raamatu tehnilise välisilme ja kasutamismugavuse huvides olnuks teisalt hea serveerida materjali võimalikult parajate ja ühtlaste portsjonitena ning hoida võimalikult ühtset joont ka rühmade sisu kirjeldavate pealkirjade vormistuses.
+Rühmituse detailsus ja alamastme rühmade pealkirjad "Vanasõnaraamatu" lõppversioonis on järjekordne kompromiss ― zipfiliku sagedusjaotuse kui tõsiasja ja ühtlase välisilme kui taotluse vahel. Materjal on püütud liigitada nii detailselt kui võimalik, teisalt on püütud vältida ka liiga väikeste rühmade teket (alamastme rühma minimaalsuuruseks on reeglina 3–4 tüüpi). Lisaks on püütud vältida "seda ja teist"-rubriikide teket keskastme rühmade juurde ning vähendada selliste prahikorvide suurust; paraku pole see kaugeltki alati õnnestunud.
+Rühmade pealkirjad on püütud sõnastada niiviisi, et nad võimalikult täpselt edastaksid nende all paiknevate vanasõnade sisu, teisalt on püütud vältida liiga pikkade ja laialivalguvate pealkirjade sugenemist. Sellest tulenevalt on mõnedes piirkondades (nt. FBA–FBB või HKB–HKC) rühmad eristatud väga väikeste sisuvahede järgi, teisal (eriti A-osas) on olnud võimalik vanasõnad ainult üht otsa pidi (st. teema järgi) kimpu köita, sest liigituse detailiseerimise katsed oleksid viinud rühmade lagunemisele 1–2 tüübi suurusteks kildudeks. Mõned rühmad on õnnestunud pealkirjastada üsna lühidalt ja selgepiiriliselt, teised seevastu koosnevad pikkadest teemade, ideede vm. sisutähiste ja nende variantide loenditest.
+Ka iga alamastme rühm omaette on püütud seesmiselt korrastada nt. kujundileksika, süntaktiliste, kalendaarsete vm. käepäraste tunnuste järgi. See korrastustöö ei kajastu tihti küll enam rühmade pealkirjades, kuid on tähelepanelikule silmale avastatav.
+2c. Üldtaotluseks on olnud paigutada ära võimalikult suur osa materjali võimalikult vähese vägivallaga. Näiteks sisuliselt korraldamata keskastme rühmas ilmneb harilikult suuremaid või väiksemaid sünonüümisülemeid. Sellised sülemid on eelistatavalt püütud võtta alamastme rühmade "põhjadeks". Edasi on jälgitud, kas osa neist keskmetest väljapoole jäävat ainest oleks võimalik koondada mõne(de) sünonüümisülemi(te) juurde, vastavalt mõningaid sisupiiranguid maha võttes. Teisalt on otsitud, kas leidub tunnuseid, mille järgi saaks tekkinud rühmaalgmed järjestada kas "loomulikeks süntagmadeks" (nt. ajalisteks ja/või kausaalseteks ja/või modaalseteks ridadeks või stsenaariumideks) või siis "loomulikeks paradigmadeks" (nt. mingi üldprobleemi alternatiivseteks lahendusteks vm.). Ühtaegu on püütud jätkuvalt silmas pidada hajamaterjali võimalikult vägivallatu paigutamise võimalusi vastavalt muutuvaile tingimustele. Selliseid "loomulikesse süntagmadesse" ja "loomulikesse paradigmadesse" korraldamise printsiipe on püütud järgida ka siis, kui sünonüümisülemeid ei tekigi või tekib väga vähe ― sel juhul me muidugi juhime pigem ise materjali, kui laseme materjalil end juhtida. Konkureerivate liigitusvõimaluste puhul on püütud järgida "vähima summaarse kaose" põhimõtet.
+Nii näiteks on maaviljeluse (BA) ja loomakasvatuse (BC) teemade juures täiesti loobutud tavapärastest formaalsetest liigitustest eri põllukultuuride (rukis, oder, kaer, lina jne.) ja eri koduloomade (hobune, lehm, siga, koer jne.) järgi, kuna sel juhul oleks alamastmeil tekkinud märksa suurem kaos kui praegu, kus BA-osas liigutakse mööda ajaliselt järgnevaid viljelusprotseduure (väetamine → künd → külv → lõikus), BC-osas aga orienteerutakse teatavaile aine enda poolt dikteeritud loomulikele pragmaatilistele sündroomidele.
+3. Mingil etapil selgus, et alamastme rühmade järjestamiseks kasutatud loomulike stsenaariumide põhimõtet võib arendada üsna edukalt üldisemaks "sujuvate üleminekute" põhimõtteks, mille kohaselt süsteemi kõik alajaotused püütakse järjestada niiviisi, et võimalust mööda säiliks sisulise pidevuse illusioon üleminekul rühmalt rühmale. Osutus, et isegi kõrvutised ülemklassid on enamasti võimalik pöörata üksteise poole selliseid tahke pidi, et sisuline "põrutus" üleminekul ühest ülemklassist teise ei ole eriti tuntav. Parimail puhkudel (mitte üldreeglina) on õnnestunud materjal korraldada nii, et ülemklasside vaheline üleminek on isegi sügavamalt sujuv, st. järgmise ülemklassi sisutunnused tekivad juba eelmise ülemklassi rüpes ja eelmise omad jätkuvad mõnda aega veel järgmises.
+Sujuvate üleminekute tekitamise mõte on olnud küll ennekõike esteetiline, markeerimaks vanasõnafondi seesmist koherentsust ja pidevust. Süsteemi traditsioonilise jada-hierarhilise vormi tõttu jääb siin paratamatult näitamata see oluline seik, et selline sujuv üleminek on enamikus repertuaaripunktides võimalik mitte ühesainsas, vaid mitmes erinevas suunas.
+Ka klasside tähistustehnika püüab mingiti tähelepanu juhtida sellele, et tegu on ühelt poolt sisutunnuste hierarhia ja katkevusega, teisalt sujuva üleminekuga rühmalt rühmale: süsteemi ülem- ja keskastmete versaaltähised on korraldatud hierarhiliselt, alamastme rühmad seevastu on nummerdatud jooksvalt läbi kogu raamatu.
+4. Niisiis on "Vanasõnaraamatu" ülemklassid formeeritud mitte üksteisest välistuvate üksiktunnuste, vaid üksteisesse sulavate tunnusekimpude või sündroomide alusel. Kui vaadata kõige kardinaalsemaid tunnusjooni, siis nende muutumises ilmneb süsteemi algusest lõpu poole liikudes küllalt järjekindel suundumus "madalamalt kõrgemale" või "elementaarsemalt keerukamale", nimelt:
+mitteinimlikult inimlikule;
+naturaalselt kulturaalsele;
+bioloogiliselt sotsiaalsele;
+individuaalselt kollektiivsele;
+materiaalselt vaimsele;
+konkreetselt abstraktsele.
+Paralleelselt nende muutustega suureneb vanasõna semantiline määramatus, väheneb kesk- ja alamastme klasside sisuline koherentsus, väheneb repertuaari süsteemsus ja struktureeritus üldse (e. ainestiku amorfsus ja fragmentaarsus suureneb).
+
+5.
+Teeme lõpuks linnulennulise ekskursiooni piki "Vanasõnaraamatu" süsteemi ülemjaotusi A-st kuni I-ni.
+
+A. LOODUS
+
+Inimene ei osale siin veel vahetu "tegelaskujuna" vanasõnade denotatiivses sisuplaanis: ta ei tegutse looduses aktiivselt, ei viljele maad, ei kalasta ega pea jahti, vaid ainult vaatleb loodust nö. vanasõnade tagant. Kultuurtaimedest ega koduloomadest pole juttu. Põhilisteks denotaatideks on meteoroloogianähtused, mitteviljeldavad taimed ning metsloomad. Teises lõikes on püütud eristada kalendaarseid ja mittekalendaarseid ütlusi. Ütlusstruktuuri poolest jaguneb enamik siinsest ainest kaunis selgesti "väitvateks" ja "ennustavateks" üksusteks.
+Nende kolme tunnuse ― denotatsiooni, kalendaarsuse ja ütlusstruktuuri ― järgi ongi tehtud enamik A-osa alajaotustest.
+Näiteks Hundil on ühe mehe jõud ja üheksa mehe mõistus ja Tamm kasvab, kasukas seljas, pea paljas oleksid selles teljestikus "mittekalendaarsed väited"; Kuu kupitseb kuiva, päev sapitseb sadu oleks "mittekalendaarne enne"; Tõnisepäeval läheb külma süda lõhki ja Maarjapäeval paneb vares esimese pesapalgi oleksid "kalendaarsed väited"; Kui jaan soe, siis jõul külm ja Kui kured madalalt lähevad, tuleb madal talv, kui kõrgelt, siis sügav oleksid "kalendaarsed ended".
+A-osa lõpul on toodud suve/talve ning kevade/sügise vastandusi jm. kalendaarselt ebamäärasemaid suhteid käsitlevaid vanasõnu, samuti ütlused kuufaaside üldtoimest ning seosest meteoroloogiaga. ABE-ossa on peidetud ka kaks vanasõna nädalapäevade (täpsemalt reedese päeva) kohta jm. amorfsemat ainest.
+
+B. ELATUSALAD JA AMETID
+
+Valdava allosa (BA) moodustavad siin põllundusteemalised vanasõnad. Erinevuseks A-osast on see, et inimene on B-osas aktiivne, teeb konkreetseid töid, suheldes peam. kultiveeritavate loodusobjektidega. A- ja B-osa piir on paiguti väga suvaline, vahel peaks see kulgema isegi ühe ja sama vanasõna variantide vahelt.
+Nt. Kui seitsmevennapäev sajab, sajab seitse nädalat on selgelt loodusteemaline, inimene puudub teksti sisufookuses. Samaalguline ...seitse nädalat, aga kui niikaua vahet peab, et mees saab hobuse selga hüpata, siis on ikka veel kuiva ilma ka loota on juba märksa tugevama pragmaatilise alltekstiga: keegi loodab kuiva, küllap tahab heina teha või viljasaaki koristada. Samaalguline ...hobuse selga hüpata, siis saab ikka heinad ära teha on juba kindlasti B-ossa kuuluv heinatööteemaline vanasõna.
+B-osa algab saagiennetega jm. alljaotustega (BAA–BAF), kus inimese aktiivsest tegutsemisest pole veel juttu, kuid antavad prognoosid ja otsustused pole enam neutraalsed, vaid pragmaatiliselt märgistatud, st. looduses toimuvat hinnatakse juba põllumehe vaatevinklist.
+Põllu tähtsust ning hoolsa maaharimise vajalikkust rõhutavate ütluste (BAF–BAG) kaudu tullakse otseste maaviljelusprotseduuride juurde ning tuuakse nad enam-vähem nende normaalses ajalises järgnevuses. Järgnevad ütlused heinatöö, loomakasvatuse, kalapüügi ning meresõidu, küttimise kohta (BD–BE). Sellega on ühtlasi ammendatud ka lõviosa kalendrivanasõnadest tervikuna, edaspidi esineb kalendaarset ainest vaid mõnes üksikus koldes.
+Tinglikult on B-osa lõppu paigutatud ka vanasõnad ametitest ja ametimeestest (BF), kus on ühest küljest tegu küll konkreetsete tööde ja elatusaladega, kuid need tööd pole teisalt enam seotud loodusega ja siin pole esiplaanil mitte otse tööalased, vaid sotsiaalsed ja eetilised probleemid. See vanasõnarühm on üsna ebaproduktiivne ning oma ideestikult amorfne ja laialivalguv, nagu see on iseloomulik muulegi hilistekkelisele folkloorile.
+
+C. SÕIDUD JA KÄIGUD. MAJAPIDAMISTÖÖD. RIISTAD, EHITISED, KEHAKATTED
+
+Jätkub konkreetsete tööde ja asjaajamistega seotud "etnograafiline" temaatika. Erinevalt B-osast pole aga tegemist enam põhielatusalade, vaid mitmesuguste olmealaste kõrvaltöödega, ning objektid, millega neis tegevustes kokku puututakse, pole üldiselt enam looduslikud, vaid inimese enda poolt valmistatud (tööriistad, veokid, hooned, rõivad). C-osa lõpeb pesemist, hügieeni ja täitõrjet puudutavate ütlustega, mis moodustavad puhvri üleminekuks D-osale, st. inimese ihulisi aspekte käsitlevale ainestikule.
+TAGASI
+D. BIOLOOGILINE INIMENE
+
+See osa sisaldab ütlusi inimese füüsilise külje, bioloogiliste talitluste jms. kohta. Suuremaid raskusi tekkis söögi- ja alkoholiteemaliste vanasõnade paigutamisega, kuna nood kuuluvad teist otsa pidi mitmeisse muudesse paradigmadesse, mis on "Vanasõnaraamatu" süsteemi muis osades omaette rubriikidega esindatud. Toiduteemadest sobivad D-ossa parimini vast söögi maitselisi ja energeetilisi külgi puudutavad ütlused. Nimetame teisalt paar problemaatilist punkti.
+(1). On olemas lähisisulised Kes sööb, see teeb- ja Kes teeb, see sööb-tüüpi vanasõnade sülemid. "Vanasõnaraamatus" paikneb esimene neist D-osas (rühm 171), teine F-osas (rühm 435). Muusuguse kompromissi korral võinuksid nad asuda ka lähestikku.
+(2). On rühm vanasõnu, kus antakse otseseid tehnoloogilisi õpetusi, endeid jms. seoses toidu valmistamisega, st. ühega konkreetseist majapidamistöödest, mille pärispaik oli meil teatavasti C-osas.
+(3). Toit on üks liik omandist, varudest, nii kohalduvad talle ka raiskamise ja kokkuhoiu, ahnuse ja ihnsuse alased hinnangud ja strateegiad (vt. eriti rühmad 184–185), mis üldjuhul paiknevad FB-osas.
+(4). Kujutelmad toidu, nälja, tühja ja täis kõhu, söömise jmt. kohta on väga produktiivsed fraseoloogilises troobiloomes üldse ning paljudel juhtudel on raske otsustada, kas nt. vanasõnatekstis kohatavat nälg-terminit tuleks mõista otseselt sööginäljana või tähenduses 'häda', 'vaesus', 'defitsiit' (vrd. nt. rühmi 174–176 ühelt poolt ja 926–927 teiselt poolt).
+Ometi tundus toidu paradigma ise nii ürgomaselt kokkukuuluvana, et pole riskitud ette võtta selle suuremat hajutamist.
+Ka alkoholi- ja suitsetamisteemade viibimine D-osas võib tunduda vägivaldsena. Iseendast väga loomulik alternatiiv olnuks vaadelda neid mingi pahede paradigma raames. Sel juhul oleks aga tekkinud suuri raskusi selle teemavälja piiride määramisel: kas ka nt. armusuhetega seonduvad eksimused või varastamine tulnuks siis välja kiskuda oma praegustest, väga loomulikena tunduvaist asupaikadest? või ka terve rida suhtlemistemaatika väärkohti, nagu ebaausus, sõnamurdmine, valetamine, uhkeldamine, hooplemine, klatš jne.? või koguni ka tohutu hulk nn. sotsiaalsete pahede kohta käivat materjali G-osast? Lõppeks, millisesse süsteemi ülemklassi kogu see kirju pahede kogum pidanuks sel juhul mahutatama, sest pahed ja hüved on tegelikult aksioloogilised kõikjalviibijad? Mõistlikum tundus siiski paigutada viinateemad (kui "joomine") söömise kõrvale, suits omakorda viina kõrvale ning nad mõlemad omakorda haiguse ja surma naabrusse.
+E. EAD JA SOOD. ARMASTUS, PEREKOND JA KODU. SUGULASED
+
+D-osale iseloomulik "bio"-tunnus jätkub ka E-osas, kuid on siin juba spetsiifilise "biosotsiaalse" kvaliteediga, st. temaatiliseks üldraamiks on veresidemetel põhinevad vahekorrad, veresidemeis olevate inimeste suhted jmt.
+E-osa algab ütlustega inimea, nooruse ja vanaduse kohta.
+Lugejal on õigus pidada iluveaks seda, et inimea sellised tähtsad järgud, nagu sünd, noorus, vanadus, surm esinevad "Vanasõnaraamatus" enam-vähem täpselt vales järjekorras, pealegi erinevais ülemklassides (kuigi lähestikku). See kompromiss on tehtud järgnevail kaalutlustel.
+Mul oli tõepoolest kiusatus tugeda üks süsteemi ülemklasse nimelt inimea etappidele ja läbida see "elutee" ka normaalses järjestuses, st. sünnist surmani. See ei õnnestunud aga parimalgi tahtmisel. Igade-stsenaariumil on versidemete-stsenaariumiga küll suur ühisosa, kuid nad pole sugugi identsed. Esimene kulgeb selgelt ajatelge pidi, teine näib rahvapärases maailmapildis moodustavat osa teatavast "egotsentrilisest ruumist", mida võib kujutleda ehk u. sellise järjendina: mina ise → minu suhted veresugulaste ja seksuaalpartneritega → suhted oma klassi muude kontaktsete esindajatega → suhted teiste sotsiaalsete klasside kontaktsete esindajatega (üles-, aga ka allapoole) → kujutlused mittekontaktsete inimolendite (kuninga, metslaste jms.) kohta → kujutlused demonoloogiliste olendite (vaimude, jumalate, kuradite) kohta.
+Praegune kompromiss nende dimensioonide vahel on selline, et E-osa põhipiirkonnas (EB–EH) liigutakse üldiselt piki eatelge: laps kui selline → lapse suhted vanematega → täiskasvanud lapsed → algab suhtlemine vastassooga → kaasavaliku teemad → pulmad → lahutus, lesk → vaeslaps, võõrasema. Sellest punktist on vastanduse 'oma/võõras' kaudu mugav üle minna mitteajalises järjestuses lõpuosale, kus paiknevad sugulaste ja kodu teemad. Põhifaktor, mis ei lasknud asetada nooruse ja vanaduse teemasid eateljel enam-vähem sobivaisse paikadesse, oli aga see, et reaalseis vanasõnades esinevad need denotaadid enamasti koos: kausaalses seoses, kõrvutatult, vastandatult. Mis puutub sündi ja surma, siis meie lähtetingimuste korral peaks nende kuulumine süsteemi eri ülemklassidesse olema isegi põhjendatud: suremise stsenaarium eeldab ühtainsat "tegelast", sündimise oma mitut.
+Teine vaieldavam punkt E-osas võib olla ilu teema täielik paiknemine kaasavaliku kontekstis (rühmad 294–297). Selle lahenduse tingis tõik, et ilu probleem kerkibki eesti vanasõnades peamiselt just kaasavaliku kontekstis.
+
+F. TEGEMINE, SAAMINE, KOGUMINE, KULUTAMINE
+
+F-osa algupoole (FAA–FAE) moodustavad üksikisikule antavad tegutsemisõpetused, mis on rakendatavad väga laial skaalal. Konkreetne tegutsemispiirkond ei ole määratud, see võib olla bioloogiline, majanduslik, sotsiaalne, eetiline vm. Eelkõige peetakse silmas ehk siiski tööd, tööga seotud eesmärgipärast teotsemist. Antakse juhiseid eesmärkide ja vahendite õigeks valikuks. Kästakse arvestada oma võimalusi ja võimeid ning neid õppimise ja kogemuste omandamise teel arendada. Hoiatatakse mõtlematu ja ettevaatamatu toimimise eest. Soovitatakse olla visa oma eesmärkide taotlemisel.
+Väga detailselt õpetatakse ümber käima ajaga: õige- ja enneaegsus, hilinemine, ruttamine ja aeglus, nende seos otsuste ja toodete kvaliteediga jne.
+Ajakasutusteemade kaudu minnakse üldiste teotsemisstrateegiate juurest otseselt töö ja laiskuse temaatikale (FAF–FAG). See teemaring on eesti vanasõnades üks produktiivsemaid üldse. Töötegu ja laiskust iseloomustatakse, hinnatakse, võrreldakse mitmesugustes bioloogilistes, sotsiaalsetes, eetilistes aspektides. Kõneldakse töö paratamatusest, tähtsusest/mõttetusest. Kirjeldatakse laisa ja virga töössesuhtumist ja elustiili. Tehakse otsustusi töö ja toidu, une, väsimuse, puhkuse, tervise seoste kohta. Rõhutatakse, et töö pälvib austust ja tänu, laiskus toob häbi ja laitust. Piirkonnas 446–450 laiub aga eesti vanasõnafondi võimsaim (siinses tõlgitsuses u. 220-tüübine) sünonüümisülem ― idee 'Töö annab leiba, laiskus toob nälga' esindus oma väikestes modifikatsioonides.
+Töö ja saagi, töö ja palga vahekordadelt siirdutakse üldisemaile teo ja tulemuse, aktiivsuse ja passiivsuse vahekordadele, millega FAG-osa lõpebki.
+F-osa teise poole (FB) materjal moodustab taas puhvri üleminekuks järgnevale, G-osale: algab juba varude, omandi, ainelise kasu ja kahju teemade arutamine, teisalt puudub siin veel nö. sotsiaalne inimtaust, tegu on endiselt üksikisikule pakutavate prognooside ja soovitustega. Selle allosa tuumaks on ütlused kogumise ja kokkuhoiu vajalikkuse ning raiskamise hukatuslike tagajärgede kohta, teisalt aga ka liigse ahnitsemise ja kitsiduse kriitika.
+
+G. OMANDI- JA KLASSISUHTED. SOTSIAALSED INSTITUTSIOONID. VÕIM JA JUHTIMINE. KURITEGU JA KARISTUS
+
+G-ossa paigutatud materjali kõige üldisemaks sisuliseks ühisnimetajaks on omandi jaotuse ja siiretega seotud inimsuhted klassiühiskonna tingimustes. Sisestruktuurilt jaguneb G-osa kolmeks selgemaks allosaks.
+(1). allosas (GA) on kõneaineks omandi legaliseeritud siirded klassiliselt määratlemata (vaikimisi samaväärsete?) indiviidide vahel ― st. põhiliselt andmise ja selle erijuhtude (laenamise, kinkimise) ümber koonduv problemaatika. Teatud lõikes kordab GA-osa eelnevas, FB-osas tüüpilisi sisuelemente: juttu tuleb taas tahtmisest ja saamisest, ahnusest ja ihnsusest, kasust ja kahjust. Erinevuseks on see, et kui FB-osas vaadeldi neid akte teatava individuaalse utilitaarsüsteemi raamides, kus paljud sisuseaded meenutasid kurikuulsaid ülesandeid sisse- ja väljavoolutoru(de)ga paagi kohta, siis GA-osas vaadeldakse neid juba kahepoolse "ühendatud anumate" taolise mudeli taustal.
+(2). allosa moodustab piirkond GB–GO, mis on ühtlasi G-osa sisu- ja massidominandiks. Siin on üldprobleemiks omandi legaliseeritud, kuid ebavõrdsest ja -õiglasest jaotatusest tulenevad hüvestaatused, inimvahekorrad, hoiakud jms. Siin paiknevad ka klassikalised rikka ja vaese, peremehe ja sulase, saksa ja talupoja vastandused, mõisa-, kiriku- ja kohtuteemalised (ning reeglina ühtaegu ka -vastased) vanasõnad. Piirkonda GG–GM on paigutatud mitmesugust efemeersemat materjali ühiskondlike institutsioonide, omandi, võimu ja võimumeeste kohta.
+GN-rühmaks on koondatud üksused, kus ühest küljest on kindlasti juttu tugevate ja nõrkade, tähtsate ja tühiste, ülemate ja alamate seisundeist ja suhetest ning võimu ja juhtimisega seotud aktidest ja hoiakuist (käskimine, kuuletumine, vastuhakk, karistus, alandlikkus, uhkus), kuid aine kujundispetsiifika pole teisalt lubanud määratleda neid ühtegi konkreetsemasse klassilis-sotsiaalsesse konteksti (talu, mõis, kirik, kohus, sõjavägi vm.).
+GO-rühmana tuuakse ütlused, kus on juttu suhtumisest omaenda ja teise varasse, teise kulul elamise headest/halbadest külgedest, kasu ja iseseisvuse vahekorrast, kadedusest. Selle rühma vanasõnadel on tugevad sisuseosed HK-rühma omadega; vahet on püütud teha selle järgi, kas asjaomased egoismiavaldused vm. hoiakud on seotud otseselt ainelise kasu saamisega või võimaldavad tekstide kujundid laiemat tõlgendust.
+(3). alaliigina sotsiaalse temaatikaga vanasõnade hulgas võib käsitada neid, kus on juttu omandi mittelegaalsetest siiretest (vargus, pettus), ka kuriteost, süüst ja karistusest üldse (GP–GQ). Tegelased on siin jälle klassiliselt märgistamata.
+TAGASI H-ptk. ALGUSSE H. INIMSUHTED ÜLDISEMALT. HEA JA KURI ISELOOMUDES, MÕTETES, SÕNADES JA TEGUDES
+
+Siin osas vaadeldakse inimsuhteid ja -omadusi veelgi üldisemas (valdavalt eetilises) plaanis. "Tegelaskujudele" pole seatud mingeid soolisi, ealisi, sotsiaalseid vm . piiranguid. Enamasti on vaikimisi silmas peetud indiviidi suhteid teise omasugusega või omasuguste kollektiiviga. Ka konkreetsemaks sisuliseks probleemiks võib olla praktiliselt kõik inimloomuses ja -tegevuses, millele kohalduvad hea ja kurja mõisted.
+G- ja H-osa vaheline rajajoon ületatakse aususe paradigmat pidi: kui G-osa lõppes ebaaususega omandi suhtes, siis H-osa algab au ja häbi, õigluse ja ebaõigluse, tõe ja valetamise probleemidega üldisemas plaanis (HA–HB). Sõnapidamise ja -murdmise, teeskluse, salakurjuse, inimesetundmise, usalduse ja umbusu, saladuse ja selle ilmsikstuleku teemade kaudu (HC–HF) kerkib ühtlasi pinnale inimsuhete kommunikatiivne, kõneline aspekt.
+Järgnev ulatuslik HG-rühm kuulubki otseselt rääkimise ja vaikimise teemadele, eriti rääkimisse kätketud või rääkimisest tulenevale heale ja kurjale (klatš, kriitika, laitus ja kiitus, hooplemine jms.).
+Edasi arendatakse hea ja kurja teemat veel mitmes lõikes: optimism ja pessimism (HH); püsivalt head ja halvad inimsuhted, sõprus ja vaen (HI); eventuaalsed kokkupõrked, vaidlus, tüli, kaklus (HJ); headuse ja kurjuse tagajärjed (HKB).
+Hästi tootliku idee 'Kuidas sina teisega, nõnda teine sinuga' (HKC) kaudu suundutakse vahekordi 'ise/teine' ja mina/maailm' kätkevate üldküsimuste juurde (HL), kus põhiprobleemiks võõraisse asjadesse sekkumise/mittesekkumise strateegiad. Järgnevad suhtele 'üks/hulk' rajanevad ütlused, mis arutavad üksiku ja kollektiivi vahekordi, miljöö mõju indiviidile jmt.
+HN-rühm sisaldab ainestikku traditsiooniliste suhtlemisaktide (külaskäigud, peod, lõbustused) ning kommete ja taigade kohta.
+H-osa lõppu on peidetud veel mitmesuguseid ütlusi, mis käivad tarkuse, inimmeelte ja -tunnetuse ning kogemuste kohta ega ole mahtunud õieti mingite seniste sisukitsenduste alla, kuid teisalt kuuluvad kahtlemata sisuväljale 'inimese mentaalsed protsessid'. Siin paiknevad muide ka vanasõnad vanasõna enda kohta (HO). Tarkuse ja rumaluse teemarühmast on irrutatud see osa, kus neid omadusi vaadeldakse kui eduka tegutsemise eeldust resp. takistajat (FAB).
+
+I. ABSTRAKTSEMAID KATEGOORIAID JA VAHEKORDI
+
+Siin, süsteemi lõpuosas on kavatsetud esitada kõige nö. üldfilosoofilisem kihistus eesti vanasõnadest. Inimene on kogu siinseski osas temaatilise referendina arvestatav. Tunnuslik on aga I-osale see, et inimene siin üldiselt ei tegutse ega suhtle, vaid ainult kannab paratamatult neid või teisi omadusi, võtab vastu head ja halba, mida talle satutab tema loomus, teine inimene, elu üldse, juhus jne. St. juttu pole põhiliselt enam sellest, mida tuleks teha, vaid sellest, kuidas asjad maailmas tegelikult on.
+I-osa ainevaldkond on ise nii abstraktne ja keskastme rühmade vaheline sisuseos nii lõtv, et pole erilist alust rääkida mingeist loogilistest, ajalis-stsenaarseist vm. põhimõtetest nende rühmade järjestamisel. Kõige suuremateks (ja ka sisuliselt koherentsemateks) rühmadeks koonduvad vanasõnad aja, tema toime ja kategooriate kohta (IAA) ning ütlused elust ja saatusest, rõõmu ja mure dünaamikast (IB). Kolmas suurem rühm (IL) püsib koos küllalt formaalset 'erinevus/vastavus'-tunnust pidi.
+Mõnedki rühmad figureerivad I-osas mitte seetõttu, et see on nende jaoks sobivaim asukoht, vaid pigem seetõttu, et see asukoht on kõigist võimalikest kõige vähem ebasobiv. Võib-olla on I-rühma üldse jäetud liiga palju materjali ― ka sellist, mille tegelik kasutamisala on palju konkreetsem ja kitsam. Arvukail juhtudel võib ütlus olla sattunud "abstraktsete" hulka lihtsalt seetõttu, et ta metafoor on nii hämar, et ainuke komponent, mille olen julgenud ta sisuplaanist ekstraheerida, on mingi üsna abstraktne mõiste või vahekord.
+Esmapilgul tundub groteskne kujutleda, et oleme elu ja paröömilise koodi tundmises nii võhiklikud, et oskame nt. vanasõnast Ära püüa kurge kirvega taibata ainult seda, et see on keeld, või vanasõnast Parem kodu kooruke kui võõrsil võileib, et see on eelistus. Paljudel puhkudel ei erine tegelik olukord sellest aga kuigi oluliselt.
+Võtame nt. vanasõna, mis leidub "Vanasõnaraamatu" (955). rühmas ja kõlab kirjakeeles Kus käiakse, sinna jäävad jäljed ― ning leiame end otsekohe üsna abituna mõtestama seda lauset vähegi sisukamais terminites. Õieti ainus kindlam teadmine, mis meile siit sugeneb, on tõepoolest see, et "käimine" väidetakse olevat "jälgede" tekke põhjus ja "jäljed" vastavalt "käimise" tagajärg. Kui püüame end meelega veel veidi rumalamaks teha, võiks lisada ka teadmise, et "käimine" ja "jälgede" teke leiavad aset ühes ja samas kohas. Esimese lähendina võiks tekstile pakkuda siis "tõlget" 'Kõigil tegudel on omad tagajärjed' või 'Kõigil asjadel on omad põhjused'. Edasi võiksime püüda oma hüpoteese täpsustada, omistades mõistukõnelistele komponentidele muid mõeldavaid tunnusjooni, nagu 'hea/halb', 'kavatsuslik/spontaanne' jts., ning saada neid kombineerides muude hulgas nt. järgmised täpsustatud oletused:
+   1) 'Kus ollakse virgad, seal ei puudu ka tulemused';
+   2) 'Kui inimene on talunud saatuselööke või raskusi, harrastanud pahesid vmt., siis need peegelduvad ta näos ja psüühikas';
+   3) 'Pahategusid või häbenetavaid käike ei õnnestu varjata'.
+Teisalt hoiatab intuitsioon, et neid tõlgendusi ei tohiks võtta eriti tõeväärsetena, sest nende konnotatiivne motivatsioon ei tundu piisavalt täpsena.
+Sääraseid poolmõistatuslikke vanasõnu kohtab I-osas (eriti piirkonnas IG–IM) ridamisi, ja sedagi võib heal tahtmisel vaadata "sujuva üleminekuna" raamatu viimasele, J-osale, kus semantiline pimedus on paiguti juba pilkane.
+Niisiis näeme, et vanasõnade spetsiifikasse kuulub imetabaseid omadusi, mis on täiesti võrreldavad kuulsa Cheshire'i kassi võimetega: nad võivad meile näidata mitte üksi nägusid koos naeratustega ja nägusid ilma naeratusteta, vaid ka naeratusi ilma nägudeta.

@@ -1,0 +1,82 @@
+@import 'config';
+
+
+button{
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    background-color: rgba(245, 245, 220, 0.0);
+    transition: 0.3s;
+    &:hover{
+        background-color: rgba(245, 245, 220, 1.0);
+    }
+
+}
+
+#id-speech-form {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+  }
+  
+  #id-speech-form > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #id-speech-form > div > input[type="radio"] {
+    display: none;
+  }
+  
+  #id-speech-form > div > label {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    align-content: center !important;
+    background-color: white;
+    font-size: 1.5rem;
+    color: #000000;
+    font-weight: bolder;
+    display: block;
+    padding: 0.5rem;
+    border: 3px solid #000000;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center !important;
+    width: 100px;
+    height: 100px;
+    &:hover{
+        background-color: lightgreen;
+    }
+  }
+  
+  #id-speech-form > div > input[type="radio"]:checked + label {
+    background-color: rgba(1, 151, 1, 0.712);
+    color: #000000;
+  }
+  #speech-test-button {
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    align-content: center !important;
+  }
+
+.loader, .loader-test, .loader-info, .loader-table {
+    border: 1rem solid #f3f3f3;
+    border-top: 1rem double black;
+    border-radius: 1rem;
+    width: 1rem;
+    height: 1rem;
+    animation: spin 1s linear infinite;
+  }
+  
+
+
+@media screen and (max-width: 500px){
+    #id-speech-form{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

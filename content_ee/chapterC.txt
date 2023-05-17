@@ -1,0 +1,429 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-4.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-4-flip.gif">
+</div>
+C. SÕIDUD JA KÄIGUD. MAJAPIDAMISTÖÖD. RIISTAD, EHITISED, KEHAKATTED
+CA. TEEKOND, SÕIDUD, VEOD
+
+132. Teekäik (mitmesugust)
+Ilm olõ-õi lauduga kinni lüüd. EV 1965:3
+Tee on keelmata igaühele. EV 11736:1
+Tee ei seisa kunagi. EV 11734:1
+Ega tee püsti ole. EV 11728:7
+Kes ilma peäle vaatab, ei saa iialgi teele minna. EV 1988:1
+Küllap mägi märja kuivatab. EV 7071:7
+Tuiskab toa taga, sajab sauna taga, saad teele, ei teagi. EV 12113:8
+Kodo mõtõ sünnü ei tii pääle. EV 3969:2
+Olõ-õi Tartu tarõ takan, Riig riida takan. EV 11693:4
+Ega linn Liiakse mää all ole. EV 5960:1
+Teemees nääb monda. EV 11745:2
+Olõ-õi täti tii veereh. EV 12338:1
+Kõnjal ei ole kraami üten. EV 4826:1
+Teekäijäl om ütesä tiid. EV 11743:1
+Külap tee teed juhatab. EV 11732:1
+Tii veese mõtsõ, tii toosõ ka mõtsast vällä. EV 11740:1
+Istu ja puhka, küll siis tie joudab. EV 2269:1
+Egas mägi varnast võtta pole. EV 7066:1
+Tee on hubamb minnes kut tulles. EV 11735:1
+Tee veab mehed kokku. EV 11738:4
+Tuleb maatagune, ei enämb meretagune. EV 6253:1
+Tulbatii, naglaleib. EV 12118:3
+133. Otse või ringi?
+Paremb kuiva kovera kui vetta oigeja. EV 4468:10
+Parem kaks versta kõverat kui üts õiget. EV 3021:1
+Parem verst maad tasast pite ümbre minnä ku vass mäke sõita. EV 13949:1
+Parem mine üheksa versta ümbrest, kui ühte õiendema hakkad. EV 14831:1
+Parem kopiku eest käära, kui rubla eest otse. EV 4376:1
+Innemb silla kaolt ku silmält. EV 10425:1
+Inimene vaatab, kus otsem, hunt, kus varjem. EV 2135:1
+134. Leivakott. Öömaja
+Teekäija pangu ikka leivatükk taskusse. EV 11742:1
+Lähed päeva piale, võta nädala leib ühes. EV 9271:1
+Teemees, söö edimält nõgla otsast, perast väidse otsast. EV 11746:1
+Õgas kott leiba süü-üi, ku esi süü-üi. EV 4429:1
+Häda koolitab mõnekorra alpi. EV 1744:3
+Teemehe lukk om sõlm. EV 11747:1
+Öömaja on Jumala päralt. EV 14823:8
+Ega öömaja keegi seljas kanna. EV 14822:6
+Õhtu vara öösele, homiku vara teele. EV 14535:2
+Õnnis, kes õues, vilets vaene, kes varju all. EV 14738:4
+135. Sõidud ja veod. Tee
+Hobu ette, naene rekke, mees taha minema. EV 1330:2
+Küll hobu veab, kui look peab. EV 1399:14
+Kui aga hobu veab, küll siis look peab. EV 1390:2
+Hobone veab koorma, tee kaks. EV 1328:3
+Tee veab koormat, ega hobune ei vea. EV 1336:15
+Kui hobune ees tugev on, olgu siis tal või hagu taga. EV 1393:2
+Ega koorma koormale veli ei ole. EV 4348:1
+Veerev koorm ei ole raske. EV 13915:1
+Reekoorm tagapool, vankrekoorm ettepoole. EV 9596:3
+Rege ööld: "Enem vea minuga paljast teed mööda kakskümmned virsta koormat kui ühest ööst kodu koorma alle jättad". EV 9602:1
+136. Ree- ja rattakalender
+Alkseijah riivehmre' vällä, rattavehmre' sisse. EV 242:2
+Lihaheites peab regi ära heitma. EV 5821:3
+Kas nädal enne maarjapääva ehk nädal peale maarjapääva on regi lakas. EV 7652:5
+Ku jääpõrutaja vällän, sõs ei või enamp Võrtsjärve pääl sõita. EV 2769:1
+Vanker ütelnu: "Mul om suvel raske", regi: "Mul om talvel raske", hobune ütelnu jälle: "Mul om aga ütteviisi raske". EV 13653:2
+Kevadene regi ja sügisene vankri on mõlemad rasked. EV 3667:6
+Pärast maarepäed regi koormaks ja pärast mihklipäed vanker koormaks. EV 6248:1
+Lähed sügise reega teele, võta rattad ühes, lähed ratastega, siis võta regi ühes. EV 11373:1
+Vanker sõimab talve. EV 13651:1
+Lumi on ree rasv. EV 6079:3
+137. Veskil ja sepil käimisest
+Kikka aigo kivile, enne valget sepile. EV 3950:3
+Aoga sepile ja kikkaga veskile. EV 157:2
+Veskile ja sepile mine vara, kõrtsi hilda. EV 14000:4
+Hilja kiriku ja vara veskile, siis saab ennem tagasi. EV 1259:40
+Sepile ja veskile mine hästi vara, seal pead korda uutma. EV 10313:2
+Ega kott korda oota. EV 4412:5
+Sepapaja paku otsas ja veskikojas koti otsas kuuleb kõike. EV 10296:2
+CB. METSA- JA EHITUSTÖÖD. HOONED. KÜTE, VALGUSTUS
+
+138. Puude istutamine ja raiumine. Küttepuud. Eri puuliikide omapära
+Vanalkuul istutakse okaspuud ja noorelkuul lehtpuud. EV 13558:7
+Lehtpuud raiutakse noorelkuul, okaspuud vanalkuul. EV 5650:8
+Vanalkuul raiutakse lehtpuu, noorelkuul okaspuu. EV 13559:45
+Tamme raiutakse noorekuuga, maja- või tulipuud vanaskuus. EV 11575:1
+Aeateivaski on sügiseks mädand, ku sital ajal raiud. EV 203:1
+Puu ei puika hoobi eesta, lange laia laastu eesta. EV 9104:1
+Parem kae sittuja silmi kui puuraiuja silmi. EV 10574:25
+Kui saagõ ei viili, sis viil saag sinnu. EV 9980:1
+Madisepäev risu ja rakmeta. EV 6281:1
+Pikä riida veät, lühko vao künnät. EV 8822:1
+Puud tuleb lautida nii, et värblane läbi lennab, aga harakas kinni jääb. EV 9101:3
+Kui laastu on, siis pada ei külmeta. EV 5249:1
+Panõ' sa raaksõ' ahju vai panõ' kuld ahju, üts iks ar palas. EV 9408:1
+Lepapuu hüva puu: põleb ise, puhub teist. EV 5749:1
+Kadakas on kitseste toidus ja vabanikkude soe tuba. EV 2841:1
+Tamm on talupoja raud. EV 11577:13
+Kask on saksa vask. EV 3340:1
+139. Maja jm. hooned. Ehitustöö, remont
+Ehita enne kaev, siis maja. EV 2899:6
+Ega majaehitamine ei ole kübara kergitamine. EV 6374:1
+Maja olõ-õi korvikõsõs kutta. EV 6369:3
+Ega majaehitamine ole koerale kuudi kokkuklopsimine. EV 6375:1
+Maja ei tehta nõelaga, / vett ei kanta sõelaga. EV 6366:1
+Maja alosta' kõva aoga', riistapuu raote pehmega'. EV 6364:1
+Aeda tee noorel kuul, katust kata vanal kuul. EV 33:4
+Kelle katus kakenu, selle põrmand põdenu. EV 3464:1
+Ei ole kadust, ei ole huonet. EV 3460:1
+Saun ise annab sarika mõõdu. EV 10223:1
+Loll mees teeb soja maja, tark mees teeb külma maja. EV 6010:2
+Sammal toa soendus, savi ahju vissidus. EV 10130:1
+Kergita kerist vanal kuul, siis ei sigine kilkisi-prusakaid. EV 3612:1
+Liiv teeb seda sauva sitkeks. EV 5846:1
+.
+140. Tulekahju
+Tulekahju ja kirikuvitsa üle ei või keegi parastada. EV 12122:1
+On Jumal sind vee eest hoind, hoidku ka tule eest. EV 2660:1
+Jumal lasku alust määta. EV 2580:1
+Hoia tuluke takkude eest, siis pitkendad oma elumaja iga. EV 12193:1
+Tuluke on vaenlane, keda tuleb karta. EV 12195:1
+Tuli kõnõlnu' muistõ': "Ku ma väikene olõ, hoitkõ minno, ku suurõst saa, tulko-oi manogi". EV 12176:2
+Tuli on hää sulane, aga paha peremees. EV 12174:2
+Madal ulu ajab tule kiirest katuksele. EV 6259:1
+Kui punane kukk laulab katusel, siis on kõik lõppend. EV 9059:1
+Tule kõht on suur. EV 12160:1
+Tulel on lai käsi, veel sügav vagu. EV 12161:1
+Tuli tegeb tule tüö. EV 12170:2
+Varas jätab varna seina, tuli ei jäta sedagi. EV 13731:250
+Katk jätab ika kalsad järgi, aga tuli ei jäta mitte varnagi seina. EV 3446:1
+Kus ruske härg üks kord maganud, tunnukse üheksa aastat kohta. EV 9886:4
+Kirg mõõnab see järele, kene kääst tema on välja päästnud. EV 3815:1
+141. Tuli, valgustus
+Tuli ei põle meres, aga meri põleb tules. EV 12162:1
+Tuli ja vesi on keelmata. EV 12172:4
+Tuli, vesi ning suõl piäväd majas ikka olõma. EV 12169:1
+Tuli piäb tuas olõma, panõ või peiäl põlõma. EV 12171:5
+Pirrunäitaja ei saa ilmaski kiitust. EV 12133:4
+Tulesüütaja palk: saab Laiuse mäe alt hobusesita seest öhe kaeratera kukega pooleks. EV 12134:4
+Tuli ütles: "Igakord, kui sa mu juure tuled, heida mulle tule peale üks oks". EV 12177:1
+Tulle ar süläku, tuust om suur patt, tuli om vanemb sinno. EV 12178:2
+Tuhkabe õhta tuleta magama, vastlabe õhta õvvevalges. EV 12101:21
+Vikat heina, tuli seina. EV 14166:6
+Ader viib tule toast, sirp toob tuppa. EV 27:1
+Ei tuleta turule menna ega peeruta pereje. EV 12142:1
+142. Suits, soe, külm
+Kus suitsu, seal sooja. EV 10649:205
+Kus pole suitsu, seal pole sooja. EV 10648:2
+Muidu suitsu ei tõuse, kui sooja ei ole. EV 10653:1
+Suits ja soe saavad läbi. EV 10655:1
+Suits om vaese inemise silmarohi. EV 10657:1
+Suits minu sugulane, vesi minu vennanaine. EV 10656:1
+Parem suitsu surra kui külma kannatada. EV 10654:5
+Parem sooja surra kui külma koolda. EV 10588:8
+Parem külmäs kuoleda ku suojas surra. EV 5132:1
+Parem külmas küünis kui vägevas väljas. EV 5131:1
+Parem soojan soputa kui külman kükita. EV 10586:3
+Parem soojas tuas tühja kõhuga ku külmas tuas täie kõhuga. EV 10587:1
+Paremb om lämmind müvva kui osta. EV 6147:2
+Soe tuba, magus jutt. EV 10593:5
+Mida soem tuba, seda raskem uni. EV 10585:1
+Ega soe konti riku. EV 10582:30
+Kül kisub küüned, palav ei tee paha. EV 5109:1
+Külm on hea külaline, aga paha peremees. EV 5115:1
+Külm ajab mehe ree pealt maha, istub ise peale. EV 5103:3
+Külm paneb kepsu lööma. EV 5118:3
+Küll külm jalad alla tiib. EV 5122:3
+Külm on laisa kubjas. EV 5116:1
+CC. ASJAD, RIISTAD, ANUMAD
+
+143. Asja saamine, hoidmine, kestvus
+Kes hakkaja mees on, see saab riista egast kohast. EV 772:1
+Muud asja saab kõik metsast, aga isekasvand vokiratast saa mette. EV 6787:1
+Asjata ei saa asju ajada. EV 413:4
+Ega ajata asja saa. EV 107:14
+Ega asi aia pääl ei ole. EV 416:7
+Ega saisva asi süvvä küsü-üi. EV 10262:3
+Asi olgu, tarbis är' tulgu. EV 411:13
+Töö juures riista surm. EV 12511:7
+Ree ja ratta surm on ikka tee pääl. EV 9601:20
+Killud tähendavad õnne. EV 3773:5
+144. Tööriistad ja mahutid, nende kvaliteet, suurus jm.
+Head riistad on pool tööd. EV 9631:1
+Tee nalja naljage, aga mitte tuliterave riistage. EV 7371:1
+Mida vahedam nuga, seda lahedam leikada. EV 13218:1
+Terav nuga lõikab suurema tüki. EV 11958:1
+Terav nuga on leiva särve. EV 11959:1
+Õigõ miis lää-äi kirvõlda kerikohegi. EV 14566:3
+Kirves on tee peal seltsimeheks. EV 3876:1
+Kang om kats miist. EV 3157:1
+Kui nõu üheksa täit maha jookseb, siis peab veel hea riist saama. EV 7646:1
+Anum, mis seni pang vett maha jookseb, kui naisterahvas kuseb, jäävat ikkagi veel pidama. EV 330:1
+Veepang ollava ütelnu: kui laisk tüdruk teda mudu ei viitsiva kumali käändä, sis lükaku teda jalaga, mudu vettuva ta raskeks. EV 13909:1
+Ega kott ääri nuta. EV 4413:8
+Paremb ärä võtta kui manu panna. EV 14790:1
+Pikkest saab lühükäst kergest, lühükäsest aga pikke enämb ei saa. EV 8814:1
+Suurest saab ikka midagi, aga mis sa väiksega veel teed. EV 10944:1
+CD. KEHAKATTED JA NENDE VALMISTAMINE
+
+[145–148] Ketramine ja kudumine
+
+145. Mitmesugust ketramisest ja kudumisest
+Keträ üü ja keträ päevä, siski paesta pallast perset. EV 3629:1
+Kedrus kedagi ei toida, kui aadriraud ei aita. EV 3630:1
+Peksa naist ehk põleta piipu, aga ketrus ei toida kedagit. EV 8528:1
+Küll kesvasalv ketras, uasalv umblõs. EV 3628:1
+Tera teeva, salve saava, isa aita massab hinna. EV 11945:4
+Parem ikka paha lõng kui hea takk. EV 8244:3
+Parem on lühike kangas kootud kui pikk kearitud ja kudumata. EV 6174:1
+Mürinal, kolinal niide, kangas õhtast kuele. EV 7426:1
+Eide põlle ja taadi tasku jägu piab noorik ikke sel pääval veel kangast valmis kuduma, kui kangas ülesse pandi, muidu saab ta ööseks sandi juure magama. EV 524:6
+Saa-ai kangas karõldõn. EV 3162:1
+Kude kanga kaunistab. EV 4451:2
+146. Vead lõngas ja kangas. Kuduja sõltuvus ketrajast. Saamatu ketraja ja kuduja
+Kiird lang kinnätüs, loid lang loksatus. EV 3546:5
+Seeni ku kiird viil kergähäs, um jo loid lagunu. EV 3547:1
+Kuidamööda lõngad on, nenda kangas ka. EV 6113:1
+Nõna kook kudajel, perse pikk pidajel. EV 7449:8
+Hää häedä, kina kedrada, kutehn nõna nõguhn. EV 1000:1
+Kena kael kedrajal, kookkael kudujal. EV 3585:30
+Vilk vihmavari, tomp tuulevari. EV 14200:23
+Vilk vilgu kohta, tomp tombu kohta, riie nahk kui nahk. EV 14201:1
+Vimp kangas, nenä niies. EV 14209:2
+Õnnevimpu viipsipuussa, kahjuvimpu kanga'assa. EV 14735:5
+Kus silm, seal külm; kus sõlm, seal soe. EV 10492:15
+Pingu peräst pessetäs, mütä peräst mütetäs, jämme peräst jätetäs. EV 8873:1
+Küll tuhk turvutab ja vesi viisile vedäb. EV 12092:6
+Kunas vesik villa ketras või kõsik kinda kujub. EV 13993:1
+Sõrmitu naene linute. EV 11175:6
+Viis lappi villatumal, sada lappi lambatumal. EV 14145:1
+Virgal villa, laisal lamba. EV 14232:3
+Küll konds esi kondsa levväb, varvas varba aseme. EV 4325:1
+Pime peab, sõge sõkub. EV 8868:5
+147. Peenikese ja jämeda kudumisest
+Peenike tahab pikka istet. EV 8502:1
+Peenik pillub perset. EV 8503:1
+Ilus peenike pidada, kuri peenike kududa, paha pesta peenikesta. EV 2070:3
+Jämme rõivas jõutsa teta, ikav pitä. EV 2746:1
+Peenikese pidajal iks pe- paljas, ei püsi peelil ega kesta kudel. EV 8501:1
+Kuulmada koetas, nägemada peetas. EV 4739:1
+148. Lina ja villa võrdlusi
+Linad kakud kannu veerest, villa ei saa kivi otsast. EV 5851:1
+Paklane kasvas pajun, aga villane ei vinnu laudaski. EV 8275:6
+Lina läheb seistes kullaks, vill läheb mullaks. EV 5857:10
+Vilne venib, toores lagub. EV 14206:11
+[149–156] Rõivad ja jalatsid
+
+149. Õmblemine ja riie (mitmesugust)
+Särk pahempidi, varrus parempidi. EV 11194:3
+Sits on sandi siid. EV 10536:10
+Särgi paik pane talvel kasuka pääle, kasuka paik suvel särgi pääle. EV 11192:1
+Leivalõikaja pidade kolm särki aastas saama, teised kaks särki. EV 5733:1
+150. Kuidas ise, nii riie. Meest tuntakse kehakatetest
+Mees arvatakse mütsist, naine tanust. EV 6558:1
+Nigu nahka, nii närtsu. EV 7184:1
+Kuida ebu, ninda entsu; kuida nägu, ninda närtsu. EV 496:1
+Nii kui esi, nii ehte. EV 2260:2
+Kuda ise, nõnda hilbud. EV 2253:1
+Kuda mies, nõnna hilbud. EV 6514:1
+Kuidas mees, nõnda vammus. EV 6528:1
+Kuda mees, nõnda mekud. EV 6511:8
+Kuidas mees, nõnda müts. EV 6519:20
+Kudas rahvas, nõnda rõõvas. EV 9529:8
+Lindu tuntakse sulgedest. EV 5937:8
+Igal linnul omad suled. EV 5899:10
+iga lind kannab seuksi sulgi ja iga mees seukest kuube, mis ta väärt on. EV 5884:1
+Kudas süüa, nõnda sulgi, ja inimesel: kudas jõudu, nõnda ehti. EV 11243:1
+Kes tunneks saksa santidest, kui rätsepat ei oleks. EV 10051:1
+Rõiva tegeva meest mehes. EV 9909:3
+Kis on saapad jalga saand, see on isand igapäe. EV 9972:1
+Mees ei austa kuube, vaid kuub austab meest. EV 6559:1
+151. Riie pole määrav, ei häbista ega austa
+Rõõvas ei ilutse inemist, inemine ilutses rõõvast. EV 9911:2
+Ega rõõva valgen ei elete, päeva valgen eletes. EV 9907:2
+Riie ei riku meest. EV 9628:30
+Müts ei narri meest, kui mees mütsi ei narri. EV 7117:1
+Saapad ei tee sind saksaks. EV 9976:2
+Pane saabas jalga, saksasärk sälgä, kes iks hulgus, too hulgus. EV 9974:1
+Mees on kuue saanud, ega kuub ei ole meest saanud. EV 6588:1
+152. Uus ja vana riie; rõivaste säästmisest
+Inimene viskab vana kuue, lind vanad suled. EV 2136:1
+Esi makat, ega rõivas ei maka. EV 2231:1
+Olgu ennemini sinine selgas kut valge vajak: valge on varga eest armas. EV 10504:1
+Kes iga päev ilus, see harvast alasti. EV 2076:85
+Kes iga päev isanda viisi elab, ei sua nädalas kõrda härra õlla. EV 2223:1
+Kel ei ole reherentsäkut, sel ei ole kirikukentsäkut. EV 9611:3
+Mis peremehel peas, see hobusel jalgus. EV 9612:1
+Reiereebutus ja kerikupeebutus on mõnel üks. EV 9614:1
+Mis kodus, see koolis; mis karjas, see kabelis. EV 3985:5
+Mis karjas, see kerjas. EV 3241:1
+153. Parem kehva kehakattega kui paljas; parem paigatu (või paljas) kui katkine; ihu tähtsam kui riie
+Ei ole must leib nälg ega jäme hamõ alastus. EV 2745:14
+Parem paar viiske kui palja jalu. EV 8164:5
+Parem paigat riie kui paljas ihu. EV 8259:3
+Parem paik paiga pääl kui nirmas-narmas naha pääl. EV 8255:1
+Parem on paik kui auk. EV 8256:5
+Parandetu vana sais vastse ia. EV 8396:2
+Paigat rõivas om lämmi. EV 8258:1
+Paigatuga saap tervet. EV 8251:1
+Parem palja jalu kui katkisis kingis. EV 8306:2
+Parem kingadeta kui jalgadeta. EV 3786:4
+Ihu ike enam kui riie, elu enam kui toidus. EV 1945:1
+Eks ihu ikka riiet saa, aga ega riie ihu saa. EV 1943:3
+154. Hästi süüa või hästi riides käia?
+Tühja kõtuge saap üle tii minnä, alasti ei saa. EV 12697:45
+Tühja kõttu ei näe kiagi, pallast perst nägi igaüits. EV 4797:10
+Kõhus olgu või kardulikuored ja kakusiened, kis seda nääb. EV 4799:1
+Helmed kaelas, kõlkad kõhus. EV 1220:4
+Topi kõlkid kõhtu ja aganaid auku, aga riie peab ümber saama. EV 4822:2
+Kats paari saapid jalas, õle pikuti kõtun. EV 9971:5
+Siidi pääl sibisäse, sõkla kõtun kõsisasõ. EV 10415:10
+Poodiperse', naadikõtt. EV 8966:2
+Kes saksa muudu välja läheb, sii sandi muudu elab. EV 10048:1
+Saksa viisi elada, sandi viisi käia. EV 10086:1
+Parem om hääd süvvä kui kallist kanda. EV 1132:1
+Tükk leiba taskus on parem kui sulg kübara peäl. EV 5716:2
+Ei upsi uus kuub, vaid tantsib täis kõht. EV 12924:95
+155. Suur ja väike jalats, kinnas, rõivas
+Sukk lai ― jalg soe, kinnas lai ― käsi külm. EV 10664:1
+Suur sukk ja kitsas king ― need ei kõlba kohugile. EV 10665:1
+Kitsas kinnas, avar tsoog. EV 3911:1
+Mida laiem kalts, seda priskem poiss. EV 5297:6
+Midä lühem, sedä uhkem. EV 6169:1
+Pikka veetas peran, lak'ka kandas kaalan, lühikõst, ahtakõst ei ole kohegi panna. EV 8813:3
+Parem särk lai ja lühike kui pitk ja ahtuke. EV 11190:1
+Parem korts kannas kui vill varbas. EV 4398:115
+Parem vill varbas kui korts kingas. EV 14203:25
+Körts kondsan, vill varban. EV 4397:1
+Saabas kundsal, vill varbil. EV 9975:1
+Ega korts saapas ei karju, aga rakk varbas valutab. EV 4396:1
+156. Üksikute rõivakomponentide tähtsusest (müts, püksid, põll, tanu, vöö)
+Müts on mehe au. EV 7120:6
+Narri meest, ära narri mehe mütsi. EV 7396:155
+Mütsita mees mõistuseta, tanuta naene tahtmiseta. EV 7119:1
+Parem püksata kui mütsata. EV 9378:1
+Püksata mees, sarvita härg. EV 9380:1
+Naine põlleta kui lehm sabata. EV 7273:1
+Helmitä enen kahi, polleta kaige pere kahi. EV 1221:1
+Põll on naise puhtus, tanu on naise ehe. EV 9181:2
+Ää mine põlleta põllale ja tanuta külatänavale. EV 9182:2
+Põlleta ei tohtida üle põranda menna, aga tanuta võida teise peresse küll menna. EV 9180:4
+Naise peävä tanoga üle läve minemä. EV 7291:1
+Hääl rüäl om ööke ümmer. EV 1018:1
+157. Rõivad külmakaitsena. Ketramis-, kudumis- ja rõivastumiskalender
+Kord aitab korda. EV 4381:5
+Kord annab korrale sooja. EV 4383:2
+Kord ikka korra vennäke. EV 4384:1
+Küll külm avitas suuri rõivit kanda. EV 5095:2
+Mis lind see on, kes oma sulgi ei jõua kanda. EV 5948:30
+Vene külm ei mõista nalla, / küsib jääranahka selga. EV 13931:1
+Tali tahab tallukaida, vilu villast riieta. EV 11557:2
+Külm küsüs kindit, hall hahku kaputit. EV 5113:3
+Küll küsib külmakene, ajab taga hallakene: "Mis sa tegid, memmekene?". EV 5096:1
+Mardis mauk valmis, jõulus jõmp selgas, küünlabas külg maas, paastus paik persses. EV 6434:2
+Enni olid naised nii virgad, et mardil sai mauk kaela visatud. EV 7194:8
+Kõige vähemalt peab pereeit nii palju ikka kedrand olema, et ta Mardi jalad jõuab kinni mäskida. EV 8594:1
+Mart küsib: "Kas oo linad lipsitud, kas oo takud tongatud?". EV 6436:1
+Kui toomapäevaks veel talunaistel takku järele jääb, siis peab Toomas nendega p- t pühkima. EV 12032:1
+Küll küünlapäiv küsüb, mes mardil maati. EV 5225:1
+Pääle tõnisepäeva hakkab päike juba riiet pleekima. EV 12292:2
+Küll päiv pälkäs, lumi luikas. EV 9269:1
+Hädä äide kiirjälle, viga villa ketrajälle. EV 1770:1
+Kost'um talsipühist hot' must, da vastanõ, a lihavõõtõst hot' vana, da valgõ. EV 11501:2
+Päev läheb pikemaks, säie lühemaks. EV 9292:6
+Susi on suvine kangas. EV 10831:7
+Suvel kängitäs konnalgi jala kinni. EV 10988:2
+CE. PUHTUSEPIDAMINE, SÖÖDIKUD
+
+158. Kalendaarseid endeid ja norme seoses pesupesemise ja toakasimisega
+Sui tahab suurta uhtumist, talv tarka väänamist. EV 8709:11
+Pese pesu küündlakuus ja õuna õitsemise ajal, siis saad valged riided. EV 8708:1
+Toomas soeb tuhkhaua pead. EV 12040:1
+Toomapääval viiakse Tohma-Toomas välja. EV 12038:2
+Enna jõula vädavad kaks naist tahma tuppa, pärast jõulu välja. EV 2718:2
+Hommikul pühitakse hool välja, õhtul õnn. EV 1442:1
+159. Pesemise ja puhtusepidamise tähtsusest. Kasimatuse hukkamõist
+Must mõsõ, kalg kolgi, kaugumba pidä. EV 6951:1
+Kus oit, seal uputa, kus lomp, seal loputa. EV 7789:1
+Harimine armas, kasimine kallis. EV 846:1
+Puhtus om puul elu. EV 9033:3
+Puhtus on perenaise uhkus. EV 9034:2
+Ei puhtus uhkus ole. EV 9031:1
+Ärä taha uhkõ olla, paremb taha puhas olla. EV 12820:1
+Kui esi vaene, ega vesi vaene ei ole. EV 13038:5
+Parem vana riidega puhtaste kui vastsega lipa-lopa. EV 13371:1
+Lehmgi tõstab saba ülesse, kui veest läbi läheb. EV 5639:1
+Pesuküna kasvatab, leivaküna kahandab. EV 8710:2
+Esi puhas, pesä puhas; esi ropp, pesä ropp. EV 9018:1
+Ega püksi rüvetamine raha ei maksa, vaid puhastamine ja pesemine. EV 9375:1
+Kes pada ei pese, ega see iseennastki ei pese. EV 8187:1
+Kus talus puru nurgas, sääl on laiskus toas. EV 11509:1
+Kes enne ei kasi, kui võõras tuleb, see on pärast tiidus. EV 3336:1
+Tseal om must meronapang kah puhas. EV 10393:1
+160. Puhtusega ei maksa liialdada. Mustus pole suur viga
+Muda ei olõ rasõv ― mõsõt ja lätt är. EV 6858:1
+Hobune ei pese ilmaski, ikke nääb, karu koa ei pese, kõik kardavad. EV 1335:17
+Musta peal vili kasvab, valge peal koer sittub. EV 6946:2
+Param söö musta toas valged leibe kui valge toas muste leibe. EV 11255:1
+Kelle tare risune, / selle laud raasune. EV 11592:1
+Uhkõlt pallo huult, valgõlt pallo vaiva. EV 12817:1
+Hoorad käivad uhkeste, pordud käivad puhtaste, litsid liiga valgeste. EV 1521:5
+161. Saun, vihtlemine
+Laupäeva õhtul saab kolm head sooja asja: sooja sauna, sooja pudru ja sooja eite. EV 5600:1
+Laupa õhta vihtled oma verega, riede õhta piimägä. EV 5599:20
+Kes laubaõsta vistleb, / seda Jumal nustleb. EV 5598:1
+Lein on vanem kui meie. EV 5724:1
+Saunalöülü ega kaevuvett ei kieledä. EV 10228:5
+Kes löüli iest on enne raha maksand. EV 5723:1
+Silmavesi vihtlemise eest ja sau sanna kütmise eest. EV 10494:1
+Saunasoe änam ku' kõhutäis süüa. EV 10232:2
+Saunaleil on parem kui soe sai. EV 10227:1
+Ega sannalõunu ei saa kotti panna. EV 10226:4
+Lõun üte peräst lätt niisama vällä kui ütsä peräst. EV 5725:3
+Saun ilma vihata ja supp ilma soolata pole kumbki midagi väärt. EV 10222:1
+Küünär karust, peotäüs pal'last, nõnda pead vihta köütme. EV 5203:1
+.
+162. Kirp ja täi
+Kirp on kähku kargama. EV 3864:1
+Kirp lätt inemba Riiga kui sanna. EV 3863:1
+Kirp kaebas kord: "Jummal hoitko minno pimme kätte saamast-jäämast, sis oled kadonu". EV 3861:2
+Peakirbud, need on hullemad kui sepipaea sädemed. EV 8490:1
+Täi mehes, kerp koeras. EV 12347:8
+Täidest ustakse, et ta saada ühe ööga isaisaks. EV 12345:1
+Esimene kõrd on õtsi kõrd, teine kõrd on tapa kõrd, kolmas on korjamise kõrd. EV 689:1
+Täi: "Seda mõõgasõda ma-p karda, aga kui harjas tuleb, vat see on münu surm". EV 12349:4
+Täi ütelnud: "Kurika all kuulan, pajas paisun, aga saanalein on hingevõtja". EV 12350:18
+Täi olla enne ütelnud: "Kui seasõda, siis ma tüki tüvve, kui raudsõda, siis ma lase latva". EV 12348:5
+Täie sööve laisa naise ärä. EV 12346:1
+Otsa pääl on orjal täied, lagipääs laisal täied, kõrva ääres kõrkjal täied, kukraaugus kurjal täied. EV 8140:40

@@ -1,0 +1,910 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-10.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-10-flip.gif">
+</div>
+I. ABSTRAKTE KATEGORIEN UND VERHÄLTNISSE
+IA. ZEITVERBUNDENE KATEGORIEN
+
+IAA. Zeit, ihre Wirkung. Vergangenheit, Gegenwart, Zukunft
+
+902. Die Zeit bleibt nicht stehen
+Zeiten hat es gegeben, Zeiten sind vergangen. EV 99 : 1 Var.
+Das Zeitrad dreht sich selbst ohne Geld (d. i. unentgeltlich). EV 228 : 1 Var.
+Das Zeitrad bleibt nicht stehen. EV 229 : 2 Var.
+903. Die Zeit fließt, die Prozesse entwickeln sich langsam. Es gibt für alles genug Zeit
+Das Zeitrad läuft langsam. EV 230 : 1 Var.
+Langsam die Ochsen ziehen, sachte lebt das Gehöft. EV 1266 : 6 Var.
+Nicht einmal ein Furunkel wächst plötzlich. EV 4193 : 1 Var.
+Zeit zu leben, Zeit zu sterben. EV 49 : 16 Var.
+Zeit geboren zu werden, Zeit zu sterben. EV 83 : 2 Var.
+Zeit zu arbeiten, Zeit zu schlafen, Zeit zu sprechen, Zeit zu schweigen. EV 98 : 1 Var.
+904. Alles zu seiner Zeit. Nichts geschieht, bevor die Zeit dazu reif ist. Alles geschieht nicht gleichzeitig
+Jeder sucht nach seiner Zeit. EV 8144 : 1 Var.
+Alles zu seiner Zeit. EV 118 : 1 Var.
+Nicht alle Jahre sind Brüder. EV 11 : 95 Var.
+Auch der Kuckuck ruft zu seiner Zeit. EV 4918 : 1 Var.
+Die Blume blüht zu einer bestimmten Zeit. EV 5847 : 4 Var.
+Die Beere fällt nicht eher vom Baum, als bis sie reif ist. EV 6417 : 15 Var.
+Der Hahn kräht nicht vor der rechten Zeit. EV 3767 : 1 Var.
+Ein kleines Kind kann ja nicht sofort laufen. EV 5446 : 1 Var.
+Nicht alle Erbsen kochen auf einmal weich. EV 1231 : 1 Var.
+[905–908] Die Wirkung der Zeit: sie endet und ändert alles, bringt Klarheit
+
+905. Jede Sache hat zwei Enden. Alles endet, vergeht, ändert sich einmal
+Jede Sache hat zwei Enden. EV 423 : 25 Var.
+Jede Sache hat ihr Ende. EV 421 : 8 Var.
+Jede Wurst hat zwei Enden. EV 14282 : 3 Var.
+Diese Sonne geht nicht auf, die nicht untergeht. EV 9312 : 1 Var.
+Auch ein heller Stern erlischt. EV 1214 : 1 Var.
+Auch der längste Tag erreicht einmal den Abend. EV 8787 : 6 Var.
+Die lange Zeit wird wohl auch vorübergehn. EV 8793 : 1 Var.
+Meine Magd hat eine (d. i. ihre) Magd, mein Knecht hat einen (d. i. seinen) Knecht (d. i. sie sind arbeitsscheu). EV 12593 : 2 Var.
+Gottes Zeit bleibt niemals unbelohnt. EV 114 : 1 Var.
+Die Zeit beendet alle Dinge. EV 70 : 12 Var.
+906. Die Zeit verliert, verschwendet, frißt alles. Es ist sinnlos das Vergangene zu bedauern
+Die Zeit vergeht und vernichtet alles. EV 66 : 1 Var.
+Lange Zeit verbraucht viel. EV 8812 : 1 Var.
+Der Zahn der Zeit faßt (od. nagt) alles an. EV 224 : 3 Var.
+Eisen ist wohl stark, aber der Zahn der Zeit ist noch stärker. EV 9567 : 1 Var.
+Wo blieb das Wasser, das man zum Bier brachte. EV 13965 : 1 Var.
+Wo ist der vorjährige Schnee. EV 6883 : 20 Var.
+Traure dem gestrigen Tag nicht mehr nach. EV 522 : 3 Var.
+Zum kaputten Trog kann man nicht zurückkehren. EV 5164 : 1 Var.
+907. Was aus der Zeit, das aus dem Sinn. Die Zeit bringt Vergessenheit, verbessert alles
+Was aus der Zeit, das aus dem Sinn. EV 124 : 140 Var.
+Was aus dem Sinn, das aus der Rechnung. EV 6469 : 1 Var.
+Was vorbei, das aus dem Sinn. EV 7106 : 4 Var.
+Altes Salz macht ja nicht durstig. EV 13321 : 6 Var.
+Das Frühere hat sich in der Welt verirrt, das Gegenwärtige ist eben vorhanden. EV 668 : 1 Var.
+Was lange her, das ist vergessen; was heute, das ist gemacht. EV 284 : 1 Var.
+Zeitvertreib ist der Anfang von Vergeßlichkeit. EV 231 : 2 Var.
+Die Zeit hilft vergessen. EV 54 : 1 Var.
+Auf jede alte Sache wächst Moos. EV 13316 : 1 Var.
+Mit der Zeit werden die Sachen besser. EV 135 : 3 Var.
+Die Zeit heilt alle Dinge. EV 71 : 1 Var.
+Die Zeit heilt alle Wunden. EV 72 : 25 Var.
+Die Zeit heilt alle Schwären. EV 82 : 1 Var.
+908. Die Zeit bringt Klarheit, bringt die Wahrheit ins Tageslicht, erklärt die Sachen
+Manche Flüssigkeit klärt sich durch Stehen. EV 13908 : 1 Var.
+Mit der Zeit werden die Sachen richtig. EV 138 : 2 Var.
+Die Zeit ändert alles. EV 85 : 1 Var.
+Die Zeit bringt die Sache ans Licht. EV 84 : 2 Var.
+Die Zeit wird schon prüfen lassen. EV 120 : 1 Var.
+Die Zeit wird schon zeigen. EV 123 : 1 Var.
+Die Zeit wird die Sache schon erklären. EV 122 : 1 Var.
+Die Zeit klärt alle Dinge auf. EV 69 : 10 Var.
+Die Zeit wird schon aufklären. EV 121 : 1 Var.
+Die Zeit gibt Aufklärung. EV 58 : 10 Var.
+909. Man weiß die Zukunft nicht voraus. Wenn man wüßte, könnte man Schlechtes vermeiden
+Der morgige Tag ist hinter der Nacht, der übermorgige hinter dem Berg. EV 1466 : 4 Var.
+Morgen (steht) noch bevor, der Tod (steht) auch bevor. EV 1435 : 1 Var.
+Schwarz ist des morgigen Tages Arsch. EV 6948 : 4 Var.
+Die Zukunft ist dunkel (d. i. unbekannt). EV 12136 : 1 Var.
+Man hat nicht vorausgesagt, was nachher kommen soll. EV 728 : 2 Var.
+Wenn der Mensch wüßte, wo er hinfällt, dann würde er sicher Stroh unterlegen. EV 2166 : 1 Var.
+Dorthin würde (ich) den Fuß nicht setzen, wüßte ich, wo (ich) falle. EV 2405 : 1 Var.
+Wüßte man's im voraus, würde man nicht ins Grab fallen. EV 726 : 3 Var.
+[910–911] Vergleiche der Vergangenheit und Gegenwart, der Gegenwart und Zukunft
+
+910. Früher gab es bessere Zeiten; die Vitalität der Menschen sinkt. Das Lebenstempo wird schneller. Alte Zeit war arm (jetzt reicher)
+Arme Leute haben oft Schmerzen. EV 13111 : 1 Var.
+Vorne Lebenstage, hinten Tanztage. EV 504 : 20 Var.
+Vorne Klagetage, hinten Kinderliedertage. EV 505 : 5 Var.
+Einst hatte man leinene Kleidung, ein eisernes Volk; jetzt hat man Kattunkleidung, papierene Gesichter. EV 13578 : 1 Var.
+In der Zukunft werden die Menschen so klein und schwach sein, daß sie ein Hühnerei mit zwei Männern tragen. EV 12138 : 3 Var.
+Einst saß der Wolf und schiß, jetzt lauft er und wirft (es) kollernd (von sich). EV 13579 : 1 Var.
+Alte Zeit(en) war(en) arme Zeit(en). EV 13374 : 3 Var.
+Auch einst wurde gelebt, als man Weidenkätzchen aß, warum denn nicht jetzt, wo man Roggenbrot ißt. EV 548 : 1 Var.
+911. Heute ist klüger als gestern (morgen klüger als heute, Abend klüger als Morgen, heute klüger als morgen
+Der heutige Tag ist klüger als der gestrige. EV 12410 : 1 Var.
+Der morgige Tag ist klüger als der heutige. EV 1465 : 1 Var.
+Der Abend ist klüger als der Morgen. EV 14532 : 10 Var.
+Das Heutige ist klüger als das Morgige. EV 12409 : 1 Var.
+912. Verschiedenartiges über die Zeit
+Einen Tag bringen wir nach dem anderen hin. EV 9304 : 1 Var.
+Gleichartig sind Gottes Tage alle. EV 14864 : 1 Var.
+Die Zeit vergeht immer auf ihre Weise: Ob auf dem Schlitten oder auf dem Wege. EV 93 : 1 Var.
+Die Zeit wird auch nicht schlechter, wenn sie nicht teurer wird. EV 110 : 1 Var.
+Ein Mann hat zum Leben (seine) Zeit. EV 6489 : 1 Var.
+Klug, wer mit der Zeit mitgeht; dumm, wer sich mit Klauen (dagegen) stemmt. EV 11636 : 1 Var.
+Alles wiederholt sich. EV 4388 : 1 Var.
+IAB. Hoffnung, Erwartung, Ankommen
+
+913.
+Im Traum sieht man immer etwas. EV 12892 : 1 Var.
+Hoffnung ist auch ein guter Mann. EV 6043 : 1 Var.
+Für den Wartenden wird die Zeit langweilig (d. i. lang). EV 1914 : 15 Var.
+Der Weihnachtssonnabend (24. XII) ist das beste von den Weihnachter. EV 2720 : 1 Var.
+Der Weihnachten Vortag (24. XII) ist mehr als die Weihnachten selbst. EV 2728 : 1 Var.
+Bis der Sumpf aufgetaut, ist der Kranich gestorben. EV 4584 : 35 Var.
+
+IAC. Gewöhnlich und ungewöhnlich, oft und selten. Man merkt das Ungewöhnliche, das Gewöhnliche aber nicht
+
+914.
+Schlimm, wenn eine Kuh Reißauß nimmt. EV 5632 : 1 Var.
+Je seltener, desto ehrwürdiger. EV 856 : 1 Var.
+Wer selten kommt, der hinterläßt ein Loch (d. i. eine Lücke). EV 858 : 1 Var.
+Alles ist gut, was man selten bekommt. EV 1029 : 4 Var.
+Selten ist die Elster auf des Schweines Rücken, die alte Krähe (aber) jeden Tag. EV 842 : 7 Var.
+Die Elster ist immer auf des Schweines Rücken ― niemand sieht (es); der Wolf ein einziges Mal ― alle schreien. EV 841 : 5 Var.
+Das Pferd trägt fortwährend einen Sattel, manchmal könnte auch das Schwein (einen haben). EV 1351 : 2 Var.
+Den Hund, der immer bellt, sieht niemand; der selten bellt, wird immerfort gesehen. EV 8542 : 1 Var.
+IAD. Alt und neu
+
+915. Das Alte ist bekannt, das Neue unbekannt, ungewöhnlich, fremd. Das Alte ist besser als das Neue. Verachte nicht das Alte
+Der alte Weg ist bekannt. EV 13496 : 1 Var.
+Das Alte ist bekannt, das Neue unbekannt. EV 13495 : 3 Var.
+Das Alte hat man gesehen (d. i. ist bekannt), das Neue hat man nicht gesehen (d. i. ist unbekannt). EV 13470 : 7 Var.
+Ein neues Rad läuft schlecht. EV 12992 : 1 Var.
+Neue Räder rollen zum ersten Mal (immer) schwer. EV 12984 : 5 Var.
+Ein neuer Stiefel ist gut an den Fuß zu ziehen, aber schlecht vom Fuß zu ziehen. EV 12993 : 1 Var.
+Besser ein alter Schuh als ein bloßer Fuß. EV 13368 : 1 Var.
+Besser ein alter Pelz als ein neuer Rock. EV 13367 : 8 Var.
+Eine alte Reuse ist mehr als eine neue Flinte. EV 13453 : 1 Var.
+Aus einem alten Brunnen bekommt man Wasser für Fladen. EV 13489 : 1 Var.
+Besser Neues vergessen als Altes verachten. EV 12981 : 1 Var.
+Wer verbrennt alte Schiffe im Herd. EV 13340 : 1 Var.
+916. Das neue ist wirksam, von guter Qualität, besser als das Alte. Das Neue soll man dem Alten bevorzugen
+Ein neuer Besen fegt die Stube rein. EV 12991 : 160 Var.
+Besser immer im neuen Rock als im alten Pelz. EV 12980 : 1 Var.
+Besser Neues machen als Altes ausbessern. EV 12982 : 2 Var.
+Neues muß man nehmen, Altes lassen. EV 12996 : 2 Var.
+917. Neu..., neu...; alt..., alt... (verschiedenartiges)
+Neue Zeiten, neue Sachen (od. Dinge). EV 12983 : 1 Var.
+Neues Leben, neues Glück. EV 12987 : 1 Var.
+Neuer Sattel, altes Pferd. EV 13895 : 1 Var.
+IAE. Gewöhnen, Gewohnheit, "Mode"
+
+918.
+Man gewöhnt sich auch in der Hölle. EV 9207 : 1 Var.
+Gewöhnst dich daran, dann ist es auch in der Hölle gut. EV 848 : 4 Var.
+Zuerst schrecklich, später lieb. EV 1304 : 1 Var.
+Was anfangs das allerliebste, das später das allerschrecklichste. EV 366 : 2 Var.
+Ein erlerntes Amt ist schwer aufzugeben. EV 14762 : 2 Var.
+Gewohnheitsmäßige Sitten sind schwer zu lassen. EV 850 : 3 Var.
+Was kannst du gegen die Mode. EV 6853 : 1 Var.
+IAF. "Kälterwerden", "Wärmerwerden", Adaptation
+
+919.
+Eine Speise ist niemals heißer als dann, wenn sie vom Herd auf den Tisch gehoben wird. EV 9798 : 1 Var.
+Wie oft kommt wohl der Kessel heiß aufs Feuer. EV 8197 : 1 Var.
+Brei wird nicht so heiß gegessen wie gekocht. EV 9001 : 15 Var.
+Die heutigen Geschäfte wirf nicht an den Nagel von morgen (Was du heute kannst besorgen, das verschiebe nicht auf morgen). EV 12411 : 85 Var.
+Bittere Kälte währt nicht lange. EV 3228 : 1 Var.
+IB. GUT UND SCHLECHT IM LEBEN, NOT, SORGE UND FREUDE, UNGLÜCK UND GLÜCK, IHRE ABWECHSLUNG. ZUFALL, SCHICKSAL
+
+[920–925] Das Leben als Tal der Not. Es gibt mehr Schlechtes als Gutes, das Schlechte dauert länger als das Gute
+
+920. Not, Sorge dauern von der Wiege bis zum Grabe, folgen einem überall, sind endlos; jeder hat seine Sorgen; Unglück geht über die Menschen u.ä.
+Mit Schmerzen kommst zur Welt, mit Schmerzen gehst ins Grab. EV 13309 : 1 Var.
+Weinend wächst das Kind, stöhnend lebt der Alte. EV 5553 : 40 Var.
+Als Schwarzkopf hat man Sorgen, als Graukopf geht man ins Grab. EV 6947 : 1 Var.
+Des Mannes Sohn, des Roggens Sohn, des Pferdes Sohn ― sie müssen alles ertragen. EV 6652 : 1 Var.
+Wieviel Tage, soviel Mühe. EV 9274 : 1 Var.
+O weh! heute, o weh! morgen, wann wird das oh weh! enden. EV 7773 : 10 Var.
+Des Kummers Berg verfault nicht, des Schadens Ufer wird nicht kleiner. EV 6916 : 1 Var.
+Kummer ist schon auf die Welt geschaffen, wie kannst du ohne (ihn) sein. EV 6913 : 1 Var.
+Gehst auch auf den höchsten Baum, deine Not kommt immer mit. EV 8799 : 1 Var.
+Not an den Bäumen, Not auf der Erde (d. i. überall). EV 1752 : 1 Var.
+Not in der Stadt, Not im Wald, Not unter schlauen Brüdern. EV 1746 : 10 Var.
+Sumpf hier, Sumpf dort ― trockenes Land (gibt es) nirgends. EV 10603 : 1 Var.
+Nirgends gibt es Brot ohne Kruste. EV 5666 : 4 Var.
+Kein Weg ist ohne Staub, kein Leben ohne Gefahr. EV 11741 : 1 Var.
+Wo Leben, da Not. EV 584 : 2 Var.
+Nirgends gibt es Leben ohne Not. EV 1788 : 1 Var.
+Der Mensch ist nicht ohne Kummer und die Erbse ohne Würmer. EV 2127 : 1 Var.
+Seine Not hat jedermann, sowohl vorn als hinten. EV 1800 : 1 Var.
+Jeder Hof hat seine Not, manche noch zwei­drei. EV 11516 : 1 Var.
+Jeder Mann hat seine eigenen Sorgen. EV 6500 : 2 Var.
+Der Vogel hat eines Vogels Sorgen, der Mensch eines Menschen Sorgen. EV 5944 : 1 Var.
+Ein Kopf, eine Sorge. EV 15013 : 1 Var.
+Armut und Elend sind im Schoß der Menschen. EV 13167 : 2 Var.
+Unglück geht nicht über Steine und Baumstümpfe, sondern über Fleisch und Knochen. EV 14716 : 1 Var.
+Unglück wandelt unter Menschen einher, nicht unter Steinen und Baumstümpfen. EV 14723 : 145 Var.
+Nicht der Mensch sucht ja die Not, die Not sucht den Menschen. EV 2088 : 1 Var.
+921. Das Gute gibt es in der Welt wenig, es ist schwer zu erreichen; das Böse kommt von selbst, verschwindet ungern
+Auf Gutes muß man lange warten Weiches (lange) kochen. EV 995 : 1 Var.
+Zweierlei Gutes bekommt man nicht, entweder einen Haufen oder einen Schlag. EV 3001 : 1 Var.
+Zweierlei Gutes kann man nicht bekommen. EV 2963 : 10 Var.
+Man kann ja nicht alles Gute der Welt erreichen. EV 888 : 2 Var.
+Von Gutem bekommt niemand etwas, von Schlechtem bekommt ein jeder. EV 1036 : 1 Var.
+Gutes bekommst du nicht mal mit hundert Worten, Böses braucht nicht mal drei (Worte). EV 993 : 1 Var.
+Ein guter Traum kommt nicht in die Hand (d. i. erfüllt sich nicht), ein schlechter immer. EV 1077 : 1 Var.
+Schlechtes tun braucht nicht gelehrt zu werden. EV 8207 : 1 Var.
+Unkraut ist schwer zu vernichten. EV 12877 : 3 Var.
+Dreck (od. Dünger) zerfällt ja nicht. EV 10559 : 1 Var.
+Das Böse hat tiefe Wurzeln. EV 4655 : 1 Var.
+Das Böse kann niemand besiegen. EV 4645 : 1 Var.
+922. Unglück (Not, Sorge) kommt schnell, geht langsam. Gute Sachen vergehen schnell
+Unglück hat hurtige Beine. EV 14721 : 4 Var.
+Das Unglück kommt ja nicht einzeln oder geht nicht zu zweien. EV 14704 : 1 Var.
+Unglück geht zu Fuß, aber kommt zu Pferd. EV 14712 : 2 Var.
+Not kommt mit Pferden, geht weg mit Ochsen. EV 1758 : 8 Var.
+Mühe kommt mit Pferden, geht weg mit Ochsen. EV 13189 : 8 Var.
+Gute Tage vergehen schnell. EV 1034 : 1 Var.
+923. Unglück (Not, Sorge) kommt nicht allein
+Unglück kommt selten von einer Sache. EV 859 : 1 Var.
+Unglück kommt nie allein. EV 14719 : 10 Var.
+Der Tod kommt niemals allein. EV 10753 : 1 Var.
+Nöte kommen scharenweise wie ein Krähenschwarm. EV 1768 : 1 Var.
+Eins­zwei Unglück, fünf­sechs Not. EV 15094 : 3 Var.
+Wenn das Unglück kommt, dann kommt (es) durch Tür und Fenster. EV 14710 : 45 Var.
+924. Du fliehst vor einer Sorge, stößt auf die andere; von einer Sorge in die andere, schlimmere
+Geh vor dem Wolf ins Versteck, der Bär mit zwei Jungen ist schon da. EV 10801 : 90 Var.
+Fliehst vor der Not, (aber) der Kummer wartet vorn. EV 1772 : 1 Var.
+Wer dürren Zweigen aus dem Wege geht, kommt wieder auf den Kehrichthaufen. EV 9407 : 1 Var.
+Geh nicht aus dem Regen in die Traufe. EV 14053 : 6 Var.
+925. Eine dringendere (größere) Sorge drückt den ferneren (kleineren) auf den Hintergrund
+Über die erste Not wird immer hinweggeholfen: Der Brottrog entzwei, das Wasser heiß. EV 681 : 1 Var.
+Die erste Not fragt ja nicht nach der letzten. EV 679 : 1 Var.
+Das erste Bedürfnis kümmert sich ja nicht um das letzte. EV 680 : 1 Var.
+Der Wolf ist dann nicht vor (dir), wenn der Bär mit zwei Jungen hinter (dir) ist. EV 10803 : 3 Var.
+Wenn der Wolf zu Hause ist, dann ist der Wolf ja nicht im Walde. EV 10791 : 2 Var.
+Eine Not verzehrt die andere. EV 14972 : 1 Var.
+[926–927] Die Wirkung der Sorge (Not, Traurigkeit) auf das Aussehen, die Stimmung, das Verhalten des Menschen
+
+926. Sorge, Traurigkeit, Not verderben die Stimmung und das Aussehen, fressen das Herz, nimmt den Schlaf weg, führen ins Grab
+Freude löst die Zunge, aber Kummer schließt sie. EV 9919 : 1 Var.
+Blut im Herzen, Wasser im Auge. EV 13945 : 1 Var.
+Weinen ist der Not Bruder. EV 7609 : 1 Var.
+Aus einem traurigen Arsch kommt kein froher Furz. EV 4562 : 1 Var.
+Wer eine schwere Bürde auf dem Rücken getragen hat, der geht noch lange gebückt. EV 9551 : 1 Var.
+Kummer im Kopf, eine Beule an der Stirn. EV 6918 : 25 Var.
+Kummer macht schwarz, Not grau. EV 6921 : 60 Var.
+Kummer macht die Haare grau. EV 6920 : 1 Var.
+Kummer nimmt den Schlaf, Jammern die Schönheit (weg). EV 6925 : 1 Var.
+Kummer läßt nicht schlafen, Sorge läßt nicht schlummern. EV 6908 : 4 Var.
+Das Pferd frißt der Saatkeime Wurzeln, die Sorge (frißt) des Herzens Wurzeln. EV 1323 : 1 Var.
+Rost frißt Eisen, Kummer das Herz. EV 9802 : 2 Var.
+Kummer ist der größte Ausbeuter. EV 4563 : 1 Var.
+Kummer schickt der Erde zu, Anschauung dem Grabe zu. EV 6919 : 3 Var.
+Die Orgeln vom Tale der Not sind auf verschiedene Weise schief. EV 1805 : 3 Var.
+927. Not hat starke Wirkung: sie läßt die Scham und den Stolz verschwinden, zwingt zur Erniedrigung, zum Bitten, zu den bösen Taten usw. Guter Stand macht einen hochmütig
+Die Not ist schlimm, nicht der Mann. EV 1739 : 3 Var.
+Wer einen guten Diener haben will, der sei sein eigener Diener. EV 11748 : 1 Var.
+Not ist größer als Gebot. EV 1751 : 1 Var.
+Not macht den Furchtsamen mutig. EV 1757 : 1 Var.
+Not läßt sich nicht schämen, ein leerer Magen (nicht) stolz sein. EV 1733 : 190 Var.
+Die Not treibt den Ochsen in den Brunnen. EV 1727 : 260 Var.
+Wenn am Wege gebaut wird, gibt es viele Tadler. EV 11730 : 1 Var.
+Not treibt, Elend zwingt. EV 1729 : 1 Var.
+Der Ertrinkende ergreift (sogar) einen Strohhalm. EV 12925 : 30 Var.
+Das Messer in der Scheide, auch das geht weg (In der Not gibt man alles her). EV 7586 : 1 Var.
+Wessen Pferd im Bach ist, dessen Fuß muß auf einer flacheren Stelle sein. EV 1379 : 1 Var.
+Not lehrt den Bettler schon lesen (d. i. bitten). EV 1791 : 15 Var.
+Not lehrt lesen, Not lehrt singen. EV 1762 : 2 Var.
+Wenn man in Not ist, dann kommt der Verstand (doch) noch in den Kopf. EV 1782 : 2 Var.
+Wenn man in Not ist, so wird man sich an Gott erinnern. EV 1784 : 4 Var.
+Not treibt bitten, gutes Leben prahlen. EV 1728 : 12 Var.
+Bei gutem Leben wirst hochmütig und stolz, im Elend verzweifelst, bleibst dumm. EV 1057 : 1 Var.
+Es gibt Zeiten, wo man Gott nicht kennt; es kommen Zeiten, wo man sich vor einem Froschbein verbeugt. EV 94 : 1 Var.
+Hochmut vergeht (noch) vor dem Tod. EV 12823 : 1 Var.
+Not lehrt mehr lügen als beten. EV 1763 : 1 Var.
+928. Das subjektive Ansehen auf die Not und ihre wirkliche Größe. Keine Not ist unüberwindlich. Das Klagen der Sorgen. Not und Hilfe
+Wenn die Wunde schon da ist, so wird man (auch) Schmerzen spüren. EV 735 : 1 Var.
+Je tiefer die Wunde, desto größer der Schmerz. EV 11361 : 1 Var.
+Wo Schmerzen, da Not. EV 13308 : 1 Var.
+Wie die Mühe, so der Schmerz. EV 13178 : 1 Var.
+Die Not ist ja nicht immer so groß wie der Schmerz. EV 1724 : 2 Var.
+Not ist gar nicht so groß wie Schande. EV 1736 : 1 Var.
+Es gibt keine Not, die Not kommt; stellt man sich aber vor die Not, so kommt sie auch nicht. EV 1734 : 2 Var.
+Die Not ist ja nicht so groß wie ein Ochs, ein Ochs ja nicht so groß wie die Welt. EV 1722 : 3 Var.
+Die Not kommt ja nicht durch die Tür und durch das Fenster herein. EV 1723 : 1 Var.
+Leidest Not, dann klage sie dir selbst. EV 1796 : 1 Var.
+Mach alles zu seiner Zeit. EV 11785 : 1 Var.
+Von der Not erzähl allen, behalt die Not nicht für dich. EV 1771 : 1 Var.
+Alle Wege führen nach Rom. EV 11731 : 1 Var.
+Ist man auf dem Meer in Not, dann findet man auf festem Land genügend Helfer. EV 6721 : 1 Var.
+Wer in Not, der wird schon Hilfe suchen. EV 1774 : 4 Var.
+Wo Gefahr, da ein Mittel. EV 7781 : 2 Var.
+Such einen Ausweg (od. Hilfe), versuch ein Mittel. EV 7784 : 1 Var.
+Wo die Not am größten, da ist Hilfe am nächsten. EV 1787 : 70 Var.
+Gott gebe die Not, Hilfe wird sich schon finden. EV 1721 : 2 Var.
+Es hilft immer, wenn man heilt. EV 15 : 18 Var.
+Jede Not hat ihren Helfer, jede Krankheit ihren Doktor. EV 1773 : 1 Var.
+[929–932] Das Zusammengehören und die Abwechslung des Guten und des Schlechten
+
+929. Das Menschenleben ist bunt, veränderlich, enthält Gutes sowie Böses
+Der Vogel ist bunt, des Menschen Leben noch bunter. EV 5924 : 15 Var.
+Das Menschenleben ist bunt wie die Bohnenblüte. EV 2160 : 1 Var.
+Jeder Mensch hat seine bunten Kleider zu tragen, bis er ins Grab geht. EV 2094 : 1 Var.
+Zwischen des Lebens Furchen gibt es ja alles. EV 569 : 1 Var.
+Im Leben geschieht alles, sowohl Gutes als Schlechtes. EV 542 : 2 Var.
+Das Leben ist lang, ohne Prügel kommt man nicht durch. EV 1904 : 14 Var.
+Das Leben ist schön, ein bißchen schmerzhaft. EV 575 : 2 Var.
+An einer Stelle wird man nie alt. EV 4214 : 1 Var.
+Der Tag bringt viele, die Nacht bringt mehrere. EV 9298 : 1 Var.
+In einem Jahr geschieht manches. EV 6 : 1 Var.
+Ein Lebensalter, neun Geschicke. EV 15057 : 5 Var.
+Ohne allerhand Tage zu sehen, wird ja kein Hund alt. EV 4029 : 2 Var.
+Des Mannes Sohn sieht (so) manches. EV 6636 : 4 Var.
+Der Mensch sieht (so) manches in der Welt. EV 2141 : 5 Var.
+Alles hat man im Leben gesehen, sonst ist man nicht reif. EV 7660 : 1 Var.
+Derjenige sieht so manches, der noch ein Hundesalter lebt. EV 7663 : 1 Var.
+Manches hat man gesehen, das Letzte wurde noch nicht gesehen. EV 7030 : 3 Var.
+930. Gut und schlecht, Freude und Sorge, Glück und Unglück gehören zusammen, wechseln sich ab, sind Brüder usw.
+Es gibt nicht Schlechtes ohne Gutes. EV 776 : 4 Var.
+Wenn keine Hurtigkeit, dann auch keine Schönheit. EV 13311 : 1 Var.
+Freude kommt nicht ohne Schmerz. EV 9916 : 1 Var.
+Wo Glück ist, da ist auch Unglück. EV 14666 : 3 Var.
+Unglück bringt Glück. EV 14729 : 4 Var.
+Aus Glück kommt Unglück und aus Unglück Glück. EV 14679 : 1 Var.
+Kein Unglück ist so unglücklich, daß nicht Glück dabei wäre. EV 14734 : 1 Var.
+Glück und Unglück gehen immer Hand in Hand. EV 14682 : 4 Var.
+Glück und Unglück sind Gebrüder. EV 14684 : 7 Var.
+Lachen und Weinen sind Zwillingsbrüder. EV 7142 : 1 Var.
+Das Magere und das Fette, das Süße und das Bittere sind Brüder. EV 5278 : 1 Var.
+931. Die Darstellungen der Abwechslung des Guten und des Bösen durch meteorologische Gestalten ("kalt" / "warm", "Gewitter" / "Sonne" u.ä.)
+Nach dem Winter kommt der Frühling. EV 11562 : 1 Var.
+Nach der Kälte kommt oft die Wärme. EV 5104 : 1 Var.
+Nach dem Frost bessert sich das Wetter. EV 8268 : 1 Var.
+Nach gutem Wetter kommt schlechtes Wetter und nach schlechtem Wetter kommt gutes Wetter. EV 913 : 12 Var.
+Heute Trockenheit wie Gold, morgen Regen wie Wasser. EV 12384 : 1 Var.
+Die Sonne scheint so lange, bis es zu regnen anfängt. EV 9301 : 1 Var.
+Nach dem Regen scheint die Sonne. EV 14049 : 5 Var.
+Nach Gewitter kommt gutes Wetter. EV 14778 : 4 Var.
+Je stiller der Wind (od. die Luft), desto näher der Sturm. EV 13226 : 2 Var.
+932. Heute mir, morgen dir
+Heute mir, morgen dir. EV 12387 : 12 Var.
+Die Dorfsaunas werden der Reihe nach geheizt. EV 5046 : 14 Var.
+Wenn für andere Bäume Windbruch kommt, dann kommt für den Wacholder die Pest. EV 6907 : 40 Var.
+Alle weinen nicht zur gleichen Zeit. EV 2286 : 1 Var.
+Des Glückes Rad geht Tag und Nacht, der eine weint, der andere lacht. EV 14677 : 1 Var.
+[933–940] Die Abhängigkeit des Guten und des Schlechten, des Glücks und des Unglücks von Strebungen / Zufällen / Vorausbestimmung
+
+933. Glück, Lebenslauf hängen von dem Menschen selbst ab. Wer Glück sucht, der findet, Glück kommt nicht von selbst
+Der Mensch ist selbst sein Gott und selbst sein Teufel. EV 2120 : 1 Var.
+Jedermann ist seiner Ruhe Herr. EV 1926 : 1 Var.
+Jedermann ist seines Zustands Urheber. EV 1925 : 2 Var.
+Jeder ist seines Glückes Schmied. EV 14657 : 80 Var.
+Wer Glück sucht, der Glück findet. EV 14661 : 1 Var.
+Glück kommt dem Suchenden, Unglück dem Wartenden, Belohnung dem Schaffenden. EV 14690 : 1 Var.
+Glück sucht dich ja nicht, wenn du selbst das Glück nicht suchst. EV 14653 : 10 Var.
+Das Glück spaziert ja nicht auf dem Hof herum. EV 14654 : 1 Var.
+Glück fällt nicht vom Himmel in den Schoß. EV 14670 : 3 Var.
+Das Glücklein schläft nie neben einem Stein. EV 14693 : 2 Var.
+934. Jeder hat sein Schicksal, sein Teil, sein Glück. Nicht alle haben gleich viel Glück
+Jedem Mann das Seine. EV 6504 : 10 Var.
+Jeder Mann mit dem Seinigen, der arme Bettler mit dem Sack. EV 1910 : 30 Var.
+Jeder Herr hat sein eigenes Glück. EV 2221 : 1 Var.
+Jeder hat sein eigenes Glück. EV 14656 : 2 Var.
+Wie der Mann, so auch das Glück. EV 6513 : 1 Var.
+Der eine hat einen guten (Brotlaib), der andere einen schlechten (Einer hat Glück, der andere Unglück). EV 11887 : 2 Var.
+Von wo kommen alle Kinder an den Emajõgi. EV 5476 : 3 Var.
+935. Der Mensch lebt seinem Glück entsprechend
+Dem Glück gemäß lebt der Mann. EV 14675 : 15 Var.
+Der Mensch geht auf Glück aus, der Bock geht aufs Horn aus. EV 2113 : 2 Var.
+Jeder Mensch lebt dank Glück, nicht dank Arbeit oder Kraft. EV 2098 : 1 Var.
+936. Glück hängt nicht von den Strebungen des Menschen ab
+Nicht jeder ist seines Glückes Schmied. EV 14658 : 1 Var.
+Geh und such wohl Glück, wenn das Glück dich nicht sucht. EV 8150 : 35 Var.
+(Nach) Glück kann man nicht angeln. EV 14669 : 1 Var.
+Suchst Glück, findest Unglück. EV 14676 : 3 Var.
+937. Glück ist blind, kommt unerwartet, meldet sich nicht vorher an, ist trügerisch
+Das Glück ist blind, (es) weiß nicht, wem es in den Schoß läuft. EV 14688 : 1 Var.
+Glück kommt versehentlich. EV 14689 : 3 Var.
+Glück kommt immer von dort, von wo man es nicht zu erwarten weiß. EV 14668 : 1 Var.
+Glück jauchzt ja nicht. EV 14652 : 1 Var.
+Glück ist ein Betrüger. EV 14687 : 1 Var.
+938. Unglück (Not, Armut) meldet sich nicht vorher an (ruft nicht, pfeift nicht, fährt nicht mit einer Glocke u.ä.), kommt unerwartet, kann jederzeit kommen
+Zu welcher Zeit wird das Unglück eine Botschaft vorausschicken. EV 14711 : 4 Var.
+Unglück ruft nicht, wenn es kommt. EV 14714 : 105 Var.
+Unglück läßt seine Stimme nicht hören. EV 14718 : 2 Var.
+Unglück sagt nicht im voraus, wann es kommt. EV 14720 : 4 Var.
+Elend kommt nicht pfeifend. EV 14180 : 8 Var.
+Die Not, die Unsinnige, winselt nicht. EV 1766 : 1 Var.
+Unglück fährt nicht mit einer Glocke. EV 14717 : 50 Var.
+Der Wolf fährt nicht mit Viehglocken. EV 10815 : 1 Var.
+Unvermutet (d. i. aus Unvorsicht) fällt der Ochs in den Brunnen. EV 1869 : 1 Var.
+Unglück kommt unerwartet. EV 14728 : 2 Var.
+Unglück kommt ungerufen. EV 14727 : 3 Var.
+Der Böse (od. der Teufel, das Unglück) kommt ungerufen. EV 4638 : 15 Var.
+Unglück ist näher als das Hemd. EV 14724 : 1 Var.
+939. Verschiedenartiges über die Widersinnigkeit der Mißerfolge, Rettungen u.ä.
+Das Schwein wird dann sterben, wenn es am fettesten ist. EV 10404 : 1 Var.
+Während des Essens gehst, Prügel bekommst. EV 11223 : 2 Var.
+Wenn das Unglück kommen will, dann kann man auch im Suppenlöffel ertrinken. EV 14709 : 1 Var.
+Wenn es sich trifft, dann kannst auch vom Über­den­Zaun­Springen schwanger werden. EV 44 : 1 Var.
+Wenn es sich trifft, dann kommt auch aus dem Besenstiel ein Knall. EV 12058 : 8 Var.
+Auch die Krähe fällt manchmal zu Boden. EV 13821 : 1 Var.
+Fällst vom Kirchturm herunter ― kommst nicht zu Schaden; kratzt den Arsch, brichst (dir) den Finger. EV 3846 : 1 Var.
+Wird man in (kritischer) Stunde gerettet, lebt man ein Leben lang. EV 12198 : 8 Var.
+Eine Stunde sich gedulden, ein Lebensalter leben. EV 12197 : 1 Var.
+Mit den Händen du suchst, mit den Füßen du findest. EV 4990 : 2 Var.
+Auch eine Ratte fängt mit betrunkenem Kopf eine Katze. EV 9808 : 1 Var.
+940. Vor dem Schicksal (Unglück) kann man nicht fliehen. Was einem bestimmt, kommt. Vor dem Leben kann sich niemand retten. Alles, was es gibt, ist gut
+Mit dem Schicksal kann man nicht vors Gericht gehen. EV 10015 : 1 Var.
+Seinen vorgesehenen Tagen entkommt man nicht. EV 9302 : 1 Var.
+Vor dem Unglück kann niemand davonlaufen. EV 14713 : 2 Var.
+Was kommen wird, das kommt immer. EV 12126 : 5 Var.
+Was geschaffen, (das) wird nach Hause gebracht. EV 6033 : 2 Var.
+Niemand kommt aus der Welt heraus. EV 1982 : 4 Var.
+Man kann nicht das Land entlang aufs Land gehen, den Kopf willentlich ins Wasser stecken (Man muß dort leben, wohin man geraten ist). EV 6350 : 1 Var.
+Es ist gut, wenn es gut geht, aber gut ist es auch dann, wenn es nicht gut geht. EV 1028 : 1 Var.
+Alles ist gut, was es gibt. EV 1111 : 1 Var.
+941. Verschiedenartiges über Glück und Unglück, Freude und Not, Gutes und Schlechtes, über das Leben
+Die Zeit verschwindet, aber das Glück verschwindet nicht. EV 64 : 4 Var.
+Die Ehre kann auch ein anderer verletzen, aber das Glück ertrinkt nicht im Wasser, brennt nicht im Feuer. EV 11911 : 1 Var.
+Das Glück ist solange jung, bis man Glück hat. EV 14663 : 1 Var.
+Glück im Gebäude, das Ei im Haus. EV 14681 : 1 Var.
+Wer Glück hat, der lebe; wer Gesundheit hat, der arbeite. EV 14660 : 40 Var.
+Das Schwein hat (nur) wenig Glück, auch dieses ist mit Erde beschmutzt. EV 10396 : 2 Var.
+Gott, bewahre (uns) vor Glück, Unglück kommt schon selbst. EV 2603 : 1 Var.
+Gott, bewahre (uns) vor Not; Kreuz und Elend gibt es schon genug. EV 2567 : 7 Var.
+Wie die Not, so das Mittel. EV 1781 : 1 Var.
+Vor Freude stirbt niemand. EV 9920 : 1 Var.
+Gutes ist besser. EV 1031 : 1 Var.
+Schlechtes Brot wird immer gegessen, ein schlechtes Leben ist schwer zu leben. EV 785 : 2 Var.
+Das Leben ist eine Dungausfuhr auf Gottes Brachfeld. EV 578 : 4 Var.
+IC. GOTT, TEUFEL, GLAUBE
+
+942. Der Wille Gottes, die Unterschiedlichkeit des menschlichen und des göttlichen Willen. Man kann nichts gegen Gottes Willen
+In Gottes Horn ist immer Arznei. EV 2550 : 3 Var.
+Ohne Gottes Willen wird nichts geschehen. EV 2527 : 2 Var.
+Aus eigener Kraft kommt man nicht über den Strohhalm. EV 2706 : 4 Var.
+Gottes Gedanken sind nicht des Menschen Gedanken. EV 2544 : 4 Var.
+Gottes Wegarme sind die einen und des Menschen Wegarme sind die anderen. EV 2540 : 1 Var.
+Der Mensch denkt, aber Gott lenkt. EV 2114 : 45 Var.
+Der Mensch prahlt, aber Gott gibt. EV 2109 : 1 Var.
+Das Tun ist in eigener Hand, das Segnen in Gottes Hand. EV 11803 : 1 Var.
+Behüte dich selbst, dann behütet dich auch Gott. EV 1424 : 75 Var.
+Bist du selbst kein Täter, dann wird aus Gott auch kein Helfer. EV 2256 : 1 Var.
+Vor Gott kann man sich nirgendwohin retten. EV 2520 : 2 Var.
+Über Gottes Tag gibt es keine Rechenschaft: Er unterwirft uns alle. EV 13897 : 1 Var.
+Wer kann auf Gottes Arsch schlagen. EV 2623 : 3 Var.
+Es lohnt sich nicht, Gott zu trotzen. EV 2519 : 1 Var.
+Mit Gott kann man nicht rechten. EV 2530 : 1 Var.
+943. Gott sieht alles. Gottes Strafe und Erbarmung
+Gottes Auge wacht. EV 2552 : 1 Var.
+Derjenige wird schon sehen, der über dem Kopf ist. EV 7661 : 5 Var.
+Gott wird schon sehen, ohne daß man es (ihm) zeigt; er wird schon hören, ohne daß man es verkündet. EV 2646 : 1 Var.
+Krieche auch in eine eiserne Nuß hinein, aber Gott sieht dich auch dort. EV 9572 : 4 Var.
+Gott wird schon sehen, was der Teufel macht. EV 2651 : 2 Var.
+Gott wird schon sehen, wer recht hat. EV 2645 : 1 Var.
+Gott bestraft die Bösen und züchtigt die Nichtswürdigen. EV 2574 : 4 Var.
+Gott geduldet sich lange, (aber) straft auch bitter. EV 2606 : 2 Var.
+Gottes Steine mahlen lange, aber sehr fein. EV 2538 : 10 Var.
+Gott gibt, Gott nimmt. EV 2548 : 2 Var.
+Wenn Gott für eine Sache straft, dann hilft er wieder bei der anderen. EV 14891 : 2 Var.
+Wen Gott liebt, den er auch bestraft. EV 2615 : 6 Var.
+Gottes Rute ist kein Offiziersknüppel. EV 2557 : 1 Var.
+Gott verlangt nicht mehr als der Mensch vermag. EV 2594 : 1 Var.
+Die Hoffnung setzt man immer auf den Schöpfer. EV 6042 : 2 Var.
+Gott behütet seine Kinder. EV 2532 : 1 Var.
+Wir alle sind eines Gottes Kinder. EV 4816 : 2 Var.
+944. Verschiedenartiges über Gott und Teufel, Himmel und Hölle, den Glauben
+Ein Gott im Vorderraum, der andere Gott im anderen Raum. EV 2611 : 1 Var.
+Gott ist nah, das Hemd noch näher. EV 2609 : 1 Var.
+Wer sich vor Gott fürchtet, der fürchtet sich nicht vor Menschen. EV 2624 : 1 Var.
+Wer sich vor Gott nicht fürchtet, der dient dem Teufel. EV 2621 : 1 Var.
+Wenn Gott nicht hilft, dann hilft der Teufel. EV 2626 : 1 Var.
+Was Gott gibt, ist lang und dünn; was aber der Teufel gibt, ist kurz und dick. EV 2653 : 1 Var.
+Ein schmaler Weg führt in den Himmel, ein breiter Weg in die Hölle. EV 3912 : 4 Var.
+Besser mit einem Auge in den Himmel als mit zwei Augen in die Hölle gehen. EV 10454 : 8 Var.
+Glaube fragt ja nicht nach Brot. EV 12942 : 1 Var.
+Jedermann wird durch seinen Glauben selig. EV 12943 : 1 Var.
+Glaube ist kein Pferd zum Tauschen. EV 12944 : 1 Var.
+ID. BEGIERDE, VERSUCHUNG, SÜNDE, IRRTUM
+
+945. Der Mensch irrt sich, neigt zu Begierden. Es ist schwer, das Böse zu bekämpfen
+Ein glatter Weg macht den Fuß gleiten. EV 5789 : 4 Var.
+Der Fleischliche gleitet immer aus (d. i. der Mensch irrt sich). EV 5825 : 8 Var.
+Wenn die Begierde von vorn zieht und der Wille nachschiebt, dann klappern die Knochen hinterdrein. EV 1271 : 3 Var.
+Eisen wird durch Rost beschädigt, auch der Mensch wird irregeführt. EV 9565 : 2 Var.
+Wer geht, der auch stolpert. EV 4924 : 1 Var.
+Irrtum geht nicht unter Steinen und Baumstümpfen einher, sondern unter Menschen. EV 531 : 3 Var.
+Irren ist menschlich. EV 530 : 10 Var.
+Als es am Aschentag (d. i. Aschermittwoch) so viel geschneit hatte, daß es einen Strohhalm bedeckte, dann sagten die alten Leute: Gegen Frühling wird es noch so viel schneien, daß es ein Strohbündel bedeckt. EV 12099 : 1 Var.
+Der Mensch irrt, solange er lebt. EV 2105 : 1 Var.
+Gehst du mit dem bösen Geist kämpfen, dann nimm für ein Jahr den Brotsack mit. EV 4676 : 10 Var.
+946. Gib dem Bösen ein wenig nach, das Böse nimmt dich gänzlich. Sünde verdirbt den Menschen
+Hüte dich vor dem ersten Fleck. EV 1422 : 1 Var.
+Die alte Sünde (d. i. der Teufel) sagte: "Rührst du mich drei Tage nicht an, so rühr ich dich drei Jahre nicht an". EV 13562 : 1 Var.
+Wer den bösen Geist ruft, den er kneift. EV 4675 : 1 Var.
+Gibt man dem Bösen (d. i. dem Teufel) einen Finger, so nimmt er die ganze Hand. EV 4588 : 70 Var.
+Gib dem Teufel ein Haar, so reißt er dir den ganzen Kopf ab. EV 2688 : 4 Var.
+Gibt man dem Bösen (d. i. dem Teufel) einen Tropfen Blut, nimmt der Teufel nachher die Seele. EV 4587 : 1 Var.
+Gib dem Teufel einen Zahn, dann will er dich selbst. EV 4551 : 1 Var.
+Eine Sünde sucht nach der anderen. EV 15066 : 1 Var.
+Sünde ist der Seele Herr. EV 8428 : 1 Var.
+Die Sünde macht den Menschen verstockt. EV 8435 : 1 Var.
+Der Böse (od. der Teufel) schleppt den Menschen von Ast zu Ast (d. i. von Stufe zu Stufe). EV 4641 : 1 Var.
+Ein böses Leben vermindert und vertreibt alles gänzlich aus der Hand. EV 4609 : 1 Var.
+Ein krummer Weg führt zur Seite. EV 4905 : 1 Var.
+947. Was ist Sünde? (Witze u.ä.)
+Solange ist es Sünde, bis du aus dem Kessel ißt. EV 8427 : 1 Var.
+Sünde ist das, wenn man in den Kessel scheißt. EV 8430 : 11 Var.
+Sünde ist der Dreck des Hundes von Matus (d. i. männlicher Name od. Gehöftsbenennung) Hund. EV 8429 : 6 Var.
+Wenn das Messer in der Scheide bleibt und der Mensch verhungert, dann ist es eine Sünde. EV 7583 : 2 Var.
+948. Verschiedenartiges über Begierde und Sünde
+Wir sind nicht Herren (unserer) Begierden, sondern sie bleiben immer unsere Herren. EV 1273 : 2 Var.
+Wenn der Fuß strauchelt, dann die Welt lächelt. EV 2403 : 1 Var.
+Sünden werden ja nicht mit der Waage gewogen. EV 8421 : 1 Var.
+Sünde dem Sünder, Schuld dem Schuldigen. EV 8431 : 2 Var.
+Sündige und leiste Abbitte. EV 8437 : 1 Var.
+Gott wird schon das Wetter (od. die Witterung) bessern, wenn sich die Menschen von der Sünde bekehren lassen. EV 2644 : 1 Var.
+IE. REUE, VERGÜTUNG
+
+949. Reue
+Ein Narr lacht über den anderen. EV 14998 : 3 Var.
+Für einen Augenblick irregeführt, zeitlebens bereut. EV 10493 : 2 Var.
+Eine dumme Tat ist schnell getan, nachher wird einem selbst (davon) schlecht. EV 9870 : 3 Var.
+Hinterher bereuen bringt niemandem Nutzen. EV 2923 : 1 Var.
+950. Wer Böses tut, muß sich vergüten
+Selbst schuld, selbst mach's gut. EV 2233 : 1 Var.
+Wer den Schlitten beschädigt, der bessert den Schlitten aus. EV 9600 : 30 Var.
+Wer harnt, der trocknet; wer brennt, der flickt. EV 4687 : 3 Var.
+Wer gießt, der trocknet. EV 3420 : 8 Var.
+Wer tötet, der beerdigt. EV 11589 : 4 Var.
+951. Leicht zu irren (zu verderben), schwer zu vergüten. Die Vergütung lohnt sich nicht
+Leicht ist es wohl, sich zu irren, aber schwer, den Irrtum zu verbessern. EV 3601 : 1 Var.
+Mühelos wohl gemacht, (aber) nicht so schnell ausgebessert. EV 8484 : 3 Var.
+In einem Tag zerbrichst, ein Jahr lang besserst aus. EV 9287 : 1 Var.
+Mehr Mühe hat der Keuchende (od. der Abwischende) als der Hinausfegende. EV 13174 : 11 Var.
+IF. NICHTVERGÜTBARKEIT, NICHTÄNDERBARKEIT, UNVERMEIDLICHKEIT
+
+952.
+Was getan, das bekommt man ja nicht zurück (d. i. kann man nicht mehr ungeschehen machen). EV 11775 : 4 Var.
+Schlägt der Satan die Hörner in die Wand, nimm sie dann aus der Wand heraus. EV 10012 : 1 Var.
+Laß die Wanze in die Spalte, sieh zu, wie (du) sie fängst. EV 6088 : 1 Var.
+Das Schwein reißt den Kopf ab, (auch) Könige können ihn nicht mehr aufsetzen. EV 10400 : 12 Var.
+Der Landstreicher wirft den Kreisel, auch der König kann ihn nicht wegnehmen. EV 1540 : 1 Var.
+Ein (Mann) hängt wohl den Bettelsack um den Hals, aber neun vermögen ihn nicht vom Hals zu nehmen. EV 15065 : 4 Var.
+Wie kann Gebackenes wieder roh werden. EV 5178 : 2 Var.
+Heruntergegossenes Wasser kann man nicht mehr aufsammeln. EV 6336 : 1 Var.
+Der ins Wasser geworfene Stein kommt nicht aus dem Fluß zurück. EV 13972 : 1 Var.
+Geschehene Dinge kann man nicht bessern. EV 11430 : 2 Var.
+Wenn man nicht helfen kann, muß man es hüpfen (od. laufen) lassen (Wenn man es nicht ändern kann, muß man den Dingen ihren Lauf lassen). EV 3232 : 4 Var.
+IG. DAS UNMÖGLICHE
+
+953.
+Ein Fluß fließt nicht bergauf. EV 2691 : 4 Var.
+Regenwasser bleibt ja nicht auf dem Dach. EV 14067 : 1 Var.
+Der Wind weht ja auf einmal nicht von zwei Seiten. EV 12215 : 1 Var.
+Der Balken wächst ja nicht im Sumpf. EV 8372 : 1 Var.
+Die Erdbeere wächst nicht im Torfmoor. EV 6251 : 1 Var.
+Wer hat (wohl) einen weißen Schornsteinfeger oder einen schwarzen Müller gesehen. EV 4395 : 1 Var.
+IH. WO..., DORT: DAS GEMEINSAME AUFTRETEN DER GEGENPOLE, DES TEILS UND DES GANZEN
+
+954.
+Wo Licht, da (auch) Schatten. EV 13296 : 15 Var.
+Wo du selbst, da auch der Hund. EV 2257 : 1 Var.
+Wohin das Dicke geht, dahin auch das Flüssige geht. EV 8277 : 1 Var.
+Kommt das Fohlen, kommt der Huf. EV 13855 : 1 Var.
+Wo der Fuchs, da der Schwanz. EV 9580 : 1 Var.
+Wo Federn, da ein Vogel. EV 10689 : 1 Var.
+Die Haare bleiben auch vom Fell nicht zurück. EV 3327 : 1 Var.
+Wo der Wald, da die Hasen. EV 6760 : 1 Var.
+II. GRUND UND FOLGE. GROß UND KLEIN. MAß. ZU VIEL / MAßVOLL
+
+955. Verschiedenartiges über die Zusammenhänge zwischen Grund und Folge
+Wo man geht, da bleiben Spuren. EV 4925 : 1 Var.
+Wohin der Wind stöbert, dort bildet er eine Schneewehe. EV 12223 : 10 Var.
+Wie der Wind weht, so die Welle treibt. EV 12224 : 1 Var.
+Wenn der Wind weht, dann die Kohle glüht. EV 12225 : 1 Var.
+Ist in der Lampe kein Öl, so erlischt das Licht. EV 14634 : 1 Var.
+Das Feuer erlischt, der Feuerbrand geht aus. EV 12165 : 5 Var.
+Beim Feuer erfrieren ja die Hände nicht. EV 12139 : 1 Var.
+Bist du im Schein des Feuers, dann wirst du immer Wärme haben. EV 12151 : 1 Var.
+956. Dem großen Grund (der Quelle, Gefahr, Intensität u.ä.) folgt ein großes Resultat (ein tüchtiges Ergebnis), dem kleinen ein kleines Resutat
+Je mehr Wind, desto mehr Feuer. EV 12234 : 1 Var.
+Mehr Holz, größeres Feuer. EV 9789 : 3 Var.
+Wo ein großes Feuer, da ist viel Holz. EV 12149 : 1 Var.
+Je heißer der Ofen, desto garer das Brot. EV 8302 : 3 Var.
+Wer eine große Nase hat, dem kommt viel Rotz. EV 7443 : 1 Var.
+Ein kleiner Stein wirft die Ladung nicht um. EV 14451 : 1 Var.
+Kleines Wasser, kleine Wellen. EV 14470 : 1 Var.
+957. Kleine Komponente ― großes "Resultat"; kleiner Grund ― große Folgen; kleine Gefahr ― großer Unfall. Kleine Gefahr weiß man nicht zu fürchten
+Kleine Quellen machen große Flüsse. EV 14461 : 1 Var.
+Kleine Ursache, große Wirkung. EV 14460 : 3 Var.
+Eine leere (d. i. nichtige) Sache hat viele (od. üble) Folgen. EV 12701 : 1 Var.
+Ein Tropfen macht den Stof überlaufen. EV 15042 : 1 Var.
+Ein kleiner Funken steckt einen großen Wald in Brand. EV 14464 : 4 Var.
+Ein Funken steckt das Dach in Brand. EV 3691 : 1 Var.
+Ein kleiner Stein wirft die Ladung eher um als ein großer. EV 14459 : 75 Var.
+Dieser Stein taugt nichts, der den Schlitten der Herrschaft umstößt. EV 3926 : 14 Var.
+Ein kleines Loch versenkt das Schiff. EV 474 : 2 Var.
+Eine Handvoll Asche verdirbt einen Kesselvoll Brei. EV 8576 : 1 Var.
+Der Ochs sieht ja die Mücke nicht eher, als bis die Mücke sticht. EV 1821 : 1 Var.
+Ein Floh ist schwerer als ein Ochs. EV 3865 : 1 Var.
+Der große Ochs wird gefürchtet, den kleinen weiß man gar nicht zu fürchten. EV 10949 : 1 Var.
+Eine kleine Wunde mußt du sorgfältig hüten, eine große hütet sich selbst. EV 8891 : 1 Var.
+958. Verhältnisse der Größe und der Menge, der Größe und der Qualtität
+Einerlei, ob ein Großes oder zwei Kleine. EV 14983 : 2 Var.
+Hundert Kopeken wiegen mehr als ein Rubel. EV 10024 : 1 Var.
+Kleines Maß, häufiges Schöpfen. EV 7058 : 5 Var.
+Der Topf ist (wohl) klein, aber (er) kocht das Fleisch. EV 14469 : 1 Var.
+Männer sollen nicht gezählt, sondern gewogen werden. EV 6644 : 1 Var.
+959. Das Kleine (Fehler, Zusatz) hat auf das Große keine Wirkung u.ä. über das Kleine und das Große
+In einem großen Kübel vermindert sich das Wasser nicht. EV 12314 : 2 Var.
+Das Meer sinkt nicht, wenn der Hund am Rande leckt. EV 6717 : 4 Var.
+Was zählt wohl ein Tropfen im großen Meer. EV 12006 : 1 Var.
+Steck den Finger in die Scheiße, oder die ganze Hand. EV 11170 : 10 Var.
+Bei der Geburt sind alle winzig. EV 11428 : 1 Var.
+960. Jedes Maß wird einmal voll
+Jedes Ding hat sein eigenes Maß. EV 425 : 1 Var.
+Das Maß sei so groß wie es ist, einmal wird es doch voll. EV 7051 : 2 Var.
+Einmal wird das Maß doch voll. EV 15103 : 15 Var.
+Wenn das Maß voll ist, so fließt es über. EV 7053 : 1 Var.
+Wie lange man die Schnur auch wickelt ― einmal kommt doch das Ende. EV 7753 : 1 Var.
+Auch der stärkste Riemen reißt. EV 12084 : 1 Var.
+Wo es dünn ist, da zerreißt es. EV 8496 : 3 Var.
+Das Eis kracht so lange, bis es endlich bricht. EV 2767 : 1 Var.
+961. Was zu viel ist, ist nicht gut. Mäßig ist am besten
+Laß den letzten Schlag ungeschlagen. EV 14078 : 20 Var.
+Von übermäßiger Wärme hat man keinen Nutzen. EV 10597 : 1 Var.
+Gott bewahre (uns) vor übermäßigen Sachen. EV 2535 : 2 Var.
+Was zuviel ist, ist zuviel. EV 5834 : 3 Var.
+Was zuviel, das ist vom Bösen. EV 5833 : 1 Var.
+Mäßigkeit ist besser als lang und kurz. EV 8398 : 3 Var.
+Mäßigkeit ist aller Herr. EV 8397 : 1 Var.
+Mäßigkeit ist das beste Maß. EV 8394 : 5 Var.
+IJ. ZAHLEN, "ABSOLUT", AUFZÄHLUNGEN, EINORDNUNGEN
+
+962. Zahlen (2, 3, 13)
+Drei ist für alle Sachen gut. EV 4284 : 4 Var.
+Zu dritt (ist es) am stärksten. EV 4299 : 5 Var.
+Drei Mal ist des Gerichtes Gesetz. EV 4278 : 10 Var.
+Zwei lassen den dritten ja nicht zurück. EV 2950 : 22 Var.
+Zwei Menschen sind Gehilfen, drei Menschen eine Arbeitsgemeinschaft. EV 2968 : 1 Var.
+Drei sind eine Versammlung. EV 4285 : 1 Var.
+Man sagt, das Teufelsdutzend (d. i. dreizehn) sei eine unglückliche Zahl, ebenso wie der Freitag. EV 4550 : 1 Var.
+963. Die schwersten Arbeiten. Drei Befehle
+Getreide in die Ofenecke zum Darren legen, einen Schafshals scheren und einen Kinderarsch wischen sollen die schlimmsten Arbeiten in der Welt sein. EV 178 : 30 Var.
+Gäbe es endlose Gewebe und halslose Schafe, so könnte ein Mädchen heiraten. EV 3159 : 8 Var.
+Diese Arbeiten gehen über die Kraft: Einen Hühnerhals essen und über den Kopf einen Baum fällen. EV 2707 : 4 Var.
+Sich Körnchen (d. i. Brot) verdienen, ein Waisenkind prügeln und des Häuslers Getreide zum Darren aufstecken ― das sind die drei allerschlimmsten Arbeiten. EV 11944 : 1 Var.
+Es gibt drei schwere Arbeiten: zu Gott beten, die Schulden bezahlen und die Eltern ernähren. EV 4290 : 8 Var.
+Jede Wurst hat zwei Enden. EV 14282 : 3 Var.
+Halt dir drei Sachen fest: die Hände, den Mund und den Arsch, dann kommst du gut durch die Welt. EV 4297 : 15 Var.
+964. Verschiedene Aufzählungen und Einordnungen
+Spinnradschraube und Frauennabel, der Femerstange Rute und der Scheune Vorhängeschloß ― die müssen fest sein. EV 14272 : 1 Var.
+Dem Zauberer ― Verschwinden, dem Verschacherer ― Versinken (d. i. Untergang), dem Tätigen ― Bezahlung (d. i. Belohnung), dem Geber ― Verbleiben (d. i. gesicherte Lebensordnung). EV 2918 : 1 Var.
+Auf der Erde soll es sieben Narren geben: Freßnarren, Saufnarren, Arbeitsnarren, Faulheitsnarren, Geldnarren, Hungernarren und streitende Narren. EV 6206 : 1 Var.
+Ein Teil der Menschen ist von der Schweine Art, der andere Teil von der Hunde Art. EV 8113 : 4 Var.
+IK. SPALTUNG
+
+965.
+Jede Sache hat zwei Seiten. EV 422 : 2 Var.
+Aus einer Quelle kann nicht zweierlei Wasser fließen. EV 14963 : 2 Var.
+In einem Faß kann nicht zweierlei Bier sein. EV 14944 : 2 Var.
+Zwei Speisen verwahrt man nicht in einem Gefäß. EV 3000 : 1 Var.
+Ein Körper kann ja nicht zwei Köpfe tragen. EV 14872 : 1 Var.
+IL. VERSCHIEDENHEIT / ENTSPRECHUNG, ZUSAMMENPASSUNG
+
+966. Leute sind unterschiedlich. Alle kann man nicht mit gleichem Maß messen
+Des Herrgotts Tiergarten muß vollkommen sein. EV 2265 : 1 Var.
+Unter der Menge gibt es mancherlei. EV 1543 : 2 Var.
+Nicht alle haben die gleiche Natur. EV 4814 : 1 Var.
+Alle Menschen sind nicht mit einem Wasser getauft. EV 2097 : 5 Var.
+Alle Menschen sind nicht mit einer Rute geschlagen. EV 2175 : 5 Var.
+Es gibt verschiedene Bäume im Walde, aber ein Gott hat sie alle geschaffen. EV 6777 : 1 Var.
+Die Bäume des Waldes werden gleichgemacht, indem man sie behaut; aber die Menschen macht niemand gleichartig. EV 6798 : 1 Var.
+Alle kann man nicht mit einem Maß messen. EV 7054 : 3 Var.
+Miß den anderen nicht nach deinem Maßstab. EV 7060 : 1 Var.
+Man kann nicht alle auf ein Band legen (d. i. setzen). EV 8204 : 4 Var.
+Alle können ja nicht auf einem Schlitten fahren. EV 3569 : 1 Var.
+Nicht alle passen unter eine Mütze. EV 7115 : 30 Var.
+Wie man ist, (so) ist es gut. EV 3520 : 3 Var.
+967. Wie viele Männer, so viele Sinne. Jeder hat seine Art (seinen Verstand, Sinn, sein Gespräch, seine Eigenarten). Über Geschmack läßt sich nicht streiten
+So, wie der Mann, so der Verstand. EV 6674 : 2 Var.
+Wieviel Männer, so viel Verstand. EV 6670 : 3 Var.
+Jeder Mann hat seinen eigenen Verstand. EV 6492 : 2 Var.
+Jeder Mann hat seinen eigenen Sinn. EV 6499 : 6 Var.
+Wie das Männlein, so das Sinnlein. EV 6520 : 1 Var.
+Wieviel Köpfe, soviel Sinne. EV 8466 : 5 Var.
+Viele Köpfe, viele Gedanken; viele Hände, viele Arbeiten. EV 8465 : 4 Var.
+Jeder Mann hat seine eigenen Gedanken. EV 6493 : 5 Var.
+Je mehr Köpfe, desto mehr Wünsche (od. Willen). EV 8461 : 2 Var.
+Jeder Mann hat seine eigene Art. EV 6494 : 35 Var.
+Jedermann achtet seine Sitte. EV 11460 : 1 Var.
+Jeder Mann hat seine eigene Rede. EV 6496 : 2 Var.
+Jeder Mann hat sein eigenes Lied. EV 6498 : 2 Var.
+Jeder Dumme hat sein eigenes Lied. EV 5998 : 1 Var.
+Jeder Dumme hat sein Vergnügen. EV 5999 : 15 Var.
+Über Geschmack läßt sich nicht streiten. EV 6352 : 4 Var.
+968. Einer will Eines, der Andere Anderes; was einem gut (angenehm, passend), ist dem Anderen schlecht (unangenehm, unpassend); des Einen Unglück ist des Anderen Glück
+Die Katze nascht den Fisch, die Ziege den Harn. EV 3370 : 1 Var.
+Der eine liebt sich im Kot zu wälzen, der andere, sich im Wasser zu rollen. EV 14965 : 1 Var.
+Der eine liebt den einen, der andere den anderen, der dritte des alten Võtsiku Peedis Frau. EV 14966 : 1 Var.
+Der eine will die Mutter, der andere die Tochter. EV 15029 : 25 Var.
+Der eine will Brei, der andere einen Brotlaib, der dritte ein hübsches Hemd. EV 14959 : 4 Var.
+Der eine will die Schote, der andere die junge Schote, der dritte den alten Stengel selbst. EV 14958 : 1 Var.
+Der eine will diese, der zweite jene, der dritte will keine von beiden. EV 15030 : 2 Var.
+Der eine lobt den einen, der andere den anderen. EV 14951 : 1 Var.
+Was nach des einen Sinn (d. i. Ansicht) Gold, das ist nach des anderen Sinn Erde. EV 14900 : 35 Var.
+Einer haßt, der andere begehrt. EV 15049 : 6 Var.
+In den Augen des einen schön, in denen des anderen häßlich. EV 14937 : 1 Var.
+Dem einen eng, dem anderen passend. EV 14931 : 1 Var.
+Was dem einen recht, ist dem anderen passend. EV 14898 : 1 Var.
+Was dem einen gut (od. recht), das ist dem anderen passend. EV 14894 : 20 Var.
+Was dem einen gut, das ist für den anderen schlecht. EV 14899 : 7 Var.
+Was dem einen süß, das ist dem anderen bitter. EV 14896 : 1 Var.
+Der eine weint, der andere lacht. EV 14999 : 2 Var.
+Jedes Essen taugt nicht für jedermann. EV 12023 : 1 Var.
+Des einen Tod, des anderen Brot. EV 14942 : 8 Var.
+Des einen Brot, des anderen Hunger. EV 14930 : 1 Var.
+Dem einen Gefahr (od. Krankheit), dem anderen Arznei. EV 14932 : 1 Var.
+Des einen Unglück gereicht dem anderen zum Glück. EV 14733 : 11 Var.
+Der Fall des einen ist der Aufstieg des anderen. EV 4478 : 1 Var.
+969. Einer baut (tut Gutes), der Andere zerstört (tut Schlechtes)
+Einer macht, der andere reißt nieder. EV 15036 : 2 Var.
+Der eine baut auf, der andere vernichtet. EV 15028 : 2 Var.
+Der eine zeigt den Kopf, der andere den Arsch. EV 15000 : 1 Var.
+970. Wie der Mann, so seine Sachen (Taten u.ä.)
+Wie du selbst, so die Sache. EV 2255 : 10 Var.
+Wie der Mann, so der Schlitten. EV 6522 : 1 Var.
+Wie Jaan, so der Schlitten. EV 2343 : 8 Var.
+971. Jeder Ort hat eigene Bräuche; wie der Ort, so die Bräuche
+Jeder Haushalt hat anderes Brot. EV 8580 : 1 Var.
+Jeder Hof hat seinen eigenen Kwaß. EV 11504 : 80 Var.
+Wie der Hof, so der Kwaß. EV 11507 : 10 Var.
+Anderer Hof, anderer Kwaß. EV 11883 : 45 Var.
+Jeder Hof hat andere Sitten. EV 11505 : 16 Var.
+Jeder Hof hat seine eigene Art. EV 11506 : 3 Var.
+Jeder Haushalt hat seine eigene Art. EV 8579 : 3 Var.
+Jedes Haus hat seine eigene Art, jedes Haus seinen eigenen Geruch. EV 6358 : 3 Var.
+Jeder Hof hat seine Luft, jeder Topf seinen Geruch. EV 14766 : 1 Var.
+Jede Gemeinde hat ihre eigene Art. EV 13236 : 1 Var.
+Wie das Gebiet, so die Sitte. EV 13912 : 1 Var.
+Jeder Winkel (d. i. Ort) hat seine eigene Art. EV 7599 : 1 Var.
+Jedes Land hat seine eigene Art. EV 6185 : 5 Var.
+Wie das Land, so die Art. EV 6189 : 10 Var.
+Wie das Land, so die Mode. EV 6187 : 5 Var.
+Wie das Land, so die Mundart. EV 6191 : 1 Var.
+Wie das Land, so die Sitte(n). EV 6190 : 7 Var.
+Wie das Land (d. i. der Boden), so die Beeren. EV 6188 : 4 Var.
+Jeder Ort hat seine eigene Sprache. EV 4273 : 1 Var.
+972. Für jeden ist ihm naturmäßiges Element am besten
+Die Ente hat es besser im Wasser als auf trockenem Land. EV 8413 : 1 Var.
+Die Möwe kann nicht auf dem Trocknen leben, aber die Krähe nicht auf dem Wasser. EV 3083 : 1 Var.
+[973–976] Über Verschiedenheit / Entsprechung durch ungenau interpretierbare Gestalten
+
+973. Formeln "Vogel" ― "Gesang" ("Weise"), "Hahn" ― "Gesang", "Wolf" ― "Gesang" ("Heulen")
+Wie der Vogel, so der Gesang. EV 5909 : 155 Var.
+Wie das Land, so das Volk. EV 6193 : 1 Var.
+Wie des Vogels Stimme, so singt er. EV 5907 : 2 Var.
+Ein guter Vogel singt ein gutes Lied und ein schlechter Vogel singt ein schlechtes Lied. EV 939 : 10 Var.
+Den Vogel erkennt man am Gesang. EV 5936 : 10 Var.
+Der Vogel singt nicht ohne Weise (d. i. Melodie). EV 5918 : 2 Var.
+Der Vogel singt so, wie (ihm) der Schnabel gewachsen ist. EV 5926 : 10 Var.
+Der Vogel singt in seiner Sprache (od. mit seiner Zunge). EV 5925 : 6 Var.
+Jeder Vogel singt nach seiner Weise (d. i. Melodie). EV 5885 : 1 Var.
+Jeder Vogel hat seinen Gesang. EV 5896 : 120 Var.
+Jeder Vogel hat seine Weise. EV 5900 : 6 Var.
+Kleine Hunde bellen immer mehr als große. EV 14472 : 1 Var.
+Der Wolf hat immer seine eigenen Lieder. EV 10811 : 2 Var.
+Der Wolf heult wie ein Wolf. EV 10836 : 2 Var.
+974. Verschiedenartige Formeln im Zusammenhang mit Vögeln und Tieren, ihrer Somatik, ihren Nachkommen, ihrem Verhalten
+Jeder Vogel hat seinen Schnabel. EV 5897 : 3 Var.
+Jeder Vogel trägt die eigenen Federn. EV 5883 : 15 Var.
+Wie der Vogel, so der Flug. EV 5904 : 1 Var.
+Wie der Vogel, so der Käfig. EV 5911 : 2 Var.
+Wie der Habicht, so die Krallen. EV 4515 : 1 Var.
+Jeder Stier hat seine Hörner. EV 11147 : 1 Var.
+Wie der Ochs, so der Schwanz. EV 1850 : 1 Var.
+Wie das Lamm, so die Wolle. EV 14278 : 1 Var.
+Jedem Schwein sein eigener Trog. EV 10333 : 1 Var.
+Der Hund sitzt immer auf dem Arsch, das Pferd scheißt beim Fahren. EV 8557 : 1 Var.
+Der Wolf hat seinen Weg, der Fuchs seinen Weg. EV 10808 : 5 Var.
+975. Formeln im Zusammenhang mit Pflanzen, Witterungs- u.a. Naturerscheinungen
+Jeder Baum hat seine eigenen Wurzeln. EV 9081 : 1 Var.
+Jede Beere hat ihren (eigenen) Geschmack, jeder Pflug seine (eigene) Furche. EV 6411 : 2 Var.
+Jede Flur hat ihre eigene Frucht. EV 7601 : 1 Var.
+Wie der Roggen voran, so das Sommerkorn hinterdrein. EV 9957 : 1 Var.
+Jeder Tag hat sein Wetter, jeder Wind seinen Wirbel. EV 9253 : 1 Var.
+Jeder Wind hat seine Laune. EV 12218 : 1 Var.
+Das Feuer erhebt sich, das Wasser senkt sich. EV 12173 : 1 Var.
+976. Formeln im Zusammenhang mit der Somatik, der Kleidung der Menschen, mit Gefäßen, Gebäuden u.a.
+Jeder Fuß hinterläßt eine besondere Spur. EV 2388 : 5 Var.
+Heute hat das Schaf fünf Beine, morgen nicht mal drei. EV 12402 : 1 Var.
+Wie der Strumpf, so der Stiefel. EV 10663 : 1 Var.
+Wie das Hemd, so der A.... EV 11189 : 2 Var.
+Jede Speise hat ihren Magen. EV 12021 : 2 Var.
+Jedes Brot hat seinen eigenen Geschmack. EV 5654 : 2 Var.
+Wie die Kelle, so der Griff. EV 3193 : 2 Var.
+Wie der Sack, so die Öffnung. EV 4423 : 1 Var.
+Wie das Faß, so die Tinte. EV 8987 : 1 Var.
+Wie das Haus, so das Dach. EV 6360 : 1 Var.
+Jedes Haus hat seinen (eigenen) Knüttel. EV 6357 : 1 Var.
+Jedes Loch hat seinen Pfropfen. EV 469 : 1 Var.
+IM. WERT
+
+977.
+Mit Gold wird man schon Silber bekommen. EV 4505 : 4 Var.
+Das reinste Gold ist das schwerste. EV 9020 : 1 Var.
+Gold ist Erde. EV 4499 : 2 Var.
+IN. UNTERMAßIG, "NICHTKLASSENGEHÖRIG"
+
+978.
+Der Wacholder ist kein richtiger Baum, die Scham kein richtiger Leib und der Mann aus Käina kein richtiger Mann. EV 2842 : 17 Var.
+Wer nennt (wohl) Hafer Getreide oder den Säufer einen Mann. EV 2897 : 5 Var.
+Wer schreibt (wohl ) einen Kaulbarsch auf oder rechnet mit einer Quappe. EV 3707 : 2 Var.
+Einen Kaulbarsch zählt man nicht zu den Fischen und einen Narren nicht zu den Männern. EV 3708 : 15 Var.
+Wer zählt (wohl ) Ziegen zu Rindern. EV 3894 : 50 Var.
+Wer zählt (wohl) Schwache zur Herde oder Kälber zu Rindern. EV 3561 : 5 Var.
+Die Kopeke ist kein Geld und die Wanze kein Fleisch. EV 4368 : 13 Var.
+Die Krähe ist kein Singvogel. EV 13819 : 3 Var.
+Wer hält wohl die Krähe für einen Vogel. EV 13806 : 1 Var.
+IO. VERSPOTTUNG DER SIPPE, SPRÜCHE ÜBER DIE BEWOHNER UNTERSCHIEDLICHER ESTNISCHER GEBIETE UND ÜBER ANDERE VÖLKER
+
+979. Verschiedene Bewohner und Orte Nordestlands
+Nimm die Frau vom Meeresstrand, dann bekommst (du) den Strömling billig. EV 7334 : 2 Var.
+Ein Narr, der sich die Frau aus Narva (d. i. eine Stadt im Nordosten von Estland) nimmt; ein Dummer, der sich in der Stadt eine Kuh kauft. EV 7386 : 11 Var.
+Der Wierländer ist dick von Getreide, der Harrier von Spreu (Wierländer u. Harrier ― Bewohner der Kreise Wiru und Harju; es handelt sich um ein Wortspiel). EV 14249 : 4 Var.
+Der Mann aus Kose wird nicht in der Kirche ankommen. EV 4399 : 1 Var.
+Weder gibt es (im Dorf) Arju einen Werktag, noch arbeitet der Mann aus (dem Dorf) Tülli. EV 346 : 1 Var.
+Die Männer aus Laugu stehlen ein Fohlen sogar aus der Stute. EV 5588 : 1 Var.
+Der Wolf, der Dorsch und der Mann aus Tagamõisa sind die ersten in der Hölle. EV 1642 : 3 Var.
+Sich mit einem Mann von der Insel Muhu streiten oder mit einem Kalb um die Wette laufen ist ein und dasselbe. EV 6861 : 1 Var.
+Spaß des Dagöers, Korn des Öselaners, Streiche des Felliners und Zigarren des Pernauers ― wer die aufgezählten Eigenschaften hat, der ist ein tüchtiger Mann. EV 1234 : 1 Var.
+Gott soll die Gemeinde Pati und die Kröte als letzte geschaffen haben. EV 2586 : 2 Var.
+980. Der Bewohner des südlichen Viljandimaa, der Bewohner von Tartu
+Der Mulk (d. i. der Bewohner des Kreises Süd­Viljandi und Süd­Pärnu; Spitzname) behütet sein Pferd mehr als seine Frau. EV 6888 : 1 Var.
+Karksi ist die Gemeinde der Streu, Abja die Gemeinde des Korns. EV 3267 : 1 Var.
+In Karksi wachsen Narren nicht nur auf der Erde, sondern auch auf dem Baum. EV 3266 : 1 Var.
+Der Mulk (d. i. der Bewohner des Kreises Süd­Viljandi und Süd­Pärnu; Spitzname) ist hochmütig, der Mulk ist dumm. EV 6889 : 1 Var.
+Wenn dem Mulk (d. i. der Bewohner des Kreises Süd­Viljandi und Süd­Pärnu; Spitzname) Münzen im Beutel klingen, zittert der Tartuer in der Stubenecke. EV 6887 : 1 Var.
+Der Käfer hat glatte Flügel, der Tartuer kluge Worte. EV 10526 : 1 Var.
+981. Der Bewohner des Gebiets Setu
+Die Stiefel mit Schäften sind des Setukesen (d. i. der Bewohner von Petserimaa) Stolz. EV 13851 : 1 Var.
+Wenn die Schüssel kaputt geht, dann blüht der Roggen des Setukesen (d. i. des Bewohners von Petserimaa). (Die Setukesen tauschten Tongeschirr gegen Korn aus). EV 3504 : 1 Var.
+Der Setukene und der Wolf ― sie sind des Erdbodens Säuberer: Der Setukene sammelt Fetzen, der Wolf Kadaver. EV 10320 : 1 Var.
+Der Setukene glaubt nicht eher, bevor er tastet. EV 10319 : 1 Var.
+Der Setukene hat einen festen Glauben. EV 10321 : 1 Var.
+Der Setukene ist für sie ja nicht leicht zu verstehen. EV 10318 : 1 Var.
+982. Der Este, der Zigeuner, der Jude
+Estnische Kühe und estnische Menschen sollen böse sein. EV 512 : 1 Var.
+Der Zigeuner betrügt alle Christen. EV 12071 : 1 Var.
+Geh dich mit einem Juden unterhalten oder mit einem Kalb um die Wette laufen. EV 2690 : 1 Var.
+IP. VERSPOTTUNG DES WORTES ("WÄRE ES", WÄRE ES NICHT", "MAN MÜßTE", "MAN MUßTE", "ABER", "DOCH", "SELBST")
+
+983. "Wäre es"
+Hätte die Kuh auch eine Großmutter, würde (diese) das Kalb warten. EV 5646 : 1 Var.
+Wenn der Hund sich nicht niedergehockt hätte, dann hätte er den Hasen eingeholt. EV 4131 : 11 Var.
+Auf der Hundehochzeit wäre es auch gut, aber man muß zuviel durch Drahtzäune kriechen. EV 4077 : 2 Var.
+Hätte das Schwein Hörner am Kopf, würde es die Welt umstoßen. EV 10358 : 4 Var.
+Hätte das Schwein Krallen, würde es auf den Baum klettern. EV 10356 : 50 Var.
+Hätte das Schwein hundert Beine, wieviel gäbe es dann Sülze. EV 10357 : 1 Var.
+Wenn der Mund eine Flinte wäre und der Arsch ein Kessel, dann gäbe es im Wald wohl keinen Vogel mehr. EV 10861 : 6 Var.
+Könnte man Wasser in der Tasche tragen, so wäre ja kein Brunnen nötig. EV 13968 : 1 Var.
+Wenn der Stein so fürs Essen taugte wie Wasser fürs Trinken, wie gut könnte man dann leben. EV 3940 : 5 Var.
+Wäre mein Vater ein Herr, dann wäre ich ein junger Herr. EV 2215 : 1 Var.
+Hätte die Tante Räder, wäre sie ein Auto. EV 12335 : 6 Var.
+Wenn die Tante etwas hätte, dann hätte sie einen anderen Namen. EV 11581 : 1 Var.
+"Hätte" kostet nichts. EV 7801 : 2 Var.
+"Hätte" hilft niemandem. EV 7800 : 1 Var.
+"Hätte" ist übel (Wortspiel). EV 7825 : 1 Var.
+"Hätte" ist ein schlechter Junge. EV 7817 : 60 Var.
+"Hätte" ist ein guter Junge, aber man kann ihn nicht erwischen. EV 7812 : 5 Var.
+"Hätte" und "ist" sind keine Brüder. EV 7820 : 1 Var.
+"Hätte" ist ohne Hosen. EV 7814 : 3 Var.
+"Hätte" ist des Drecichaufens Stütze. EV 7818 : 3 Var.
+"Hätte" ist unter dem Schwanz des Pferdes von Oluva. EV 7816 : 1 Var.
+"Hätte" ging an der Landspitze von Orjaku ins Meer. EV 7809 : 1 Var.
+"Hätte" ist schon längst gestorben. EV 7822 : 1 Var.
+"Hätte" ertrank im Fluß Jamburi. EV 7819 : 8 Var.
+984. "Wäre es" und "wäre es nicht"
+"Hätte" ist ein gutes Wort, "hätte nicht" ist es nicht. EV 7813 : 2 Var.
+Es wäre gut, wenn es wäre; noch besser, wenn es nicht wäre. EV 7794 : 3 Var.
+"Hätte" und "hätte nicht" sind keine Brüder. EV 7807 : 2 Var.
+985. "Wäre es" und "man müßte" ("mußte"). "Man mußte", "du mußt"
+"Hätte" und "müßte" haben zwei Enden. EV 7824 : 1 Var.
+"Hätte" und "müßte" sind zwei Schelme. EV 7805 : 1 Var.
+"Hätte" und "müßte" sind des Kotes Stützen. EV 7803 : 1 Var.
+"Hätte" und "müßte" sind Brüder. EV 7804 : 6 Var.
+"Hätte" und "müßte" sind keine Brüder. EV 7823 : 1 Var.
+"Hätte" und "müßte" sind Schwäger. EV 7821 : 2 Var.
+"Hätte" war in Olbris Brottrog, "mußte" in Peters Milchbütte (Olbri und Peter sind Namen). EV 7811 : 1 Var.
+"Hätte" und "müßte" sind im Sumpf von Raudna in der Fahrrinne mit den Füßen an der Schlittenstange steckengeblieben. Wenn sie dort loskommen, ist alles in Ordnung. EV 7806 : 1 Var.
+"Man mußte" kippte mit der Bütte um. EV 8731 : 2 Var.
+986. "Wäre es" und "doch"; "wäre es", "aber", "eng"; "aber"
+"Nicht wahr" ist der Stiefbruder von "wäre", (es) ging in einer Bohnenschote nach Finnland, dort ist es auch geblieben. EV 526 : 1 Var.
+"Hätte" und "aber" und drittens "eng" ― hätte man sie aus der Welt geschafft, so hätte man ein gutes Leben. EV 7802 : 1 Var.
+«Aber» war im Sumpf von Emmu ertrunken. EV 145 : 1 Var.
+«Aber» hat hinten einen Schwanz. EV 144 : 1 Var.
+987. "Selbst"
+Selbst ist im Schweinestall. EV 2238 : 5 Var.
+Selbst ist im Misthaufen. EV 2239 : 1 Var.
+Selbst ging mit der Kuh in die Stadt. EV 2236 : 1 Var.
+Selbst ertrank im Fluß Jamburi mit der ganzen Lebkuchenladung. EV 2242 : 5 Var.

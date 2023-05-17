@@ -1,0 +1,2152 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-6.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-6-flip.gif">
+</div>
+E. EAD JA SOOD. ARMASTUS. PEREKOND JA KODU. SUGULASED
+EA. NOORUS JA VANADUS
+
+229. Inimese iga, selle kestus, tagasipöördumatus, sõlmpunktid, etapid jne.
+Eks see inimese elo ole lühike ja sitane ku lapse särk. EV 2096:1
+Elu om lühike nigu uni. EV 576:1
+Igä olõ-õi üle aia karada'. EV 1903:3
+Iga toob vanust. EV 1902:1
+Egaüts taht kavva eläde, kiägi ei taha vanas saia. EV 535:3
+Haljast lõigata-ai kats kõrd. EV 798:1
+Kuiva puud ei tee keegi änam tooreks. EV 4463:1
+Savihavva vesi saa-ai kunagi selges. EV 10233:10
+Vanast ei saa enam noort, aga noorest küll vana. EV 13488:2
+Vana varikohe lääva kõik. EV 13504:1
+Vanadus tuleb iseenesest. EV 13544:1
+Vana inimene läheb iga päe surma poole, noor aga pulma poole. EV 13402:7
+Vuos vana vanetab, kaks lapse kasvatab. EV 14281:4
+Aeg lääb vanaduse poole, ei mitte noore poole. EV 77:1
+Aig jõudnes, vari pitknes. EV 92:1
+Aeg viib havva poole. EV 86:1
+Inimene kukub kolm korda katki ennast. EV 2110:1
+Kolm kord saab inimest vaadetud: kui ilma sünnib, kui pruudiks saab ehk peiuks ja kui ää sureb. EV 4280:1
+Inemine om kolm kõrd rummal: edimalt latsepõlveh, tõist kõrd paari minneh, kolmas kõrd vanah eäh. . EV 2157:4
+Kes ei saa enne kahtkümmet ilusaks, enne kolmekümmet targaks, enne viitkümmet rikkaks, neil jäävad kõik need saamata. EV 3029:4
+230. Noorus kui külviaeg: milliseks nooruses kujuned, selliseks jääd; nooruses õpitakse, vana ei muutu ega arene enam; tööta ja kogu noorena, siis on vanana võtta
+Kuida sa noorelt kasvad, nenda sa vanalt jääd. EV 7479:2
+Mis noorelt haritud, sest vanadus ei võõrdu. EV 7486:6
+Kes noorelt valetab, see vanalt varastab. EV 7473:5
+Kes noorelt varastab, see seda vanana ei jäta. EV 7475:2
+Kiä varsah vehmrest vällä viskas, tuu vanah kah. EV 13854:1
+Kui haanikelt jo hapu olet, mis sis veel, ku präos läät. EV 731:2
+Kiä noorõlt nuiatükk, tuu vanalt puupala. EV 7478:1
+Ken noorelt nobe, see virk vananagi. EV 7469:20
+See viis, mis noorelt õpib, see vanalt peab. EV 7543:20
+Noorelt hõlbus õppida, vanalt raske vastata. EV 7503:1
+Parem noores eas õppida kui vanas kahetseda. EV 7541:1
+Miä hummukult ei olõ opnu, tuud ei opi õdangult ammugi. EV 1451:1
+Mida Juku ei õpi, seda Juhan ei tea. EV 2490:140
+Varsan õpid, vanan pead. EV 13858:55
+Mis kutsikun õpit, vanan penin peat. EV 4707:8
+Karu õpetatakse ikki noorelt murdma. EV 3306:1
+Vana karu ei õpi tantsima. EV 13412:30
+Vana koera enam ei õpeta. EV 13414:1
+Kes vanast koerast enam linnukoera õpetab. EV 13339:1
+Kes vanast enam teldriks saab. EV 13338:1
+Vanna ul'le imp jovva-ai ar' opada. EV 13520:1
+Kust üks hea puu tahab sünnitada, see annab ennast painutada. EV 9092:1
+Nuur puu paindus, vana puu murrus. EV 7534:1
+Vana puu ei lase ennast enamb painutada. EV 13478:4
+Ei vana vits enam kõlba väädiks. EV 13323:1
+Ega aisast enam juhivitsa saa. EV 208:1
+Ku hummugu olõ-õi saanu, sõs saa-ai õdagu ammuki. EV 1449:1
+Noor inimene peab kõigega harjuma nagu konn märjaga. EV 7512:1
+Noorus on külviaeg. EV 7580:6
+Mida külvad kevadel, seda lõikad sügisel (mida õpid noores eas, seisab eluaeg sul peas). EV 5148:40
+Mida noorelt külvad, seda vanalt lõikad. EV 7483:70
+Kuidas nooruses küli, nõnda vanaduses vili. EV 7572:1
+Mida noorus kokku paneb, seda vanadus leikab. EV 7574:3
+Mis noorus kokku paneb, seda vanadus ees leiab. EV 7577:10
+Mis noornal kokku paneb, see vanumis sööb. EV 7575:1
+Kes noorelt nobe koguma, sel vanuni vara süüa. EV 7472:4
+Võta noorelt nõgla otsast, vanast peräst võtad siis väitsega. EV 7544:4
+Kui sa vanan lämmit tahad, sis tee nooren põlven ahi valmis. EV 13344:2
+Nuorelt rabad, vanalt magad. EV 7529:1
+Ole nooren häste nobe, siis saad vanan vaadata. EV 7535:3
+Ku laisk olt latsõpõlvõst saani, sõs nälgä näed, ku vanas saad. EV 5310:1
+Kes noorusen ei püvva, see vanadusen ei levva. EV 7570:1
+Kes nooruses hooletu, see vanaduses õnnetu. EV 7571:1
+Noores eas kerge elu, vanas eas kerjamine. EV 7508:1
+Kui hommikul lauluga, siis õhta nutuga. EV 1450:1
+Kes noorelt vana om, piat vanalt nuur olema. EV 7474:2
+231. Noor on tugev, terve, sitke, agar, tuline, ilus jne.; vana on väeti, tõbine, rabe, tuim, näotu jne. Vanadus on rõõmutu ja vaevaline
+Vanadus kannab kaalendrit enese ihu külles. EV 13543:2
+Noorel nugise silmad, vanal varese silmad. EV 7502:50
+Käre silmäd neidisellä. EV 4947:3
+Noorõ elo oll ku lill, mis haina pääl häidzes. EV 7525:1
+Noorel kerge jalg. EV 7499:1
+Eks noo ise hüppab ikka üle, vana pugegu alt läbi. EV 7468:1
+Vannu ase aho pääl, laste paik paja all. EV 13522:4
+Vana tatt om lühvka pallo võrksamb ku pistü. EV 13494:1
+Kepp om noorele häbis ja vanale abis. EV 3592:1
+Vana inimese jalg on niisama raske kui noore inimesel pakk jalgus. EV 13404:1
+Vana inimene ja heinakoorem on üks. EV 13399:2
+Hallitõbi habemes, hallitõbi ka keha sees. EV 808:1
+Kik luu ja kondi vanal progisese. EV 6095:1
+Vanalt kondid vastavad. EV 13442:1
+Vana samm kahandab jõudu, noore samm kasvatab jõudu. EV 13484:1
+Inimene läheb vanemaks, tõbi läheb nooremaks. EV 2112:80
+Tobi tottub, mies vanetub. EV 12271:4
+Vana inimest ravitsede või vana saabast parandede. EV 13406:1
+Vana mees on inimese lõpetus. EV 13449:1
+Vana mees, vareste roog, musta linnu leivakakk, hakkide ninaalune. EV 13450:4
+Vana hopõn varessilõ. EV 13394:1
+Vana hopõn pin'ele ni krungitsalõ. EV 13393:1
+Noore nahk venib. EV 7507:7
+Toores luuk õigub jälle. EV 12045:1
+Vana inime ei suuda söömata elada, noor elab ikka kondi varal. EV 13398:1
+Nuur hobõnõ käip ennembä ilma kaaruta kui vana. EV 7533:1
+Pikäst jääse' piirõiva', armirõiva' jääse' abarast. EV 8823:1
+Vanal om iki tilk nina otsan. EV 13436:2
+Parem noorel kuub kui vanal kasukas. EV 7540:1
+Nuur tüdrik, sel küpseb põrsas põvves, kana kaindlas ja nisuleib nisa all. EV 7497:10
+Vana koer lääb malgage karja, noor koer lääb ilma malgata; vana inime lääb malgage tühü, noor lääb ilma malgata. EV 13418:1
+Kui noor oled, lähed, kohe tahad, kui vana oled, viias, kohe ei taha. EV 7481:1
+Noorõl tulõ päivä puudus, vanal jääs üle. EV 7528:1
+Inimene saab vanemaks, tuimus tuleb ligemalle. EV 2132:1
+Vanainime mte tunnõ enäm muud rõõmu, kui uiõd pastlad tehäkse. EV 13546:1
+Kui seitsekümmend täis oled, saad koera viisi ― kaks aastat korraga. EV 10276:1
+Läät esi vanast, lätt õnn ka vanast. EV 13356:2
+Või vanadusest hunikut on. EV 13545:1
+Vanas läät, vaeses jäät. EV 13486:6
+Vanan valus elu. EV 13463:2
+Vanad päävad vaevapäävad. EV 13480:7
+Vaiv om vanas saia, hää om vanan elada. EV 13190:60
+Esimene hella põli, keskmine kulla põli, viimane aga vilets põli. EV 706:2
+Mettuks mullale vaja. EV 6873:2
+Vana saba sallis pallugi. EV 13483:1
+Vana olgu vaiki, sant saisku paegah. EV 13471:1
+232. Vana kont on sitkem
+Vana vidä oma luiega enamb kui noor lihaga. EV 13506:7
+Vana kont sitkem. EV 13419:2
+Vana hunt, kõva kont. EV 13395:3
+Mida vanem sokk, seda kõvem sarv. EV 13410:3
+Vana luu, valusamb lüök. EV 13444:1
+Vana puu juured on ikke kõbad. EV 13479:1
+Puu on vana, aga oks on kõva. EV 9106:10
+Vana raud ei roosteta. EV 13481:1
+233. Vana läheb arust nõdraks, lapsikuks
+Vanal inimesel pää nagu puujumalal otsas. EV 13428:1
+Sii vana inimese miil om nigu kitse piir. EV 13373:1
+Vana inimese aru / om kui vana kaskunäru. EV 13403:1
+Inimene on kaks korda laps. EV 2121:4
+Vana inime ja hull laps on ühetaolise aruga. EV 13400:15
+234. Mitmesugust ea ja mõistuse, "aru ja habeme" vahekorrast
+Ega aru aastatega tule. EV 399:1
+Aru ei mõõdeta habeme järgi. EV 396:1
+Noorel ei ole meelt ega vanal aru. EV 7496:1
+235. Noor on rumal, oskamatu, vana on tark, kogenud; noor võtku vanalt õpetust; vanad nõule, noored jõule
+Noor inimene on vanast seitse korda taga. EV 7511:2
+Noore inimese oid on jalgupidi seljas. EV 7493:1
+Kahekümneaastasel pole veel õiget oidu pääs. EV 2916:1
+Nooreld om nigu kott pään. EV 7495:1
+Mida noorem, seda koerem. EV 7484:4
+Inimene läheb aasta vanemaks, kaks targemaks. EV 2111:6
+Saad vanemaks, lähed targemaks. EV 13357:2
+Maailm läheb vanemaks ja pääv-päävalt ikka targemaks. EV 6218:2
+Kes noore härjaga künd, tege kõvera virgese. EV 7470:1
+Vanad härjad käivad ikka õigel vaol. EV 13379:1
+Ega vana koer valet haugu. EV 13319:12
+Vana koer haugub varju peale, kutsikas kogu peale. EV 13417:1
+Vanad räägivad seda, mis nad on teind, noored räägivad, mis nad teha tahavad. EV 13385:3
+Vana naise keel maksab kolm vakka kaeru. EV 13462:3
+Vana inimesest võta viisi. EV 13405:1
+Noored võtku vanadest oppust. EV 7490:2
+Vana võtab ees. EV 13511:1
+Vana joohtu, noor vedi. EV 13408:1
+Vanad nõule, noored jõule. EV 13381:8
+Vana nõu on änam kui noore jõud. EV 13468:4
+Vana nõu on enam kui noore töö. EV 13467:3
+Vana nõu nurgas on enam kui vana töö. EV 13466:1
+Vanema hool on enam kui noorema töö. EV 13513:1
+Ära rakenda vana hoost ette, rakenda ennem noorem hobune. EV 9543:1
+236. Vana on kaval, kogenud: oskab ohte vältida, heast lugu pidada jne.
+Vana karu ― kaval aru. EV 13413:1
+Vana rebane juba lõksu ei lähe. EV 13482:2
+Ärä vanna santi likatama õppe. EV 13537:10
+Ää vana hobusele õpeta kaerasöömist. EV 13538:1
+Vanad hobused söövad ka veel kaeru. EV 13378:20
+Vanad sikud lakuvad ka heal meelel soola. EV 13386:1
+Vana siga koti naaber. EV 13485:2
+237. Vana on ohtlikum, kurjem, äkilisem kui noor
+Ära vana koera torgi. EV 13532:1
+Kutsikas ikke enam uristab kui haugub. EV 4700:1
+Kui vana peni härähas, sis kutsik kilahas. EV 13350:4
+Vana peni ürätämine om enamb kui kutska puremine. EV 13475:1
+Noor koer ärritab, vana salvab. EV 7515:40
+Ära narri vana koera: vana koer hammustab valusaste. EV 13432:25
+Kui vana koer hammustab, siis noor koer vingatab. EV 13348:8
+Vanad mehed ja vanad härjad / on ühtemoodi kurjad. EV 13380:1
+238. Austa vanu, suhtu neisse mõistvalt, ära naera ega pilka
+Hall pea on vanaduse kroon. EV 810:2
+Hallid juuksed eide ehe, töö tütarlapse ehe. EV 805:1
+Must moes ― hall aus. EV 6950:1
+Hall habe on mehe au. EV 803:2
+Halli pead austa, kulupead kummarda. EV 807:100
+Austa halli ja ära valeta vanale. EV 488:1
+Halli mehe jalge ees võta müts maha. EV 806:1
+Vanemate kord on au saada. EV 13514:2
+Kes vana halli austab, selle käsi keib hästi. EV 13333:3
+Ega vana võllast ole, et varga võllas on. EV 13322:25
+Vanna ja vaest är' naardku', joodikut naara'. EV 13516:2
+Vanna naarku-ui, vana regi jää-äi mäe ala. EV 13517:2
+Ära pilka vanainimest. EV 13515:2
+Vanakest ära põlga sa, / esi lähad vanas ka. EV 13552:2
+Ega nuorel tule miele, et ise ka vanast saab. EV 7466:1
+Egas noor vana vaeva usu. EV 7467:1
+Koera ja vana inimese käest võta ikki vastu, mis ta annab. EV 4060:1
+Võta vana sõna, aga ära söö vana osa. EV 13524:135
+Kes ei vöta vanema söna, vötab vannutud osa. EV 13328:1
+Iga mööda jägu jägata, ei mitte laja perset mööda. EV 1901:1
+239. Inimene pole kunagi vana. Vanaduse varjamine
+Kurat on põrgus vana, inimene ei ole vana. EV 4558:7
+Siis on inimene vana, ku ta hauda mädaneb. EV 2178:1
+Tee ruttu ja käi ruttu, siis ei ütle keegi, et sa vana oled. EV 9905:2
+240. Mitmesugust east, noorusest ja vanadusest
+Tsuvva nägo, viiso iga. EV 12070:1
+Noorel koeral terav hammas. EV 7500:3
+Vanal inimesel üeldakse kuke uni olema. EV 13430:1
+Ega vana hobu üksinda kaeru ei söö. EV 13317:1
+EB. LAPS. LAPSED JA VANEMAD
+
+241. Rasedus ja lapse sünd
+Tühine mees ei saa naisel piima lahti. EV 12710:1
+Ees aeda on param kut taga vedada. EV 508:1
+Kes no uma vere vette viskas vai uma kasu kaivu. EV 7855:1
+Oige inimene tuob lapse ilmale. EV 14551:1
+Mes luoja luob, sidä tuoja tuob. EV 6023:8
+Poiga kand puusan, tüdärd kand terän. EV 8924:1
+Tütar võtab ema ilu, poeg paneb puna palge. EV 12762:1
+Hillukesest saab inimene, enneaegsest asjaline. EV 1268:1
+Enne aiga saab aiva tarka, hiljatsest saab ilmirikkas. EV 672:1
+Pisuke ajab suure nurka. EV 8893:1
+Väikene käänd suure sällüle. EV 14468:1
+Kana kaagutab pärast, naine enne. EV 3121:1
+Sigagi on kolm päeva pesas. EV 10373:3
+Miis lätt tii pääle, võtt kalmu kaala; naine lätt nulka, võtt kalmu kaala. EV 6660:3
+Kolm kuud on haud lahti nurganaisel. Üeksä nädäla on haud lahti. EV 4281:2
+Poisslaste sündimine ja kividega mängimine on sõjaeelne töö. EV 8961:1
+Poiss puunäkk, tüdruk takunokk. EV 8956:2
+Nurganaist visatasse kuuma kivigagi nukka, kui kedagi muud viia põle. EV 7593:12
+242. Väikelaps, tema hooldamine ja imetamine. Amm, lapsehoidja
+Koh kutsik kotoh, sääl vana pini aia all. EV 4698:1
+Kui noorik tuvvas, sis peni ikk, kui lats sünnis, sis peni naard. EV 7546:8
+Pere mini koera raudkäpp, väike laps koera mesikäpp. EV 8588:1
+Hea laps oksendab, paha laps pasandab. EV 933:8
+Kõik tüü või är tetä', a latsõ perst pühi ei' är kunagi puhtast, tuu tüü um otsalda'. EV 12477:1
+Kõhna pinni ei massa pitä, kõhna last ei tasu soeta. EV 4767:1
+Kuusevibu kuivatab, kasevibu karistab, haavavibu avitab, lepavibu lepitab, männavibu mängitab. EV 4753:12
+Tuul kanapoja kosutab, vihaleht lapse noore. EV 12249:20
+Laps ütelnd vanasti: "Kui mina hammid tiin, siis pian ma vihelda suama, või kas põletage kirvevars ahjus ää, kui muud ei ole". EV 5534:8
+Inimene ei ole lind, et elab ilma emapiimata ehk kasvab ilma kaevuveeta. EV 2103:1
+Sünnib lapsuke, siis sünnib ka emale piim rindu. EV 11431:1
+Ema nisa iks latse suun. EV 615:1
+Tutuke om makum ku pipike. EV 12214:1
+Härmävitäi jätä-äi' munna nii lats ei jätä' uma luttu. EV 1873:1
+Panõt nõna ala', kaõ hanna alt ka. EV 7451:1
+Tuli ei taha tuhnakut tegijät, lats laiska hoitjat. EV 12167:35
+Tuhnak om tulõ kistutaja, laisk om latsõ ikõtaja. EV 12104:1
+Sülg jääs söötjäle, puru purõtajalõ. EV 11411:8
+Vakk vanalamba ubõ ning kilimet kuasta juuriku ond lapsõhoidaja palk. EV 13233:1
+Amme ehted ja põhu tuluk on üks. EV 282:1
+243. Lapse ristimine. Vaderid. Nimi
+Sõgelmata jahu ja ristimata laits. EV 11078:1
+Palissamata rätt ja rissämättä laps oo üks. EV 8304:1
+Reede ristmine veab redelile, karuse kastmine kaelaköide. EV 9594:1
+Kudas vader, nõnda laps. EV 13013:2
+Vadri teredaks üle kolme aja. EV 13015:1
+Ristiisa rihmad kõvad. EV 9776:1
+Ega nimi meest ei riku. EV 7435:125
+Nimi ei purõ', ei poksi', ei lüü', ei lömmitä', ei aja' aida ka maha. EV 7439:1
+Heal lapsel mitu nime. EV 942:60
+Ilusal linnul on ikka palju nimesid. EV 2051:1
+Jürisid, Marisid, kõrvhobusid ja kõveraid puid kõik kohad täis. EV 2785:35
+244. Lapse kasv ja areng, ealine omapära
+Päiv vanemb, pää pikemb. EV 9299:1
+Üüvannu tund üsä ja päävävannu pähitse. EV 14825:2
+Kahekuine kannab kaela, kolmekuine koogab, viiekuine mõistab vitsa. EV 2914:25
+Viiekuusel juba varese mõistus. EV 14070:1
+Laps, kel sõna suus, jalg all. EV 5517:1
+Nelja-aastane laps kasvab poole veel. EV 7421:2
+Puu näge ka kasumise pääl vaiva. EV 9105:1
+Kevadel ei kerki kakk ega kasva laps. EV 3636:1
+Süölas põrsas kasvab jõudsaste. EV 11227:1
+Varblane ja kasvaja karjapoiss tahtuvad kovast süüä. EV 13796:1
+Veike koer on kaua kutsikas. EV 4183:16
+Suur kutsik lää iki enne karja kui tilluk kutsik. EV 4708:1
+Suure koera pojad ikka kaua lollid. EV 4179:8
+Väike ratas käib ikka ees. EV 14471:5
+245. Prognoose lapse tulevaste omaduste ja käekäigu kohta. Inimese iseloom avaldub juba lapsena
+Viinakuu laps / on hästi kraps. EV 14133:1
+Kis oo äbärik sündides, see oo äbärik elädes. EV 14770:1
+Mis on loll laps, sest ei saa midagi meest, aga mis oskab vallatust teha, see pärast ka viitsib tööd teha. EV 6016:1
+Tatisem nina, targem laps. EV 11708:10
+Nattanenäst saab mies, aga mitte tühjäst naurajast. EV 7406:1
+Targad lapsed surevad noorelt. EV 11949:14
+Häist lastest saavad head mehed. EV 992:1
+Hää lats tunnus hällü, kaunis karja. EV 1014:75
+Orasest vilja näikse. EV 8076:5
+Varsast valitas hää hobõnõ, kutsikast kuri pini. EV 13860:25
+Kest lehm kasus, pidi jo väikult vasik olema. EV 5634:1
+Kellest okas peab saama, see on varakult terav. EV 7792:10
+Kellest konks peab saama, sii on noorelt kõver. EV 4301:11
+246. Kuidas vanemad, nõnda lapsed (pärilikkus, eeskuju)
+Laps laast vanema küljest. EV 5519:2
+Laps on perekonna peegel. EV 5528:1
+Laps langeb vana soo poole. EV 5521:1
+Lapsed künnavad isa-ema põldu. EV 5483:1
+Laps on vanainimese ahv. EV 5529:1
+Lastest tuntakse vanemaid. EV 5540:3
+Mis vanem eel räägib, seda noorem peab kinni. EV 13638:1
+Mis isa ees vilistab, seda pojad taga tantsivad. EV 2214:1
+Pojad on isa rees. EV 8930:4
+Kudas vanad ees, nõnda pojad pesas. EV 13341:1
+Kui vanem eel, nõnda laps järel. EV 13636:10
+Kudas isa ees, nõnda poeg taga. EV 2208:30
+Kuidas ema, nõnda tütar. EV 649:40
+Isa pussik saab pojale, ema helmed tütterile. EV 2201:3
+Tütar käib ema kingas. EV 12753:1
+Tütrel jääse iks ema viisuräti kanda. EV 12768:1
+Tüdär süöb emä suolaräimid. EV 12749:1
+Ega Manni memmest param ei ole. EV 6386:1
+Ku imä iin uurikulla, sõs tütar takan tuurikulla. EV 651:1
+On habe emal, siis nurukarvad tütrel ka. EV 742:1
+Armas ema, armsad lapsed. EV 363:1
+Esä oll joodik, poig oll joodik, pojapoig sai hullõm joodik. EV 2187:1
+Varss opis vanast märäst, tütär imäst. EV 13861:20
+Ega härjast jänest sünni. EV 1823:1
+Kuidas vana koer ees, nõnda kutsikad takka järele. EV 13342:2
+Suurel koeral suured pojad. EV 4180:1
+Pini poig mõist ilma opmataki hauku nii hammusta. EV 8567:1
+Sukku läävä soe puja', immä immise latsõ'. EV 10634:14
+Kuidas kana, nõnda muna. EV 3142:10
+Varekse pesäst ei maksa hanemuna etsida. EV 13818:1
+Konna poeg on ikka konn. EV 4305:1
+Ega konna pojast kala ei kasva. EV 4302:1
+Kuda puu, nõnda vili. EV 9085:7
+Iga puu kannab oma võsud. EV 9083:1
+Kuidas känd, nõnda võsu. EV 4934:250
+Vesu kasvab kandu müödä. EV 14339:14
+Määne võsu, sääne kand. EV 14338:2
+Kuuse kannu pääle kõiv ei kunagi kasu. EV 4759:25
+Kuida tamm, nõnda tõru. EV 11574:6
+Nii kui uibu iin, nii ossa peran. EV 12847:6
+Igal puul oma õunad. EV 9082:1
+Upin ei sata uibost kavvehe. EV 12800:18
+Mõrol uibul omma mõro ubina . EV 7032:1
+Kuidas känd, nõnda käbi. EV 4933:10
+Käbi ei kuku kännust kaugele. EV 4910:285
+Kuidas põld, nõnda naarid. EV 9148:2
+Sidast pergelid sigivad. EV 10550:4
+247. Lapsed vanemaist erinevad, ei jätka vanemate kurssi. Vanemate pahed, päritolu jms. ei loe
+Orasest ei tunta veel vilja. EV 8075:1
+Üks kand, üheksat jagu võrsjat. EV 14976:1
+Must kana munõ valgõ muna. EV 6945:2
+Vahest löüdä varekse pesäst hanemuna. EV 13816:1
+Isa suss, ema sass, pojast saab pool kuningat. EV 2203:1
+Olgu isa hunt või karu, kui aga mies ise mies on. EV 2216:5
+Olgu isa sikk või ema kits, kui aga ise mees olen. EV 2217:30
+Ega pole sugu süüks panna. EV 10631:1
+Aus poeg katab oma vanemate halvad kombed kinni. EV 482:1
+Pojast polv muutub. EV 8932:14
+Isa kogus, poeg pillutab. EV 2195:30
+Kaks põlve kosutavad maja, kolmas põlv kaotab. EV 2987:1
+248. Kus elamist, seal lapsi. Parem lastega kui lasteta
+Kus kaks pead padja peal on, senna tuleb kolmas ka. EV 3010:4
+Kana haudub nii kaua, kui pojad pesast jooksevad. EV 3119:3
+Kon pesäkeist, sääl tsirgukõist. EV 8706:1
+Kus vanu lambaid on, seal ka tallekesi. EV 13352:1
+Kus lehm, seal on vasikas. EV 5636:1
+Kus känd, seal võsu. EV 4936:1
+Mees nägusam, kui piip suus; naine nägusam, kui laps süles. EV 6587:20
+Nii kui pini hannalda ilotu om, nii om ka naine ilma latseta. EV 8552:1
+Latsilda naane um nigu ossalda puu. EV 5555:1
+Paremb om noorõh nulgah olla ku vanah vatska süvvä. EV 7542:5
+Ennem ikka laps kui vasikas. EV 5448:1
+Laps on abielu side. EV 5526:1
+Lapsed on abielu palk. EV 5485:1
+Lapsed on vanemate usu vili. EV 5489:1
+Lat's um tarõ ilo, põrss um muro ilo. EV 5562:1
+249. Laste hulk. Ainus laps
+Enam tütt kui tühi kogone. EV 12792:1
+Üts lats om koorõkirn. EV 15062:1
+Kes ainust last raatsib lüüa. EV 5455:1
+Ütest pujast saa pini, ütest tütrest saa hatt. EV 15055:6
+Üts tütär lätt hooras, üts poig hobesevargas. EV 15078:2
+Kui Jumal tahte meest nuhelda, siis annab ta üksiku tütre naiseks, ja kui ta ette nuhelda tahab, siis annab veel üheaenukse lapse. EV 2636:1
+Ühe kartule pärast ei võeta koopasuud lahti. EV 3285:5
+Üks laps peab naisel olema, kaks tükki võivad olla ja rohkem ei tohi olla. EV 14988:1
+Latsõl lat's, kanasõl kat's. EV 5567:1
+Üts poig ― mitte poig, tõinõ poig ― puul poiga, kolmas ― poig. EV 15069:1
+Nelja lapse ema alles neitsike. EV 7417:3
+Kel om viis, ei ole villänd; kel om kümme, ei ole küllalt. EV 14138:1
+Kui emal kuus last ümmer, saab ta veel ühe käega leiba murda. EV 650:1
+Mida rohkem lapsi, seda rohkem isameiepalvid. EV 5575:3
+Kus palju vasikud, sinna saab ka palju härgi. EV 13872:1
+Aasta ja laps, see naise taks. EV 5:2
+250. Esimene laps ja järgmised. Viimane laps
+Noorikku kutsutasse vanamuorist, kui esimene laps sünnib tütar. EV 7549:1
+Edimätse kana' lää-äi orrõlõ, edimätse puja' jää-äi perrehe. EV 686:1
+Esimesel triigitakse teisel hõerutakse, kolmandamal kolgitakse, neljandamal pandakse mähkmed muidu ümber. EV 704:1
+Esimene tütar ema moodi, teine teise tütre moodi. EV 697:1
+Üks laps sündida issa, teine emma ja kolmas suguvõssa. EV 14989:5
+Esimine on eide ratas, tagumine on taadi ratas. EV 709:1
+Edimene om ikki ürjäts, viimäne om viisuräti koristeje. EV 682:1
+Perämäne lats om mõheriibsahus. EV 9316:1
+Viimase põrsa nisa on sabaots. EV 14083:1
+Perämäne poig om pesämuna. EV 9317:1
+Viimäsel kaks õnne. EV 14084:2
+Igal lapsel oma õnn. EV 5452:2
+251. Lapsega naine. Lapsed on / ei ole koormaks, segavad / ei sega tööd
+Seni on lindu lahjukane, kui on pere pienikäne. EV 5951:6
+Ühe kääga võis ainult lapsega naine leibä murda. EV 5005:2
+Naesel om lats rinnan, miis reien, tõist last kand sülen, tõist kand kaalan. EV 7241:2
+Nisatajal naasel om kats kõttu. EV 7456:1
+Varsaga mära ja lapsega naene on üks. EV 13856:2
+Lapsega naiste ega varsaga hoostega ei peeta kohta. EV 5490:1
+Kergem on põldu künda kui lapsi kasvatada. EV 9141:1
+Ühed küüned siblivad ja kolm nokka nokivad. EV 14928:1
+Võtad naise, nagu regi perän; saad latse, nagu kivi rii pääl. EV 7327:30
+See rebane jooseb rutembast, kellel reikest takan ei ole, aga kellel reikene takan om, ei jõua nii joosta. EV 9591:1
+Ull hobesella miis, laisk latsega naane. EV 12859:1
+Käkki on toas tüliksa, vibu silma pistijaksi. EV 5014:1
+Ei kätkit, ei kära, ei vibu, ei virinat. EV 5013:1
+Ku kanal pal'lu poigi, sis pal'lu sabitsemist. EV 3146:1
+Hää laits võtt poole tööd, kuri laits puha töö ära. EV 1008:1
+Laps hea heinaajal, kallis kaeraleiku ajal, põrguline pulma ajal. EV 5509:5
+Latse ikku panda-ai lavva pääle. EV 5546:3
+Ega lapse pärast adra ajale jäe. EV 5441:1
+Laisa naese töö jääb tegemata, aga lapsega naese töö ei jää tegemata. EV 5344:1
+Latsege naise töö on jõutse. EV 5545:1
+252. Kus lapsi, seal leiba
+Kost viiele saa, säält saa kuuendale kah. EV 14139:1
+Iga laps tuleb oma õnnega. EV 5451:1
+Iga lapse tarvis on leib loodud. EV 5450:3
+Kus lapsi, seal leiba. EV 5473:4
+Laps kätkis, leib kappis. EV 5518:2
+Annab Jumal lapse, annab ka lapse leiva. EV 2514:25
+Kui Jumal annab lapse, siis annab sitverki rukkid rohkem. EV 2627:1
+Küllap Jumal ka abi annab, kui on lapsed loodud elama. EV 2643:1
+Annab Jumal tibukese, annab ka teräkese. EV 2516:8
+Annab Jumal tibukest, anna tibul ka terakest. EV 2517:1
+Kui Jumal on looma loond, siis ta on ka jäu loond. EV 2634:2
+Luob Jumal luoma uuest, saadik siis endist ei elädä. EV 6032:1
+Koolõsõ latsõ, koolõs lastõ jago kah. EV 4335:3
+253. Lastest on abi. Laste töölesundimine / säästmine, töövõime. Iga sunnib tööle, toob kohustusi
+Säitseaastane säädüslik karjus, katsa-aastane kaunis karjus, ütsa-aastane ülihää karjus, kümneaatane künnipoiss. EV 10279:15
+Seda hõlpsep emäkirikul, midä rohkep kabelit om. EV 654:1
+Ennem samm ees kui taga. EV 10125:1
+Jõuaks lapsed kasvata, et saaks kätt pitkemaks ja jalga löhemaks. EV 5453:1
+Lats um jo pikem ku käsi. EV 5561:1
+Hea laps on vanama abi. EV 934:2
+Iga linnul oma lend, iga lapsel oma töö. EV 5894:1
+Kui on lapsi leivasööjaid, siis ka lapsi lastutoojaid. EV 5467:1
+Koh latse', seal laastu; koh poisi, seal puu. EV 5458:2
+Laps on enam kui laast. EV 5527:25
+Tüü aigu näessi, et kõik lastu latse olessi. EV 12554:1
+Laps noorem, jalg kergem. EV 5523:27
+Jahupuder kerge kiitä, lat's kerge käski. EV 2378:1
+Hull kiidab orja tööd, laisk kiidab lapse tööd. EV 1564:30
+Vana väetike, noor nõrgake. EV 5477:2
+Vas'k ei nüssä, vars ei künnä, lats ei tii tüüd. EV 13879:1
+Põrsa süld on vana sia vaks. EV 9224:1
+Ega vars vana hobuse koormat ei vea. EV 13852:1
+Iga ajab härja ikkesse. . EV 1900:4
+On sul mehe täis luid, siis astu mehe eest välja. EV 6683:1
+Kasuse kana, kasuse ka korvi. EV 3138:2
+254. Laps ei vaja väga head toitu, rõivast, sooja, puhkust, kasimist, ravi jne.; ei vääri seda, talub palju, on ise hoolimatu. Lapse tahtmised kerged täita; ei vääri tähelepanu; on lõputud
+Ära hakka laste orjaks. EV 5580:1
+Millal lapse perssest enne päev paistab. EV 5569:1
+Latse kõtu alt joosk tuul. EV 5547:3
+Lapsel saba koormaks. EV 5502:3
+Anna' liha eläjäle, lats või kuivõb ka' olla'. EV 5801:1
+Oma suu om ikki lähemäl ku latse suu. EV 7964:10
+Põrsal pole vaja vana sea küna. EV 9222:1
+Lapsel kala nina all; kes lapsele kala annab. EV 5497:11
+Kessi kitsi peräst kuhja luu vai latse peräst soola tuu. EV 3895:2
+Mis kutsik latsõsitast mekki tund, vanapini saa es's hää lõmpsausõ. EV 4706:1
+Koerale vorsti või lapsele kanni. EV 4063:1
+Lapse ase, koera ase. EV 5480:2
+Lapse häda ja koera häda oleva üks ja seesama. EV 5491:1
+Lapsel on koera soe juures. EV 5500:7
+Lapse külm ja koera nälg on üks. EV 5495:45
+Lapse nahk ja koera nahk. EV 5505:7
+Lapse jalad ― kuera jalad. EV 5493:6
+Või koera jalad kuluvad. EV 4186:1
+Laps ja koer ei väsi iialgi. EV 5512:3
+Pini ütskorgu istu ku saisu. EV 8568:35
+Laste laud põrmandul. EV 5537:1
+Parep laits latakun ku inimene hilbakun. EV 5574:1
+Laps narmus, koer karvus. EV 5522:4
+Laps nägusam, kui nina tatine. EV 5525:8
+Lõo lõikab rihmad ja kurg paneb kärnad. EV 6125:2
+Lastõ tõbi lautsel. EV 5568:1
+Latsõ kuulja naard lautsil kah. EV 5564:6
+Latsõ koolja löüdas läve alt. EV 5563:5
+Ennem võta järg maast kui laps leest. EV 2760:6
+Sanna palamine vai latse kuulmine ― väikene asi. EV 10219:1
+Laps juokseb alt vihma. EV 5515:1
+Lats satas maale ― pandas padi ala, vana satas maale, visatas ägil alla. EV 5560:5
+Kus kõige sügavam roe on, senna lapsed sisse lähevad. EV 11359:2
+Latse kümnes om kerge massa. EV 5548:5
+Latsõ käsi ja süä um kerge täütä. EV 5566:1
+Kesse lapse pilli järele tantsib. EV 5457:2
+Anna pill latse kätte, laits aab pilli lõhki. EV 8836:1
+Kui lapsele sõrm antakse, siis tahab ta tervet kätt. EV 5460:1
+Silm kand een, kael perra. EV 10471:1
+255. Laps on rumal, vajab järelevalvet ja kaitset. Ohtlikud mänguasjad
+Lapsel lapse aru. EV 5498:2
+Laps rumal, ilm kaval. EV 5530:1
+Vanal varesel ja seitsmeaastasel lapsel olla üks mõistus. EV 13445:1
+Seitsmeaastast last peab veel hoidma tule ja vee eest. EV 10278:5
+Hoia tuli ja lapsed. EV 12144:1
+Tuli ei ole mänguasi. EV 12166:20
+Nuga ei ole mitte lapse mäng. EV 7584:5
+Mis teeb laps nuaga. EV 5572:1
+Lapsele nuga või karjatsele raha. EV 5496:1
+Ega püss ja terariist pole lapse mäng. EV 8765:2
+Lapse mängiasi on puupulk ja sitajulk. EV 5504:2
+Kui laps majas, peab üheksa silma ühe asemel olema. EV 5461:1
+Kutsik kilahus, vana pini ärähus. EV 4703:6
+256. Lapsed räägivad tõtt, kuulevad ja lobisevad välja pere saladusi
+Lapsed on kahejalgsed nõiad. EV 5486:1
+Lapsed ja narrid räägivad tõtt. EV 5481:4
+Ega lapse suu ei valeta. EV 5443:1
+Palju lapsi, laiad silmad. EV 5573:65
+Mis laps välja räägib, seda on ta vanemate juures kodus kuulud. EV 5570:1
+Mis laps väljas kuuleb, seda ta kodu kõneleb. EV 5571:1
+257. Lapsed vajavad hoolitsust; lapse vajadused pakilisemad, rahuldatakse esmajärjekorras
+Kui isa ahju peal haigutab, külmetavad lapsed leelõukal. EV 2211:2
+Hoitku sedä lehmä poiga tegemest, kes lakmata jätt. EV 5631:1
+Lapsel on keisri õigus. EV 5499:1
+Laps ikki nägusam, ku tasku ööl. EV 5510:1
+Lapsel on uni magusam kui sai. EV 5501:1
+Uni on kõige suurem sõber lastele. EV 12903:1
+Kui sa magad seitse tundi, / ära enam himusta; / vähemaga saad ka läbi, / lastel kulub kaheksa. EV 6312:4
+Laps sureb see aeg ära, kui vanainimene joob. EV 5532:1
+Vanal jookseb suu vett, lapsel verd. EV 13431:1
+Emal üks söömavahe, lapsel kümme söömavahet. EV 629:2
+258. Vanem rõõmustab, kui lapsel hea, elab kaasa lapse hädale. Igale oma laps armas
+Ema kõtt saa sellest kah täis, kui ta tiid, et laits om süvvä saanu. EV 612:1
+Mehandse sõrme sa ärä täid lõigata ― ühetaolise kalli poha. EV 11168:10
+Lapsel valutab sõrmeots, emal süda. EV 5503:8
+Lats ikk väist, immä ikk last. EV 5554:3
+Kus lapse häda, seal vanema süda. EV 5472:1
+Vigane lats om imäle kõige armsap. EV 14012:4
+Kana kaagutab muna pärast, mispärast ei nuta ema poja pärast. EV 3120:2
+Susigi undas ummi poigõ. EV 10820:12
+Soel om ka ummi latsi hallõ. EV 10810:1
+Süü-üi susi ar umma poiga. EV 10843:6
+Hundil oma poeg ka armas. EV 1609:2
+Iga lammas tunneb oma talle. EV 5419:1
+Oma laits om iki kõege armsamb. EV 7919:2
+Oma laps kullatükk. EV 7923:1
+259. Seni laps hooldatud, kuni ema (ja isa) elus. Ema juures on hea. Ema arm põhjatu
+Laps kannab seni pokutat, kuni ema elab. EV 5516:1
+Seeni latse pääke sille, kuni ema silma valla. EV 5577:4
+Esä, imä alale, lehmänisa vallale. EV 2185:3
+Kooni jimä, seeni jelo. EV 648:1
+Latsil olõ-õi lihavõtõ nii kallis ku uma imä. EV 5556:1
+Olgu see ema õlg või aganas, ta ikki ema. EV 652:2
+Siin hea, sääl hea, ema süles kõige parem. EV 1140:1
+Pehmemb om emä üsän kui saksa sängin. EV 8518:1
+Parem ema armu hõlmas kui kuninga kuldlinnas. EV 8403:1
+Ema armastus on keige suurem. EV 605:2
+Ema armastus käib keigest üle. EV 603:2
+Emä arm tõmbap merepõhjast vällä. EV 631:2
+260. Ema ja isa kõrvutusi: kumb lapsele tähtsam, mis osa kummalgi jne. Isa karmim, ema hellem
+Isa arm kestab hauani, ema arm igavest. EV 2189:1
+Naine toidab last rinnaga, mees pihaga. EV 7276:1
+Emä põlve naal kasus lats innembi ku esä salve naal. EV 638:11
+Parem ema arm kui isa leib. EV 8402:3
+Paremb üte silmäge emä kui kate silmäge esä. EV 14906:12
+Esä hirm ja ema arm, mõlembit om latsele vaja. EV 2184:2
+Tähtsam on lapsele isa hirm kui ema arm. EV 12342:1
+Isa hirmu sees on häbi, aga ema armu sees julgus. EV 2193:1
+Isa sõna enam kui ema vits. EV 2204:17
+Enämb esa üts lüük kui emä ütesse lüüki. EV 2180:1
+Ema lööb kui lõngakeraga, aga isa lööb kui raudhaamrega. EV 613:1
+Ema korjab lapse tagand, isa pillab laiali. EV 611:1
+Isa ässitab, ema häälitseb. EV 2205:1
+Ema tõutus nagu vihaleht, isa tõutus nagu kivimüür. EV 625:1
+Esä kui haone aid, emä kui lihane linn. EV 2186:2
+Isä külmä pohjatuuli, emä helejä päiväpaiste. EV 2196:5
+Pole nali, kui isa meel on vali. EV 7370:1
+[261–263] Hirmu ja armu vahekordi laste kasvatamisel
+
+261. Peks ei tee paha, on vajalik ja tõhus kasvatusmeetod; liigsel hellitamisel pole mõtet
+Vili ei kasva vihmata, lats ei ilma vitsata. EV 14191:1
+Liha ei kõlba soolata ja lats ilma vitsata. EV 5806:20
+Pargit nahk saa õks parembas. EV 8407:1
+Anna kutsikale vitsu, et ta koeraks ei kasva. EV 4695:1
+Mida armsam laps, seda kibedam vits. EV 367:175
+Kes oma last armastab, see teda ka karistab. EV 7856:5
+Kes vitsa ei pruugi, vihkab oma poega. EV 14255:6
+Vits om viha rohi. EV 14262:1
+Kasejuust ja tetreleib on lapse rohi. EV 3332:2
+Kasemahl on magus, aga kasevits on valus. EV 3339:1
+Vitsahirm on lapse nuhtlus. EV 14266:3
+Ei vitsahirm ole kenegille paha tehnd. EV 14265:3
+Küll kask kasvatab ja paju painutab. EV 3341:2
+Paha lastele ja ülekohtustelle on Jumal kaseoksad loonud. EV 8225:1
+Küll hirm hääks teeb. EV 1299:3
+Vits kasutas hää latse. EV 14261:1
+Vits teeb hää lapse, selge leib suure mehe. EV 14263:1
+Ega kanapoeg sellest haiget saa, kui kana ta peale astub. EV 3155:1
+Vitsaga peksmine last ei tapa. EV 14258:2
+Vits ei riku konti. EV 3335:3
+Vii-i vits hauda, kutsu-ui kulatsk tagasi. EV 14257:3
+Vitsahoobi' kisuva latse hinge põrgust välla. EV 14267:2
+Vihaga peksad ― viha külvad, heaga peksad ― head külvad. EV 14019:1
+Laps nutab, kui pestakse, pärast magab magusamast. EV 5524:1
+Lapse kohus om pea mõistet. EV 5494:1
+Oma lapsega võib keik teha ― lüe ehk lükka. EV 7921:1
+Kui last karistad, siis ära kahetse perra. EV 5465:1
+Ei palja paiga kasvata sa poisslapsi üht. EV 8250:1
+Ära hellita last ülearu, ega tast kahte ei kasva. EV 1217:1
+Ära ühest üheksat kasvata. EV 14927:2
+262. Tuleb anda nii hirmu kui armu; mida kellelegi
+Last hoia ku hinge, a raputa ku uibot, sis saa lat's. EV 5541:1
+Noore hobusele ja lapsele anna süüa ja peksta. EV 7491:1
+Last kasvata tanguga ja napsuga. EV 5542:1
+Vits hüäh käeh, kulatsk kurah käeh kasvada last. EV 14260:1
+Laits saab laadelt saia ja peran laadet pessa. EV 5478:4
+Lapsele anna hirmu ja armu. EV 5438:10
+Üte omma hirmulatse, / tõõsõ armulatse, / kolmanda kur'a ole-ei kinkki latse. EV 15054:1
+Anna üheksale hirmu, kümmes kuuleb armu. EV 14828:1
+263. Sõna mõjusam kui vits: hea kuuletub isegi, pahale ei aita pekski
+Lahke sõna aitab rohkemb kui vits. EV 5286:1
+Hea laps kasvab vitsata. EV 928:2
+Hüä lats ikõ-õi vitsalda ka. EV 1063:1
+Vilets vitsul peksetakse, õnnis suul õpetakse. EV 14178:60
+Kenest ei saa suusanaga, sest ei saa suure peksugagi. EV 10959:1
+Hea laps kasvab hirmuta, paha mitte pekseteski. EV 927:1
+Hää lat's tõrgus tõrrakut, kuri ei pelgä pessäkut. EV 1013:1
+Hea laps mõistab sõrme näitust, paha lapsele ei aita peksminegi. EV 932:1
+264. Hea ja paha laps: mis nad teevad ja mis nendega tehakse
+Paha puu kasvab oksasse. EV 8233:1
+Üleannetu poiss ja pahur siga ― need teevad alati pahandust. EV 15105:1
+Hea laps hästi, paha laps pilla-palla. EV 926:1
+Laisk laps parsil, hea laps loeb raamatut. EV 5363:6
+Hää laits hännän, hatt augun. EV 1007:2
+Hää tüdar, veel paremb ema; kuri tüdar, veel kurjemb ema. EV 1042:1
+Hiad last nähasse igal pool, paha ei pane keegi tähele. EV 985:1
+Hää laps pannakse hälli, kuri laps pannakse kurru. EV 1012:4
+Paha laps ei saa paludeski, hea saab ilma küsimata. EV 8224:1
+Hääl lapsel päts pähitses, pahal lapsel paha pääl. EV 1011:1
+265. Mitmesugust kasvatusest: selle vajalikkus, raskus, taotletavad tulemused, paradoksid
+Lapsõtegemine mte põlõ kun'ts, aga lapsõ kasvatamine ond kun'ts. EV 5581:3
+Ema pistab rinna suhu, aga ei pista meelt päha. EV 621:95
+Susigi oppas ommi poigõ. EV 10817:3
+Õpeta hundi poega esiteks murdma. EV 14745:1
+Kuida isa üteleb, nõnda laps õpib. EV 2209:1
+Väiksen häste opetedu, suuren mõistab muidugi. EV 14476:1
+Kusi kuivab, pask paraneb, lapsest saab laps jälle. EV 4689:1
+Hea ema kasvatab alati head lapsed. EV 909:1
+Virgad vanemad, viksid lapsed. EV 14226:2
+Virgad vanemad, laisad lapsed, laisad vanemad, virgad lapsed. EV 14225:20
+Virgedel vanematel on vaesed lapsed. EV 14214:1
+Hea isa kasvatab paha lapse, aga paha isa kasvatab hea lapse. EV 917:1
+266. Kasvata last noorelt, hiljem enam ei mõju
+Vääna vitsa, kui vits väändib. EV 14264:205
+Vitsa vääna viide moodi, palki ei painuta poolde moodi. EV 14259:1
+Õienda puud täna. EV 14546:1
+Noorõlt ja nõrgalt painuda luuka. EV 7527:2
+Painuta noorelt poja selga. EV 8263:1
+Sis pessä' last, ko riste om pingi pääl; ko piuta om pingi pääl, sis inäp pesku-ui'. EV 8529:4
+267. Halb kasvatus, liigne hellitamine tasub end kurjasti; paha laps vanematele nuhtluseks, elab auta, jääb ilma õpetada
+Ei laidete last, vaid latse kasvatajat. EV 5412:2
+Kes nõest kasvatab, see käed kõrvetab. EV 7621:4
+Kasvata hagijast, kasvata kailaisandaks. EV 3441:1
+Hellitad last, siis kasvatad karu. EV 1215:1
+Sõnakuulmata laps on vanematele kirstunaelaks. EV 11146:5
+Kuri laps on vanema vits. EV 4620:1
+Kui latse pessä-äi', sis latsõh pesvä eis. EV 5470:1
+Parem nutku laps ku vanem. EV 7606:4
+Parem enne hirmu anda kui pärast valu tunda. EV 1302:1
+Hirmuta kasunud, armuta võsunud. EV 1294:1
+Kes hirmuta kasvab, see auta elab. EV 1296:30
+Häbita kasvab, auta elab. EV 1710:5
+Karita kasvab, harita elab. EV 3243:1
+Kes vanemate sõna ei taha kuulda, peab vasikanahka kuulma. EV 13632:5
+Keda isa ei õpeta, seda õpetab ilm. EV 2206:25
+268. Laps ärgu tükkigu vanemat õpetama, ärgu haukugu, ärgu sekkugu täiskasvanute jutusse
+Muna õpetab kana. EV 6903:20
+Ega muna kana ei õpeta. EV 6891:7
+Muna on targem kui kana. EV 6901:105
+Muna pole targem kui kana. EV 6902:11
+Kana on targem kui muna. EV 3132:8
+Koor on ikka targem kui muna. EV 4345:1
+Voona nahk taht suuremb olla ku imälamba nahk. EV 14279:1
+Latse and om armas, latse sõna om valus. EV 5544:1
+Kutsikale ei ole hambid vaja. EV 4699:1
+Kutsikas, ära võta vana koera käest leiba ära. EV 4701:1
+Las vana koer haugub üksi, mis kutsik sekka haugub. EV 4150:1
+Ennemb nõletse hobese liha süü kui tatitse latse juttu kulle. EV 7630:1
+Laps räägib siis, kui kana kuseb. EV 5531:40
+Kui vanad räägivad, peavad lapsed vaid olema. EV 13346:5
+269. Hoiatusi isa-ema löömise, vanemaile vastuhaku eest
+Kes isa ehk ema lööb, selle käsi kasvab hauast välja. EV 2207:25
+Kes laps vanemat lööb, selle käsi ei mädane hauas ära. EV 5456:6
+Kes oma vanembile lüü, selle inemisel ei mädaneved mitte juuse ärä. EV 7860:3
+Kes oma vanemaid lööb, selle käsi ei käi ilmaski hästi. EV 7859:1
+Kes vanemaid ei austa, see õnne ei leia. EV 13631:1
+Keä üle vanõmba lätt, tuu lätt üle Jumala. EV 13634:3
+270. Laps peab kurja meeles. Kasvab laps, kasvab kurjus
+Ära naara poisikeist, poisikesest saap mees. EV 8959:3
+Lats lähkohe näge, kavvõdõhe mälehhäs. EV 5558:2
+Mida kutsikas iristab, seda vana koer mäletab. EV 4705:1
+Kutsikat narrid ― peab eluaeg meeles. EV 4702:3
+Koer kasvab, hambad kasvavad ka. EV 4092:13
+271. Kui vanem lastele hea, siis ka lapsed vanemale. Vanemad lastele head, lapsed vanemaile halvad. Vanemaid paha toita, laste leib paha süüa; mehe juures parem kui laste juures
+Emä lastele ladusa, lapsed emäle ladusamad. EV 635:1
+Emä hellitäp tüdärt, tüdär sütsitap söät. EV 633:2
+Emä helli lapsele, laps vali vanemalle. EV 632:1
+Vanembide süa laste küllen, lastel kivi küllen. EV 13643:12
+Ema ei sünni vakka ega varna. EV 608:1
+Edimält mahup üte hamme sisse, perast ei mahu ütte tarre. EV 716:1
+Üheksa last mahuvad ühe ema põue, aga üks ema ei mahu üheksa lapse õue. EV 14844:40
+Üks isa toidab üheksa last, aga üheksa last ei jõua üht isa toita. EV 14973:50
+Imä kasvatas hulga latsi är', aga hulga latsi oma imäga püstü hädäh. EV 646:1
+Ega lats söödä-äi vanõmbit, vanõmba süütvä latsi. EV 5445:1
+Hüä latsõ variva vanõmbit, halvu latsi variva vanõmba. EV 1064:1
+Vanemba puu kakke-ei latsile kandeh, laste puu kakkes ar vanembide iist varjateh. EV 13642:8
+Kasuks, mis vana teeb, kahjuks, mis vana sööb. EV 3423:6
+Laste laud on kõrge. EV 5536:1
+Emäle om laste leib kõrgen. EV 637:2
+Laste leib on liivane. EV 5539:3
+Lastõ leib om vallus süvvä. EV 5565:1
+Laste leib jääb kurku kinni. EV 5538:1
+Poigõ leib lätt risti kaalast alla, mehe leib piuta. EV 8929:3
+Paremb mehe agananõ ku poigõ puhas leib. EV 6685:1
+Paremb halva mehe jalutsih ku hüä poja pähütsih. EV 792:4
+Kümme hääd last ei massa mitte ütte kurja miist. EV 5158:1
+Üits vanamiis om parep kui ütesse hüvät poiga. EV 14960:1
+272. Lapsest saab taas vanem. Kuidas sina vanematega, nii sinu lapsed sinuga
+Lats om mehe esä, mehepoja vanaesä. EV 5559:1
+Kuidas sina vanematele, nõnda so lapsed sinule. EV 13635:1
+Ega isa ega ema kelku hauda ei vii. EV 2179:1
+Ükski kelk ei jää tareotsa. EV 3571:16
+Ega see kelk ei kulu. EV 3570:1
+Kus aitas, sääl aida taga. EV 210:1
+[273–276] Tütar ja poeg
+
+273. Poeg parem kui tütar. Tütre mehelepanek kätkeb halbu külgi: võib tuua häbi, nõuab kaasavara, jätab ema abist ilma
+See mees on tattnina, kel esimene laps tüdar. EV 6688:2
+Parem poeglaps jalutsis kui tütarlaps päitsis. EV 8935:1
+Poig õks paremb ku tütär, olkõ' vai kolmõst paigast niitsega kinni köüted. EV 8928:2
+Paremb poja pussuhais kui tütre tüütegu. EV 8918:14
+Tütarlapsed tühjad asjad, pojad need on mehed. EV 12777:1
+Kahjust on kägo külasse, tülist on tütar talosse. EV 2930:3
+Hää tütrik maja au, halv tigo. EV 1044:2
+Tütär majah, tigo kotoh. EV 12772:1
+Poisist pole seda karta, et ta midagi koju toob. EV 8947:1
+Tütar viib majast, aga poeg toob majasse. EV 12760:3
+Tütarlapsed laotavad maja, aga pojad koguvad. EV 12776:4
+Poig õks om esä abi, a tütär om esä üsätse varas. EV 8927:1
+Tütred ja tatrad on talu kaotajad. EV 12764:6
+Tütred on ku tulekahju: ku majast läbi käib, siis maja tühi. EV 12765:1
+Tütar viib tuha ka koldest ära. EV 12761:1
+Tütar tühja, kaupa kallis. EV 12759:3
+Kui om pallu tütäriida, sis om pallu pallejiida. EV 12743:1
+See isa, kellel palju tütrid, nääb palju vaeva. EV 2218:1
+Tulispäile saa tugi ja amussuilõ abimiis, a umalõ imäle jää-äi muud ku murõh. EV 12191:1
+Kui läheb tütar toasta, siis läheb töö toasta. EV 12742:2
+Tüdrukuist ei saa peret ja koerasitast ei saa sõnnikut. EV 12604:2
+274. Vanemal parem elada poja / tütre juures
+Pojast on poolgi turva, tühi turv on tütrest. EV 8931:8
+Paremb poja vilon ku tütre ilon. EV 8919:1
+Parem poja ukse kõrval kui tütri ahju pial. EV 8921:1
+Parem poja põrandul kui tütre toolil. EV 8920:1
+Parem poja õues kui tütre põues. EV 8922:1
+Suur tükk ajab suu lõhki. EV 12717:285
+Ennemb poja lauva all kui tütre lauva pääl. EV 8915:6
+Parem ikka tütre lauaalune kui poja lauapealne. EV 12746:2
+Parem halva poja jalutsin kui hää tütre pähitsin. EV 793:30
+Parem kurja tütre jalutsis kui hää poja päitsis. EV 4666:22
+275. Tütre häid külgi: tare ilu, töötegija, toob pidu jne. Tütar parem kui poeg
+Järv on küla iluks, aga tüdruk on maja iluks. EV 2762:4
+Tütrik om suvõl murumuna, talvõl tarõ ilu. EV 12626:1
+Tütruk maja ilu, poiss maja tigu. EV 12598:1
+Hää tüdruk on maja võti. EV 1043:1
+Tütar ike tüüinime, et ep õle iluperäne. EV 12751:1
+Tüdruku om töötegija, poisi om pussu painutajade. EV 12615:2
+Tütt toob tündri rukkid, poeg toob poole vaka odre. EV 12793:1
+Tütre arm jääb ikka enam ema juure kui minia arm. EV 12763:1
+Tütar toob pidu peresse. EV 12758:4
+Tütrest saab pead selga aada. EV 12769:1
+Kasvata seitse hundikutsikast või seitse poega, see on ükskeik. EV 3442:1
+276. Poja ja tütre kasvatamise iseärasusi. Tütre kasvatamine nõuab enamat rangust
+Tütrek kasus läbi tõprasita, tsura läbi kirvõsilmä. EV 12621:4
+Härg kasvab ikkenukas, mees kasvab kervevardes, noorik kasvab mehe armus. EV 1832:2
+Tütär hoia vitsahirmul nagu märävarsa. EV 12771:1
+Tütärt tündsi tüvega, poiga lasõ ladvaga. EV 12773:18
+Tütarlast asjata aada ja poeglast süüta lüüa. EV 12787:5
+Üks pilk piia silmast, ühiksa tükki ema silmast. EV 15014:1
+277. Vana hoidku majaohjad oma käes, kuni võimalik
+Isa, pea kübar peas, kunni elad laste seas. EV 2200:25
+Ema, pea tanu peas, kuni elad laste seas. EV 618:1
+Kui sa elad laste seas, / hoia ohjad oma käes. EV 5468:1
+Kui sa jõvvat iks ahju pääl kasuket kobistede, sis hoia iks otsus oma käen. EV 172:1
+Kuni vana hoiab valitsust, / võtku noor ilmast õpetust. EV 13351:1
+Saada lats saunikohe, pooda pudi liusikohe, saatko-oi last lavva taadõ. EV 5576:1
+278. Mitmesugust täiskasvanud lastest: vanemate vaeva tasumisest, kodunt lahkumisest, mehelepanekust ja naitumisest. Suured lapsed ― suured mured
+Hää poig tasu esä vaiva är, imä vaiva iälki. EV 1032:1
+Tütar maksab memme vaeva, poeg ei maksa pooltki vaeva. EV 12754:1
+Kui oma lapsed üles kasvatad, siis on ema võlg tasutud. EV 5466:1
+Viimase külma vee annab tütar. EV 14081:1
+Poig õks esä matt. EV 8926:1
+Lapsed on linnud: saavad suled selga, ongi läinud. EV 5487:2
+Ega lind enne poigi pesast välla ei või viia, kui neil veel sulgi selan ei ole. EV 5875:1
+Mis viga lennata, ku vanemad suled selga pannu. EV 5746:1
+Seni om poig poig, ku ta naise võtab. EV 8933:5
+Sõni ikki laps, kui teine laps käe. EV 5578:4
+Tütar mehele laulatetud on nagu kikk leivast ära leigatud. EV 12755:1
+Inne-ks usu-ui imä ohto ja kandja kaihho, ko eis' imäst saat. EV 647:2
+Tütre' ei olõ soolakala'. EV 12766:1
+Tütard om halle anda, hirmsa hinele pitä. EV 12750:1
+Võta ütele pujalõ naanõ, panet üte puusa päält pruntsi üles; võtad tõsõlõ, peät tõsõ puusa puusa päält ka pruntsi üles hiitmä. EV 8934:2
+Lapsed lapsida tegevad vanemile vastuksista. EV 5484:1
+Pisike laps vaeotab põlve peal, suur südame peal. EV 8884:12
+Pisikesed lapsed, pisike mure, suured lapsed, suured mured. EV 8897:10
+EC. POISS JA TÜDRUK. ARMASTUS, RIKUTUS, VALLASLAPS
+
+279. Ära püüa liiga varakult täiskasvanuks saada
+Ära enne lapsekingi ära viska, kui jalg mehesaabast kanda jõuab. EV 5579:1
+Varsal viil iga pikk rokka süvvä'. EV 13857:2
+Ega siis vanu sigu olis tarviski, kui porsad poigi toisid. EV 13315:3
+280. Millest vaadatakse tüdrukut ja poissi. Nõudeid tüdrukule: ärgu lobisegu, olgu häbelik ja töökas jne.
+Tüdrukut kaetas jalust, naist pääst. EV 12619:8
+Peast vaadetakse peigu, jalast neidu. EV 8471:11
+Poiss kaetas söömisest, tütrik jala kängmisest. EV 8949:1
+Tüdrukut vaadetakse töö juures, poissi pannakse poe juures tähele. EV 12620:1
+Tütarlast vaadatakse ju noores põlves. EV 12790:1
+Tütarlast nähakse nagu roisku silma pääl. EV 12789:1
+Tütrugu au um ku rõõsa piimä pääl puru. EV 12601:15
+Tüdruku sõna on kui kerp piima sees. EV 12618:1
+Tüdruku suul peab sõlm peal olema. EV 12617:1
+Tütarlapse suul olgu alati porstuba ees. EV 12781:1
+Muu puu muhaku, lepa leht lehaku, tütarlats olke vaik. EV 9096:10
+Tütarlaps peab poole suud kinni pidama, kui ta räägib. EV 12784:1
+Tütarlapsel olgu suu kinni, aga kõrvad lahti. EV 12779:1
+Tütärlats pidägu suu, käe ja perse. EV 12791:4
+Kana laulmise, naise vilistamise ja lehma möirgamise hääl kostab põrgu. EV 3124:55
+Ei linnust lendavast, ei kalast kargavast, ei piiast nauravast saa midägi hüäd. EV 5879:4
+Tütrik om seni külan ku harak aidsaiban. EV 12625:7
+Mõrsjatütrek piät põlvekoru poiskest häbenemä. EV 7031:1
+Tütrik kääntku kassile ka tii. EV 12623:1
+Noor tütruk piab ühe hanesule pärast üle kolme aja ronima. EV 7522:2
+Tütruk ei tohi üle õlekõrre astuda. EV 12629:1
+Tütarlaps äi tohi niigi kaua seista, kui tui tera maast võtab. EV 12786:3
+Kass küüneta ja naene nõõlata ei saa korda. EV 3374:5
+Tütarlaps tööta on nagu teekäija ilma vööta. EV 12785:15
+Töö las kiita tütarlasta. EV 12517:1
+281. Noortevahelist tõmmet raske takistada. Tüdruk kasvab poisi vastu. Poisi teed ja otsingud. Ehalkäimisest
+Arm aab, veri veab. EV 348:4
+Liha käsk käib vaimu käsu vastu. EV 5808:1
+Ihu ajab aega taga. EV 1944:2
+Kui tüdruk juba jaksab panna jala rattarummu peale, hakkab vaatama omale peimeest. EV 12587:2
+Oleks aga pikkust, küll poiss paksust annab. EV 2639:11
+Siga kasvab nua vastu, tüdruk poisi vastu. EV 10375:2
+Poiss om tütregu kurat. EV 8951:1
+Nuga sea mõrtsukas, poiss tüdruku. EV 7585:1
+Sitik satav sita pääle, puosi satav tütrigu pääle. EV 10527:1
+Tütarlaps ja märatsälg. EV 12783:1
+Poisslaps ― täkutsälg. EV 8960:1
+Poissmiis puulhärgä: säält süü, kost saa. EV 8964:1
+Poissmehe võrgud egäs laevas. EV 8963:1
+Tüdrukust ja hernest ei või kunagi ilma pudumata mööda minna. EV 12616:12
+Uaaed irvitab, nairiaed naeratab, kui sa neist mekkimata mööda lähed. EV 7756:3
+Naaris tetäs iks tii veere pääle. EV 7154:1
+Naari kaudu tee õigem. EV 7152:30
+Linnu tee taeva all ja poisi tee neitsi juure on jälgedeta. EV 5946:5
+Poiss saab ike tüdruku juure, kas kohe läbi uherdi augu. EV 8957:1
+Kundiotsja emmise ja poissmehe jaoss ei ole tiid ega säädust. EV 4509:1
+Kes avit kassi lakka. EV 3388:1
+Kes koerale iialgi kuulutab, kus peres pulmad on. EV 4043:1
+Päeva pala ja parmud, öösi sääsed ja poisid. EV 12607:20
+Kui kadakad tolmavad, on parim ehalkäimise aeg. Kui kadakas õitseb, siis on tüdrukutel kargu aeg. EV 2843:2
+Ku tõrvalill häitses, sõs ots jo purugi purru. EV 12316:3
+Öö on poissmeeste päev. EV 14804:1
+Õhta on kõik kassid hallid. EV 14527:1
+Liki luud om liha makus, ao tullõh tütrik armas. EV 6097:7
+Ega tüdruku pärast adra ajale jää. EV 12583:1
+Poisil peab üheksa pruuti, tüdrukul üheksa peimeest olema; kes pesa hakkab pidama, läheb hauduma. EV 8946:1
+282. Armastuse vaimseid ja lihalikke aspekte
+Armastus teeb kõik asjad heaks. EV 383:1
+Armal iks au häitses. EV 362:1
+Kuidas arm, nenda abi. EV 360:1
+Armul pole põhja. EV 354:1
+Armul ei ole mõõtu. EV 353:7
+Armastus ei väsi iial ära. EV 374:2
+Armastus ei ole kartul, et sa ta ära sööd. EV 372:1
+Vana arm ei roosteta. EV 13375:45
+Vana arm ja vana karm. EV 13376:2
+Kus süda, seal meel. EV 11338:1
+Armastusel on sada paari silmi. EV 375:3
+Kus süda, seäl silm. EV 11339:1
+Kus haige on, seäl on käsi; kus arm on, seäl on silm. EV 753:7
+Armastust ja vaesust ei saa varjata. EV 386:2
+Meda salajam, seda palavam. EV 10109:1
+Nokkimine noorte asi, pilkamine pere peenikene. EV 7463:1
+Mieli kueral saunalöülüs. EV 6465:2
+Ega märahobuse kamp haiget tee. EV 7078:1
+Anna ihule, mida ihu igatseb. EV 1942:2
+Viina ja naese man ei või vahte. EV 14096:1
+Poiss ja piiga magavad ka kahe parre peal. EV 8948:4
+Padi om küll pehme pää all, aga käsi om pehmep. EV 8203:1
+Küll suu suguletses tege ja huule omatses. EV 10864:1
+Habemega musu on nisuleiva sisu. EV 738:1
+Musu ilma habemetta on nagu supp ilma suolata. EV 6971:6
+Musu ei riku tütarlast / ja sukavarras vana naist. EV 6970:1
+Musu on muu asja käsiraha. EV 6973:11
+Poisi himu on ― pista peutäis õlga põlema, tüdrukul nagu käisest tükkija odrapää ehk tuli toores puus. EV 8943:2
+Meesterahva meel on üks kergitus kergeid õlgi, naise meel aga ahjutäis tooreid halge. EV 6701:1
+Mees on nagu kuusepakk, vahetevahel praksub; naine on nagu haavahalg, alati sisiseb. EV 6590:2
+Liha kondi ümbert, naine naba alt keige magusam. EV 5807:7
+Mis must, see magus. EV 6940:30
+Olgu aed nii suur kui ta on, mulk ikka üks. EV 41:18
+[283–284] Püüdmine ja hoidmine, armastus ja häbi
+
+283. Poiss loodud petjaks, teda ei või uskuda. Tüdruk kerge petta, ta uhkus üürike
+Ega ruih hobest ei otsi, hobene otsip ruiht. EV 9817:6
+Poiss on loodud püüdma, tüdruk hoidma. EV 8954:2
+Poiss on loodud pettijaks, tüdruk vasta vandujaks. EV 8953:11
+Poisid on puha petised: petab üüsi pimedal ja vannub päeva valgel. EV 8945:3
+Aprillikuu ilmad ja noormehe sõnad on muutlikud. EV 337:1
+Ära usu uisu juttu / ega pea poisi pettu. EV 12962:2
+Poesi kiil vai uisa kiil. EV 8942:1
+Usu sina meeste sõna, külap siis õnsaks saad. EV 12952:1
+Siugu usku-ui kiäki puuhu. EV 10580:3
+Silita ussi, katsu, kas ta pistab. EV 12965:1
+Kui poiss pole küll poolt kopikat väärt, aga tüdrukule ta võib kümnerublalise häbi teha. EV 8939:1
+Uus võrk mitte minne ruagsilmätä mere egä tüdrik katsmata mehele. EV 12995:2
+Tütrik naarda, hopen vahita. EV 12624:5
+Keige kindlam tüdruk on kerge petta. EV 3776:1
+Valge hobu ja noor tüdruk on rasked puhtad hoida. EV 13290:1
+Tütrukka uhkus, kasuge valgus ja kanasitt põllu pääl kestavad änd ühe paljo. EV 12630:1
+Hoora uhkus ja amme rikkus ei kesta kaua aega. EV 1526:3
+284. Patuelu ja selle pahad tagajärjed (eriti tüdrukule: kaob häbi, ei saa lapsi ega mehele). Vallaslaps, isadusprobleemid
+Armastus ja tuli ei ole laste mänguasjad. EV 12135:2
+Mõni läheb metsast mehele, mõni kargab kannu otsast. EV 6788:3
+Mäe otsast mehele, karjast kooli. EV 7073:1
+Kuusk kuulutab, lepp laulatab, pajupõõsas paneb paari. EV 4762:3
+Ega mehe kübarat lükata, aga tüdruku pärg lükatakse maha. EV 6481:3
+Hooral olõ-õi kostki inämp häpü võtta. . EV 1523:1
+Üks kord eksinud, sada kord tehtud, / see on metmest tütrukust nähtud. EV 14979:1
+Kakõ-õi puu mant är, kakkõs jo kihä mant. EV 3447:1
+Kes lihahimus eläb, sii rasvanälgä surep. EV 5822:1
+Karjatee peal ei kasva rohtu. EV 3259:17
+Kuhu üheksa meest külvavad, seal ei kasva ühtegi, aga kus üks mees külvab, kasvab iga iva. EV 14829:1
+Kui himu kadunud, siis armastus läind. EV 1272:1
+Maha jäävad magatud pruudid, enneaegu armastatud. EV 6318:20
+Pietud piiga pengil istub, järeljäänud järjel istub. EV 8751:1
+Kas kass katsund või lakkund, on ükskõik. EV 3348:11
+Kista kis varsaga mära tahab. EV 13853:1
+Olgu pulmad millas on, kui aga varrud ikka õigel ajal on. EV 9045:3
+Olku' no härä' kost omma', vasigõ' õks kodo tulõva'. EV 1863:3
+Millal härjäl enne vasik oo old. EV 1860:4
+Kua oinas no poja omas võtt. EV 7788:1
+Kelle nägu, selle tegu. EV 7671:4
+Kelle nägu, selle jagu. EV 7670:1
+Kes tössib, sie toedab; kes pistäb, sie piäb ärä võtma. EV 12415:1
+Kes loond, see lunastab. EV 6031:1
+Kes Kaiele kargab, see kirikule kingib. EV 2944:2
+Kes pärja lükkab, eks see mütsi pane. EV 9320:1
+Täädu loom, vitsit toob. EV 11724:1
+Aus laps nutab ahju peal, värdias värava taga. EV 476:2
+Laps ― tüdrukul häbi, naisel au. EV 5533:1
+Essin lapsed ei saa nii palju pessa. EV 529:1
+Hoora lastel on enam õnne ja tarkust kui abielo lastel. EV 1522:2
+Varastedu kanase omma iks terävä. EV 13787:1
+285. Mitmesugust poisist ja tüdrukust, nende suhetest
+Poiss on kui tammetüvi, tüdruk nii kui lepalado. EV 8952:1
+Tütruka külma ja koera nälga äi usta. EV 12628:1
+Tuul juusk õhvakse jala all. EV 12248:1
+Ära usu koera, kui ta magab, ega plikat, kui ta nutab. EV 4191:1
+Muud ei massa pelläte kui tüdrukut ja marupenni. EV 8532:1
+Tige tütruk ehk tukisuits. EV 11993:1
+Üts tütrek saase ütsä mehe siäh ärä ellä, a üts poiss ei saa ütsä tütreku siäh ärä ellä. EV 15077:7
+Keda poisid ei salli, seda ei armasta ka Jumal. EV 8937:1
+Teine söödab, teine sõidab. EV 11882:2
+Ärgu naene naergu naest, teutagu tüdruk teist. EV 7337:3
+ED. NAISEVÕTT JA MEHELEMINEK
+
+EDA. Üldist
+
+286. Vajalikud eeloskused, leer
+Kes ahjuluuda mõistab siduda, kotikangast kududa ja seasoolikaid pöörata, see on meheleminemiseks küps. EV 177:25
+Tüdruk, kes mehe pükste jalge vahele lappi ei oska panna, see ei tohi üleüldse mehele minna... EV 12597:8
+Kis mees söögivahes sada teevast käe otsas ära vahendab, see võib naese võtta. EV 6510:5
+Poiss, kes jaksab künnapat korraga läbi hammustada, see võib juba naist võtta. EV 8950:1
+Ainult need saavad mehele, kes on osavad ning sõlmivad kuuseokka sõlme. EV 6476:1
+Kui köstri sead söödetud, siis tüdruku nimi käe. EV 5024:5
+287. Naisevõtu ajast ja ilmast
+Ennem ole jaanipäe ilma lehmata, kui jõulus ilma naiseta. EV 2347:11
+Parem naist kuues kui kasukas võtta. EV 4733:2
+Sügise ei ole süand, kevaja ei ole kesvi. EV 11375:3
+Sügise sigivad pulmad. EV 11388:1
+Kevädel om näiü kehvä, sügüse om näiü söönu. EV 3648:2
+Mine nooreskuus kosja, aga vanaskuus varrule. EV 7556:1
+Olgu ilm määne oll, naase võtmist ei saa jättä ja imä matmist. EV 2006:1
+288. Kaasa leidmine kui soov, teadmatus, otsing
+Tütar mehel tükkinessa, ema ennast pakkunessa. EV 12756:1
+Konas saa verrev viirde ja kirriv kõrvale. EV 13933:1
+Lind ei tea, kus ta lastas; kala ei tea, kus ta püüdas; neiu ei tea, kus ta viias. EV 5922:15
+Kanna tapile ei söödeta, tütrikke õnne ei oodeta. EV 3137:2
+Susi otsip puudut, ent inemine luudut. EV 10832:6
+Lind seni lendab, seni kui ta pesa leiab. EV 5931:2
+Ega vares enne pesa jauks raagu korja, kui kohta teada põle. EV 13802:1
+Seni ütessa kõnelda, kui üits võtmata. EV 14835:5
+Mehel on ühe ööga üheksa ukse taga luba käia, seni kui ta alles õige ukse ülesse leiab. EV 6632:4
+Mehel lääs, miis ei võta; naises saas, saaja ei tetä; kodun kurdas, poiss ei jätä. EV 6629:2
+EDB. Valik ja šansid
+
+289. Naisevõtt / meheleminek kui risk ja kunst
+Meheleminek ei ole reheleminek. EV 6703:20
+Naisevõtt pole naljaasi, mehelminek veelgi hullem. EV 7343:6
+Vaata ette, ää võta naist nalja pärast. EV 7325:2
+Naane võetas nalja perast. EV 7228:2
+Naase võtmine ja krundi ostmine om igäväne kukkomine. EV 7232:1
+Naise võtmine ja käia ostmine olla kaks kõige täbaramat asja maailmas. EV 7342:1
+Naesevõtmine ei ole mitte hobuse ostmine. EV 7341:1
+Tuu om mees, kes naise mõist võtta ja hobese osta. EV 6692:1
+Kui üle kruavi kargama hakkad, piä silmäd lahti. EV 4434:1
+Leib ei halv naan'e: leebä ää süüt üle nädäli, a naist üle jiä juvva-i är jellä'. EV 5683:1
+Leiva äpardus on nädala kahi, vilja äpardus aasta kahi, naisevõtmise äpardus on eluaegne kahi. EV 5710:1
+290. Kuula enne, kui kosja lähed. Keelepeks paariminejate ümber. Kiidetu ja laidetu
+Võta naine kõrvadega, ära võta silmadega. EV 7317:4
+Kuula enne järele, kui kosjad. EV 4738:2
+Tühi jutt om iks tüdrukista, näru jutt näetsikista. EV 12661:1
+Paariminejate vahel kuluteved kurat kuus paari kengi ärä, enne ku na paari saave. EV 8166:50
+Saagu saabijad, mingu mehele minijad, äga kadugu keelekandijad. EV 10006:1
+Mis aitab rahva rääkimine ehk vanemate kielmine. EV 9530:1
+Olgu tõise meelest õlg vai akan, kui endal hää om. EV 11870:1
+Keda vahites, toda kahites; keda naaretes, toda haaretes; keda otsites, toda trotsites. EV 13221:16
+Osta hobu kiidetud ja võta naine laidetud. EV 8131:2
+Parem põlgtud talleke pidäde kui hääd otsma minnä. EV 9174:1
+291. Lähedalt või kaugelt? Tuntu või võõras? Kuulus kositav (kosilane)
+Paremb võta' lähämbäst põlatava ku kauvvõst kitetövä. EV 14344:1
+Võta naene naabritalust, teda tunned käsist-jalust. EV 7329:15
+Võta naine nähtavast ja kaasa karjas käitavast. EV 7333:3
+Hää poiss ei lää kaugel naist võtma ega hää tüdruk ei viia kaugel mehele. EV 1033:1
+Seda võib naiseks võtta, kellega vaka soola seltsis oled ää söönud. EV 7323:4
+Oman külän kütse leib, oman vallan valmis vatsk. EV 7944:1
+Oman külän kütse mari, oman majan magus mari. EV 7945:3
+Koh viir, sääl kala. EV 13910:1
+Minku-ui tõistõ viirde vett otsma: koh viir, sääl vii kandjake. EV 13911:1
+Ära mingu üle vii vett otsma. EV 13992:7
+Naist ei pea kauga kosima, silla pääl ei pea valiste sõitma. EV 7301:1
+Pikalt teelt naist ära võta, tiinet hobust võõra kätte ära anna, tihti võõraspeol ära käi ― siis saad elus hästi läbi. EV 8808:1
+Parem hobuse perse härmas kui naise perse tuhkas. EV 1407:20
+Võta hobu ja naene omast vallast. EV 1411:1
+Hobune osta ligidäld ja naine oda kaugald. EV 3478:2
+Vieramb veri, kenamb kari. EV 14365:1
+Kaugemal ikka magusamad marjad. EV 3473:1
+Eemal hia ja kaugel kallis. EV 882:2
+Kaugalt tuodud kaasa on ikka kuulsamb. EV 3481:1
+Mis kaugelt, see kaunis. EV 3482:6
+Kaugelt toodaks kaunikene, üle ilma ilusakene. EV 3479:6
+Ilus ilmale, kuulus kõigile, kodu ei kõlba kuhugi. EV 2059:1
+Kaugelt kägu kuulus. EV 4913:65
+Meelege mõteldes mõnda muud, saa kätte, ei massa midägi. EV 6460:1
+292. Kaasavalik vanemate, majakorra jms. järgi
+Tahad tütart kosida, vaata ema viisid. EV 12748:1
+Enne võta emast mudel, kui sa näitad tütrel pudelt. EV 640:1
+Kui ämm hea, siis tütar ka hea. EV 14784:1
+Hea lehma vassikad tellitakse ikka enne sündimist ära. EV 936:1
+Kassi vaadatakse koa sugu järele, niisama peab koa meest vaatama. EV 3366:1
+Kus on kuri koer ja ilusad hobused, säält võta naine. EV 4660:1
+Kos sille pini, sääl sille tütrek. EV 10427:1
+Sinna peresse mine kosja, kus rammus koer ja suur haopinu. EV 8590:12
+Kes koera tallab, see kodu jäeb; kes kassi, see kaasa viiakse. EV 4048:1
+Ämmälasevõrgud laes on tüdruku peigmihe peilid. EV 14782:1
+Kus kolm leeritud tütart majas on, siina ei lähe kuratki enam kosja. EV 4294:1
+293. Võta naine töö juurest, mitte pidu pealt; võta virk naine
+Võta naine talutoasta, talu teilgede tagasta. EV 7335:1
+Vahi neidu vardu varrest, sihi neidu sirbi pääldä. EV 7415:4
+Veta naine sõniguloudast ja rehest rabamast. EV 7326:1
+Võta naine töö juurest, mette keriguteelt. EV 7250:13
+Võta naine heenakaarelt, aga mitte kirikuteelt. EV 7331:25
+Kõik on kirikus kenad, kallil ajal kaunikesed. EV 3834:1
+Tantsusaalist ära kunagi naist võta. EV 11588:4
+Pidult ära võta naist. EV 8736:7
+Ära sa püüa pühalla naist, pühalla pruudid ilusad. EV 9367:1
+Võta sie naisest, kie luuavarre maast üles tõstab. EV 7336:1
+Tuimast tütrigust ega aiglasest neiust ei saa virka naist. EV 12107:1
+Ära vaata neiu näo peale, vaata töö-teo peale. EV 7416:4
+[294–297] Ilu kui väärtus ja kaasavaliku kriteerium
+
+294. Ilu on pahaendeline või tähtsusetu: kaob ruttu, võib tuua häbi, ilus tihti kuri, truudusetu jne., inetu heasüdamlik; "valge" ja "must" mees; ilu ei sünni patta panna
+Ilu ei maksa midagid. EV 2028:1
+Ilu ei õnnista kedägi. EV 2030:4
+Ilu pärast ei maksa naist võtta. EV 2033:1
+Ilu pärast naist võtta ehk rooside pärast mõisa osta on ükskõik. EV 2034:4
+Naese ilu ja heina kasu on üks. EV 7240:1
+Tütarlapse ilu ja eha punetis ― kunniks need kestavad. EV 12778:1
+Ema vana, tütar noor, ihu ilu munakoor. EV 626:8
+Saa-ai illo iäst, ilo om patta panda' täämbäst hummogost. EV 2037:1
+Noored neiud ja nisuleib lähevad ruttu vanaks. EV 7489:25
+Egä ilu kaua kestä. EV 2024:2
+Nägu närtsib, komme kosub. EV 7677:1
+Ilus nägu on vi... nuhtlus. EV 2066:10
+Iluse tütrukust saab vahel ilma lits. EV 2054:7
+Mida viksim, seda litsim. EV 14170:16
+Ilus on ilma päralt, inetu on minu üksi. EV 2069:1
+Ilus petab enemb kui inetu. EV 2071:1
+Ilus ubin ― uisk sehen. EV 2072:20
+Verrev upin olõ-õi alati makus. EV 13934:1
+Päält upin, seest sipul. EV 12798:3
+Mida kenam koor, seda viham tuum. EV 3591:1
+Kareda koore all kasvab tuumakas vili. EV 3227:5
+Saia nägu, sita magu. EV 10038:4
+Ilus nägu, paha magu. EV 2067:55
+Pealt kuld, seest muld. EV 4507:2
+Ilus nägu, paha tegu. EV 2068:25
+Kes ilosat otsip, see hüvvä ei lövvä. EV 2077:1
+Iga ilus põle hää. EV 2041:1
+Mida kenamad suled, seda tigem süda. EV 10690:1
+Illos iä lühendaja, kaunis karva kaotaja. EV 2044:1
+Ilo pand ikma, puna puhkma. EV 2027:1
+Puhku ei punatsile, vahtku ei valgile: illos saa ikõtaja, punane vere puserdaja. EV 9060:2
+Kena naesel on kerge käsi. EV 3588:1
+Mees musta, süda mureda, mees valge, rusikas valju. EV 3587:10
+Mees on must ja mullakarva, leib on saksa saia karva. EV 6589:2
+Mees must, leib valge. EV 6579:2
+Mees must, õnn valge. EV 6580:1
+Ilos miis vereimeja, valge miis verevalaja. EV 2046:6
+Valge mees, vali süda. EV 13292:1
+Mehe ilu ja koti jämedus, see on üks. EV 6627:1
+Mõhen om mehe ilu, lapju pääl latse ilu. EV 6979:2
+Seni must murrab tööd, kui valge ennast vaalib. EV 6959:8
+Parem võtta naine inetu näuga kui suure mauga. EV 7322:1
+Ega ilu kõhtu täida. EV 2021:2
+Kena nägu ei aja kellegile katelt tulele. EV 3589:1
+Ilu ei panda padaje ega kaunist kattelaie. EV 2029:140
+Iluga ei keeda pada, auga herneid. EV 2031:1
+Iloga ei keeda hernid, punaga putro, karvaga kapstid. EV 2025:30
+Ega ilu pealt leent keedeta. EV 2022:50
+Ega ilu pealt saa rasva riisu. EV 2023:3
+Ilu rasvast ei keedeta suppi. EV 2035:1
+Ükski ei keeda ilu pärast leent ega tee au pärast taari. EV 2038:1
+Siga silmista rumala, ommeti osa magusa. EV 10386:1
+295. Ilu on väärtuslik: eeliseks mehelesaamisel, loeb enam kui töötegu jne.
+Ilus mees, ilusad teud. EV 2060:1
+Sarveta härg, habemeta mees ja iluta naene on kõik ühesugused viletsakesed. EV 10206:1
+Mis ihule hea, see kehale kena. EV 1947:1
+Tütre ilu on ema rõõm. EV 12767:1
+Mida ilusam, seda ausam. EV 2081:1
+Ilus nägu annab persele palju au. Ilus nägu teeb pu...le au. EV 2065:4
+Ih-ah ilusa pääle, kes kaeb kakenu pääle. EV 2042:1
+Ilusal tüdrukul on peigmehi iga sõrme jäuks. EV 2052:1
+Keige ilusamad maasikad nopitse keige varem . EV 2073:3
+Sirget puud otsitas iks asjapuus, hupet neiut naises. EV 10507:1
+Kõvver puu jätetas perrä, sirge raotas maaha. EV 4906:1
+Mesipuu viias mehele, kolbits jäetse kodu. EV 6755:2
+Iludus määrab hinna. EV 2039:1
+Ilo mass küll sada rubla, tego ei massa tingagi. EV 2026:4
+Ilu mass poole ilma, tüütegu ei massa midägi. EV 2032:4
+Tühi näio tüüst, tõne temä teost, ku tä kihäle kina, näole näküs, ihole illos. EV 7414:1
+Ilusa naese ilu on enam kui hullu naese töö. EV 2053:2
+Kui ilus naine on, vaata naise pääl, põle supil piima tarviski. EV 2079:1
+Süü musta putru ja vaata valge naise pääle. EV 11298:4
+Elusmajas piab naine ja hobune ilus olema, sis on elu hää. EV 596:1
+296. Ilu ja riietus, ehted
+Kui ilus inimene, siis ilus riie. EV 2078:1
+Pane kännu ümber ehted, siis on känd ilus. EV 516:6
+Vana hobune valjaste tõttu, vana inimene riiete tõttu ilus. EV 13392:6
+Vana nägus ehte tõttu, noor ilu tõttu. EV 13469:8
+Ühtki tundi tuluta ära ilmas kuluta. EV 12199:5
+Keda ei näha näämikus, seda ei sihita siidiski. EV 7654:10
+Kes ei näe narmas, see ei näe silmas; kes näeb narmas, see näeb silmas. EV 7377:1
+297. Mitmesugust ilu kohta: pole enda teha; sõltub armastusest; kaksipidise loomuga
+Ega ilu ende võtta ole. EV 2020:2
+Kes armas, sii ilus. EV 365:3
+Ilus naine on silma paradiis, hinge põrgu, rahakoti puhastustuli. EV 2064:5
+298. Pikkus, paksus jm. füüsilised kriteeriumid
+Pikk naine on nagu roikast köök. EV 8816:1
+Tilluke teravake, hulluke usinake. EV 12012:4
+Ära kosi pikka: pikk läheb pingile magama. EV 4405:3
+Seeni iks väikene vasigõ juut, ku suur suu mõsk. EV 14458:1
+Paremb pikka peran vedada kui lühikeist kaalan kanda. EV 8802:1
+Paremb peenikest perän vitä kui pakso painutada. EV 8498:3
+Paksu piät painutama, peenikest perän vedämä. EV 8291:1
+Parem paksu painutada kui peenikest peran vedada. EV 8292:65
+Tündsak hopõn tüütekij, matal naane majapitaij. EV 12737:1
+Kes paksust patta pand või valgest vaanasse. EV 8294:1
+Sinised silmad, sile pea, / selle süda olla hea. EV 10505:1
+Kellel neiul punapea, / selle süda pole hea. EV 7410:8
+Terav nina, terav lõug, see on kurja naiste tõug. EV 11957:6
+Mustad kulmud, kurjad naised. EV 6941:1
+Vihasel silmad vesised, pahasel pale punane, kurjal mustad silmakulmud. EV 14034:8
+Tuimal om pää tudsaunu, laisal pää ladsaunu. EV 12106:2
+Kel pailu karvu, sel pailu armu. EV 3328:1
+[299–311] Eakriteerium. Vanatüdruk ja vanapoiss
+
+299. Abiellu noorelt, ära abiellu vanalt
+Kui tüdruku särgi sisse juba vakk rukist mahub, siis ta võib mehele minna. EV 12590:8
+Sepik tuleb värskelt ära süüa ja tütarlaps vara mehele panna. EV 10302:1
+Naine noorelt, makk soojalt. EV 7264:6
+Vara teele, noorelt kosja. EV 13678:12
+Kes vanan eän naise saap, / see laste abist ilma jääp. EV 13336:2
+300. Abiellu noorega; parem noorega kui vanaga; noor on partnerina ahvatlev, vana eemaletõukav, külm, viitsimatu
+Võta naine neidudest, osta hobu sälgudest: vana naine leivaraisk, vana hobu heinaraisk. EV 7330:2
+Paremb võta noor ja vaene ku vana ja rikas. EV 7538:1
+Paremb nuore piitsa all kui vana parra all. EV 7537:1
+Parem noore jalgu kui vana piitsa. EV 7539:1
+Noore tüdriku musu nagu soe sai kunagi. EV 7509:1
+Noore linnu liha on ikka hea. EV 7498:1
+Vana külm nagu koolu siga, noor lämmi ja pehme nagu ahjust võet sai. EV 13421:1
+Suud anda vanaltüdrukul on nagu külmale müürile. EV 10883:1
+Vanatüdriku musu kui va hallitanud rapantseleib. EV 13602:1
+Vanapoisi armastus / on nagu kassi kriimustus. EV 13565:1
+Ennem magas kuuse man, ennem kui vanapoisi man. EV 6309:1
+Oma koera hammustamine on valusam kui võera koera. EV 7912:1
+Mis sest vanast vintsutada, mädastmunast mängutada. EV 13360:8
+Vanast ei ole varju ega küürakast ole küllesooja. EV 13487:4
+Siis rutt rattal, kui vana naine vankril. EV 9893:7
+Mis noores ias paneb punastama, paneb vanas ias naeratama. EV 7487:1
+301. Tütarde mehelesaamise järjekorrast ja põhjustest
+Puud ei nakata ladvast laasma. EV 9098:18
+Kuusk kukub maha, ladva ots murtakse. EV 4761:1
+Noorõb hain häid'zes inne ku vanõb. EV 7524:1
+Nooremad lapsed viia enne magama kui vanemad. EV 7506:1
+Esimene saab ema tõttu, teine teise õe tõttu, kolmas töö tõttu. EV 696:50
+Edimene om peramise purre. EV 683:2
+Sõkõld inäp nal'lalt õs võõta'. EV 11092:1
+302. Tüdruku (ka poisi) väärtus, šansid, psüühika sõltuvalt vanusest; optimaalne vanus naitumiseks
+Tütarlapsel on kaks asja meele vastu: noorus, et ta läheb, vanadus, et ta tuleb. EV 12780:2
+Pealejaanipäevane kask ja leeritud tüdruk ei lõhna. EV 8492:1
+Ku talutüdär om aaste aiga lugenu ja ei ole veel mehel saanu, sii om ku sõnnigukuurme pühäpäeväl läve ehen. EV 11537:2
+Kahekümneaastane tüdruk ja kolmeaastane märatsälg on kõige ilusamad. EV 2915:1
+Tütarlapse väärtus: 16-aastane ― kuld, 20-aastane ― hõbe, 25-aastane ― vask. EV 12782:1
+Kakskümmend kaks ― vanatüdriku taks, viiskümmend kaks ― viimane taks. EV 3030:8
+Kui tüdruk kakskümmend viis aastat vanaks saab, siis jõuab ta juba üle talise tee. EV 12588:1
+25-aastane türduk uriseb, 30-aaastane haugub, 35-aastane ― pole koera tarvis. EV 2917:12
+Koh majah jo vanatütrik om, sinnä' imp olõ-õi pinni vaja. EV 6359:6
+Kus kolmekümne-aastane vanatüdruk majas, seal ei saa enam varssa kasvatada. EV 13595:1
+Kui tüdruk 25 aastat vanaks saab, siis on juba hundi hais tema juures. EV 12589:5
+Üheksa-aastane hunt, kümneaastane kult ja kahekümne viie aastane vanatüdruk. EV 14855:8
+Vanatüdruku vanus on alati kakskümmend kaks. EV 13622:2
+Kui poiss kolmkümmend aastat vanaks saab, siis ta kuulub kiskjate sekka: tal tulevad siis kuldi kihvad suhu. EV 8938:1
+Jaanipäevast tee heina ja 25-aastaselt võta naine ― siis on õige aeg. EV 2353:1
+303. Kõik tüdrukud ei saa (ühekorraga) mehele
+Ei ole kõik tütarlapsed meheliseks loodud. EV 12774:1
+Ei kõik kanad saa õrrele. EV 3105:65
+Ega kaiki vareksid ajateiba otsast maha ei lassa. EV 13800:2
+Ennem aiasaiba äitsese ja kirvekuuas lehti luu, ku vanatüdruk saab mehele. EV 204:1
+Kes seda näind, et kuiv känd võsa ajab. EV 7655:1
+Kõik puud ei kasva korraga taevani. EV 9093:1
+Ega kõike puid ühe korraga rajuta. EV 9074:1
+Egä kik puu mõtsan üte otsage maha raiute. EV 9078:1
+304. Meheta jäämine pole patt; on vanatüdruku seisusest hullemaid
+Kes tüdrukule sellepärast võlla ülesse teeb, et ta mehele ei saa. EV 12585:1
+Vanatüdruku nimi on ikka ausam kui varsaga tüdruku nimi. EV 13618:1
+Param auga vanatüdruk kui häbiga naene. EV 460:1
+Ennemb aus vanatütrik ku viletsa mehe naine. EV 486:2
+305. Mitmesugust vanatüdrukust ja vanapoisist
+Vanatüdruku põli ― kolmekopikane põli. EV 13620:1
+Vanatütrik om kui ümbre minei puu. EV 13627:1
+Vanatüdruk on kui puu, mis ära kujunud. EV 13607:1
+Vanatüdrik kui kuijono katai. EV 13600:1
+Vanatütrik on kui regi: alamäe es üles saa, es taade näe. EV 13628:1
+Vanatürduk om egäl kähen näride ku koeral lihaluu. EV 13606:1
+Vanatüdruk on taadi püksivarn. EV 13609:1
+Vanatüdrik raudhammas. EV 13601:15
+Kolme asjale pead teed andma: heinakoormale, palgisavale ja vanatüdrukule. EV 4276:1
+Vanatüdrukutel sünnivad lapsed ikki pühast vaimust ja porikärpsest. EV 13621:1
+Vanatüdruku liha ei mädane. EV 13616:1
+Setu Jumalal latsi om kui vanatüdruku. EV 2664:1
+Niivõrd Jumalal varra ku vannutütrikke. EV 2658:2
+Vananeb härg vasikata. EV 13560:1
+Vanapoiss ja pool ratast on ühes hinnas. EV 13566:2
+Vanadpoisid vanalkuul ei kuule ega noorel ei näe. EV 13563:1
+Isane kass ja vanapoiss muudavad sagele oma meelt. EV 2225:1
+Koit koidab, vanapoiss roidab. EV 4258:1
+Tukisuits ja tunglaving om vanapoisi hinge elätäjä. EV 12115:1
+.
+306. Kõrvutavaid hinnanguid vanatüdruku ja vanapoisi vahel; kuhu nad pärast surma kuuluvad ja mida tegema pannakse
+Vanatütrigu' ku päib, vanapoisi' ku pilv. EV 13625:1
+Vanatüdruk kullatilk, vanapoiss on podisolk. EV 13605:7
+Vanapoiss maksab vaka süsi, vanatüdruk maksab tünder nisu. EV 13567:3
+Vanatüdruk tünder kulda, vanapoiss pool ratast. EV 13614:10
+Vanatütrik kui vahakerk, vanapoiss kui vana ägel. EV 13626:1
+Vanatüdruk jumala jalg, vanapoiss põrgu põhilaud. EV 13604:1
+Vanapoiss on põrgupill, vanatüdruk roosilill. EV 13570:3
+Vanatüdruk taevatui, vanapoiss on põrgunui. EV 13613:40
+Vanatüdruk taevas, kuldkee kaelas, vanapoiss põrgus, tuletukk haambus. EV 13611:20
+Vanapoiss on taevalukk, vanatüdruk põrgutukk. EV 13572:1
+Vanatüdruku oleva tagapõrgu kesä pääl kablan ja vanapoisi karjatse man. EV 13619:1
+Vanastpoisist saa põrgu purde. EV 13575:1
+Vanapoiss on maa pääl õnnis, / sureb, siis saab karjasõnnist. EV 13569:1
+Vanadtüdrukud pidid piale surma Sirtsu soole minema puurattaid tegema. EV 13597:3
+Vanatütreku aetase Reola suu pääle lumme sarjama. EV 13623:2
+Vanatütreku viiässe Petseri valta ala. EV 13624:1
+Vanadtüdrukud pannakse külatänavasse siasitta pooleks lõhkuma, panevad südamepooled vastu päeva kuima. EV 13596:1
+307. Vanagi vallatleb vahel; huvi vastassoo vastu, lootus mehele saada säilib kõrge eani
+Armastus ei päri aastaid taga. EV 373:2
+Küll vana ka lõõbib ning albib. EV 13354:1
+Eks siis vana hobune hakka hüppama, kui valjad saab suhu. EV 13324:1
+Vanal mehel vahest varsa mõte. EV 13435:2
+Mees on sõnn surmani. EV 6593:8
+Mees on veel nii kaua mees, kui ta veel jõuab kukke hännast kinni hoida. EV 6595:1
+Isane tahtvat seni emast, kuni suudab labakinnast jõe peal oma järel vedada. EV 2227:1
+Isane tahab nii kaua emast, kuni suudab jalga rattarummu peale tõsta. EV 2226:1
+Kui ludigas enämb naise kallale ei lähe, on naine vana. EV 6087:1
+Naine on siis viel naine, kui või suus sulab. EV 7268:2
+Kuni veel või suus ära sulab, on ikki veel lootust vanatüdrikul mehele saada. EV 14294:1
+Miil om mehele minnä', silmi olõ-õi sitalõ minnä'. EV 6467:18
+Kolm päeva enne surma kaub tüdruku mehelesaamise lootus. EV 4287:1
+Ilusad lilled nopitas õitsmise aeal jo ära. EV 2050:2
+308. Võidakse abielluda vananagi. Mehelesaamiseks soodsaid kalendriendeid
+Istu laev ige tuule saab. EV 2270:2
+Illanõ kana ka-ks viimäte orsilõ joud. EV 3109:1
+Kui vastlapäe on vanakuus, siis kõik vanadtüdrukud saavad mehele. EV 13888:1
+Vaatab taevasõõl kadrinapäevast maha, siis saab palju tüdrukuid mehele. EV 11468:1
+Kui pihlakatel palju marju, saab palju tüdrukuid mehele. EV 8746:1
+309. Vana naine parem lapsehoidja; asisem kui vana mees
+Vana naene kätki pakk ja lapse vang. EV 13455:2
+Vana naene kääbas, kätkialune. EV 13456:1
+Vana naine laste vari, mädä puu tule pidäjä, vana kasuk kaala vari. EV 13459:3
+Vana naine iks laste rõõm, vana miis kui vankriratas, kes aidveeren vedelep. EV 13457:1
+Vana naene ja vana kuub, vana mees ja vana kasukas ― need on ühesugused. EV 13454:3
+Vana naine ja vaskkatel ― nee aitavad ju ikka. EV 13458:2
+310. Naise ja mehe easuhtest
+Naine peab olema mehest kaljatooma aea noorem. EV 7271:1
+Vana naine noore mehe narr, noor naine vana mehe kann. EV 13460:5
+Kui vana naine ja noor miis, sis ku sitt kulla sihest paistus. EV 13349:1
+Noor noorega, vana vanaga, iga kukk oma kanaga. EV 7517:3
+311. Ära naitu noorelt. Parem vanaga kui noorega. Vanal vara kõvem
+Keda Jumal karistada tahab, seda ta laseb noorelt naese võtta. EV 2616:1
+Parem vana hallige kui noore abige. EV 13363:1
+Paremb vana varjun kui noore ilun. EV 13364:75
+Parem vana mehe armu all kut noore mehe hirmu all. EV 13369:3
+Parem vana habeme all kui noore piitsa all. EV 13366:130
+Vanal om vara kõva. EV 13437:1
+Vanal palju vara. EV 13441:4
+Vanal on vara parem, kirstukaas on kindlam. EV 13440:1
+Vanatüdrukul on hää vara. EV 13617:1
+Vanalpoisil pallo varra, kirpa viil kõige enämb. EV 13564:1
+[312–315] Jõukuse- ja seisusekriteerium. Kaasavara
+
+312. Rikkus ei loe; pigem vaesega kui rikkaga
+Rikkuse pärast ei maksa võtta, vaesuse pärast ei maksa põlata. EV 9764:1
+Rikkast perest osta hobune, vaesest vallast võta naine. EV 9747:130
+Parem vaese tütar naiseks võtta kui rikka teenija. EV 13059:1
+Naane saa paremb näädsikust ku ilmaistjast. EV 7227:1
+Vaese kana rõhk aia. EV 13097:2
+Parem mees ilma rahata kui raha ilma meheta. EV 6686:3
+Mine mehele, mingu-ui rüäkuhjale. EV 6663:13
+Mine mehele, tahtku-ui talopojale. EV 6664:1
+313. Kaasavara. Rikas naine nuhtluseks. Naise varast ei jagu kauaks
+Tütar põlvekõrgune, vakk vaksakõrgune. EV 12757:30
+Esimese tütrele ema helmed, viimasele viisupaelad. EV 705:17
+Kiripea kits ja kimbel mära ― / nee on poissmehe ainuke vara. EV 3848:2
+Pruudi kaasavara katab kõik naese vead kinni. EV 8993:1
+Võta rikas naine ehk sandi iest hobune. EV 9757:1
+Rikas noorik kuri kui kikas. EV 9685:1
+Vaene naine toob vakaga rukkid majasse, rikas naine tündrega riidu. EV 13072:2
+Rikas naine kui resu silmas. EV 9683:5
+Kui naase rahaga om ahi tett, ar siss ahopaistõhe mine. EV 7204:1
+Kes naise varaga enne rikkaks läin on. EV 7200:1
+Naise rikkus ukse taha. EV 7295:1
+Naise vara nii kui kile kõhutäis. EV 7297:1
+Naise varandus kestab toomapäevast jõuluni. EV 7296:12
+Sauna soojus ja naise vara olla üks. EV 10221:1
+Naase varandus om kui vesi sõglah, kellel piatüst ei ole. EV 7231:1
+Naese vara ja lehma ammumine on üks. EV 7248:1
+Naise kaasavarast pole ilmaskid kassi hänna pele saand. EV 7285:1
+Naise rikkus ― kassi vargus. EV 7294:8
+Naise varast rikkust või koerasitast sõnikut. EV 7298:40
+Naise rahaga ning ramba nahaga ep saa ilmaskid järje peele. EV 7292:1
+314. Rikkus ja seisund on olulised; vaene ei saa rikast, rikas ei taha vaest
+Parem rikka mehe jalutsen kui vaese mehe pähitsen. EV 9667:1
+Rikka talu teenijatüdruku üükse tutt om enam kui vaese talu tüdar. EV 9751:1
+Paremb aian kui aia toen. EV 42:1
+Kui saibale ei saa, sis toele ei lää ka. EV 11922:2
+Parem kroonuvalla koerale kut pärisvalla poisile. EV 4439:1
+Kroonuvalla tulituki' omma enam kui mõisnikuvalla perisplats. EV 4438:1
+Saksa ei saa, talupuega ei taha, antvärk ei võtta. EV 10061:1
+Kessi vaese veimevakka vaatab. EV 13025:1
+Kes harakalle hanemuna annab. EV 843:5
+Kes popsi pullikõse talu õhvakese manu last. EV 10214:2
+Peretütre perset ei saa muidu katsuda kui kasta näpp märjaks. EV 8679:1
+Sant om santi tallanu', tuust omma' sandi' sugõnu. EV 10186:2
+315. Igaüks läheb / mingu paari omasugusega: rikas rikkaga, vaene vaesega jne.
+Vaene mees ärgu võtku rikast naist. EV 13071:1
+Vaesel rikka naese võtmine om kui väsünü hobesega liivatsehe mäkke minek. EV 13112:1
+Talupoja tütar mingu talupojale naeseks. EV 11534:1
+Vaene sünnib vaestega ja vares varestega kokku. EV 13086:1
+Vares olgu varesege, harak haraguge paarin. EV 13822:1
+Harak ei sünnu varesega paari. EV 840:1
+Ega reban siiliga ela. EV 9577:1
+Oled ise sikk, siis võta ka kitse omale naiseks. EV 10422:1
+Ku võtad naise, võta suabas suapaga, viis viisuga, passel paslega. EV 14151:7
+Käng sünnü-üi viisaga paari. EV 3784:2
+Jalg leiab saapa. EV 2394:1
+Kuda jalg, ninda saabas. EV 2401:1
+Kross otsib krossi, kopik kopikat. EV 4441:1
+Tammepuust nõul ei sünni ju kuusepuust kaan. EV 11578:1
+Kuida vakk, nõnda kaas. EV 13230:90
+Vakk ise kanne valib. EV 13232:4
+Igal pütil oma kaan. EV 9392:13
+Kudas auk, nõnda pulk. EV 472:5
+Igaüks otsib oma, ega võõrast keegi võta. EV 8145:2
+Igaüks leiab oma. EV 5720:1
+316. Ära vali liialt elukaaslast ― võid saada halva või jääda üsna ilma
+Võtad siitpoolt paati vett või sealtpoolt, üks merevesi ikka. EV 6038:4
+Hää umma kosjä põlge, a kurjä umma kutsu. EV 1046:1
+Kits kahe kuhja vahel sureb nälga. EV 3898:1
+Kes iga põõsa alla otsib, see viimaks ommeti ussi leiab. EV 9243:2
+Kes laialt otsib, see lahja leiab. EV 5298:1
+Kes inglit otsib, eeslit leiab. EV 2086:2
+Otsit kõgõ ilma ilusamba, kõgõ maa magusamba, peräst lövvat kõgõ ilma ilotumba, kõgõ maa maotumba. EV 8154:2
+Umast saa oliline, armsast aganine. EV 8046:3
+Kis sukka otsib, sie kapuka leiab. EV 10662:3
+Kes kinga otsib, see talluka leiab. EV 3783:11
+Halli arvatase, kõrvi kõneltase, kapukjalg kargab ette. EV 804:1
+Kes kellaga lehma otsib, see sitase saba saab. EV 3573:40
+Kes liha otsib, see kondi leiab. EV 5802:16
+Valitsejal jäävad valjad. EV 13299:2
+Luu-kondid valitsejale. EV 6103:85
+Korjajalõ jäävä koorõ. EV 4389:8
+Põhi saab põlgajalle, naeste ots saab naerjalle. EV 9125:4
+Naanõ saa võtjalõ, napukubo kosijallõ. EV 7229:4
+Otsjal olõ', põlgjal põhk, lihaseletajal liha. EV 8122:1
+Kes palukese põlgab, sööb viimaks põlenud kooruksed ka ära. EV 8375:1
+317. (Tühinegi) mees saab ikka naise, (väärtki) tüdruk ei saa omatahtsi minna. Iga peigmees pole võtja. Peaasi et isane
+Kosilane kuulus miis, mõrsja massa-ai midägi. EV 4401:1
+Talu annab, teine keelab. EV 11514:6
+Naest nüüd ei saa! Pane püksid aiateiba, mitu tükki kogub juure. EV 7255:1
+Mikepärast poiss ei saa; poiss saab poole hinnaga kallist neidu katsuda. EV 8940:2
+Vanapoiss saab ikka naese. EV 13574:3
+Eks mies ikke naise saa, aga ega tüdrik kiita voi, et mehele saab. EV 6488:3
+Minnei saa-ai minnä, ku võtja võta-ai. EV 6838:1
+Suksutajaid on palju, aga päitse pähe panijaid on vähe. EV 10667:45
+Iga suksutaja ei ole päitsete pähepanija. EV 10666:1
+Meega meest ei püüa, korrapoissi küll. EV 6740:2
+Egä kana sepitsemisest midagi väljä ei tule. EV 3104:1
+Ei säält tule midagi välja, kui lehm härga lakub. EV 5630:2
+Mis mass lehmä lakmine, kui härg ei häälitse. EV 5645:1
+Mes see ute huikamine, kui see pässi pääd ei pöörä. EV 12973:30
+Hobu loodud ootama, naine vaatama. EV 1333:2
+Siasugune poiss saab ikki naise, aga kullahunikune tüdruk ei saa meest. EV 10244:3
+Sitane sikk saab kuldsed kitsi, aga kuldne kits ei saa sitast sikku. EV 10520:1
+Kärnäne sikakõnõ saa ütsäst aiast üle, a kullanõ kitsõkõnõ saa-ai ütestki. EV 4960:1
+Hiline mees saab kuldse naese, kuldne tüdruk ei saa ise kohegile. EV 1252:1
+Hiline kukk leiab kuldse kana. EV 1251:1
+Kullane kana ei või koheki minna, kui õline kikas otsma ei lää. EV 4521:1
+Õline kukk saab kuldse kana, aga kuldne kana ei saa õlist kukke. EV 14632:8
+Õlgine mies saab kuldase naise. EV 14633:1
+Olgu poiss kolmest kohast õlesidemega kinni, ikka saab naise. EV 8941:13
+Ega kuldkäng ei või minna, kui närtsküper ei võta. EV 4510:10
+Kakenu kasuk saab ikki naise, kuldhänd ei saa koegi minnä. EV 3432:3
+Olgu mees puujalaga, poole puusaga, naise saab ta ikka. EV 6681:3
+Olgu õlgine ehk aganane, kui aga oma on. EV 14630:1
+Tüdrukud ei küsi, olgu ta sunt ehk sant. EV 12602:3
+Olgu sant vai vigane, pääasi et on isane. EV 10167:25
+Olgu või haokubu sarnane, kui ta aga isane. EV 832:2
+318. Mehelesaamise ootuspärasusi ja paradokse: kõik (täisealised) võetakse kord; head võetakse, tühiseid mitte; võetakse tühisedki; tühised võetakse (häid mitte)
+Olgu katal misuke taht, küll ta kaase hendäle iks löid. EV 3445:1
+Külap haak endale ka ükskord augu leiab. EV 730:1
+Küll kasunu latsõ kasitas. EV 3439:5
+Kootud saab ikka loodud kangas. EV 4452:6
+Tehtud leib süüakse, kasunud laps leitakse. EV 11793:50
+Sülitud leib süüase, põltud laps leitakse. EV 11419:1
+Aig tulep, lammas pöetas, hää tütrik naises võetas. EV 96:10
+Virgad viiasse mehele, targad tõisele talule. EV 14227:5
+Viksid viia viisi tõttu, kõrgid kena kõnni tõttu, töö tõttu tütarlapsed. EV 14172:1
+Viisi tõttu viidanessa, käte tõttu käidanessa, au tõttu hobu aetakse. EV 14148:2
+Ole viks, / käi kõks, / siis saad pereminiaks. EV 14171:3
+Mis petäi, tuust saa pirrupuu; mis tütrik, sest saa naene. EV 8515:3
+Kümme küllä küsimen, sada tallu tahtman. EV 5160:1
+Hõpõ võetas hõlma, kuld pandas silma. EV 1680:1
+Hää lilli pääle lindas mehiläne. EV 1017:1
+Hüä mehine istu-ui närbünü häiermäle. EV 1066:2
+Ega imä last enne ikku ei võta. EV 602:5
+See loeti tubliks tüdrukuks, kes ühe kingarasvamisega mehele saab. EV 12080:1
+Ku nätä tahetas, sis nätäs nukkagi. EV 7658:3
+Head last nähakse nurka, paha ei nähta põrandalle. EV 903:50
+Häid ei nähta põrandale, santa nähikse nurka. EV 991:1
+Kurä kositase ja vihatse viiasse, tõbialust ei tõmba keägi. EV 4661:3
+kes kotta kuses, tuu kodu jääs. EV 3954:2
+Oma mees tuleb ikka järele, kas situ parsilt maha. EV 7937:4
+Kure õtsast on ka naisest võetu. EV 4578:1
+319. Kosjasobitaja, isamees, peiupoiss. "Tellitud naisest" ei saa naist
+Esimene raps on raudkäe jagu. EV 695:1
+Esimene üe ollõ peiupoesi jagu. EV 701:1
+Saadikolle saapa, kärätäjälle känga. EV 9979:2
+Tellija saab saiakaku, pärast sada kuratid. EV 11925:7
+Soovija saab sunnikid. EV 10627:1
+Laaditaja lõhnatas, saatja sõimatas. EV 5247:1
+Tellitud naene, hännata kukk, lupsija king ning ühe pääga saag ― need ei kõlba kuhugile. EV 11928:1
+Tellit naine ja pandud paik on ühed. EV 11926:1
+Tellitud naene on raipe nahk. EV 11929:2
+Soendud supp ja soovitud naene on üks. EV 10605:1
+Tellit naine ja lainat leib ― nee olla ühed. EV 11927:1
+Ega sest laenatud seltsist ikka seltsi saa. EV 5261:1
+Võlelik oli võrgit naene, salalik oli saadet naene. EV 13271:1
+EDC. Kosjad ja pulm (mitmesugust)
+
+320.
+Kosilasi koer ei haugu; keda haugub, sellest ei saa asja. EV 4403:1
+Hobu kaup on õuessa, neidu kaupa kamberissa. EV 1332:1
+Kes tütre saada tahab, peab ema meelitama. EV 12741:10
+Kõik kosilased rikkad, kõik vangid vaesed. EV 4404:1
+Naist võtad ― ütle kõigile, hobõst ostad ― tekku ei hellügi. EV 7315:1
+Vägise viidi, hea meelega andsin. EV 14439:1
+Pulmad tulad mõnõlõ, pühäd tulad kõikõlõ. EV 9047:1
+Pesuküna korjab pesu ja pulmalaud inimesi. EV 8711:2
+Pulmad suguvõsa juua, joodud külalaste juua. EV 9046:2
+Mis saaja siis, mis ilma hõiskamata. EV 9986:1
+Pulmapill ja kokahobuse kell peavad alati hüüdma. EV 9056:2
+Poiss on pulma hing. EV 8955:1
+Kuningaske and tii, ko saja sõit. EV 4535:1
+Illos iks ikune mõrsja, näkus iks murõlik näio. EV 2043:1
+Parem nutja naene kui naerja pruut. EV 7603:1
+Ei see siga sigine, kes ei vingu viiessa. EV 10332:7
+Kes ei ike ehten, tuu ikk ellen; kes ikk ehten, tuu ei ike ellen. EV 2284:2
+Nuudso-i sa esä lavva takah, nuudsut sa põldu põimõn. EV 7613:1
+Nutab pia mintust, ei nuta kaua kasumist. EV 7605:1
+Vesi ja tuli ei või valgustamata jääda. EV 13977:1
+Kas veli pal'aste kässiga saaja läät. EV 13917:1
+Kotihki pudovai. EV 4418:1
+Ega pulma tegija ei väsi, pulma käija väsib. EV 9041:8
+Sajah käüja häös ärä, saja pidaja ei häö kunagi. EV 9991:2
+Tee siis pulmi puust ja otsi au aiateibast. EV 9079:4
+Pulmas vaeva ei vaatata. EV 9050:1
+Mis saajas saadud, see pulmas peetud. EV 9987:85
+Hoia kohtu pulma. EV 4775:1
+Pulma minnes põle vaja muud kui terav nuga ja tühi kõht. EV 9048:10
+Saaja mindäs silmega', puhtillõ mindäs kõtuga. EV 9990:2
+Saaja mindas kaema, kodo tuldas süüma, jõõle mindas juuma. EV 9988:2
+Parem sööta üheksat kõrtsilist kui ühte pulmalist. EV 11327:1
+Este siapia, perä siasaba. EV 10241:1
+Kõrtsi viimist ja pulma töömest ei saa otsa. EV 4875:1
+Kui saaja lähed häüga, siis kodo tuled auga. EV 9985:1
+Ei pulmade headuse perast minda kohtusse. EV 9042:1
+Kos lapuline kuses, senna nõsesse nõgese; kos kaasik kuses, senna kasuse kapsta. EV 5582:2
+EE. ABIELU. MEES JA NAINE
+
+321. Abielu röövib vabaduse, toob hoolt ja muret
+Pulm on noore inimese surm. EV 9051:1
+Pulm põle muud kui jutt ja rutt, / pärast pulmi tuleb nutt. EV 9052:1
+Abielu paneb päitsed pähe. EV 21:1
+Abielu paneb rangid kaela. EV 22:1
+Abielu toob ahelad. EV 25:1
+Ostat hobese, saa hool;võtat naase, saa mure. EV 8134:3
+Pruudi mure ― pool muret, tanu toob tasase mure. EV 8995:1
+Noorik saasõ nurmõ pääle, mõrsja mõsumolli otsa. EV 7550:1
+Ei lasõ inäp miis magada, ei abikaas kosuda. EV 6484:1
+Kõik muu pea meeles, unekotike uneta. EV 6473:1
+Unusta uni, mäleta mälu, pea noor mees meeles. EV 12918:13
+322. Paariminejad on pimedad, hiljem pettuvad, jahtuvad, muutuvad. Valitu enne pulmi lahke, usin jne., pärast kuri, lohakas jne.
+Armastus on pime. EV 381:8
+Kui armastus on ees, siis meel on metsas. EV 388:1
+Tüdruk tühja aruga, poiss poole meelega. EV 12600:1
+Ega naisevõtjal arru ei ole. EV 7340:1
+Pruudil on kolmekordne kotiriie silme ees. EV 8994:1
+Kõik omma minneh mesitse, võttõh võismõtsõ'. EV 6753:1
+Mesileib minna, saiakoorik saia, saa manu ― ei midagi. EV 6752:11
+Kui mehele saa, sõs ritka mõros, kuruslauda kuras. EV 6536:1
+Sai peijo, sai pinnanõ, sai kätte, oll kärnäne. EV 8745:1
+Lätsi mehel, lätsi ku linna; oli ärä lännu, oli ku sital käünu. EV 6554:1
+Edimäld ihatas, perän saa viland üle huulde ja pääld hammaste. EV 717:1
+Esimene armastus ei kesta kauem kui paar kuud, siis magavad kui kaks vana sõdurid, seljad vastamisi. EV 688:1
+Täna pulmad, homme pulgad, ülehomme lepamalgad. EV 12391:4
+Enne mahub põue, pärast ei mahu enam õue. EV 9228:2
+Naane naarul võetas, pisaril peetäs. EV 7225:2
+Kaerul püütakse, piitsal sõidetakse. EV 2892:15
+Peigmees lammas, /abielus hammas. EV 8523:1
+Ega tüdrukupõlves hakka veel kihvad kasvama. EV 12633:1
+Tüdruk hoiab oma söät öökse tutu sehen varjun. EV 12596:2
+Tüdrukud on kõik head, ei tea, kust need õelad naised tulevad. EV 12603:6
+Tigedat tüdrukud ega valget varssa ei ole keski näind. EV 11994:3
+Neiukene tuikene, naisekene kullikene. EV 7412:3
+Tüdrukuna tui, naisena nui. EV 12614:5
+Rätikuga tui, tanuga öökull. EV 9930:1
+Tüdrukult kui sai poodis, / naeselt kui kanasitt toolis. EV 12611:1
+Tüdrukult kui roosilill, kui naiseks saab, siis torupill. EV 12610:10
+Kui tütrik om, siis õgev puu, / kui naises saa, siis lagja suu. EV 12592:2
+Kui neiu on, siis ei mahu uba huulini ega hernetera igimessi, aga kui naeseks saab, siis sõitku kas või susi suvve. EV 7411:6
+Tüdrukult ei mahu nõelaots suhu, naeselt aja paar härgi suhu. EV 12609:2
+Tüdrigu tüühobõsõ, naasõ vinne verstatulba. EV 12595:1
+Ega inne tütreku via avalikus ei tule, ku tütrek mehele lätt minemä. EV 12584:2
+Naist kiida aasta pärast. EV 7308:40
+Et naist tundma õppida, pead puud soola ära koos sööma. EV 7195:1
+323. Ämm ja minia
+Ori saa aastapalga, päeveline päeväpalga, minni ei saa midägi. EV 8095:1
+Harvast orja kiidetakse, miniat ei millalgi. EV 8080:13
+Last unest unesse, neitsikäst tööst töösse. EV 5543:1
+Latsele lauldas, mõrsja mõistku. EV 5549:50
+Minial on hobuse kannatus ja koera alandus. EV 6843:1
+Noorikõl piät olõma jänese jala' ja kuninga meel. EV 7553:1
+Kes pereminiks või -väiks läheb, see jätku süda koju. EV 8652:1
+Mini peab ämma altjala käima. EV 6844:1
+Ämmale mine lumise jalaga, aga mitte tuhkase savaga. EV 14785:1
+Minni meeleline, meheimä armuline. EV 6846:2
+Niikavva minni hää, kui mesileibä om. EV 6847:1
+Minial om mitu viga, ämmal ei häda kedagi. EV 6842:55
+Mini ämma apteek. EV 6845:4
+Ehk oleks ma küll seliti sängis, aga kulp olgu ikka minu käes. EV 10290:1
+Miniaga see elu on nagu lammakael niita ja nagu kotikangas hakata ja kotikangas lõpetada. EV 6841:1
+Kurun iks kostipulga, vana naese vastulise. EV 4686:1
+Häbene äia, häbene ämma kaks-kolm päiva, ja siis kanna kaivu. EV 1699:1
+Hunt süöb selle ämma ära, keda minia kiidab. EV 1640:1
+Naane ei ole kunagi jutukatsõmb kui umma miist kitteh ja mehe immä laiteh. EV 7224:1
+Ämm tuleb visata õhtu hargiga ahju peale ja hommiku roobiga maha tõmmata. EV 14787:1
+Ämmaeided ja küpsekaalid on kõige paremad siis, kui nad külmad on. EV 14788:2
+Tukiving ja roobisuits on ämma suretajad. EV 12116:1
+324. Väimees. Koduväi koerapõli
+Mia kana muna luu, tuu väü vällä süü. EV 3148:4
+Väimees puuakse. EV 14479:1
+Väime uks ja põrgu uks õlema kõru. EV 14480:1
+Kui Jumal tahab sind nuhelda, siis ta nuhtleb sind koduväi kohaga. EV 2635:2
+Enne võta põrgust pooled päevad, kui sa väimeheks lähed. EV 9201:1
+Enne mu poeg tehku põlvili kiviaeda, kui ta koduväiks hakkab. EV 8916:1
+Kis öö otsa äkke otsas magada võib, see võib koduväiks minna. EV 14794:1
+Parem istu linaharja otsa kui koduväime koha pääl. EV 2277:3
+Parem püksata nõgesepõõsasse kui koduväi kohale. EV 9379:3
+Koduväi koht olla sama mis persetpidi sipelgapesas. EV 3999:1
+Kes kodoväüs taht minnä, tol olgu hobõsõ kannahtus ja jänesse jala'. EV 3997:2
+Koduväümel koera põli. EV 4002:2
+Pere väimees ja pere koer; pere tüdruk ja pere kass. EV 8680:1
+Koduväimehe leib on kõige valusam leib. EV 4000:1
+Ussi ja püssi ja koduväimehe kohta piab ilmas kõige rohkem kartma. EV 12969:1
+On olemas kolm lolli: kalamees, jahimees ja koduväimees, sest nad lähevad kodust välja ja ei tea, kas midagi saavad. EV 4296:1
+Koduväimehe müts olgu ukse kõrval naela otsas. EV 4001:4
+325. Abielust ei pääse kuhugi. Ära kipu isakoju tagasi
+Kohe paarist paota vai abielust lahkuda. EV 8162:1
+Miel ikä mihele, miel ikä mihelt ära. EV 6466:1
+Kes kala mõrran, tuu taht vällä, kes vällän, tuu taht mõrda. EV 3059:15
+Mis lind vällän, taht puuri, mis puurin, taht vällä. EV 5949:1
+Väline siga kipub aeda, ajasiga kipub välja. EV 14486:1
+Oled viid, viida aig, oled tood, toida pääd. EV 14075:2
+Ära enne kodu kos'tma tule, kui ühe käega sööd ja üksinda räägid. EV 3994:1
+Korge on kodune künnis toista kerda kerduessa. EV 4844:3
+326. Elama asumine on raske. Elades elujärg paraneb
+Aidake armetumat, vilets viiakse mehele. EV 211:2
+Avita menejat mõrsjat ja asujat majja. EV 217:4
+Rakendamine läheb palju maksma. EV 9544:1
+Üts kirst minneh, ütesä elleh. EV 15058:2
+Küll ellen elajid levvis ja kasven karja. EV 559:1
+Eläd, sis ilustad; ku kasud, sis kaunistad. EV 543:3
+Kui elan, ostan helmed, kui kasvan, katan kaela. EV 554:1
+Kui eläme, siis helmed saame; kui sureme, siis kalmud saame. EV 556:1
+Emält maidsa makus pala, naiselt peä peenü hameh. EV 636:1
+327. Paaris parem elada
+See siga sellega paaris, vana emmis orikaga. EV 10366:3
+Konas muur vaarist kaugele lätt. EV 6857:1
+Naene mehe abi, mees naese tugi. EV 7234:1
+Mees on naise kaunike, naine mehe kaunike. EV 6585:1
+Paremb iks linikeh kui vanikõh. EV 5959:1
+Ku naises saab, saab aukrooni pähä. EV 7212:1
+Miis käeh, ne miil'ge pääh. EV 6659:1
+Poozi pää takah kõik paaba targa'. EV 8958:2
+Ku miis takan om, sis lätt kõik häste. EV 6551:1
+Mõtsa varjun parep ku lehe varjun, mehe varjun parep ku mõtsa varjun. EV 6790:1
+Suu hoia sis kerigu poolõ, ku sa mehe kätte saat. EV 10896:1
+Mis võib teivas lagedal tiha, kui vitsa ei ole. EV 11923:1
+Param on kaks lindu pesitelles kui üks lind. EV 3022:1
+Üks lind ei ehita ilmaski pesa. EV 14990:12
+Üks lind pillab pesa, kaks koguvad. EV 14992:40
+Paha on pahaga, veel pahem on ilma pahata. EV 8232:4
+Paremb kaas kakelde, tõnepuul tõrelde kui kuhalde ilma olla. EV 2835:1
+Parem tuima tülitädä, parem laiska lähätädä, parem koos kakelda kui üliütsindä olla. EV 12110:1
+328. Naine vananeb mehest kiiremini (eriti halva mehe käes)
+Kunst on naine noorik hoida. EV 4546:1
+Noorik ja kalender on üks. EV 7547:2
+Võta naine ja tee uued pastlad, mõlemad on ühekorraga vanad. EV 7332:2
+Mees vanandab mitu korda naest. EV 6624:1
+Tütrik Jumala luud, naane mehe närtsutõd. EV 12622:1
+Hea mees ehitab naise, kuri mees kulutab naise. EV 945:3
+Hää mehe kõrvas naine lihuneb, kurja kõrvas kuivab. EV 1022:1
+329. Läbisaamisprobleem abielus. Hea ja kuri teinepool. Tülitsemine
+Nali om küll naist võtta, aga kae, kas om ka nali naisege elade. EV 7367:2
+Mehele minna pole kunts, aga suurem kunts on mehega elada. EV 6704:5
+Kui mõestad mehegä magada, siis mõesta kua mehegä elädä. EV 6540:1
+Kui on mees rahul, siis on ka Jumal rahul. EV 6545:1
+Ku miis miil'vä, sis naane naarva. EV 6550:4
+Kui on mees meele järel, siis tee püksid perse järel. EV 6544:8
+Hea naene on mehe au. EV 948:2
+Hää naisõ peräst massa-ai tilka murda. EV 1025:2
+Hea naene on mehe tugi, kuri naene mehe surmarohi. EV 949:1
+Hea naene paneb kümme penikoormat tooli alla, aga paha naene võtab. EV 950:6
+Kui miis naisõ hää saasõ, sõs saasõ ku liina täüvve hääd, aga ku halva naisõ saasõ, sõs saasõ ku viis paari kurju härgi, mis ikkeh ummava: üts tõmbas sammu edesi ja tõnõ tõmbas tagasi. EV 6548:1
+Naine võib kodu paradiisiks teha ja põrguks kua teha. EV 7277:1
+Kui om hää mees, saad süüa, kui halb, ei saa sedagi. EV 1100:1
+Kuri naine kuuks ajaks, hea naine eluksajaks. EV 4627:1
+Paremb hää mehe lits kui halva mehe naene. EV 1125:15
+Targa mehe man om tõlvgi naane. EV 11623:1
+Targa kur'aga saat iks är ella, ent ulli kur'aga ei iiälgi. EV 11618:1
+Hea naine võib halvast mehest asja saada, aga hea mees halvast naisest naljalt mitte. EV 953:1
+Naise ja naise vahet saab süllaga mõõta. EV 7283:1
+Teine kana on ikke tigedamb kui teine. EV 3152:1
+Hää hobõnõ hii haisuh, kuri naine kusõ haisuh. EV 999:1
+Kuri naene on kõvem ku kurat. EV 4625:3
+Kuri naine suretab mitu meest ää. EV 4629:1
+Kare tapab noore härja, naine noore mehe. EV 3229:1
+Ära anna viile maad ega kurjale naesele võimust. EV 13990:1
+Halva naasega ellä om nigu vingutseh tareh ellä. EV 786:1
+Järgnev läbitilkumine saju ajal ja riiakas naine on ühesugused. EV 6140:3
+Sandi mihega on nii rist ja raske elada, kut peaks liivast mäge koutu üles minema. EV 10181:1
+Miis ei ole miipott, miis om vapsiguvakk. EV 6656:5
+Naeselõ iks nõo piät, mis sa mehele tiit. EV 7243:4
+Latsele panet rinna suuhte, mis sa mehele saat tetä. EV 5550:1
+Kui mees pole meele järel, siis saada talukas takka järel. EV 6533:1
+Halvale mehele halbu sõnu. EV 784:1
+Mies on tuli, naine on tagud. EV 6648:1
+Mees põrgu, naene kurat, lapsed vaesed vaeva all. EV 6601:1
+Miis vannub naese, naene vannub latse. EV 6662:1
+Abielus on kaklemine nagu sool magedale supile. EV 24:1
+Ega kaklemine siis midagi tee, kui muidu hästi elatakse. EV 2948:1
+330. Kas ja kui palju võib mees naist (naine meest) peksta: tuleb / võib / ei tohi; naist peab hoidma
+Naiste sugu on nagu ussi sugu: ussi tuleb tappa ja naisi tuleb nuhelda. EV 7304:1
+Kes oma naist heast materdab, see sada pattu andeks saab. EV 7201:5
+Naist tapad, taivade saad. EV 7311:1
+Naise jauks on aiavits. EV 7284:1
+Hobust obeda süömägä, naist obeda lüömägä. EV 1359:1
+Hobuse jaoks pea kaerad, naise jaoks piits. EV 1350:1
+Mehe rusikas on magusam kui meelusikas. EV 6637:1
+Naist võib nii kaua peksada, kui tulelt võetud kördipada maas veel keeb. EV 7313:8
+Nii kaua kui pudrupada peale tulelt maha tõstmist põrandal veel keeb, ei tohi mees vastu hakata, kui naine teda sel ajal peksab. EV 9017:1
+Kes naisel lüvvä lask, om niisama alato, kui olõsi tsiga purno. EV 7199:1
+Kes oma naist lööb, selle käsi katkeb. EV 7857:1
+Eis' piät õks pessedö naase. EV 2228:3
+Mees, kes hobust hoiab, hoiab ka naist. EV 6569:3
+Löö hobust, hoia naist. EV 1400:2
+Naist hoia kui pudelit. EV 7307:1
+Naisterahvas usus hääd sõna. EV 7355:1
+Kallista naest, siis kära kaub. EV 3098:1
+331. Kuri naine on töökas, hoiab kodu korras (hea mitte)
+Tragi naine on tige, hüä ja mahe on tüö juures tossukane. EV 12057:1
+Kes lahke, sie laisk, kes tige, sie tegijä. EV 5281:2
+Sööläs naine töögäs naine, tegija toruja naine. EV 11226:1
+Kuri koer õue hoiab. EV 4616:70
+Parem kurja naise kolgitu kui hää naise mõstu. EV 4665:6
+332. Naiste töö lõppematusest, märkamatusest ja väärtusetusest; veidrusi riistade kasutamisel
+Naisterahva töö ja märahobuse söömine ei lõpe iial otsa. EV 7352:16
+Naiste tööd ja sõithobuse sitta ei nähta kuskil. EV 7305:1
+Niket-näket ikke naiste töö. EV 7434:1
+Hobuse sitt ei täida merd ega naiste töö tee kedagi rikkaks. EV 1354:1
+Naeste tahk ja kana nõnarätt om vanapaganal täädmata. EV 7254:10
+Leemekulp ja ahjuhark, see on naiste sõjariist. EV 5627:1
+333. Mees peab tooma, naine meest ootama ja söötma. Laisk, tööta mees on nuhtluseks. Hea naine maja lukk, paha võib paljugi raisata
+Miis um laiv, kiä kodo tuu, naane liin, koh saisma jääs. EV 6661:3
+Kodu ei pole mees kuulsam, ahju peal ausam. EV 3971:2
+Naine, kass ja ahe piavad ikki kodu olema. EV 7262:1
+Ilma kassita ja ilma naeseta ei õle maja. EV 3346:1
+Naine ja koer peavad kodu meest ootma. EV 7259:1
+Kui veel last ei ole, peab meest hullem hoidma kui mähkmes last. EV 5469:1
+Mees ei pea mitte süömist ootama, vaid süömine peab meest ootama. EV 6561:1
+Armastus käib kõhu kaudu. EV 377:5
+See pole õige naine, kes ei jäksa toita kahte last ja meest. EV 7324:3
+Iga mees on oma naise siga: sööb ära kõik lobid, mis naine teeb. EV 6502:1
+Puud ja peerud mehe mure, leib ja riie naise mure. EV 9100:2
+Koskub kraami riidekünässe, ei kosku leiväastja. EV 4431:2
+Tööta mies toob tüli perre. EV 12539:1
+Mees tööta nagu naene vööta. EV 6622:1
+Naestõl kõiki vähä, musta pesu üksi paelu. EV 7256:1
+Naine on maja lukk. EV 7266:95
+Kirikann laua au, ilus naine mehe au, aga hoolas naine on mehe parem käsi ja varahoidja. EV 3836:1
+Kõrge kiviaed on põllu hoidija, aga tubli naene on maja kaitsja. EV 3949:1
+Kärme naene oo enäm kui taluase. EV 4953:1
+Tii tuli tarõhõllõ, / esi käu kärehelle. EV 12158:1
+Naesterahvas peab ikka pidalik olema. EV 7350:1
+Lohakas naine astub üle luua, korralik naine ei astu üle õlekõrregi. EV 5994:1
+See on eit, kes leiba teeb ja lapsel laksu p-se lööb. EV 525:1
+Ega naine üksi leiba söö, naine teeb ka leiba. EV 7190:1
+Hobune orakse koera, naine sooja leiva koera. EV 1343:1
+Naine jõuab põllega rohkem välja kanda kui mees koormaga sisse vedada. EV 7260:100
+Halb naine kannab rohkem põllega aidast välja kui mees kurguga kõrtsist. EV 781:1
+Kui mees toob küll härgiga koju, aga naene viib kindaga välja, tuleb majale ikka ots. EV 6534:1
+Mees veitsi korjas, naine huisko pillas. EV 6625:1
+334. Juhiroll perekonnas
+Mees on naise pea. EV 6591:25
+Nii kaua, kui mees jõuab humalakäba maast üles tõsta, nii kaua peab tema veel majas valitsema. EV 6673:1
+Mehel naise pää, naisel lamba pää. EV 6630:1
+Kui kana' kirgma nakkase, sis häös maja ärä. EV 3145:1
+Ära anna püksa naise jalga. EV 9383:8
+Ära tansi naise pilli järele. EV 11586:1
+Kes naese pilli tantsib, see oma sääreluud murrab. EV 7198:1
+Mees tantsib naese pilli järel. EV 6611:2
+Ema pilli järele tantsib pere. EV 620:2
+Kes pilli hüüdma paneb muud kui ema. EV 8838:1
+Naase nõu, mehe tego. EV 7230:1
+335. Naise ja mehe mõistusest ja meelemuutlikkusest
+Mis naeste tarkus on? Hundi eest tuppa hoida. EV 7221:1
+Nikker-nakker naiste nõu. EV 7253:3
+Naesterahva oid nagu vesi mollis. EV 7349:1
+Naeste meel või kisla leen. EV 7252:2
+Paaba pää om kui paklakuutsli. EV 8161:1
+Naise aru kui vana särginäru. EV 7279:1
+Naisel ja kukel olla üks mõistus. EV 7287:1
+Naise pea on ikka kanapea. EV 7290:4
+Naesetel on nenda palju meelt kui kana sääre pääl liha. EV 7251:2
+Juuks pikk, kiil pikem. EV 2687:2
+Naesterahval on pitkad juuksed, lühikesed mõtted. EV 7348:75
+Lühike juus, pikk meel. EV 6163:2
+Lühikesed juuksed, kerge meel. EV 6167:4
+Pikad juuksed, pikk aru; lühikesed juuksed, lühike aru. EV 8804:1
+Vahest on kana pea targem kui kukel . EV 3154:1
+Ei ole mehel meelt pääs, poisil pole poolt aru. EV 6487:1
+Üte mehe nõu om inämb ku ütsä naase tego. EV 15053:1
+Naese meel on muutlik kui kevadene ilm. EV 7244:1
+Kust tuul, sealt naeste meel. EV 12229:3
+Kust poolt tuul, sealt poolt mehe meel. EV 12227:1
+336. Meeste mehisusest ja jõust; meeste ja naiste nutust; naiste vihast ja tülist
+Iga püksikandja ei ole veel mees. EV 9384:6
+Üts um miis, tõnõ mehekene. EV 15082:1
+Ise mees, ise mehikene. EV 2237:15
+Jää meheks, ära sõida eluaja kelguga. EV 6506:1
+Ole mees meeste ees. EV 6677:1
+Ole miis, ärä olgu poiskene. EV 6678:1
+Ol' õks mehe iist, olgu-ui kapstalehe iist. EV 6679:1
+Mehel on mehe süda. EV 6631:7
+Mees ei ole muud ku haokubu ja aganakott. EV 6560:1
+Naised ütlevad, et rohkem pole miest vaja kui siis, kui näeb madu-ussi ja kui müristab. EV 7281:1
+Poiga peugela pigune, siiski vaimust vapperamba. EV 8925:1
+Õlgine kukk käib kanast üle. EV 14631:1
+Meesterahvale olla kulbitäis rammu antud, kuna naesterahvale teelusikaga antud ja sealtki läikinud muist pealt maha. EV 6700:1
+Kes küütu koera on näinud ehk meesterahva nuttu. EV 5246:2
+Naisterahva viha ja vesikaare tuul äi jäta enne järge, kut vesi lahti. EV 7299:30
+Sitt sia sai, nutt naise pill. EV 10570:4
+Hull on meeste riid, veel hullem naeste riid. EV 6491:1
+337. Kas naine on inimene?
+Kana ei ole lind, naine inime. EV 3117:25
+Naisterahvas on inime ainult värske lume peal. EV 7354:1
+Sieligu sies on ka inimene. EV 10245:1
+338. Naiste kõne eripärast, rääkimishimust, kurjast keelest ja kuratlikust loomusest
+Mis see va naiste kõne on, nagu kana laul. EV 7222:1
+Naist sõnast, lutsu sabast. EV 7310:2
+Kes püüdäb angerjast savast ehk naist sanast, jääb kaigist ilma. EV 324:1
+Naestega vaidlemine on kui vasikaga võidu jooksmine. EV 7249:12
+Naese suud ja jooksvat vett ei pane ükski kinni. EV 7245:1
+Mida enam kanu pesas, seda enam nad kaagutavad. EV 3149:1
+Kus on palju naisi koos, seal on palju lärmi. EV 7216:2
+Kus kolm naist kogusen, sääl ei ole enam valda vajagi. EV 4295:1
+Kaks naist on turg, kolm naist on laat. EV 2984:6
+Kui kolm naist koos, siis on kurat neljandaks. EV 4293:1
+Kabõhinõ um halva paarilinõ. EV 2836:1
+Kos saadan toime ei saa, sinna saadab naise. EV 10011:2
+Mees usub mehe häda, naene ajab naese riidu. EV 6623:1
+Mees annab mehele nõu, naine hukutab naist taga. EV 6557:4
+Kus on naisi, siel pole rahu. EV 7215:1
+Viis kahru oppat innembi är' ku üte naisõ. EV 14144:1
+Kes naesterahvast pahandab, see eluõnne kautab. EV 7344:20
+339. Saladuste jagamisest abikaasade vahel
+Sõel on vee pidamiseks palju sündsam kui naese suu saladuse hoidmiseks. EV 11073:4
+Kui tahad, et kõik ilm teada saab, siis räägi oma naisele. EV 1994:3
+Räägi sa midagi naisele vei pane lakat väl'la, see ükskeik. EV 9943:1
+Suurest teest ära mine kõrvale, viimist sõna ära räägi naesele. EV 11733:1
+Vanajuudas oli ütelnu, et tuu miis om lits, kes oma naesele perämätse sõna ärä ütles. EV 13551:2
+Kui mees hea, pista tal üks silm ära; kui paha, kaks silma. EV 6530:35
+Kui on hia mies, siis näita pihu siest, kui on paha, siis kää päält. EV 6543:4
+Param olla naesel mehe käsi ja pahem käsi oma käsi. EV 7320:2
+340. Naist ei või uskuda. Naine on üks asju, mida ei tohi jätta järelevalveta ega anda teise kätte
+Naesterahvast uskuda on niikui soola külvada. EV 7351:4
+Usud naist, usud halva. EV 12951:1
+Koera võib uskuda, aga oma naist uskuda ei või. EV 4079:1
+Ei paadi pesti, hobuse ohi tohi kauaks sidumata jäädä. EV 8180:3
+Hobust, naist ja laeva ää iial silmast lase. EV 1426:4
+Üks täitsamees ei anna teisele tarvitada oma nuga, hobust ja naist. EV 12363:11
+EF. ABIELURIKKUMINE. LAHKUMINEK
+
+341.
+Kes on hakkanud koos pesa tegima, need tehku lõpuni. EV 8705:1
+Naane olõ-õi' põllust põlgõ', maasta maaha jättä'. EV 7226:1
+Mees on vaba, kui naine kolm koostavarre täit eemal on. EV 6594:1
+Naisemehe trallitamine on nagu lehma möirgamine. EV 7339:1
+Kui mees üle aisa lööb, see on nagu aknast välja süljata, aga kui naine üle aisa lööb, nagu aknast sisse süljata. EV 6535:1
+Kui naine hukas, siis maja rikis. EV 7208:1
+Ei kägu mune kunagi oma pessä. EV 4912:1
+Usinus um or'a laul. EV 12941:1
+Kui hüä miis, timä kol'ki [=kolmgi] naist pidä. EV 1098:1
+Parem lahus ja rahus. EV 5290:1
+Kui vana karu läheb pesast välja, siis pojad jäävadki sinna käppa imema. EV 13347:1
+EG. ABIKAASA SURM. TEINE NAINE. LESK
+
+342. Abikaasa (peam naise) surm kui õnnetus ja õnn. Uus naine
+Nenda kaua naese pää sile, kui mehe rinnus hinge on. EV 7319:2
+Halb elades, kallis kadudes. EV 779:1
+Ema sureb, isa sõgeneb. EV 622:20
+Hia naene leinab nii kaua meest taga, kui supipada piale tulelt mahavõtmise keeb. EV 986:1
+Mees nutab nii kaua naist peale surma taga, kui kiislipada tulelt maha võttes põrandal keeb. EV 6586:1
+Kui naane ar' koolõs, om nigu sann ar' palas. EV 7203:3
+Naine on elus kaks korda armas: siis, ku ta võetaks, ja siis, ku ta maetaks. EV 7265:1
+Kel naise koolese, õnnelik mees; kel hobese koolese, õnnetu mees. EV 7197:3
+Naene matta ja teine võtta kosutavad inimest, hobune matta ja teine osta kautavad inimest. EV 7263:1
+Vana matta ― vasikas tappa, uus võtta ― lehm saada. EV 13447:1
+Meeste rõõm on vana matta ja uut võtta. EV 6615:4
+Tänä vana mattab, homme uuve võttab. EV 12401:1
+Uuel naisel on suur voli. EV 12985:1
+Teine naene on ümmardaja. EV 11881:1
+Tõnõ naanõ olev nagu vana kasku paikamõnõ. EV 11909:1
+Esimene naine on jumalast, teine on teistest inimestest ja kolmas on kuradist. EV 692:4
+343. Lesk, tema kaitsetu ja armetu seisund
+Lesepõli vaene, vaeselapse elu hale. EV 5755:1
+Ei olõ inämb halvõmb ku naane ilma meheldä. EV 777:1
+Lesk naine ja kaartulid on saarnased, sest neie mugulad on mulla all. EV 5769:1
+Lesja naise elu om nõnda halb nagu ahjukuru atmine. EV 5764:2
+Lesk naine kui madal aed, kust kõik üle lähvad. EV 5770:7
+Lesk naine on nagu tuulest aetud aed. EV 5772:1
+Kauaks tugideta aed üleval seisab. EV 12086:1
+Lesk on katuseta hoone. EV 5773:2
+Naene ilma meheta kui kana ilma peata. EV 7233:1
+Lesenaese kartulamaa om koldekivi all ja linaligu taariaani all. EV 5761:1
+Meeletu mees ja meheta naine ei saa ilmaski õige järjele. EV 6462:1
+Metsa läheb meheta naine, soosse ohjata hobune. EV 6774:7
+Metsa läheb naeseta mehike kui ohjata hobone. EV 6775:1
+Lesk mees nagu pöitud sukk. EV 5767:1
+Lesk mees ja soendud supp on ühesuguses väärtuses. EV 5766:2
+Lesk mees ja lõigatud koer on üks. EV 5765:2
+344. Lesega abiellumisest
+Kes lese auku harib, see taevariiki pärib. EV 5759:8
+Parem lese leivaküna kui poisi ja tüdruku vara. EV 5776:1
+Lesenaise vakk ei vähene. EV 5762:1
+Lesk on kuri lepitada, mehenaene meelitada. EV 5774:3
+Länge om läsäle minna, längem veel läsä leemi süvvä. EV 5775:2
+Kes ottab lese kolme lapsega, ottab neli varast majasse. EV 5758:1
+EH. VAESLAPS JA VÕÕRASEMA
+
+345. Ematu halvem kui isatu
+Emane kass ikka pojad toidab. EV 657:1
+Kui isa sureb, siis on lapsed poolvaesed, kui ema, siis täisvaesed. EV 2212:14
+Isaga kaob pool kodu, emaga terve kodu. EV 2191:5
+Ku latsõl isä ärä koolõs, sis kaos täl puul armu ärä, a kui imä ärä koolõs, sis kaos täüs arm ärä. EV 5471:1
+346. Vaeslapse elu rõõmutu, vaev raske, osa kasin, kohtlemine halb
+Ilma emata ― armuta, ilma rinnata ― rõõmuta. EV 642:1
+Emä viiäs värjist vällä, arm juusk aidapiti takan. EV 639:3
+Ilma emäta mehitse omma hukkalännü latse. EV 644:1
+Mõtsa lääb ohjata hobene ja isatä poig. EV 6789:1
+Vaenelaits om ku aia taade visatu peni. EV 13144:1
+Lind äratab oma poega lauluga, vaenelaps äratadaks piitsaga. EV 5938:1
+Vara on vares murulla, viel varembi vaenelapsi. EV 13677:1
+Ori ohkab hommikul, vaenelaps valgel. EV 8090:1
+Vaesõlatsõ vaiva piä-äi' kiäki paljost. EV 13157:1
+Vaenelaps vaksa kasvab, kaks kahaneb. EV 13147:11
+Sealaut ja kaevukook ― need one vaesellapsel lukuta. EV 10239:1
+Kasulatse leib om kassin. EV 3436:1
+Koer sööb ikki vaeselatse leväkanika. EV 4105:1
+Vaeselelatsele andas veer vatska ja keskpaik naarist. EV 13154:4
+Vaenelaps ütelnud, et temal kolmed jõulud aastas olle: ühed, siis, kui herneid kistatse, teised kaapsahautamese aegus ja kolmandad päris jõulud. EV 13148:1
+Ilma emata tall saab ikka teiste käest puksida. EV 643:1
+Harvaste vaenelaps punaseks saab ja siiski seda ei sallita. EV 13137:2
+Vaenõlat's lätt suhu eht'mä, mättile mähkmä. EV 13150:1
+347. Oma laps ja võõraslaps
+Mees saab naese, aga lapsed ei saa ema. EV 6605:30
+Ega võõras laps pole ikka oma laps. EV 14355:1
+Uma latse umma veri, tõsõ latse vesi. EV 8037:1
+Kost viist veri saa vai tammelastust oma last. EV 13958:3
+Puust saa-ai poiga, eäst tarre. EV 9110:15
+Oma laps on lapsuke, teise laps on laastuke. EV 7925:20
+Uma lats kukupäts, tõsõ lats sitapäts. EV 8039:1
+Pallu söö võõras lats, veidi nüss söödalehm. EV 8368:8
+Peretütre kõht pisike, vaesellapsel suur. EV 8678:5
+Oma lapse valet ustakse ennem kui võera tõerääkimist. EV 7922:1
+Umale tütrele kõneldas, võõras mõistku. EV 8041:1
+Uma lats ikkõh lätt, naartõh tulõ; võõras naartõh lätt, ikkõh tulõ. EV 8038:3
+348. Oma ema ja võõrasema
+Võõrasemä võime kurja, kasuemä kaine, kal'g. EV 14426:1
+Oma vanõmb üte käega tougas, tõõsõga tõmbas tagasi. EV 13639:1
+Võeraema käed on kõvad. EV 14420:2
+Külm on võõraema käsi, tüma on oma ema käsi. EV 5117:1
+Omal emal hellad käed, aga emak: annab hamme, käänab kaala, silitab pääd, pistab silma. EV 7930:1
+Emä and tüki, ütles: "Tühi!", võõras and raasu, ütles: "Rasse!". EV 630:3
+Võõrasema annab süüa ja haugutab, kässib süüa ja käritab. EV 14423:1
+Emä ikk iä pääle, võõras rõhk rõugu pääle. EV 634:5
+Parem oma ema hirm kui võera arm. EV 8008:5
+Oma isa hirm ja võeraema arm on üks. EV 7889:1
+Oma õpõtab armuga, võeras õpõtab jõrmuga. EV 7992:1
+Oma ema annab vitsaga, võeras virutab malakaga. EV 7882:1
+Võõraemä tõrelamine om enamb ku oma emä pesmine. EV 14422:8
+Õma ema vits ei õle nõnna valus ku võeraema sõna. EV 8054:1
+Parem on oma ema vits kui võõraema võileib. EV 8022:110
+Paremb oma emä naadivatsk kui võõraemä võileib. EV 8011:3
+Parem oma ema must puder kui võõraema võileib. EV 8010:50
+Paremb oma ema koorik kui võõraema võileib. EV 7994:30
+Oma ema leib on parem kui võõraema võidleib. EV 7883:16
+Uma imä leib um magusam kui võõra imä sai. EV 8029:1
+Paremb oma emä suutäis kui võõraemä vatsatäis. EV 7996:1
+Kui uma imä man olõt ka söömäldä, tuu iist olõt kah löömäldä. EV 7863:2
+Paremb oma emä olesäng ku võõra emä sulesäng. EV 7995:1
+Võõrasema puuakse. EV 14425:1
+349. Ärge lööge vaeslast; on orvulgi õnne
+Kes vaestlast lööb, selle käed läävad lämpi, jalad jämpi. EV 13141:1
+Küll vaenelaits kah päävarju lövväb. EV 13143:1
+Jumal valvab vaeselapse õnne. EV 2595:4
+EI. SUGULASED, OMAKSED
+
+350. Sugulased hoiavad kokku, suhtlevad, toetavad üksteist jne.; sugulane parem kui võõras
+Veri on paksem kui vesi. EV 13944:85
+Veri teeb verele sooja. EV 13946:1
+Veri on iki veri, vesi vesi. EV 13943:4
+Veri hüübib harvast, vesi ei hüübi kunagi. EV 13940:15
+Vesi iks viirde vedä, veri kiird keskele. EV 13976:1
+Veri langeb ikka vere poole. EV 13941:4
+Veri tunneb vere vaeva. EV 13947:1
+Ei veri või verega kohtus käia. EV 13935:1
+Mis ma võõrast appi saan, kui ma verest ei saa appi. EV 14362:1
+Üks sugu / laulab ikka üht lugu. EV 15024:3
+Igamees oma seltsiga. EV 1911:1
+Iga lind hoiab oma seltsi. EV 5882:4
+Iga siga oma suo poolt. EV 10334:1
+Omad koerad ei hammusta. EV 7877:1
+Omad koerad kisuvad, omad koerad lepivad. EV 7880:95
+Oma koer on parem kui võera koer. EV 7914:1
+Susi sööb sugulase viha. EV 10837:1
+Uma lepüs leevagagi, om rahul olleldagi. EV 8040:2
+Koh suguvõsa, siäl osa. EV 10641:8
+Sugulase juures olla soe magada. EV 10638:1
+Küll vend venna tunneb. EV 13926:2
+Õde õunaoksakene, vend on vestuvarrekene. EV 14510:1
+Kälimehed söövad, kälimehed joovad, / kälimehed seltsis külas käivad. EV 4928:3
+Tädipojad täüed mihed, onupojad oiged mihed. EV 12340:2
+Tädi tuleb, täi seljas, onu tuleb, oinas seljas. EV 12339:6
+Umadsõ kandsu tsuskasõ. EV 8061:1
+Aita omasid ja võta võõraid. EV 213:1
+Inäp saat õks kidsi uma käest ku lõha võõra käest. EV 3916:1
+Parem halv uma kui hää võõras. . EV 794:2
+Parem oma õde kui võrsivõõras. EV 8020:1
+351. Sugulaste vahel tekib tülisid ja vaenu; võõras parem kui sugulane
+Velidse' vihklõsõ' üte põllunulga pääl, sõsaritse' sõimlõsõ' üte helmekõrra pääl. EV 13922:1
+Sugulaste riid on suur, kälimeeste kära lai. EV 10639:1
+Umma jääs iks ots kinni. EV 8050:1
+Omad koerad kisuvad, küla koerad võtvad kondi. EV 7879:1
+Vesine on veliste arm, sõklane on sõsarde arm. EV 13995:35
+Onnedu odede orja, vilets venna palgaline. EV 14701:7
+Sugulane suurem vaendlane. EV 10636:3
+Võeras ikka võileib, sugulane suursitt. EV 14378:2
+Sugulane on suur koer, võrivõõras kõige parem. EV 7989:6
+Uma veli ― veripini, lei iks minnu, hois hobõst; küläveli ― hää veli, lei iks hobõst, hois minnu. EV 8049:6
+Veli velele om hullõmb ko külämiis. EV 13924:2
+Sõber aitab sõpra, aga vend, kes venda aitab, on alles sündimata. EV 11036:1
+Enne võine võõras om sul nõus ja abis ku suguline. EV 14356:1
+Parem hea võõras kui sitt sugulane. EV 1129:1
+Parem on hea võeras kui paha oma. EV 1134:1
+Hea naaber on enam kui õde ja vend. EV 7125:1
+Lähemäne võõras pareb ku kavvõlinõ umanõ. EV 6142:5
+352. Mitmesugust sugulusest: suguseltsis mõnda, ka musti lambaid; kes kellest eelistatum; mehe sugulased; kõik Aadamast saadik sugulased
+Soosseltsis on suttagi, pesakonnas pergalida. EV 10640:20
+Mädamuna peab ka pesas olema. EV 7061:2
+Üheski perekonnas ei saa läbi ilma musta lambata. EV 8595:1
+Üks peab ikka pesakonnast kulliks jääma. EV 15011:1
+Õde sooja saunaleili, vend on vilu põhjatuuli. EV 14509:1
+Paremb kümme kütü kui ütsi nadu. EV 5162:1
+Isa on kuri, ema on kuri, aga veel kurjem on vennanaene. EV 2198:1
+Küdü kütt külmä sanna, nado haud halva viha. EV 5027:1
+Mihe sugulane um ku tõprarasvaga ruug. EV 6654:12
+Aadama ajast oleme kõik sugulased. EV 1:5
+EJ. KODU JA KÜLA
+
+353. Oma kodu igal armas; kodus kõige parem; parem (kehvaski) kodus kui (heaski) külas
+Igal pool on hea, aga kodu kõige parem. EV 1078:25
+Oma maa on armas igaühele. EV 7935:1
+Lind armastab oma pesakest ja laps oma kodukest. EV 5916:4
+Oma kolle on kulda väärt. EV 7911:2
+Oma kodu kullakene, oma maja marjakene. EV 7908:8
+Oma maja on kuldne pesa, võeras maja on nõgesepõesas. EV 7936:1
+Oma maa marjukane, oma kodu kaunikane. EV 7933:1
+Isamaa on marjukane, vierasmaa veripisara. EV 2219:1
+Uma esä maal olõ-õi vaja pelädä jüripäivä. EV 8027:1
+Kodo leib om kõkõ magusamp. EV 3968:1
+Kodu om paremb ku pidu. EV 3975:12
+Kodus laps kuulsam, ahju pääl ausam. EV 3977:200
+Paremb um uman kur'an koton, ausap uman ahovirussen. EV 8004:2
+Parem kuri kodu kui hea küla. EV 4663:20
+Paremb kuri kodu kui pulma ilu. EV 4664:1
+Paremb oma kuri kodu kui küla küdüse. EV 7997:1
+Paremb koton aganine leib kui küla küdüsse. EV 3989:1
+Paremb uma kodo koorigu' ku' külä küdüse. EV 8000:4
+Parem leivakooruke kodu närida kui saia süüa võõra juures. EV 5727:5
+Raske on oma kuiva koorukese otsast võera võileiva otsa minna. EV 9554:2
+Parem kodu koorukesed kui võileib võõrsil. EV 3990:90
+Paremb silk-leib kodu kui veileib vierasis. EV 10437:2
+Parem oma soolleib kui võera võileib. EV 8019:1
+Paremb kodu kulbitäüs kui küla külümütütäüs. EV 3988:4
+Külah süüd tuud, mis andas, kodo süvväs, mis tahat. EV 5037:4
+Ela sa kükakil või käpakil, ela kui tahes kehvasti oma kodus ― oma päävarju all ikka parem kui teiste kõrval. EV 539:1
+Olgu kodu olinõ vai haunõ, õks paremb kui võõras härbän. EV 3987:1
+Parem kämblelaius kodu kui vakamaa võõral maal. EV 4929:2
+Parep kodo kopek kui välä viis tingä. EV 3992:3
+Ennemb söögu minu oma maa peni kui võõra maa soe. EV 11230:8
+354. Kodu on pärispaik, sugulased vaid külas käia
+Oma olgu tulla-minnä, mitte üten elädä. EV 7948:20
+Küla om minna-tulla, oma kodu ellä-koolda. EV 5045:3
+Külä ellä, külä koolda, suguvõsa tulla-minna. EV 5053:3
+355. Igal oma kodu. Inimene tunneb oma kodu, leiab teed koju, on kodus julgem, püsib (püsigu) kodus
+Urud rebasel, koopad kähril. EV 12926:3
+Tuu om vilets rott, kes ei tiiä omma urgu. EV 14174:1
+Igaüks ellai tunneb oma lõa aseme. EV 534:1
+Ka pime hobune leiab oma teed koju poole. EV 8859:2
+Küll koer teed koju leiab. EV 4148:3
+Oma kodu koeradki tunnevad. EV 7905:6
+Ega koer koduinimest ei salva. EV 4012:1
+Iga koer haugub kodu poole. EV 4035:3
+Igal koeral omas majas luba haukuda. EV 4039:1
+Koer on pesa juures ikka kurjem. EV 4097:1
+Kuer suur kodunasa. EV 4124:1
+Kus koer oma kottu läheb. EV 4139:5
+Lind ei lenda mitte oma pesa juurest kaugele. EV 5919:2
+Kus lind lendab, säält pesa leiad. EV 5912:1
+Iga konn elagu oma tiigis. EV 4303:1
+Kuhu kuningas oma linnast läheb. EV 4531:2
+Munad, mis pesast kaugele veerevad, lähevad sagedaste raisku. EV 6897:1
+356. Oma pere saladusi, pahandusi jm. ära tassi külla
+Mis kodun kuuled, sii sõku sõnnikude; mis vällän kuuled, talla ta'a värävi. EV 3984:4
+Uma muru muta är veegu väläpoolõ värjit. EV 8043:1
+Kodo kurja veegu-ui küllä. EV 3967:1
+Sitt, mis meie vahel on, sööme ise ära. EV 10565:1
+Ärge oma musta pesu teiste inimeste ees hakake harutama. EV 8059:1
+Uma nuur noomi' nuka takan, uma ul'l opa' ussõ takan. EV 8044:1
+357. Väljas ollakse hea (lahke, peen), kodus paha (kuri, ropp). Kodus hinnas, väljas mitte. Kuri kodus, kuri külas
+Küläh kuld, kotoh kurat. EV 5054:1
+Kes väljas kassike, see kodu koerake. EV 14489:1
+Edev on teiste ees, saab kodo, ei saa kohegi. EV 500:1
+Muik muie rahva ies, kena kerikutiel, kodo kulpi kusevad, soolavakka soravad. EV 6867:1
+Pulmas poisid punased, väljas poisid väledad, kodus käivad kompa-kampa. EV 9049:2
+Kodu kuld, mujal muld. EV 3973:2
+Kes koir kotun, see koir vällan. EV 4054:1
+Kes kodu karjub, see eemal haugub. EV 3964:2
+358. Koju pole kiiret, jõuab alati
+Ega kuo ilmaski hiljaks jää. EV 3959:1
+Ega kodu eest ära ei jookse. EV 3955:1
+Ega kodu jänes ole, et iest ärä juokseb. EV 3957:11
+Kodo olõ-õi' kitsõpujast, õt ar pakõ. EV 3970:1
+Egas kodu konn pole, et eest ära hüppab. EV 3960:5
+Kas kodul ratta all om või. EV 3961:1
+Ega kodu ei ole parep ku pidu. EV 3956:2
+Kodovärehtet panda-ai kinni. EV 4003:3
+359. Lapsed oma peredega peaksid eraldi elama; kus mitu leibkonda majas, tekib tülisid
+Vennad on siis vennad, kui nad poissmehed on. EV 13928:1
+Kui poeg lätt eräle, siis es olõ pattu ei pahandust. EV 8917:1
+Jummal' käsk eräle minnä', vanapatt käsk üt'eh ellä'. EV 2607:2
+Vele katusõ olõ-õi kokko kasunu. EV 13920:4
+Seitse venda elavad rahus ühes maeas, aga kahe vennanaise keskel kasvab sõda. EV 10275:3
+Kana munnõ pääl ja lastõ pääl, kos kats ello maeah, tulõ tülü. EV 3128:1
+EK. KOLIMINE. HULKUR. KODUTU
+
+360.
+Kolm korda kolida on niisamma hää ku üks kord põleda. EV 4279:20
+Kus koeral kodu või hundil öömaja. EV 4134:50
+Kus penil pesa või koeral ase. EV 8549:6
+Kus hulkjal penil kodu, hajapenil ase. EV 1553:1
+Vaesõl kodo kuusõ all, tarõ tammõ all. EV 13104:1
+Hulkjal ei ole hoonet, marssjal maja. EV 1552:6
+Rändajal ei ole päävarju. EV 9927:1
+Hulgusel kodu kõikjal. EV 1539:1
+Kus kõht, seal kodu. EV 4787:25
+Kus õhtu, seal öömaja. EV 14521:70
+Kos kõht, sial öömaja. EV 4778:1
+Kos üü, siäl ase, kos pääv, siäl paik. EV 14795:1
+Kus pea pistad, seal päeva viidad. EV 8458:15
+Kodu sääl, kus kotid maas. EV 3978:17
+Veereval kivil ei kasva sammalt. EV 13914:210
+Liigutet puu ei haljenda. EV 5840:10
+Sammal kasvab ikke veeremata kivile selga. EV 10129:20
+Hulkuja koer on alati kehva toiduga. EV 1551:1
+Koolõ-õi koir kodo, pini puutkahe. EV 4115:1

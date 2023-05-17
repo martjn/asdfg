@@ -1,0 +1,129 @@
+<div id="img-container">
+<img id="img-0" class="img-fluid w-100" src="img/page-11.gif">
+<img id="img-1" class="img-fluid w-100" src="img/page-11-flip.gif">
+</div>
+
+J. UNVERSTÄNDLICHE GLEICHNISSE
+988.
+Wo ein Zaun, da eine Lücke. EV 38 : 1 Var.
+Der Amboß fürchtet ja nicht den Hammer. EV 238 : 1 Var.
+Lieber einen Hecht am Schwanz als einen Hühnerhabicht auf dem Kopf (haben). EV 873 : 1 Var.
+Gute Hähne werden nie fett. EV 901 : 1 Var.
+Ist's für eine Maus ein Wunder zu sehen, daß die Katze zwei Katzenjunge hat. EV 1242 : 5 Var.
+Halt dich immer drin im Winkel, später wirft man dich aus dem Winkel. EV 1423 : 1 Var.
+Auf einen (bloßen) Ausruf hin läßt sich kein Haus bauen. EV 1534 : 1 Var.
+Des Menschen Haut ist immer knapp. EV 2147 : 1 Var.
+Wo du sitzt da bleibt ein Haufen nach. EV 2275 : 1 Var.
+Ein durstiges Pferd soll man langsam tränken. EV 2410 : 1 Var.
+Mutig in der Not, mutig im Glück. EV 2502 : 1 Var.
+Ein Schlitten kippt um, ohne daß man ihn berührt. EV 2819 : 1 Var.
+Geht der Kopf verloren, geht das Gute verloren. EV 2880 : 1 Var.
+Was im Brunnen, das im Hals (Bei großer Armut hat man nur Wasser zu trinken). EV 2904 : 1 Var.
+Das Huhn legt ja sonst keine Eier, wenn man ihm keinen Korb unterstellt. EV 3103 : 1 Var.
+Die Katze hat jeden Tag eine Butterwoche. EV 3360 : 2 Var.
+Besser ein alter Bekannter als ein neuer Freund. EV 13372 : 1 Var.
+Wenn die Katze zu Besuch (d. i. aus dem Hause) geht, steck ihr eine Klemme an den Schwanz. EV 3396 : 1 Var.
+Wenn du etwas weiter versteckst, dann findest (du) es näher. EV 3474 : 1 Var.
+Was aus der Sprache (d. i. dem Sinn), das aus der Stimme. EV 3537 : 1 Var.
+Wer die Glocke läutet, der hört den Klang. EV 3574 : 1 Var.
+Der Hahn, dessen Füße gefroren sind, kräht nie zur rechten Zeit. EV 3771 : 1 Var.
+Die mit hohen Stimmen werden gelobt, die mit niedrigen Stimmen gestoßen. EV 3775 : 1 Var.
+Was auf dem Papier, das bei der Herde. EV 3819 : 3 Var.
+Laß das Beil am Nagel, warte, bis du alt wirst. EV 3874 : 1 Var.
+Das Beil glättet immer des Hobels Spuren. EV 3875 : 1 Var.
+Dem Tod in den Nacken dem Kranken in die Zähne (schlagen). EV 3974 : 1 Var.
+Des Hundes Beine nutzen ja sonst nicht ab, wenn er den Schwanz nicht hebt. EV 4009 : 1 Var.
+Der Hund hebt ja nicht den Schwanz, wenn er böse ist. EV 4015 : 1 Var.
+Wer den Hund schlägt, der Prügel bekommt. EV 4055 : 1 Var.
+Der Hund hält die Spur. EV 4099 : 1 Var.
+Ein Hund, der mit Fleisch gefüttert wird, der andere bekommt nicht einmal Knochen. EV 4114 : 1 Var.
+Mancher Hund bellt im Sommer im voraus und im Winter knurrt er nur. EV 4169 : 1 Var.
+Morgenrot ist nicht im Speicher, Abendrot nicht im Viehstall. EV 4256 : 1 Var.
+Wo der Frosch gefangen, dort wird der Frosch gegessen. EV 4317 : 1 Var.
+Je mehr froschartig, desto mehr, rattenartig (d. i. je mehr Frösche, desto mehr Ratten). EV 4319 : 1 Var.
+Fleisch am Knochen ist gut, Gras um den Strauch ist gut. EV 4320 : 8 Var.
+Klopf den Sack so lange, bis Mehlstaub herauskommt. EV 4428 : 1 Var.
+Der Beutel ist immer golden, der klare Himmel blau. EV 4480 : 2 Var.
+Eine schäbige Maus hat niemand gesehen, aber schäbige Mauselöcher gibt es wohl. EV 4526 : 1 Var.
+Der Böse geht Vieh hüten, hängt sich an den Ochsen. EV 4621 : 2 Var.
+Der Schwamm wächst nie an einem faulen Baum. EV 4766 : 1 Var.
+Ein mageres Kalb ist immer madig. EV 4768 : 1 Var.
+Wohin du schreitest, dahin du gehst; wohin du trittst, da du bist. EV 4827 : 1 Var.
+Tritt über den Fuß und nicht auf den Fuß; wenn du auf den Fuß trittst, dann werde ich schreien. EV 4926 : 1 Var.
+Wer eine Schnarre hinter sich hat, der soll in seinem Leben nach vorn blicken. EV 4962 : 1 Var.
+Brühe kocht bis zum Abend, ein Bettler wartet bis zum Morgen. EV 5626 : 1 Var.
+"Lek maass" in der Landessprache (d. i. auf estnisch), "leck den Arsch" auf deutsch. EV 5741 : 1 Var.
+Warum dann nicht fliegen, wenn große Federn auf dem Rücken sind. EV 5747 : 1 Var.
+Das Fleisch wächst nicht ohne Knochen und der Baum nicht ohne Äste. EV 5805 : 14 Var.
+Ein Vogel fliegt durch die ganze Welt; eine Sprache, ein Gefieder. EV 5956 : 1 Var.
+Je mehr man schlägt, desto zäher es wird. EV 6155 : 1 Var.
+Flacher Boden, große Wellen. EV 6257 : 1 Var.
+(Das ist) ein Mann, der etwas Morsches zerbricht. EV 6647 : 1 Var.
+Jedes wilde Tier macht Beute. EV 6794 : 1 Var.
+Schlamm wäscht Schlamm, Fett züchtet Kraft. EV 6859 : 1 Var.
+Wäsche findet Kleidung, warmes Wasser Gefäße. EV 7034 : 8 Var.
+Das Maß darf nicht größer sein als der Sack. EV 7056 : 1 Var.
+Nasses Holz brennt nie gut. EV 7086 : 2 Var.
+Der Stolz eines jungen (Menschen) unterstützt nicht, der Reichtum eines Reichen hilft nicht. EV 7510 : 1 Var.
+Auch ein stumpfer Bohrer bohrt ein Loch. EV 7754 : 1 Var.
+Der Eigene fragt, der Fremde weiß. EV 7918 : 1 Var.
+Mit eigenem Brot ist es schwer zu betteln. EV 7929 : 1 Var.
+Beim Gehen der Eigene, beim Kommen der Fremde. EV 7939 : 1 Var.
+Das Eigene erwartest, aber Fremdes nimmst auch an. EV 8051 : 3 Var.
+Man bläst nicht nur auf Heißes. EV 8301 : 1 Var.
+Besser viel Schlechtes als ein bißchen Wut. EV 8369 : 1 Var.
+Wenn die Bank auch gebrannt hätte, zum Geldhaufen hätte man (dich) ja nicht erlaubt. EV 8385 : 1 Var.
+Wo ein Knall, da ein Schober. EV 8440 : 1 Var.
+Wo ein Knall, da ein Haufen. EV 8441 : 1 Var.
+Peeter (Peterstag, 22. II) läutet, Mats (Matthiastag, 24. II) poltert. EV 8508 : 1 Var.
+Wenn der Hund den Fuß streckt, so streckt sich auch der Ziege Schwanz (d. i. die Ziege flüchtet). EV 8546 : 1 Var.
+Der kleine Sack erträgt den großen Sack. EV 8895 : 1 Var.
+Rühr den Topf nicht an, der Topf hat zerbrechliche Ohren (d. i. Henkel). EV 8988 : 2 Var.
+Der Stier schützt die Herde immer von dieser Seite, von wo der Stier der (Nachbar)herde ihm überlegen ist. EV 9040 : 1 Var.
+Der Baum stürzt immer dorthin, wohin man ihn fällen will. EV 9109 : 1 Var.
+Brich nicht den Baum und laß den anderen nicht. EV 9113 : 1 Var.
+Zuerst das Feld, dann die Feldarbeiter. EV 9140 : 1 Var.
+Wer weiß den Fuchs in der Höhle; wenn der Hund ihm nachgeht, dann sucht er ihn auf. EV 9578 : 1 Var.
+Dieses Tuch paßt nicht um den Hals, das man für die Füße verwendet hat. EV 9931 : 1 Var.
+Ihr sprecht viel vom Trinken, aber niemand spricht vom Durst. EV 9947 : 2 Var.
+Wer den Deutschen (d. i. den Herrn) will, der bekommt Stiefel. EV 10050 : 1 Var.
+Ein schlechter Bissen ist neu. EV 10192 : 1 Var.
+Mit dem Rücken man hebt, in die Brust (es) geht (d. i. eine Krankheit). EV 10286 : 1 Var.
+Ein bebrilltes Schwein (d. i. ein Schwein mit einem zugebundenen Rüssel) schreit ja nicht mehr. EV 10326 : 1 Var.
+Ein Schwein findet schon seinesgleichen. EV 10348 : 2 Var.
+Seide im Laden suchst, Kattun im Laden bekommst. EV 10414 : 1 Var.
+Wie es raucht, so es schmeckt. EV 10659 : 3 Var.
+Wo der Bettler, da (auch) die Hand. EV 10697 : 1 Var.
+Durch den Mund gesagt, durch das Wort geschaffen. EV 10908 : 1 Var.
+Aus dem Mund kommt es, ins Herz geht es, unten in der Lunge bleibt es stecken. EV 10924 : 1 Var.
+Des Hengstes Fell wiehert auf der Stange. EV 11148 : 1 Var.
+Dem Esser unterlaufen viele Fehler, dem Arbeitenden nicht. EV 11208 : 1 Var.
+(Söhnchen), ißt du Brei ohne Unterlaß, trinkst du Kwaß, ohne (es) zu wollen. EV 11303 : 1 Var.
+Was das Herz begehrt, das muß der Schwanz bekommen. EV 11343 : 1 Var.
+Was das Herz haßt, das begehrt das Auge nicht. EV 11346 : 2 Var.
+Für trockenen Kwaß wäre Wasser nötig. EV 11456 : 1 Var.
+Wenn die Kopeke in der Tasche ist, so ist die Tante auf dem Markt. EV 11932 : 3 Var.
+Je böser der Hund, desto gekrümmter der Schwanz. EV 11991 : 1 Var.
+Geh nicht die Asche entlang, geh ein breites Brett entlang. EV 12097 : 1 Var.
+Besser herumwirbeln als verschwenden. EV 12112 : 1 Var.
+Was der Wind auf dem Meer, das der Wind über dem Wald. EV 12236 : 1 Var.
+Der Wind läuft (d. i. weht) unter des Volkes Bauch. EV 12247 : 1 Var.
+Ein Stern ist immer bei klarem Wetter zu sehen. EV 12341 : 1 Var.
+Einen leeren Magen hat der Wählerische, einen vollen der Brühenverschlinger. EV 12676 : 2 Var.
+Gerade die Furche, schief die Spuren (Beim Pflügen). EV 13216 : 1 Var.
+Ein alter Mann und eine alte Frau, das Fell eines weißen Kalbes ist zu verkaufen. EV 13448 : 1 Var.
+Nicht alle Krähen zerdrücken ja den Zaunpfahl. EV 13801 : 1 Var.
+Wohin du den Haken (od. Nagel) schlägst, dahin hängst du deinen Rock. EV 13850 : 1 Var.
+Wie das Wasser rollt, so das Eis friert. EV 13959 : 1 Var.
+Ist das Wasser im Brunnen zu Ende, fängt das Kwasgefäß an zu stinken. EV 13961 : 1 Var.
+Wasser, was rollt, Dreck, was stinkt. EV 13982 : 1 Var.
+Der Fleißige dem Schmutzigen (od. Schwarzen), der Schmutzige (od. der Schwarze) dem Fleißigen. EV 14240 : 1 Var.
+Nagel mit Nagel, (Kleider)haken mit (Kleider)haken. EV 14247 : 1 Var.
+Fremdes Kuhlein, eigenes Glöckchen. EV 14379 : 1 Var.
+Das Schwache (d. i. das Waisenkind) hat kein Obdach, das Hilflose keine Hilfe. EV 14431 : 1 Var.
+Bei tiefem Wasser gibt es keine Wellen. EV 14432 : 1 Var.
+Wessen Messer, dessen Brot. EV 14482 : 1 Var.
+Näh einen Sack nicht mit Seide. EV 14650 : 3 Var.
+Des Seligen Glück geht voran, des Neidischen Herde kommt hinterdrein. EV 14737 : 1 Var.
+Neun Wölfe, eine Spur. EV 14837 : 1 Var.
+Keiner zu viel (od. Nichts im Übermaß). EV 14946 : 1 Var.
